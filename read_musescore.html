@@ -13074,9 +13074,18 @@ div#notebook {
   <div tabindex="-1" id="notebook" class="border-box-sizing">
     <div class="container" id="notebook-container">
 
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Read in 8 musicXML files from MuseScore (compressed .mxl format) into music21
+.mxl files must be saved on the server in the same folder as the Jupyter notebook (server cannot access them directly from GitHub)</p>
+
+</div>
+</div>
+</div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[2]:</div>
+<div class="prompt input_prompt">In&nbsp;[1]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="kn">from</span> <span class="nn">music21</span> <span class="kn">import</span> <span class="o">*</span>
@@ -13089,7 +13098,7 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[3]:</div>
+<div class="prompt input_prompt">In&nbsp;[2]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">environment</span><span class="o">.</span><span class="n">set</span><span class="p">(</span><span class="s1">&#39;autoDownload&#39;</span><span class="p">,</span><span class="s1">&#39;allow&#39;</span><span class="p">)</span>
@@ -13102,199 +13111,31 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[4]:</div>
+<div class="prompt input_prompt">In&nbsp;[3]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">filepath</span><span class="o">=</span><span class="s1">&#39;https://github.com/LLight/MUSI8803project/tree/master/mxl_files/&#39;</span>
-<span class="n">xmlFiles</span><span class="o">=</span><span class="p">[</span><span class="s1">&#39;Copland_Piano_Blues_No_3&#39;</span><span class="p">,</span><span class="s1">&#39;Messiaen_Regard_du_Pere&#39;</span><span class="p">,</span><span class="s1">&#39;Part_Fuer_Alina&#39;</span><span class="p">,</span><span class="s1">&#39;Poulenc_Les_chemins_de_lamour&#39;</span><span class="p">,</span>
-          <span class="s1">&#39;Rautavaara_Etude_op42_no1_Thirds&#39;</span><span class="p">,</span><span class="s1">&#39;Schnittke_Tango&#39;</span><span class="p">,</span><span class="s1">&#39;Sculthorpe_Sea_Chant&#39;</span><span class="p">,</span><span class="s1">&#39;Takemitsu_Romance&#39;</span><span class="p">]</span>
-
-<span class="c1">#read mxl files downloaded from MuseScore</span>
-<span class="n">fileURL</span> <span class="o">=</span> <span class="p">(</span><span class="n">filepath</span> <span class="o">+</span> <span class="n">xmlFiles</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span> <span class="o">+</span> <span class="s1">&#39;.mxl&#39;</span><span class="p">)</span>
-<span class="n">c</span> <span class="o">=</span> <span class="n">converter</span><span class="o">.</span><span class="n">Converter</span><span class="p">()</span>
-<span class="n">c</span><span class="o">.</span><span class="n">parseURL</span><span class="p">(</span><span class="n">fileURL</span><span class="p">)</span>
-<span class="n">s</span> <span class="o">=</span> <span class="n">c</span><span class="o">.</span><span class="n">stream</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">xmlFiles</span><span class="o">=</span><span class="p">[</span><span class="s2">&quot;Copland_Piano_Blues_No_3&quot;</span><span class="p">,</span><span class="s2">&quot;Messiaen_Regard_du_Pere&quot;</span><span class="p">,</span><span class="s2">&quot;Part_Fuer_Alina&quot;</span><span class="p">,</span><span class="s2">&quot;Poulenc_Les_chemins_de_lamour&quot;</span><span class="p">,</span>
+          <span class="s2">&quot;Rautavaara_Etude_op42_no1_Thirds&quot;</span><span class="p">,</span><span class="s2">&quot;Schnittke_Tango&quot;</span><span class="p">,</span><span class="s2">&quot;Sculthorpe_Sea_Chant&quot;</span><span class="p">,</span><span class="s2">&quot;Takemitsu_Romance&quot;</span><span class="p">]</span>
 </pre></div>
 
     </div>
 </div>
 </div>
 
-<div class="output_wrapper">
-<div class="output">
-
-
-<div class="output_area">
-
-    <div class="prompt"></div>
-
-
-<div class="output_subarea output_text output_error">
-<pre>
-Traceback <span class="ansi-cyan-fg">(most recent call last)</span>:
-
-  File <span class="ansi-green-intense-fg ansi-bold">&#34;/storage/home/hpaceice1/shared-classes/envs/musi4843/lib/python3.8/site-packages/IPython/core/interactiveshell.py&#34;</span>, line <span class="ansi-green-intense-fg ansi-bold">3417</span>, in <span class="ansi-magenta-intense-fg ansi-bold">run_code</span>
-    exec(code_obj, self.user_global_ns, self.user_ns)
-
-  File <span class="ansi-green-intense-fg ansi-bold">&#34;&lt;ipython-input-4-177def683f8a&gt;&#34;</span>, line <span class="ansi-green-intense-fg ansi-bold">8</span>, in <span class="ansi-magenta-intense-fg ansi-bold">&lt;module&gt;</span>
-    c.parseURL(fileURL)
-
-  File <span class="ansi-green-intense-fg ansi-bold">&#34;/storage/home/hpaceice1/shared-classes/envs/musi4843/lib/python3.8/site-packages/music21/converter/__init__.py&#34;</span>, line <span class="ansi-green-intense-fg ansi-bold">674</span>, in <span class="ansi-magenta-intense-fg ansi-bold">parseURL</span>
-    self.subConverter.parseFile(fp, number=number)
-
-  File <span class="ansi-green-intense-fg ansi-bold">&#34;/storage/home/hpaceice1/shared-classes/envs/musi4843/lib/python3.8/site-packages/music21/converter/subConverters.py&#34;</span>, line <span class="ansi-green-intense-fg ansi-bold">885</span>, in <span class="ansi-magenta-intense-fg ansi-bold">parseFile</span>
-    c.readFile(fp)
-
-  File <span class="ansi-green-intense-fg ansi-bold">&#34;/storage/home/hpaceice1/shared-classes/envs/musi4843/lib/python3.8/site-packages/music21/musicxml/xmlToM21.py&#34;</span>, line <span class="ansi-green-intense-fg ansi-bold">836</span>, in <span class="ansi-magenta-intense-fg ansi-bold">readFile</span>
-    etree = ET.parse(filename)
-
-  File <span class="ansi-green-intense-fg ansi-bold">&#34;/storage/home/hpaceice1/shared-classes/envs/musi4843/lib/python3.8/xml/etree/ElementTree.py&#34;</span>, line <span class="ansi-green-intense-fg ansi-bold">1202</span>, in <span class="ansi-magenta-intense-fg ansi-bold">parse</span>
-    tree.parse(source, parser)
-
-<span class="ansi-cyan-fg">  File </span><span class="ansi-green-fg">&#34;/storage/home/hpaceice1/shared-classes/envs/musi4843/lib/python3.8/xml/etree/ElementTree.py&#34;</span><span class="ansi-cyan-fg">, line </span><span class="ansi-green-fg">595</span><span class="ansi-cyan-fg">, in </span><span class="ansi-magenta-fg">parse</span>
-<span class="ansi-red-fg">    self._root = parser._parse_whole(source)</span>
-
-<span class="ansi-cyan-fg">  File </span><span class="ansi-green-fg">&#34;&lt;string&gt;&#34;</span><span class="ansi-cyan-fg">, line </span><span class="ansi-green-fg">unknown</span>
-<span class="ansi-red-fg">ParseError</span><span class="ansi-red-fg">:</span> not well-formed (invalid token): line 50, column 89
-</pre>
-</div>
-</div>
-
-</div>
-</div>
-
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[5]:</div>
+<div class="prompt input_prompt">In&nbsp;[15]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#try reading file same file downloaded file from native MuseScore format and exported to mxl</span>
-<span class="n">fileURL</span><span class="o">=</span><span class="n">filepath</span><span class="o">+</span><span class="s1">&#39;Copland_PIano_Blues_No_3_v2.mxl&#39;</span>
-<span class="n">c</span> <span class="o">=</span> <span class="n">converter</span><span class="o">.</span><span class="n">Converter</span><span class="p">()</span>
-<span class="n">c</span><span class="o">.</span><span class="n">parseURL</span><span class="p">(</span><span class="n">fileURL</span><span class="p">)</span>
-<span class="n">s</span> <span class="o">=</span> <span class="n">c</span><span class="o">.</span><span class="n">stream</span>
-</pre></div>
-
-    </div>
-</div>
-</div>
-
-<div class="output_wrapper">
-<div class="output">
-
-
-<div class="output_area">
-
-    <div class="prompt"></div>
-
-
-<div class="output_subarea output_text output_error">
-<pre>
-Traceback <span class="ansi-cyan-fg">(most recent call last)</span>:
-
-  File <span class="ansi-green-intense-fg ansi-bold">&#34;/storage/home/hpaceice1/shared-classes/envs/musi4843/lib/python3.8/site-packages/IPython/core/interactiveshell.py&#34;</span>, line <span class="ansi-green-intense-fg ansi-bold">3417</span>, in <span class="ansi-magenta-intense-fg ansi-bold">run_code</span>
-    exec(code_obj, self.user_global_ns, self.user_ns)
-
-  File <span class="ansi-green-intense-fg ansi-bold">&#34;&lt;ipython-input-5-3e2e24ccba7a&gt;&#34;</span>, line <span class="ansi-green-intense-fg ansi-bold">4</span>, in <span class="ansi-magenta-intense-fg ansi-bold">&lt;module&gt;</span>
-    c.parseURL(fileURL)
-
-  File <span class="ansi-green-intense-fg ansi-bold">&#34;/storage/home/hpaceice1/shared-classes/envs/musi4843/lib/python3.8/site-packages/music21/converter/__init__.py&#34;</span>, line <span class="ansi-green-intense-fg ansi-bold">674</span>, in <span class="ansi-magenta-intense-fg ansi-bold">parseURL</span>
-    self.subConverter.parseFile(fp, number=number)
-
-  File <span class="ansi-green-intense-fg ansi-bold">&#34;/storage/home/hpaceice1/shared-classes/envs/musi4843/lib/python3.8/site-packages/music21/converter/subConverters.py&#34;</span>, line <span class="ansi-green-intense-fg ansi-bold">885</span>, in <span class="ansi-magenta-intense-fg ansi-bold">parseFile</span>
-    c.readFile(fp)
-
-  File <span class="ansi-green-intense-fg ansi-bold">&#34;/storage/home/hpaceice1/shared-classes/envs/musi4843/lib/python3.8/site-packages/music21/musicxml/xmlToM21.py&#34;</span>, line <span class="ansi-green-intense-fg ansi-bold">836</span>, in <span class="ansi-magenta-intense-fg ansi-bold">readFile</span>
-    etree = ET.parse(filename)
-
-  File <span class="ansi-green-intense-fg ansi-bold">&#34;/storage/home/hpaceice1/shared-classes/envs/musi4843/lib/python3.8/xml/etree/ElementTree.py&#34;</span>, line <span class="ansi-green-intense-fg ansi-bold">1202</span>, in <span class="ansi-magenta-intense-fg ansi-bold">parse</span>
-    tree.parse(source, parser)
-
-<span class="ansi-cyan-fg">  File </span><span class="ansi-green-fg">&#34;/storage/home/hpaceice1/shared-classes/envs/musi4843/lib/python3.8/xml/etree/ElementTree.py&#34;</span><span class="ansi-cyan-fg">, line </span><span class="ansi-green-fg">595</span><span class="ansi-cyan-fg">, in </span><span class="ansi-magenta-fg">parse</span>
-<span class="ansi-red-fg">    self._root = parser._parse_whole(source)</span>
-
-<span class="ansi-cyan-fg">  File </span><span class="ansi-green-fg">&#34;&lt;string&gt;&#34;</span><span class="ansi-cyan-fg">, line </span><span class="ansi-green-fg">unknown</span>
-<span class="ansi-red-fg">ParseError</span><span class="ansi-red-fg">:</span> not well-formed (invalid token): line 50, column 89
-</pre>
-</div>
-</div>
-
-</div>
-</div>
-
-</div>
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input">
-<div class="prompt input_prompt">In&nbsp;[6]:</div>
-<div class="inner_cell">
-    <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#try reading file same file downloaded file from native MuseScore format and exported to musicxml</span>
-<span class="n">fileURL</span><span class="o">=</span><span class="n">filepath</span><span class="o">+</span><span class="s1">&#39;Copland_PIano_Blues_No_3.musicxml&#39;</span>
-<span class="n">c</span> <span class="o">=</span> <span class="n">converter</span><span class="o">.</span><span class="n">Converter</span><span class="p">()</span>
-<span class="n">c</span><span class="o">.</span><span class="n">parseURL</span><span class="p">(</span><span class="n">fileURL</span><span class="p">)</span>
-<span class="n">s</span> <span class="o">=</span> <span class="n">c</span><span class="o">.</span><span class="n">stream</span>
-</pre></div>
-
-    </div>
-</div>
-</div>
-
-<div class="output_wrapper">
-<div class="output">
-
-
-<div class="output_area">
-
-    <div class="prompt"></div>
-
-
-<div class="output_subarea output_text output_error">
-<pre>
-Traceback <span class="ansi-cyan-fg">(most recent call last)</span>:
-
-  File <span class="ansi-green-intense-fg ansi-bold">&#34;/storage/home/hpaceice1/shared-classes/envs/musi4843/lib/python3.8/site-packages/IPython/core/interactiveshell.py&#34;</span>, line <span class="ansi-green-intense-fg ansi-bold">3417</span>, in <span class="ansi-magenta-intense-fg ansi-bold">run_code</span>
-    exec(code_obj, self.user_global_ns, self.user_ns)
-
-  File <span class="ansi-green-intense-fg ansi-bold">&#34;&lt;ipython-input-6-d2ab7d23e5ba&gt;&#34;</span>, line <span class="ansi-green-intense-fg ansi-bold">4</span>, in <span class="ansi-magenta-intense-fg ansi-bold">&lt;module&gt;</span>
-    c.parseURL(fileURL)
-
-  File <span class="ansi-green-intense-fg ansi-bold">&#34;/storage/home/hpaceice1/shared-classes/envs/musi4843/lib/python3.8/site-packages/music21/converter/__init__.py&#34;</span>, line <span class="ansi-green-intense-fg ansi-bold">674</span>, in <span class="ansi-magenta-intense-fg ansi-bold">parseURL</span>
-    self.subConverter.parseFile(fp, number=number)
-
-  File <span class="ansi-green-intense-fg ansi-bold">&#34;/storage/home/hpaceice1/shared-classes/envs/musi4843/lib/python3.8/site-packages/music21/converter/subConverters.py&#34;</span>, line <span class="ansi-green-intense-fg ansi-bold">885</span>, in <span class="ansi-magenta-intense-fg ansi-bold">parseFile</span>
-    c.readFile(fp)
-
-  File <span class="ansi-green-intense-fg ansi-bold">&#34;/storage/home/hpaceice1/shared-classes/envs/musi4843/lib/python3.8/site-packages/music21/musicxml/xmlToM21.py&#34;</span>, line <span class="ansi-green-intense-fg ansi-bold">836</span>, in <span class="ansi-magenta-intense-fg ansi-bold">readFile</span>
-    etree = ET.parse(filename)
-
-  File <span class="ansi-green-intense-fg ansi-bold">&#34;/storage/home/hpaceice1/shared-classes/envs/musi4843/lib/python3.8/xml/etree/ElementTree.py&#34;</span>, line <span class="ansi-green-intense-fg ansi-bold">1202</span>, in <span class="ansi-magenta-intense-fg ansi-bold">parse</span>
-    tree.parse(source, parser)
-
-<span class="ansi-cyan-fg">  File </span><span class="ansi-green-fg">&#34;/storage/home/hpaceice1/shared-classes/envs/musi4843/lib/python3.8/xml/etree/ElementTree.py&#34;</span><span class="ansi-cyan-fg">, line </span><span class="ansi-green-fg">595</span><span class="ansi-cyan-fg">, in </span><span class="ansi-magenta-fg">parse</span>
-<span class="ansi-red-fg">    self._root = parser._parse_whole(source)</span>
-
-<span class="ansi-cyan-fg">  File </span><span class="ansi-green-fg">&#34;&lt;string&gt;&#34;</span><span class="ansi-cyan-fg">, line </span><span class="ansi-green-fg">unknown</span>
-<span class="ansi-red-fg">ParseError</span><span class="ansi-red-fg">:</span> not well-formed (invalid token): line 50, column 89
-</pre>
-</div>
-</div>
-
-</div>
-</div>
-
-</div>
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input">
-<div class="prompt input_prompt">In&nbsp;[10]:</div>
-<div class="inner_cell">
-    <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#try a different mxl file downloaded from MuseScore</span>
-<span class="n">fileURL</span> <span class="o">=</span> <span class="p">(</span><span class="n">filepath</span> <span class="o">+</span> <span class="n">xmlFiles</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span> <span class="o">+</span> <span class="s1">&#39;.mxl&#39;</span><span class="p">)</span>
-<span class="nb">print</span><span class="p">(</span><span class="n">fileURL</span><span class="p">)</span>
-<span class="n">c</span> <span class="o">=</span> <span class="n">converter</span><span class="o">.</span><span class="n">Converter</span><span class="p">()</span>
-<span class="n">c</span><span class="o">.</span><span class="n">parseURL</span><span class="p">(</span><span class="n">fileURL</span><span class="p">)</span>
-<span class="n">s</span> <span class="o">=</span> <span class="n">c</span><span class="o">.</span><span class="n">stream</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#read mxl files downloaded from MuseScore</span>
+<span class="k">for</span> <span class="n">piece</span> <span class="ow">in</span> <span class="p">(</span><span class="n">xmlFiles</span><span class="p">):</span>
+    <span class="n">filename</span> <span class="o">=</span> <span class="n">piece</span> <span class="o">+</span> <span class="s2">&quot;.mxl&quot;</span>
+    <span class="nb">print</span><span class="p">(</span><span class="n">filename</span><span class="p">)</span>
+    <span class="n">c</span> <span class="o">=</span> <span class="n">converter</span><span class="o">.</span><span class="n">Converter</span><span class="p">()</span>
+    <span class="n">c</span><span class="o">.</span><span class="n">parseFile</span><span class="p">(</span><span class="n">filename</span><span class="p">)</span>
+    <span class="n">s</span> <span class="o">=</span> <span class="n">c</span><span class="o">.</span><span class="n">stream</span>
+   <span class="c1"># s.show()</span>
 </pre></div>
 
     </div>
@@ -13311,7 +13152,14 @@ Traceback <span class="ansi-cyan-fg">(most recent call last)</span>:
 
 
 <div class="output_subarea output_stream output_stdout output_text">
-<pre>https://github.com/LLight/MUSI8803project/tree/master/mxl_files/Messiaen_Regard_du_Pere.mxl
+<pre>Copland_Piano_Blues_No_3.mxl
+Messiaen_Regard_du_Pere.mxl
+Part_Fuer_Alina.mxl
+Poulenc_Les_chemins_de_lamour.mxl
+Rautavaara_Etude_op42_no1_Thirds.mxl
+Schnittke_Tango.mxl
+Sculthorpe_Sea_Chant.mxl
+Takemitsu_Romance.mxl
 </pre>
 </div>
 </div>
@@ -13323,32 +13171,135 @@ Traceback <span class="ansi-cyan-fg">(most recent call last)</span>:
 
 <div class="output_subarea output_text output_error">
 <pre>
-Traceback <span class="ansi-cyan-fg">(most recent call last)</span>:
+<span class="ansi-red-fg">---------------------------------------------------------------------------</span>
+<span class="ansi-red-fg">PitchException</span>                            Traceback (most recent call last)
+<span class="ansi-green-fg">&lt;ipython-input-15-20c1828b6557&gt;</span> in <span class="ansi-cyan-fg">&lt;module&gt;</span>
+<span class="ansi-green-intense-fg ansi-bold">      4</span>     print<span class="ansi-blue-fg">(</span>filename<span class="ansi-blue-fg">)</span>
+<span class="ansi-green-intense-fg ansi-bold">      5</span>     c <span class="ansi-blue-fg">=</span> converter<span class="ansi-blue-fg">.</span>Converter<span class="ansi-blue-fg">(</span><span class="ansi-blue-fg">)</span>
+<span class="ansi-green-fg">----&gt; 6</span><span class="ansi-red-fg">     </span>c<span class="ansi-blue-fg">.</span>parseFile<span class="ansi-blue-fg">(</span>filename<span class="ansi-blue-fg">)</span>
+<span class="ansi-green-intense-fg ansi-bold">      7</span>     s <span class="ansi-blue-fg">=</span> c<span class="ansi-blue-fg">.</span>stream
+<span class="ansi-green-intense-fg ansi-bold">      8</span>    <span class="ansi-red-fg"># s.show()</span>
 
-  File <span class="ansi-green-intense-fg ansi-bold">&#34;/storage/home/hpaceice1/shared-classes/envs/musi4843/lib/python3.8/site-packages/IPython/core/interactiveshell.py&#34;</span>, line <span class="ansi-green-intense-fg ansi-bold">3417</span>, in <span class="ansi-magenta-intense-fg ansi-bold">run_code</span>
-    exec(code_obj, self.user_global_ns, self.user_ns)
+<span class="ansi-green-fg">/storage/home/hpaceice1/shared-classes/envs/musi4843/lib/python3.8/site-packages/music21/converter/__init__.py</span> in <span class="ansi-cyan-fg">parseFile</span><span class="ansi-blue-fg">(self, fp, number, format, forceSource, storePickle, **keywords)</span>
+<span class="ansi-green-intense-fg ansi-bold">    549</span>         <span class="ansi-green-fg">else</span><span class="ansi-blue-fg">:</span>
+<span class="ansi-green-intense-fg ansi-bold">    550</span>             environLocal<span class="ansi-blue-fg">.</span>printDebug<span class="ansi-blue-fg">(</span><span class="ansi-blue-fg">&#39;Loading original version&#39;</span><span class="ansi-blue-fg">)</span>
+<span class="ansi-green-fg">--&gt; 551</span><span class="ansi-red-fg">             </span>self<span class="ansi-blue-fg">.</span>parseFileNoPickle<span class="ansi-blue-fg">(</span>fp<span class="ansi-blue-fg">,</span> number<span class="ansi-blue-fg">,</span> format<span class="ansi-blue-fg">,</span> forceSource<span class="ansi-blue-fg">,</span> <span class="ansi-blue-fg">**</span>keywords<span class="ansi-blue-fg">)</span>
+<span class="ansi-green-intense-fg ansi-bold">    552</span>             <span class="ansi-green-fg">if</span> writePickle <span class="ansi-green-fg">is</span> <span class="ansi-green-fg">True</span> <span class="ansi-green-fg">and</span> fpPickle <span class="ansi-green-fg">is</span> <span class="ansi-green-fg">not</span> <span class="ansi-green-fg">None</span> <span class="ansi-green-fg">and</span> storePickle <span class="ansi-green-fg">is</span> <span class="ansi-green-fg">True</span><span class="ansi-blue-fg">:</span>
+<span class="ansi-green-intense-fg ansi-bold">    553</span>                 <span class="ansi-red-fg"># save the stream to disk...</span>
 
-  File <span class="ansi-green-intense-fg ansi-bold">&#34;&lt;ipython-input-10-a615a2734f48&gt;&#34;</span>, line <span class="ansi-green-intense-fg ansi-bold">5</span>, in <span class="ansi-magenta-intense-fg ansi-bold">&lt;module&gt;</span>
-    c.parseURL(fileURL)
+<span class="ansi-green-fg">/storage/home/hpaceice1/shared-classes/envs/musi4843/lib/python3.8/site-packages/music21/converter/__init__.py</span> in <span class="ansi-cyan-fg">parseFileNoPickle</span><span class="ansi-blue-fg">(self, fp, number, format, forceSource, **keywords)</span>
+<span class="ansi-green-intense-fg ansi-bold">    483</span>         self<span class="ansi-blue-fg">.</span>subConverter<span class="ansi-blue-fg">.</span>keywords <span class="ansi-blue-fg">=</span> keywords
+<span class="ansi-green-intense-fg ansi-bold">    484</span>         <span class="ansi-green-fg">try</span><span class="ansi-blue-fg">:</span>
+<span class="ansi-green-fg">--&gt; 485</span><span class="ansi-red-fg">             </span>self<span class="ansi-blue-fg">.</span>subConverter<span class="ansi-blue-fg">.</span>parseFile<span class="ansi-blue-fg">(</span>fp<span class="ansi-blue-fg">,</span> number<span class="ansi-blue-fg">=</span>number<span class="ansi-blue-fg">,</span> <span class="ansi-blue-fg">**</span>keywords<span class="ansi-blue-fg">)</span>
+<span class="ansi-green-intense-fg ansi-bold">    486</span>         <span class="ansi-green-fg">except</span> NotImplementedError<span class="ansi-blue-fg">:</span>
+<span class="ansi-green-intense-fg ansi-bold">    487</span>             <span class="ansi-green-fg">raise</span> ConverterFileException<span class="ansi-blue-fg">(</span><span class="ansi-blue-fg">&#39;File is not in a correct format: %s&#39;</span> <span class="ansi-blue-fg">%</span> fp<span class="ansi-blue-fg">)</span>
 
-  File <span class="ansi-green-intense-fg ansi-bold">&#34;/storage/home/hpaceice1/shared-classes/envs/musi4843/lib/python3.8/site-packages/music21/converter/__init__.py&#34;</span>, line <span class="ansi-green-intense-fg ansi-bold">674</span>, in <span class="ansi-magenta-intense-fg ansi-bold">parseURL</span>
-    self.subConverter.parseFile(fp, number=number)
+<span class="ansi-green-fg">/storage/home/hpaceice1/shared-classes/envs/musi4843/lib/python3.8/site-packages/music21/converter/subConverters.py</span> in <span class="ansi-cyan-fg">parseFile</span><span class="ansi-blue-fg">(self, fp, number)</span>
+<span class="ansi-green-intense-fg ansi-bold">    881</span>             archData <span class="ansi-blue-fg">=</span> arch<span class="ansi-blue-fg">.</span>getData<span class="ansi-blue-fg">(</span><span class="ansi-blue-fg">)</span>
+<span class="ansi-green-intense-fg ansi-bold">    882</span>             c<span class="ansi-blue-fg">.</span>xmlText <span class="ansi-blue-fg">=</span> archData
+<span class="ansi-green-fg">--&gt; 883</span><span class="ansi-red-fg">             </span>c<span class="ansi-blue-fg">.</span>parseXMLText<span class="ansi-blue-fg">(</span><span class="ansi-blue-fg">)</span>
+<span class="ansi-green-intense-fg ansi-bold">    884</span>         <span class="ansi-green-fg">else</span><span class="ansi-blue-fg">:</span>  <span class="ansi-red-fg"># its a file path or a raw musicxml string</span>
+<span class="ansi-green-intense-fg ansi-bold">    885</span>             c<span class="ansi-blue-fg">.</span>readFile<span class="ansi-blue-fg">(</span>fp<span class="ansi-blue-fg">)</span>
 
-  File <span class="ansi-green-intense-fg ansi-bold">&#34;/storage/home/hpaceice1/shared-classes/envs/musi4843/lib/python3.8/site-packages/music21/converter/subConverters.py&#34;</span>, line <span class="ansi-green-intense-fg ansi-bold">885</span>, in <span class="ansi-magenta-intense-fg ansi-bold">parseFile</span>
-    c.readFile(fp)
+<span class="ansi-green-fg">/storage/home/hpaceice1/shared-classes/envs/musi4843/lib/python3.8/site-packages/music21/musicxml/xmlToM21.py</span> in <span class="ansi-cyan-fg">parseXMLText</span><span class="ansi-blue-fg">(self)</span>
+<span class="ansi-green-intense-fg ansi-bold">    856</span>             raise MusicXMLImportException(&#39;Cannot parse MusicXML files not in score-partwise. &#39;
+<span class="ansi-green-intense-fg ansi-bold">    857</span>                                           + &#34;Root tag was &#39;{0}&#39;&#34;.format(self.xmlRoot.tag))
+<span class="ansi-green-fg">--&gt; 858</span><span class="ansi-red-fg">         </span>self<span class="ansi-blue-fg">.</span>xmlRootToScore<span class="ansi-blue-fg">(</span>self<span class="ansi-blue-fg">.</span>xmlRoot<span class="ansi-blue-fg">,</span> self<span class="ansi-blue-fg">.</span>stream<span class="ansi-blue-fg">)</span>
+<span class="ansi-green-intense-fg ansi-bold">    859</span> 
+<span class="ansi-green-intense-fg ansi-bold">    860</span>     <span class="ansi-green-fg">def</span> xmlRootToScore<span class="ansi-blue-fg">(</span>self<span class="ansi-blue-fg">,</span> mxScore<span class="ansi-blue-fg">,</span> inputM21<span class="ansi-blue-fg">=</span><span class="ansi-green-fg">None</span><span class="ansi-blue-fg">)</span><span class="ansi-blue-fg">:</span>
 
-  File <span class="ansi-green-intense-fg ansi-bold">&#34;/storage/home/hpaceice1/shared-classes/envs/musi4843/lib/python3.8/site-packages/music21/musicxml/xmlToM21.py&#34;</span>, line <span class="ansi-green-intense-fg ansi-bold">836</span>, in <span class="ansi-magenta-intense-fg ansi-bold">readFile</span>
-    etree = ET.parse(filename)
+<span class="ansi-green-fg">/storage/home/hpaceice1/shared-classes/envs/musi4843/lib/python3.8/site-packages/music21/musicxml/xmlToM21.py</span> in <span class="ansi-cyan-fg">xmlRootToScore</span><span class="ansi-blue-fg">(self, mxScore, inputM21)</span>
+<span class="ansi-green-intense-fg ansi-bold">    896</span>                 <span class="ansi-green-fg">continue</span>
+<span class="ansi-green-intense-fg ansi-bold">    897</span> 
+<span class="ansi-green-fg">--&gt; 898</span><span class="ansi-red-fg">             </span>part <span class="ansi-blue-fg">=</span> self<span class="ansi-blue-fg">.</span>xmlPartToPart<span class="ansi-blue-fg">(</span>p<span class="ansi-blue-fg">,</span> mxScorePart<span class="ansi-blue-fg">)</span>
+<span class="ansi-green-intense-fg ansi-bold">    899</span> 
+<span class="ansi-green-intense-fg ansi-bold">    900</span>             <span class="ansi-green-fg">if</span> part <span class="ansi-green-fg">is</span> <span class="ansi-green-fg">not</span> <span class="ansi-green-fg">None</span><span class="ansi-blue-fg">:</span>  <span class="ansi-red-fg"># for instance, in partStreams</span>
 
-  File <span class="ansi-green-intense-fg ansi-bold">&#34;/storage/home/hpaceice1/shared-classes/envs/musi4843/lib/python3.8/xml/etree/ElementTree.py&#34;</span>, line <span class="ansi-green-intense-fg ansi-bold">1202</span>, in <span class="ansi-magenta-intense-fg ansi-bold">parse</span>
-    tree.parse(source, parser)
+<span class="ansi-green-fg">/storage/home/hpaceice1/shared-classes/envs/musi4843/lib/python3.8/site-packages/music21/musicxml/xmlToM21.py</span> in <span class="ansi-cyan-fg">xmlPartToPart</span><span class="ansi-blue-fg">(self, mxPart, mxScorePart)</span>
+<span class="ansi-green-intense-fg ansi-bold">    930</span>         &#39;&#39;&#39;
+<span class="ansi-green-intense-fg ansi-bold">    931</span>         parser <span class="ansi-blue-fg">=</span> PartParser<span class="ansi-blue-fg">(</span>mxPart<span class="ansi-blue-fg">,</span> mxScorePart<span class="ansi-blue-fg">=</span>mxScorePart<span class="ansi-blue-fg">,</span> parent<span class="ansi-blue-fg">=</span>self<span class="ansi-blue-fg">)</span>
+<span class="ansi-green-fg">--&gt; 932</span><span class="ansi-red-fg">         </span>parser<span class="ansi-blue-fg">.</span>parse<span class="ansi-blue-fg">(</span><span class="ansi-blue-fg">)</span>
+<span class="ansi-green-intense-fg ansi-bold">    933</span>         <span class="ansi-green-fg">if</span> parser<span class="ansi-blue-fg">.</span>appendToScoreAfterParse <span class="ansi-green-fg">is</span> <span class="ansi-green-fg">True</span><span class="ansi-blue-fg">:</span>
+<span class="ansi-green-intense-fg ansi-bold">    934</span>             <span class="ansi-green-fg">return</span> parser<span class="ansi-blue-fg">.</span>stream
 
-<span class="ansi-cyan-fg">  File </span><span class="ansi-green-fg">&#34;/storage/home/hpaceice1/shared-classes/envs/musi4843/lib/python3.8/xml/etree/ElementTree.py&#34;</span><span class="ansi-cyan-fg">, line </span><span class="ansi-green-fg">595</span><span class="ansi-cyan-fg">, in </span><span class="ansi-magenta-fg">parse</span>
-<span class="ansi-red-fg">    self._root = parser._parse_whole(source)</span>
+<span class="ansi-green-fg">/storage/home/hpaceice1/shared-classes/envs/musi4843/lib/python3.8/site-packages/music21/musicxml/xmlToM21.py</span> in <span class="ansi-cyan-fg">parse</span><span class="ansi-blue-fg">(self)</span>
+<span class="ansi-green-intense-fg ansi-bold">   1470</span>         &#39;&#39;&#39;
+<span class="ansi-green-intense-fg ansi-bold">   1471</span>         self<span class="ansi-blue-fg">.</span>parseXmlScorePart<span class="ansi-blue-fg">(</span><span class="ansi-blue-fg">)</span>
+<span class="ansi-green-fg">-&gt; 1472</span><span class="ansi-red-fg">         </span>self<span class="ansi-blue-fg">.</span>parseMeasures<span class="ansi-blue-fg">(</span><span class="ansi-blue-fg">)</span>
+<span class="ansi-green-intense-fg ansi-bold">   1473</span>         self<span class="ansi-blue-fg">.</span>stream<span class="ansi-blue-fg">.</span>atSoundingPitch <span class="ansi-blue-fg">=</span> self<span class="ansi-blue-fg">.</span>atSoundingPitch
+<span class="ansi-green-intense-fg ansi-bold">   1474</span> 
 
-<span class="ansi-cyan-fg">  File </span><span class="ansi-green-fg">&#34;&lt;string&gt;&#34;</span><span class="ansi-cyan-fg">, line </span><span class="ansi-green-fg">unknown</span>
-<span class="ansi-red-fg">ParseError</span><span class="ansi-red-fg">:</span> not well-formed (invalid token): line 50, column 89
-</pre>
+<span class="ansi-green-fg">/storage/home/hpaceice1/shared-classes/envs/musi4843/lib/python3.8/site-packages/music21/musicxml/xmlToM21.py</span> in <span class="ansi-cyan-fg">parseMeasures</span><span class="ansi-blue-fg">(self)</span>
+<span class="ansi-green-intense-fg ansi-bold">   1611</span>         part <span class="ansi-blue-fg">=</span> self<span class="ansi-blue-fg">.</span>stream
+<span class="ansi-green-intense-fg ansi-bold">   1612</span>         <span class="ansi-green-fg">for</span> mxMeasure <span class="ansi-green-fg">in</span> self<span class="ansi-blue-fg">.</span>mxPart<span class="ansi-blue-fg">.</span>iterfind<span class="ansi-blue-fg">(</span><span class="ansi-blue-fg">&#39;measure&#39;</span><span class="ansi-blue-fg">)</span><span class="ansi-blue-fg">:</span>
+<span class="ansi-green-fg">-&gt; 1613</span><span class="ansi-red-fg">             </span>self<span class="ansi-blue-fg">.</span>xmlMeasureToMeasure<span class="ansi-blue-fg">(</span>mxMeasure<span class="ansi-blue-fg">)</span>
+<span class="ansi-green-intense-fg ansi-bold">   1614</span> 
+<span class="ansi-green-intense-fg ansi-bold">   1615</span>         <span class="ansi-red-fg"># self.removeEndForwardRest()</span>
+
+<span class="ansi-green-fg">/storage/home/hpaceice1/shared-classes/envs/musi4843/lib/python3.8/site-packages/music21/musicxml/xmlToM21.py</span> in <span class="ansi-cyan-fg">xmlMeasureToMeasure</span><span class="ansi-blue-fg">(self, mxMeasure)</span>
+<span class="ansi-green-intense-fg ansi-bold">   1779</span>             measureParser<span class="ansi-blue-fg">.</span>parse<span class="ansi-blue-fg">(</span><span class="ansi-blue-fg">)</span>
+<span class="ansi-green-intense-fg ansi-bold">   1780</span>         <span class="ansi-green-fg">except</span> Exception <span class="ansi-green-fg">as</span> e<span class="ansi-blue-fg">:</span>  <span class="ansi-red-fg"># pylint: disable=broad-except</span>
+<span class="ansi-green-fg">-&gt; 1781</span><span class="ansi-red-fg">             </span>self<span class="ansi-blue-fg">.</span>measureParsingError<span class="ansi-blue-fg">(</span>mxMeasure<span class="ansi-blue-fg">,</span> e<span class="ansi-blue-fg">)</span>
+<span class="ansi-green-intense-fg ansi-bold">   1782</span>         self<span class="ansi-blue-fg">.</span>lastMeasureParser <span class="ansi-blue-fg">=</span> measureParser
+<span class="ansi-green-intense-fg ansi-bold">   1783</span> 
+
+<span class="ansi-green-fg">/storage/home/hpaceice1/shared-classes/envs/musi4843/lib/python3.8/site-packages/music21/musicxml/xmlToM21.py</span> in <span class="ansi-cyan-fg">measureParsingError</span><span class="ansi-blue-fg">(self, mxMeasure, e)</span>
+<span class="ansi-green-intense-fg ansi-bold">   1741</span>             eMessage <span class="ansi-blue-fg">=</span> execInfoTuple<span class="ansi-blue-fg">[</span><span class="ansi-cyan-fg">0</span><span class="ansi-blue-fg">]</span><span class="ansi-blue-fg">.</span>__name__ <span class="ansi-blue-fg">+</span> <span class="ansi-blue-fg">&#39; : &#39;</span>  <span class="ansi-red-fg"># + execInfoTuple[1].__name__</span>
+<span class="ansi-green-intense-fg ansi-bold">   1742</span>         unused_message <span class="ansi-blue-fg">=</span> <span class="ansi-blue-fg">&#39;In measure (&#39;</span> <span class="ansi-blue-fg">+</span> str<span class="ansi-blue-fg">(</span>measureNumber<span class="ansi-blue-fg">)</span> <span class="ansi-blue-fg">+</span> <span class="ansi-blue-fg">&#39;): &#39;</span> <span class="ansi-blue-fg">+</span> str<span class="ansi-blue-fg">(</span>eMessage<span class="ansi-blue-fg">)</span>
+<span class="ansi-green-fg">-&gt; 1743</span><span class="ansi-red-fg">         </span><span class="ansi-green-fg">raise</span> e
+<span class="ansi-green-intense-fg ansi-bold">   1744</span>         <span class="ansi-red-fg"># raise type(e)(pprint.pformat(traceback.extract_tb(execInfoTuple[2])))</span>
+<span class="ansi-green-intense-fg ansi-bold">   1745</span> 
+
+<span class="ansi-green-fg">/storage/home/hpaceice1/shared-classes/envs/musi4843/lib/python3.8/site-packages/music21/musicxml/xmlToM21.py</span> in <span class="ansi-cyan-fg">xmlMeasureToMeasure</span><span class="ansi-blue-fg">(self, mxMeasure)</span>
+<span class="ansi-green-intense-fg ansi-bold">   1777</span>         measureParser <span class="ansi-blue-fg">=</span> MeasureParser<span class="ansi-blue-fg">(</span>mxMeasure<span class="ansi-blue-fg">,</span> parent<span class="ansi-blue-fg">=</span>self<span class="ansi-blue-fg">)</span>
+<span class="ansi-green-intense-fg ansi-bold">   1778</span>         <span class="ansi-green-fg">try</span><span class="ansi-blue-fg">:</span>
+<span class="ansi-green-fg">-&gt; 1779</span><span class="ansi-red-fg">             </span>measureParser<span class="ansi-blue-fg">.</span>parse<span class="ansi-blue-fg">(</span><span class="ansi-blue-fg">)</span>
+<span class="ansi-green-intense-fg ansi-bold">   1780</span>         <span class="ansi-green-fg">except</span> Exception <span class="ansi-green-fg">as</span> e<span class="ansi-blue-fg">:</span>  <span class="ansi-red-fg"># pylint: disable=broad-except</span>
+<span class="ansi-green-intense-fg ansi-bold">   1781</span>             self<span class="ansi-blue-fg">.</span>measureParsingError<span class="ansi-blue-fg">(</span>mxMeasure<span class="ansi-blue-fg">,</span> e<span class="ansi-blue-fg">)</span>
+
+<span class="ansi-green-fg">/storage/home/hpaceice1/shared-classes/envs/musi4843/lib/python3.8/site-packages/music21/musicxml/xmlToM21.py</span> in <span class="ansi-cyan-fg">parse</span><span class="ansi-blue-fg">(self)</span>
+<span class="ansi-green-intense-fg ansi-bold">   2319</span>                 <span class="ansi-green-fg">if</span> methName <span class="ansi-green-fg">is</span> <span class="ansi-green-fg">not</span> <span class="ansi-green-fg">None</span><span class="ansi-blue-fg">:</span>
+<span class="ansi-green-intense-fg ansi-bold">   2320</span>                     meth <span class="ansi-blue-fg">=</span> getattr<span class="ansi-blue-fg">(</span>self<span class="ansi-blue-fg">,</span> methName<span class="ansi-blue-fg">)</span>
+<span class="ansi-green-fg">-&gt; 2321</span><span class="ansi-red-fg">                     </span>meth<span class="ansi-blue-fg">(</span>mxObj<span class="ansi-blue-fg">)</span>
+<span class="ansi-green-intense-fg ansi-bold">   2322</span> 
+<span class="ansi-green-intense-fg ansi-bold">   2323</span>         <span class="ansi-green-fg">if</span> self<span class="ansi-blue-fg">.</span>useVoices <span class="ansi-green-fg">is</span> <span class="ansi-green-fg">True</span><span class="ansi-blue-fg">:</span>
+
+<span class="ansi-green-fg">/storage/home/hpaceice1/shared-classes/envs/musi4843/lib/python3.8/site-packages/music21/musicxml/xmlToM21.py</span> in <span class="ansi-cyan-fg">xmlToNote</span><span class="ansi-blue-fg">(self, mxNote)</span>
+<span class="ansi-green-intense-fg ansi-bold">   2480</span>         <span class="ansi-green-fg">else</span><span class="ansi-blue-fg">:</span>  <span class="ansi-red-fg"># its a rest</span>
+<span class="ansi-green-intense-fg ansi-bold">   2481</span>             self<span class="ansi-blue-fg">.</span>restAndNoteCount<span class="ansi-blue-fg">[</span><span class="ansi-blue-fg">&#39;rest&#39;</span><span class="ansi-blue-fg">]</span> <span class="ansi-blue-fg">+=</span> <span class="ansi-cyan-fg">1</span>
+<span class="ansi-green-fg">-&gt; 2482</span><span class="ansi-red-fg">             </span>n <span class="ansi-blue-fg">=</span> self<span class="ansi-blue-fg">.</span>xmlToRest<span class="ansi-blue-fg">(</span>mxNote<span class="ansi-blue-fg">)</span>
+<span class="ansi-green-intense-fg ansi-bold">   2483</span> 
+<span class="ansi-green-intense-fg ansi-bold">   2484</span>         <span class="ansi-green-fg">if</span> isChord <span class="ansi-green-fg">is</span> <span class="ansi-green-fg">False</span><span class="ansi-blue-fg">:</span>  <span class="ansi-red-fg"># normal note or rest...</span>
+
+<span class="ansi-green-fg">/storage/home/hpaceice1/shared-classes/envs/musi4843/lib/python3.8/site-packages/music21/musicxml/xmlToM21.py</span> in <span class="ansi-cyan-fg">xmlToRest</span><span class="ansi-blue-fg">(self, mxRest)</span>
+<span class="ansi-green-intense-fg ansi-bold">   3019</span>                 ds_text <span class="ansi-blue-fg">+=</span> do<span class="ansi-blue-fg">.</span>text<span class="ansi-blue-fg">.</span>strip<span class="ansi-blue-fg">(</span><span class="ansi-blue-fg">)</span>
+<span class="ansi-green-intense-fg ansi-bold">   3020</span> 
+<span class="ansi-green-fg">-&gt; 3021</span><span class="ansi-red-fg">             </span>tempP <span class="ansi-blue-fg">=</span> pitch<span class="ansi-blue-fg">.</span>Pitch<span class="ansi-blue-fg">(</span>ds_text<span class="ansi-blue-fg">)</span>
+<span class="ansi-green-intense-fg ansi-bold">   3022</span>             <span class="ansi-red-fg"># musicxml records rest display as a pitch in the current</span>
+<span class="ansi-green-intense-fg ansi-bold">   3023</span>             <span class="ansi-red-fg"># clef.  Music21 records it as an offset (in steps) from the</span>
+
+<span class="ansi-green-fg">/storage/home/hpaceice1/shared-classes/envs/musi4843/lib/python3.8/site-packages/music21/pitch.py</span> in <span class="ansi-cyan-fg">__init__</span><span class="ansi-blue-fg">(self, name, **keywords)</span>
+<span class="ansi-green-intense-fg ansi-bold">   1742</span>         <span class="ansi-green-fg">if</span> name <span class="ansi-green-fg">is</span> <span class="ansi-green-fg">not</span> <span class="ansi-green-fg">None</span><span class="ansi-blue-fg">:</span>
+<span class="ansi-green-intense-fg ansi-bold">   1743</span>             <span class="ansi-green-fg">if</span> <span class="ansi-green-fg">not</span> common<span class="ansi-blue-fg">.</span>isNum<span class="ansi-blue-fg">(</span>name<span class="ansi-blue-fg">)</span><span class="ansi-blue-fg">:</span>
+<span class="ansi-green-fg">-&gt; 1744</span><span class="ansi-red-fg">                 </span>self<span class="ansi-blue-fg">.</span>name <span class="ansi-blue-fg">=</span> name  <span class="ansi-red-fg"># set based on string</span>
+<span class="ansi-green-intense-fg ansi-bold">   1745</span>             <span class="ansi-green-fg">else</span><span class="ansi-blue-fg">:</span>  <span class="ansi-red-fg"># is a number</span>
+<span class="ansi-green-intense-fg ansi-bold">   1746</span>                 <span class="ansi-green-fg">if</span> name <span class="ansi-blue-fg">&lt;</span> <span class="ansi-cyan-fg">12</span><span class="ansi-blue-fg">:</span>  <span class="ansi-red-fg"># is a pitchClass</span>
+
+<span class="ansi-green-fg">/storage/home/hpaceice1/shared-classes/envs/musi4843/lib/python3.8/site-packages/music21/pitch.py</span> in <span class="ansi-cyan-fg">name</span><span class="ansi-blue-fg">(self, usrStr)</span>
+<span class="ansi-green-intense-fg ansi-bold">   2571</span>         <span class="ansi-red-fg"># assume everything following pitch is accidental specification</span>
+<span class="ansi-green-intense-fg ansi-bold">   2572</span>         <span class="ansi-green-fg">elif</span> len<span class="ansi-blue-fg">(</span>usrStr<span class="ansi-blue-fg">)</span> <span class="ansi-blue-fg">&gt;</span> <span class="ansi-cyan-fg">1</span><span class="ansi-blue-fg">:</span>
+<span class="ansi-green-fg">-&gt; 2573</span><span class="ansi-red-fg">             </span>self<span class="ansi-blue-fg">.</span>step <span class="ansi-blue-fg">=</span> usrStr<span class="ansi-blue-fg">[</span><span class="ansi-cyan-fg">0</span><span class="ansi-blue-fg">]</span>
+<span class="ansi-green-intense-fg ansi-bold">   2574</span>             self<span class="ansi-blue-fg">.</span>accidental <span class="ansi-blue-fg">=</span> Accidental<span class="ansi-blue-fg">(</span>usrStr<span class="ansi-blue-fg">[</span><span class="ansi-cyan-fg">1</span><span class="ansi-blue-fg">:</span><span class="ansi-blue-fg">]</span><span class="ansi-blue-fg">)</span>
+<span class="ansi-green-intense-fg ansi-bold">   2575</span>         <span class="ansi-green-fg">else</span><span class="ansi-blue-fg">:</span>
+
+<span class="ansi-green-fg">/storage/home/hpaceice1/shared-classes/envs/musi4843/lib/python3.8/site-packages/music21/pitch.py</span> in <span class="ansi-cyan-fg">step</span><span class="ansi-blue-fg">(self, usrStr)</span>
+<span class="ansi-green-intense-fg ansi-bold">   2771</span>             self<span class="ansi-blue-fg">.</span>spellingIsInferred <span class="ansi-blue-fg">=</span> <span class="ansi-green-fg">False</span>
+<span class="ansi-green-intense-fg ansi-bold">   2772</span>         <span class="ansi-green-fg">else</span><span class="ansi-blue-fg">:</span>
+<span class="ansi-green-fg">-&gt; 2773</span><span class="ansi-red-fg">             </span><span class="ansi-green-fg">raise</span> PitchException<span class="ansi-blue-fg">(</span><span class="ansi-blue-fg">&#34;Cannot make a step out of &#39;%s&#39;&#34;</span> <span class="ansi-blue-fg">%</span> usrStr<span class="ansi-blue-fg">)</span>
+<span class="ansi-green-intense-fg ansi-bold">   2774</span> 
+<span class="ansi-green-intense-fg ansi-bold">   2775</span>     <span class="ansi-blue-fg">@</span>property
+
+<span class="ansi-red-fg">PitchException</span>: Cannot make a step out of &#39;Ø&#39;</pre>
 </div>
 </div>
 
