@@ -13077,19 +13077,27 @@ div#notebook {
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Create table of all pieces in the corpus, including piece name, composer, year, epoch, source, and file format.
-Include indicators for whether the files have been annotated and/or converted to another format.
-Data processing steps needed for each file type:</p>
-<p>1) CSV files from YCAC: annotate phrase boundaries and save filtered version containing only the needed piece</p>
-<p>2) musicXML files from MuseScore: convert to music21, get vertical slices and identify normal form chords, annotate phrase boundaries</p>
-<p>3) pdfs from IMSLP: scan using photoscore, convert to music21, get vertical slices and identify normal form chords, annotate phrase boundaries</p>
+<p>The table below lists all pieces in the corpus, including piece name, composer, year, epoch, source, and file format. (Note: our pieces are the same as the ones in our original table). We have three file types, with different data processing steps needed for each type. In the final corpus, all files will be converted into the YCAC format (CSV with one row per chord, and all chords in normal form representation).</p>
+<p>The following columns indicate whether each file processing step is complete:
+1) phraseAnalysis: annotation of phrase boundaries in CSV file</p>
+<ul>
+<li>applies to all file types</li>
+</ul>
+<p>2) fileConversion: file has been converted from pdf or mxl into music21</p>
+<ul>
+<li>applies to musicXML (parsed using music21) and pdf (scanned using photoscore)</li>
+</ul>
+<p>3) getChords: vertical slicing and identification of normal form chords in music21</p>
+<ul>
+<li>applies to musicXML and pdf </li>
+</ul>
 
 </div>
 </div>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[2]:</div>
+<div class="prompt input_prompt">In&nbsp;[4]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">pandas</span> <span class="k">as</span> <span class="nn">pd</span>
@@ -13108,19 +13116,19 @@ Data processing steps needed for each file type:</p>
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#create table of works as a pandas dataframe</span>
 <span class="n">workList</span><span class="o">=</span><span class="p">{</span>
 <span class="s1">&#39;piece1&#39;</span><span class="p">:[</span><span class="s1">&#39;25 Preludes Premiere&#39;</span><span class="p">,</span><span class="s1">&#39;Suite 9 Placiditas Tranquillement in E-&#39;</span><span class="p">,</span><span class="s1">&#39;Alkan&#39;</span><span class="p">,</span><span class="mi">1844</span><span class="p">,</span><span class="s1">&#39;1820-1869&#39;</span><span class="p">,</span><span class="s1">&#39;YCAC&#39;</span><span class="p">,</span><span class="s1">&#39;CSV&#39;</span><span class="p">,</span><span class="s1">&#39;N&#39;</span><span class="p">,</span><span class="s1">&#39;NA&#39;</span><span class="p">,</span><span class="s1">&#39;NA&#39;</span><span class="p">],</span>
-<span class="s1">&#39;piece2&#39;</span><span class="p">:[</span><span class="s1">&#39;Etudes Tendre Fleur&#39;</span><span class="p">,</span><span class="s1">&#39;&#39;</span><span class="p">,</span><span class="s1">&#39;Burgmuller&#39;</span><span class="p">,</span><span class="mi">1858</span><span class="p">,</span><span class="s1">&#39;1820-1869&#39;</span><span class="p">,</span><span class="s1">&#39;YCAC&#39;</span><span class="p">,</span><span class="s1">&#39;CSV&#39;</span><span class="p">,</span><span class="s1">&#39;N&#39;</span><span class="p">,</span><span class="s1">&#39;NA&#39;</span><span class="p">,</span><span class="s1">&#39;NA&#39;</span><span class="p">],</span>
-<span class="s1">&#39;piece3&#39;</span><span class="p">:[</span><span class="s1">&#39;Nocturne Op. 55&#39;</span><span class="p">,</span><span class="s1">&#39;No. 1&#39;</span><span class="p">,</span><span class="s1">&#39;Chopin&#39;</span><span class="p">,</span><span class="mi">1843</span><span class="p">,</span><span class="s1">&#39;1820-1869&#39;</span><span class="p">,</span><span class="s1">&#39;YCAC&#39;</span><span class="p">,</span><span class="s1">&#39;CSV&#39;</span><span class="p">,</span><span class="s1">&#39;N&#39;</span><span class="p">,</span><span class="s1">&#39;NA&#39;</span><span class="p">,</span><span class="s1">&#39;NA&#39;</span><span class="p">],</span>
-<span class="s1">&#39;piece4&#39;</span><span class="p">:[</span><span class="s1">&#39;Etudes - Op299&#39;</span><span class="p">,</span><span class="s1">&#39;No. 9&#39;</span><span class="p">,</span><span class="s1">&#39;Czerny&#39;</span><span class="p">,</span><span class="mi">1830</span><span class="p">,</span><span class="s1">&#39;1820-1869&#39;</span><span class="p">,</span><span class="s1">&#39;YCAC&#39;</span><span class="p">,</span><span class="s1">&#39;CSV&#39;</span><span class="p">,</span><span class="s1">&#39;N&#39;</span><span class="p">,</span><span class="s1">&#39;NA&#39;</span><span class="p">,</span><span class="s1">&#39;NA&#39;</span><span class="p">],</span>
+<span class="s1">&#39;piece2&#39;</span><span class="p">:[</span><span class="s1">&#39;Etudes Tendre Fleur&#39;</span><span class="p">,</span><span class="s1">&#39;&#39;</span><span class="p">,</span><span class="s1">&#39;Burgmuller&#39;</span><span class="p">,</span><span class="mi">1858</span><span class="p">,</span><span class="s1">&#39;1820-1869&#39;</span><span class="p">,</span><span class="s1">&#39;YCAC&#39;</span><span class="p">,</span><span class="s1">&#39;CSV&#39;</span><span class="p">,</span><span class="s1">&#39;Y&#39;</span><span class="p">,</span><span class="s1">&#39;NA&#39;</span><span class="p">,</span><span class="s1">&#39;NA&#39;</span><span class="p">],</span>
+<span class="s1">&#39;piece3&#39;</span><span class="p">:[</span><span class="s1">&#39;Nocturne Op. 55&#39;</span><span class="p">,</span><span class="s1">&#39;No. 1&#39;</span><span class="p">,</span><span class="s1">&#39;Chopin&#39;</span><span class="p">,</span><span class="mi">1843</span><span class="p">,</span><span class="s1">&#39;1820-1869&#39;</span><span class="p">,</span><span class="s1">&#39;YCAC&#39;</span><span class="p">,</span><span class="s1">&#39;CSV&#39;</span><span class="p">,</span><span class="s1">&#39;Y&#39;</span><span class="p">,</span><span class="s1">&#39;NA&#39;</span><span class="p">,</span><span class="s1">&#39;NA&#39;</span><span class="p">],</span>
+<span class="s1">&#39;piece4&#39;</span><span class="p">:[</span><span class="s1">&#39;Etudes - Op299&#39;</span><span class="p">,</span><span class="s1">&#39;No. 9&#39;</span><span class="p">,</span><span class="s1">&#39;Czerny&#39;</span><span class="p">,</span><span class="mi">1830</span><span class="p">,</span><span class="s1">&#39;1820-1869&#39;</span><span class="p">,</span><span class="s1">&#39;YCAC&#39;</span><span class="p">,</span><span class="s1">&#39;CSV&#39;</span><span class="p">,</span><span class="s1">&#39;Y&#39;</span><span class="p">,</span><span class="s1">&#39;NA&#39;</span><span class="p">,</span><span class="s1">&#39;NA&#39;</span><span class="p">],</span>
 <span class="s1">&#39;piece5&#39;</span><span class="p">:[</span><span class="s1">&#39;Six Bagatelles&#39;</span><span class="p">,</span><span class="s1">&#39;VI Rondo all Ungarese&#39;</span><span class="p">,</span><span class="s1">&#39;Hummel&#39;</span><span class="p">,</span><span class="mi">1827</span><span class="p">,</span><span class="s1">&#39;1820-1869&#39;</span><span class="p">,</span><span class="s1">&#39;YCAC&#39;</span><span class="p">,</span><span class="s1">&#39;CSV&#39;</span><span class="p">,</span><span class="s1">&#39;N&#39;</span><span class="p">,</span><span class="s1">&#39;NA&#39;</span><span class="p">,</span><span class="s1">&#39;NA&#39;</span><span class="p">],</span>
-<span class="s1">&#39;piece6&#39;</span><span class="p">:[</span><span class="s1">&#39;La cloches sonne&#39;</span><span class="p">,</span><span class="s1">&#39;&#39;</span><span class="p">,</span><span class="s1">&#39;Liszt&#39;</span><span class="p">,</span><span class="mi">1850</span><span class="p">,</span><span class="s1">&#39;1820-1869&#39;</span><span class="p">,</span><span class="s1">&#39;YCAC&#39;</span><span class="p">,</span><span class="s1">&#39;CSV&#39;</span><span class="p">,</span><span class="s1">&#39;N&#39;</span><span class="p">,</span><span class="s1">&#39;NA&#39;</span><span class="p">,</span><span class="s1">&#39;NA&#39;</span><span class="p">],</span>
-<span class="s1">&#39;piece7&#39;</span><span class="p">:[</span><span class="s1">&#39;Songs without Words Op102&#39;</span><span class="p">,</span><span class="s1">&#39;No. 1 E minor&#39;</span><span class="p">,</span><span class="s1">&#39;Mendelssohn&#39;</span><span class="p">,</span><span class="mi">1843</span><span class="p">,</span><span class="s1">&#39;1820-1869&#39;</span><span class="p">,</span><span class="s1">&#39;YCAC&#39;</span><span class="p">,</span><span class="s1">&#39;CSV&#39;</span><span class="p">,</span><span class="s1">&#39;N&#39;</span><span class="p">,</span><span class="s1">&#39;NA&#39;</span><span class="p">,</span><span class="s1">&#39;NA&#39;</span><span class="p">],</span>
-<span class="s1">&#39;piece8&#39;</span><span class="p">:[</span><span class="s1">&#39;Con Moto&#39;</span><span class="p">,</span><span class="s1">&#39;&#39;</span><span class="p">,</span><span class="s1">&#39;Schubert&#39;</span><span class="p">,</span><span class="mi">1825</span><span class="p">,</span><span class="s1">&#39;1820-1869&#39;</span><span class="p">,</span><span class="s1">&#39;YCAC&#39;</span><span class="p">,</span><span class="s1">&#39;CSV&#39;</span><span class="p">,</span><span class="s1">&#39;N&#39;</span><span class="p">,</span><span class="s1">&#39;NA&#39;</span><span class="p">,</span><span class="s1">&#39;NA&#39;</span><span class="p">],</span>
-<span class="s1">&#39;piece9&#39;</span><span class="p">:[</span><span class="s1">&#39;Waldszenen&#39;</span><span class="p">,</span><span class="s1">&#39;Verrufene Stelle&#39;</span><span class="p">,</span><span class="s1">&#39;Schumann&#39;</span><span class="p">,</span><span class="mi">1849</span><span class="p">,</span><span class="s1">&#39;1820-1869&#39;</span><span class="p">,</span><span class="s1">&#39;YCAC&#39;</span><span class="p">,</span><span class="s1">&#39;CSV&#39;</span><span class="p">,</span><span class="s1">&#39;N&#39;</span><span class="p">,</span><span class="s1">&#39;NA&#39;</span><span class="p">,</span><span class="s1">&#39;NA&#39;</span><span class="p">],</span>
+<span class="s1">&#39;piece6&#39;</span><span class="p">:[</span><span class="s1">&#39;La cloches sonne&#39;</span><span class="p">,</span><span class="s1">&#39;&#39;</span><span class="p">,</span><span class="s1">&#39;Liszt&#39;</span><span class="p">,</span><span class="mi">1850</span><span class="p">,</span><span class="s1">&#39;1820-1869&#39;</span><span class="p">,</span><span class="s1">&#39;YCAC&#39;</span><span class="p">,</span><span class="s1">&#39;CSV&#39;</span><span class="p">,</span><span class="s1">&#39;Y&#39;</span><span class="p">,</span><span class="s1">&#39;NA&#39;</span><span class="p">,</span><span class="s1">&#39;NA&#39;</span><span class="p">],</span>
+<span class="s1">&#39;piece7&#39;</span><span class="p">:[</span><span class="s1">&#39;Songs without Words Op102&#39;</span><span class="p">,</span><span class="s1">&#39;No. 1 E minor&#39;</span><span class="p">,</span><span class="s1">&#39;Mendelssohn&#39;</span><span class="p">,</span><span class="mi">1843</span><span class="p">,</span><span class="s1">&#39;1820-1869&#39;</span><span class="p">,</span><span class="s1">&#39;YCAC&#39;</span><span class="p">,</span><span class="s1">&#39;CSV&#39;</span><span class="p">,</span><span class="s1">&#39;Y&#39;</span><span class="p">,</span><span class="s1">&#39;NA&#39;</span><span class="p">,</span><span class="s1">&#39;NA&#39;</span><span class="p">],</span>
+<span class="s1">&#39;piece8&#39;</span><span class="p">:[</span><span class="s1">&#39;Con Moto&#39;</span><span class="p">,</span><span class="s1">&#39;&#39;</span><span class="p">,</span><span class="s1">&#39;Schubert&#39;</span><span class="p">,</span><span class="mi">1825</span><span class="p">,</span><span class="s1">&#39;1820-1869&#39;</span><span class="p">,</span><span class="s1">&#39;YCAC&#39;</span><span class="p">,</span><span class="s1">&#39;CSV&#39;</span><span class="p">,</span><span class="s1">&#39;Y&#39;</span><span class="p">,</span><span class="s1">&#39;NA&#39;</span><span class="p">,</span><span class="s1">&#39;NA&#39;</span><span class="p">],</span>
+<span class="s1">&#39;piece9&#39;</span><span class="p">:[</span><span class="s1">&#39;Waldszenen&#39;</span><span class="p">,</span><span class="s1">&#39;Verrufene Stelle&#39;</span><span class="p">,</span><span class="s1">&#39;Schumann&#39;</span><span class="p">,</span><span class="mi">1849</span><span class="p">,</span><span class="s1">&#39;1820-1869&#39;</span><span class="p">,</span><span class="s1">&#39;YCAC&#39;</span><span class="p">,</span><span class="s1">&#39;CSV&#39;</span><span class="p">,</span><span class="s1">&#39;Y&#39;</span><span class="p">,</span><span class="s1">&#39;NA&#39;</span><span class="p">,</span><span class="s1">&#39;NA&#39;</span><span class="p">],</span>
 <span class="s1">&#39;piece10&#39;</span><span class="p">:[</span><span class="s1">&#39;Studi-Poetici Op 53&#39;</span><span class="p">,</span><span class="s1">&#39;No. 12 Rimprovero&#39;</span><span class="p">,</span><span class="s1">&#39;Haberbier&#39;</span><span class="p">,</span><span class="mi">1861</span><span class="p">,</span><span class="s1">&#39;1820-1869&#39;</span><span class="p">,</span><span class="s1">&#39;YCAC&#39;</span><span class="p">,</span><span class="s1">&#39;CSV&#39;</span><span class="p">,</span><span class="s1">&#39;N&#39;</span><span class="p">,</span><span class="s1">&#39;NA&#39;</span><span class="p">,</span><span class="s1">&#39;NA&#39;</span><span class="p">],</span>
 <span class="s1">&#39;piece11&#39;</span><span class="p">:[</span><span class="s1">&#39;Suite Espana&#39;</span><span class="p">,</span><span class="s1">&#39;6 Zortzico&#39;</span><span class="p">,</span><span class="s1">&#39;Albeniz&#39;</span><span class="p">,</span><span class="mi">1890</span><span class="p">,</span><span class="s1">&#39;1870-1919&#39;</span><span class="p">,</span><span class="s1">&#39;YCAC&#39;</span><span class="p">,</span><span class="s1">&#39;CSV&#39;</span><span class="p">,</span><span class="s1">&#39;N&#39;</span><span class="p">,</span><span class="s1">&#39;NA&#39;</span><span class="p">,</span><span class="s1">&#39;NA&#39;</span><span class="p">],</span>
 <span class="s1">&#39;piece12&#39;</span><span class="p">:[</span><span class="s1">&#39;Romanian Folk Dances&#39;</span><span class="p">,</span><span class="s1">&#39;2 Braul&#39;</span><span class="p">,</span><span class="s1">&#39;Bartok&#39;</span><span class="p">,</span><span class="mi">1917</span><span class="p">,</span><span class="s1">&#39;1870-1919&#39;</span><span class="p">,</span><span class="s1">&#39;YCAC&#39;</span><span class="p">,</span><span class="s1">&#39;CSV&#39;</span><span class="p">,</span><span class="s1">&#39;N&#39;</span><span class="p">,</span><span class="s1">&#39;NA&#39;</span><span class="p">,</span><span class="s1">&#39;NA&#39;</span><span class="p">],</span>
-<span class="s1">&#39;piece13&#39;</span><span class="p">:[</span><span class="s1">&#39;Rhapsody Op. 79&#39;</span><span class="p">,</span><span class="s1">&#39;No. 1 in G minor&#39;</span><span class="p">,</span><span class="s1">&#39;Brahms&#39;</span><span class="p">,</span><span class="mi">1879</span><span class="p">,</span><span class="s1">&#39;1870-1919&#39;</span><span class="p">,</span><span class="s1">&#39;YCAC&#39;</span><span class="p">,</span><span class="s1">&#39;CSV&#39;</span><span class="p">,</span><span class="s1">&#39;N&#39;</span><span class="p">,</span><span class="s1">&#39;NA&#39;</span><span class="p">,</span><span class="s1">&#39;NA&#39;</span><span class="p">],</span>
-<span class="s1">&#39;piece14&#39;</span><span class="p">:[</span><span class="s2">&quot;Childrens Corner L. 113&quot;</span><span class="p">,</span><span class="s1">&#39;No. 1&#39;</span><span class="p">,</span><span class="s1">&#39;Debussy&#39;</span><span class="p">,</span><span class="mi">1907</span><span class="p">,</span><span class="s1">&#39;1870-1919&#39;</span><span class="p">,</span><span class="s1">&#39;YCAC&#39;</span><span class="p">,</span><span class="s1">&#39;CSV&#39;</span><span class="p">,</span><span class="s1">&#39;N&#39;</span><span class="p">,</span><span class="s1">&#39;NA&#39;</span><span class="p">,</span><span class="s1">&#39;NA&#39;</span><span class="p">],</span>
+<span class="s1">&#39;piece13&#39;</span><span class="p">:[</span><span class="s1">&#39;Rhapsody Op. 79&#39;</span><span class="p">,</span><span class="s1">&#39;No. 1 in G minor&#39;</span><span class="p">,</span><span class="s1">&#39;Brahms&#39;</span><span class="p">,</span><span class="mi">1879</span><span class="p">,</span><span class="s1">&#39;1870-1919&#39;</span><span class="p">,</span><span class="s1">&#39;YCAC&#39;</span><span class="p">,</span><span class="s1">&#39;CSV&#39;</span><span class="p">,</span><span class="s1">&#39;Y&#39;</span><span class="p">,</span><span class="s1">&#39;NA&#39;</span><span class="p">,</span><span class="s1">&#39;NA&#39;</span><span class="p">],</span>
+<span class="s1">&#39;piece14&#39;</span><span class="p">:[</span><span class="s2">&quot;Childrens Corner L. 113&quot;</span><span class="p">,</span><span class="s1">&#39;No. 1&#39;</span><span class="p">,</span><span class="s1">&#39;Debussy&#39;</span><span class="p">,</span><span class="mi">1907</span><span class="p">,</span><span class="s1">&#39;1870-1919&#39;</span><span class="p">,</span><span class="s1">&#39;YCAC&#39;</span><span class="p">,</span><span class="s1">&#39;CSV&#39;</span><span class="p">,</span><span class="s1">&#39;Y&#39;</span><span class="p">,</span><span class="s1">&#39;NA&#39;</span><span class="p">,</span><span class="s1">&#39;NA&#39;</span><span class="p">],</span>
 <span class="s1">&#39;piece15&#39;</span><span class="p">:[</span><span class="s1">&#39;Humoresque in B&#39;</span><span class="p">,</span><span class="s1">&#39;&#39;</span><span class="p">,</span><span class="s1">&#39;Dvorak&#39;</span><span class="p">,</span><span class="mi">1894</span><span class="p">,</span><span class="s1">&#39;1870-1919&#39;</span><span class="p">,</span><span class="s1">&#39;YCAC&#39;</span><span class="p">,</span><span class="s1">&#39;CSV&#39;</span><span class="p">,</span><span class="s1">&#39;N&#39;</span><span class="p">,</span><span class="s1">&#39;NA&#39;</span><span class="p">,</span><span class="s1">&#39;NA&#39;</span><span class="p">],</span>
 <span class="s1">&#39;piece16&#39;</span><span class="p">:[</span><span class="s1">&#39;Lighting the Tree&#39;</span><span class="p">,</span><span class="s1">&#39;&#39;</span><span class="p">,</span><span class="s1">&#39;Liszt&#39;</span><span class="p">,</span><span class="mi">1876</span><span class="p">,</span><span class="s1">&#39;1870-1919&#39;</span><span class="p">,</span><span class="s1">&#39;YCAC&#39;</span><span class="p">,</span><span class="s1">&#39;CSV&#39;</span><span class="p">,</span><span class="s1">&#39;N&#39;</span><span class="p">,</span><span class="s1">&#39;NA&#39;</span><span class="p">,</span><span class="s1">&#39;NA&#39;</span><span class="p">],</span>
 <span class="s1">&#39;piece17&#39;</span><span class="p">:[</span><span class="s1">&#39;Prelude in C&#39;</span><span class="p">,</span><span class="s1">&#39;&#39;</span><span class="p">,</span><span class="s1">&#39;Rachmaninov&#39;</span><span class="p">,</span><span class="mi">1887</span><span class="p">,</span><span class="s1">&#39;1870-1919&#39;</span><span class="p">,</span><span class="s1">&#39;YCAC&#39;</span><span class="p">,</span><span class="s1">&#39;CSV&#39;</span><span class="p">,</span><span class="s1">&#39;N&#39;</span><span class="p">,</span><span class="s1">&#39;NA&#39;</span><span class="p">,</span><span class="s1">&#39;NA&#39;</span><span class="p">],</span>
@@ -13138,7 +13146,7 @@ Data processing steps needed for each file type:</p>
 <span class="s1">&#39;piece29&#39;</span><span class="p">:[</span><span class="s1">&#39;Vingt Regards sur lenfant-Jésus&#39;</span><span class="p">,</span><span class="s1">&#39;Regard du Père&#39;</span><span class="p">,</span><span class="s1">&#39;Messiaen&#39;</span><span class="p">,</span><span class="mi">1944</span><span class="p">,</span><span class="s1">&#39;1920-1969&#39;</span><span class="p">,</span><span class="s1">&#39;MuseScore&#39;</span><span class="p">,</span><span class="s1">&#39;MusicXML&#39;</span><span class="p">,</span><span class="s1">&#39;N&#39;</span><span class="p">,</span><span class="s1">&#39;Y&#39;</span><span class="p">,</span><span class="s1">&#39;N&#39;</span><span class="p">],</span>
 <span class="s1">&#39;piece30&#39;</span><span class="p">:[</span><span class="s1">&#39;Romance&#39;</span><span class="p">,</span><span class="s1">&#39;&#39;</span><span class="p">,</span><span class="s1">&#39;Takemitsu&#39;</span><span class="p">,</span><span class="mi">1949</span><span class="p">,</span><span class="s1">&#39;1920-1969&#39;</span><span class="p">,</span><span class="s1">&#39;MuseScore&#39;</span><span class="p">,</span><span class="s1">&#39;MusicXML&#39;</span><span class="p">,</span><span class="s1">&#39;N&#39;</span><span class="p">,</span><span class="s1">&#39;Y&#39;</span><span class="p">,</span><span class="s1">&#39;N&#39;</span><span class="p">],</span>
 <span class="s1">&#39;piece31&#39;</span><span class="p">:[</span><span class="s1">&#39;2 Visions&#39;</span><span class="p">,</span><span class="s1">&#39;tbp 116&#39;</span><span class="p">,</span><span class="s1">&#39;Novegno&#39;</span><span class="p">,</span><span class="mi">2010</span><span class="p">,</span><span class="s1">&#39;1970-2020&#39;</span><span class="p">,</span><span class="s1">&#39;IMSLP&#39;</span><span class="p">,</span><span class="s1">&#39;PDF&#39;</span><span class="p">,</span><span class="s1">&#39;N&#39;</span><span class="p">,</span><span class="s1">&#39;N&#39;</span><span class="p">,</span><span class="s1">&#39;N&#39;</span><span class="p">],</span>
-<span class="s1">&#39;piece32&#39;</span><span class="p">:[</span><span class="s1">&#39;Piano Sonata No. $ in E-flat major&#39;</span><span class="p">,</span><span class="s1">&#39;&#39;</span><span class="p">,</span><span class="s1">&#39;Zhang&#39;</span><span class="p">,</span><span class="mi">2013</span><span class="p">,</span><span class="s1">&#39;1970-2020&#39;</span><span class="p">,</span><span class="s1">&#39;IMSLP&#39;</span><span class="p">,</span><span class="s1">&#39;PDF&#39;</span><span class="p">,</span><span class="s1">&#39;N&#39;</span><span class="p">,</span><span class="s1">&#39;N&#39;</span><span class="p">,</span><span class="s1">&#39;N&#39;</span><span class="p">],</span>
+<span class="s1">&#39;piece32&#39;</span><span class="p">:[</span><span class="s1">&#39;Piano Sonata No. 4 in E-flat major&#39;</span><span class="p">,</span><span class="s1">&#39;&#39;</span><span class="p">,</span><span class="s1">&#39;Zhang&#39;</span><span class="p">,</span><span class="mi">2013</span><span class="p">,</span><span class="s1">&#39;1970-2020&#39;</span><span class="p">,</span><span class="s1">&#39;IMSLP&#39;</span><span class="p">,</span><span class="s1">&#39;PDF&#39;</span><span class="p">,</span><span class="s1">&#39;N&#39;</span><span class="p">,</span><span class="s1">&#39;N&#39;</span><span class="p">,</span><span class="s1">&#39;N&#39;</span><span class="p">],</span>
 <span class="s1">&#39;piece33&#39;</span><span class="p">:[</span><span class="s1">&#39;La commedia dell’arte&#39;</span><span class="p">,</span><span class="s1">&#39;&#39;</span><span class="p">,</span><span class="s1">&#39;Bachlund&#39;</span><span class="p">,</span><span class="mi">2007</span><span class="p">,</span><span class="s1">&#39;1970-2020&#39;</span><span class="p">,</span><span class="s1">&#39;IMSLP&#39;</span><span class="p">,</span><span class="s1">&#39;PDF&#39;</span><span class="p">,</span><span class="s1">&#39;N&#39;</span><span class="p">,</span><span class="s1">&#39;N&#39;</span><span class="p">,</span><span class="s1">&#39;N&#39;</span><span class="p">],</span>
 <span class="s1">&#39;piece34&#39;</span><span class="p">:[</span><span class="s1">&#39;Musing for Piano, Op.833&#39;</span><span class="p">,</span><span class="s1">&#39;&#39;</span><span class="p">,</span><span class="s1">&#39;Beatty&#39;</span><span class="p">,</span><span class="mi">2017</span><span class="p">,</span><span class="s1">&#39;1970-2020&#39;</span><span class="p">,</span><span class="s1">&#39;IMSLP&#39;</span><span class="p">,</span><span class="s1">&#39;PDF&#39;</span><span class="p">,</span><span class="s1">&#39;N&#39;</span><span class="p">,</span><span class="s1">&#39;N&#39;</span><span class="p">,</span><span class="s1">&#39;N&#39;</span><span class="p">],</span>
 <span class="s1">&#39;piece35&#39;</span><span class="p">:[</span><span class="s1">&#39;5 Diversions&#39;</span><span class="p">,</span><span class="s1">&#39;&#39;</span><span class="p">,</span><span class="s1">&#39;Allard&#39;</span><span class="p">,</span><span class="mi">2006</span><span class="p">,</span><span class="s1">&#39;1970-2020&#39;</span><span class="p">,</span><span class="s1">&#39;IMSLP&#39;</span><span class="p">,</span><span class="s1">&#39;PDF&#39;</span><span class="p">,</span><span class="s1">&#39;N&#39;</span><span class="p">,</span><span class="s1">&#39;N&#39;</span><span class="p">,</span><span class="s1">&#39;N&#39;</span><span class="p">],</span>
@@ -13220,7 +13228,7 @@ Data processing steps needed for each file type:</p>
       <td>1820-1869</td>
       <td>YCAC</td>
       <td>CSV</td>
-      <td>N</td>
+      <td>Y</td>
       <td>NA</td>
       <td>NA</td>
     </tr>
@@ -13233,7 +13241,7 @@ Data processing steps needed for each file type:</p>
       <td>1820-1869</td>
       <td>YCAC</td>
       <td>CSV</td>
-      <td>N</td>
+      <td>Y</td>
       <td>NA</td>
       <td>NA</td>
     </tr>
@@ -13246,7 +13254,7 @@ Data processing steps needed for each file type:</p>
       <td>1820-1869</td>
       <td>YCAC</td>
       <td>CSV</td>
-      <td>N</td>
+      <td>Y</td>
       <td>NA</td>
       <td>NA</td>
     </tr>
@@ -13272,7 +13280,7 @@ Data processing steps needed for each file type:</p>
       <td>1820-1869</td>
       <td>YCAC</td>
       <td>CSV</td>
-      <td>N</td>
+      <td>Y</td>
       <td>NA</td>
       <td>NA</td>
     </tr>
@@ -13285,7 +13293,7 @@ Data processing steps needed for each file type:</p>
       <td>1820-1869</td>
       <td>YCAC</td>
       <td>CSV</td>
-      <td>N</td>
+      <td>Y</td>
       <td>NA</td>
       <td>NA</td>
     </tr>
@@ -13298,7 +13306,7 @@ Data processing steps needed for each file type:</p>
       <td>1820-1869</td>
       <td>YCAC</td>
       <td>CSV</td>
-      <td>N</td>
+      <td>Y</td>
       <td>NA</td>
       <td>NA</td>
     </tr>
@@ -13311,7 +13319,7 @@ Data processing steps needed for each file type:</p>
       <td>1820-1869</td>
       <td>YCAC</td>
       <td>CSV</td>
-      <td>N</td>
+      <td>Y</td>
       <td>NA</td>
       <td>NA</td>
     </tr>
@@ -13363,7 +13371,7 @@ Data processing steps needed for each file type:</p>
       <td>1870-1919</td>
       <td>YCAC</td>
       <td>CSV</td>
-      <td>N</td>
+      <td>Y</td>
       <td>NA</td>
       <td>NA</td>
     </tr>
@@ -13376,7 +13384,7 @@ Data processing steps needed for each file type:</p>
       <td>1870-1919</td>
       <td>YCAC</td>
       <td>CSV</td>
-      <td>N</td>
+      <td>Y</td>
       <td>NA</td>
       <td>NA</td>
     </tr>
@@ -13603,7 +13611,7 @@ Data processing steps needed for each file type:</p>
     </tr>
     <tr>
       <th>piece32</th>
-      <td>Piano Sonata No. $ in E-flat major</td>
+      <td>Piano Sonata No. 4 in E-flat major</td>
       <td></td>
       <td>Zhang</td>
       <td>2013</td>
