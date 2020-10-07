@@ -1,181 +1,181 @@
-measureNumber,beatNumber,offset,Chord,NormalForm,PCsInNormalForm,file,Composer
-1,1,0.0,<music21.chord.Chord A4 C5 D#5 E5>,"[0, 3, 6, 7]","[9, 0, 3, 4]",Bachlund_Commedia_Dellarte.xml,Bachlund
-1,1 1/2,0.5,<music21.chord.Chord F4 A4 B4 C#5>,"[0, 2, 4, 8]","[9, 11, 1, 5]",Bachlund_Commedia_Dellarte.xml,Bachlund
-1,2,1.0,<music21.chord.Chord D5 F5 A5>,"[0, 3, 7]","[2, 5, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund
-1,2 1/2,1.5,<music21.chord.Chord C5 E5 G5>,"[0, 4, 7]","[0, 4, 7]",Bachlund_Commedia_Dellarte.xml,Bachlund
-1,3,2.0,<music21.chord.Chord B4 D5 F5>,"[0, 3, 6]","[11, 2, 5]",Bachlund_Commedia_Dellarte.xml,Bachlund
-1,3 1/2,2.5,<music21.chord.Chord A4 C5 E5>,"[0, 3, 7]","[9, 0, 4]",Bachlund_Commedia_Dellarte.xml,Bachlund
-1,4,3.0,<music21.chord.Chord G4 B4 D5>,"[0, 4, 7]","[7, 11, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund
-1,4 1/2,3.5,<music21.chord.Chord F4 A4 C5>,"[0, 4, 7]","[5, 9, 0]",Bachlund_Commedia_Dellarte.xml,Bachlund
-2,1,4.0,<music21.chord.Chord F4 A4 C#5>,"[0, 4, 8]","[1, 5, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund
-2,1 1/2,4.5,<music21.chord.Chord E4 G4 B4>,"[0, 3, 7]","[4, 7, 11]",Bachlund_Commedia_Dellarte.xml,Bachlund
-2,2,5.0,<music21.chord.Chord F4 A4 C#5>,"[0, 4, 8]","[1, 5, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund
-2,2 1/2,5.5,<music21.chord.Chord C4 E4 G4>,"[0, 4, 7]","[0, 4, 7]",Bachlund_Commedia_Dellarte.xml,Bachlund
-2,3,6.0,<music21.chord.Chord F4 A4 C#5>,"[0, 4, 8]","[1, 5, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund
-2,3 1/2,6.5,<music21.chord.Chord D4 F4 A4>,"[0, 3, 7]","[2, 5, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund
-2,4,7.0,<music21.chord.Chord F#4 A4 C#5>,"[0, 3, 7]","[6, 9, 1]",Bachlund_Commedia_Dellarte.xml,Bachlund
-2,4 1/2,7.5,<music21.chord.Chord E4 G4 B4>,"[0, 3, 7]","[4, 7, 11]",Bachlund_Commedia_Dellarte.xml,Bachlund
-3,1,8.0,<music21.chord.Chord A4 C5 D#5 E5>,"[0, 3, 6, 7]","[9, 0, 3, 4]",Bachlund_Commedia_Dellarte.xml,Bachlund
-3,1 1/2,8.5,<music21.chord.Chord G4 B4 C#5 D5>,"[0, 4, 6, 7]","[7, 11, 1, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund
-3,2,9.0,<music21.chord.Chord D5 F5 G#5 A5>,"[0, 3, 6, 7]","[2, 5, 8, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund
-3,2 1/2,9.5,<music21.chord.Chord C5 E5 G5>,"[0, 4, 7]","[0, 4, 7]",Bachlund_Commedia_Dellarte.xml,Bachlund
-3,3,10.0,<music21.chord.Chord B4 D5 F5 G5>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Bachlund_Commedia_Dellarte.xml,Bachlund
-3,3 1/2,10.5,<music21.chord.Chord A4 C5 E5>,"[0, 3, 7]","[9, 0, 4]",Bachlund_Commedia_Dellarte.xml,Bachlund
-3,4,11.0,<music21.chord.Chord G4 B4 D5>,"[0, 4, 7]","[7, 11, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund
-3,4 1/2,11.5,<music21.chord.Chord F4 A4 C5>,"[0, 4, 7]","[5, 9, 0]",Bachlund_Commedia_Dellarte.xml,Bachlund
-4,1,12.0,<music21.chord.Chord F#4 A4 C#5>,"[0, 3, 7]","[6, 9, 1]",Bachlund_Commedia_Dellarte.xml,Bachlund
-4,1 1/2,12.5,<music21.chord.Chord E4 G4 B4>,"[0, 3, 7]","[4, 7, 11]",Bachlund_Commedia_Dellarte.xml,Bachlund
-4,2,13.0,<music21.chord.Chord F#4 A4 C#5>,"[0, 3, 7]","[6, 9, 1]",Bachlund_Commedia_Dellarte.xml,Bachlund
-4,2 1/2,13.5,<music21.chord.Chord C4 E4 G4>,"[0, 4, 7]","[0, 4, 7]",Bachlund_Commedia_Dellarte.xml,Bachlund
-4,3,14.0,<music21.chord.Chord F#4 A4 C#5>,"[0, 3, 7]","[6, 9, 1]",Bachlund_Commedia_Dellarte.xml,Bachlund
-4,3 1/2,14.5,<music21.chord.Chord A3 C4 E4>,"[0, 3, 7]","[9, 0, 4]",Bachlund_Commedia_Dellarte.xml,Bachlund
-4,4,15.0,<music21.chord.Chord F#4 A4 C#5>,"[0, 3, 7]","[6, 9, 1]",Bachlund_Commedia_Dellarte.xml,Bachlund
-4,4 1/2,15.5,<music21.chord.Chord D4 F4 A4>,"[0, 3, 7]","[2, 5, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund
-5,1,16.0,<music21.chord.Chord F4 A4 C#5>,"[0, 4, 8]","[1, 5, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund
-5,1 1/6,16.166666666666668,<music21.chord.Chord D4 F4 A4>,"[0, 3, 7]","[2, 5, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund
-5,1 1/3,16.333333333333332,<music21.chord.Chord F#4 A4 C#5>,"[0, 3, 7]","[6, 9, 1]",Bachlund_Commedia_Dellarte.xml,Bachlund
-5,1 1/2,16.5,<music21.chord.Chord G4 B4 D5>,"[0, 4, 7]","[7, 11, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund
-5,2,17.0,<music21.chord.Chord C4 E4 G4 B4>,"[0, 1, 5, 8]","[11, 0, 4, 7]",Bachlund_Commedia_Dellarte.xml,Bachlund
-5,2 1/2,17.5,<music21.chord.Chord C4 G4 B4 D5>,"[0, 4, 5, 7]","[7, 11, 0, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund
-5,3,18.0,<music21.chord.Chord C4 A4 C#5 E5>,"[0, 3, 4, 7]","[9, 0, 1, 4]",Bachlund_Commedia_Dellarte.xml,Bachlund
-5,3 1/2,18.5,<music21.chord.Chord C4 F#4 A4 C#5>,"[0, 3, 6, 7]","[6, 9, 0, 1]",Bachlund_Commedia_Dellarte.xml,Bachlund
-5,4,19.0,<music21.chord.Chord C4 F#4 A4 C#5>,"[0, 3, 6, 7]","[6, 9, 0, 1]",Bachlund_Commedia_Dellarte.xml,Bachlund
-5,4 1/6,19.166666666666668,<music21.chord.Chord C4 D4 F4 A4>,"[0, 3, 5, 8]","[9, 0, 2, 5]",Bachlund_Commedia_Dellarte.xml,Bachlund
-5,4 1/3,19.333333333333332,<music21.chord.Chord C4 F#4 A4 C#5>,"[0, 3, 6, 7]","[6, 9, 0, 1]",Bachlund_Commedia_Dellarte.xml,Bachlund
-5,4 1/2,19.5,<music21.chord.Chord C4 G4 B4 D5>,"[0, 4, 5, 7]","[7, 11, 0, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund
-6,1,20.0,<music21.chord.Chord C4 E4 G4 B4>,"[0, 1, 5, 8]","[11, 0, 4, 7]",Bachlund_Commedia_Dellarte.xml,Bachlund
-6,1 1/2,20.5,<music21.chord.Chord C4 G4 B4 D5>,"[0, 4, 5, 7]","[7, 11, 0, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund
-6,2,21.0,<music21.chord.Chord C4 A4 C5 E5>,"[0, 3, 7]","[9, 0, 4]",Bachlund_Commedia_Dellarte.xml,Bachlund
-6,2 1/2,21.5,<music21.chord.Chord C4 B4 D5 F#5>,"[0, 1, 3, 7]","[11, 0, 2, 6]",Bachlund_Commedia_Dellarte.xml,Bachlund
-6,3,22.0,<music21.chord.Chord C4 C5 E5 G5>,"[0, 4, 7]","[0, 4, 7]",Bachlund_Commedia_Dellarte.xml,Bachlund
-6,3 1/6,22.166666666666668,<music21.chord.Chord C4 A4 C5 E5>,"[0, 3, 7]","[9, 0, 4]",Bachlund_Commedia_Dellarte.xml,Bachlund
-6,3 1/3,22.333333333333332,<music21.chord.Chord C4 C#5 E5 G5>,"[0, 1, 4, 7]","[0, 1, 4, 7]",Bachlund_Commedia_Dellarte.xml,Bachlund
-6,3 1/2,22.5,<music21.chord.Chord C4 D5 F5 A5>,"[0, 3, 5, 8]","[9, 0, 2, 5]",Bachlund_Commedia_Dellarte.xml,Bachlund
-6,4,23.0,<music21.chord.Chord C4 G5 B5 D6>,"[0, 4, 5, 7]","[7, 11, 0, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund
-6,4 1/2,23.5,<music21.chord.Chord C4 F5 A5 C6>,"[0, 4, 7]","[5, 9, 0]",Bachlund_Commedia_Dellarte.xml,Bachlund
-7,1 1/2,24.5,<music21.chord.Chord F4 A4 C5>,"[0, 4, 7]","[5, 9, 0]",Bachlund_Commedia_Dellarte.xml,Bachlund
-7,2,25.0,<music21.chord.Chord A3 C4 E4 F4 A4 C5>,"[0, 1, 5, 8]","[4, 5, 9, 0]",Bachlund_Commedia_Dellarte.xml,Bachlund
-8,1,28.0,<music21.chord.Chord F5 A5 C6>,"[0, 4, 7]","[5, 9, 0]",Bachlund_Commedia_Dellarte.xml,Bachlund
-8,4 3/4,31.75,<music21.chord.Chord E6>,[0],[4],Bachlund_Commedia_Dellarte.xml,Bachlund
-9,1,32.0,<music21.chord.Chord G5 B5 D6>,"[0, 4, 7]","[7, 11, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund
-9,1 1/2,32.5,<music21.chord.Chord F4 A4 C5 G5 B5 D6>,"[0, 2, 4, 6, 7, 9]","[5, 7, 9, 11, 0, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund
-9,2,33.0,<music21.chord.Chord A3 C4 E4 F4 A4 C5 G5 B5 D6>,"[0, 1, 3, 5, 6, 8, 10]","[11, 0, 2, 4, 5, 7, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund
-9,4 3/4,35.75,<music21.chord.Chord A3 C4 E4 F4 A4 C5 B5>,"[0, 1, 5, 7, 8]","[4, 5, 9, 11, 0]",Bachlund_Commedia_Dellarte.xml,Bachlund
-10,1,36.0,<music21.chord.Chord D5 F5 A5>,"[0, 3, 7]","[2, 5, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund
-10,1 1/2,36.5,<music21.chord.Chord C4 E4 G4 D5 F5 A5>,"[0, 2, 4, 5, 7, 9]","[0, 2, 4, 5, 7, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund
-10,2,37.0,<music21.chord.Chord F3 A3 C4 E4 G4 D5 F5 A5>,"[0, 2, 4, 5, 7, 9]","[0, 2, 4, 5, 7, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund
-10,4,39.0,<music21.chord.Chord G3 B3 C4 D4 E4 G4 C5 E5 G5>,"[0, 1, 3, 5, 8]","[11, 0, 2, 4, 7]",Bachlund_Commedia_Dellarte.xml,Bachlund
-10,4 1/2,39.5,<music21.chord.Chord G3 B3 C4 D4 E4 G4>,"[0, 1, 3, 5, 8]","[11, 0, 2, 4, 7]",Bachlund_Commedia_Dellarte.xml,Bachlund
-11,1,40.0,<music21.chord.Chord F3 A3 C4 A4 C#5 E5>,"[0, 3, 4, 7, 8]","[9, 0, 1, 4, 5]",Bachlund_Commedia_Dellarte.xml,Bachlund
-11,3,42.0,<music21.chord.Chord D3 F#3 A3 F4 A4 C5>,"[0, 3, 5, 8, 9]","[9, 0, 2, 5, 6]",Bachlund_Commedia_Dellarte.xml,Bachlund
-12,1,44.0,<music21.chord.Chord F3 A3 C4 D5 F5 A5>,"[0, 3, 5, 8]","[9, 0, 2, 5]",Bachlund_Commedia_Dellarte.xml,Bachlund
-12,3,46.0,<music21.chord.Chord D4 F4 A4 A5 C6 E6>,"[0, 3, 5, 7, 8]","[9, 0, 2, 4, 5]",Bachlund_Commedia_Dellarte.xml,Bachlund
-12,4 1/2,47.5,<music21.chord.Chord D4 F4 A4 C6>,"[0, 3, 5, 8]","[9, 0, 2, 5]",Bachlund_Commedia_Dellarte.xml,Bachlund
-12,4 2/3,47.666666666666664,<music21.chord.Chord D4 F4 A4 A5>,"[0, 3, 7]","[2, 5, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund
-12,4 5/6,47.833333333333336,<music21.chord.Chord D4 F4 A4 F5>,"[0, 3, 7]","[2, 5, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund
-13,1,48.0,<music21.chord.Chord B3 D4 F#4 G4 B4 D5>,"[0, 1, 5, 8]","[6, 7, 11, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund
-14,1,52.0,<music21.chord.Chord A4 C5 D#5 E5>,"[0, 3, 6, 7]","[9, 0, 3, 4]",Bachlund_Commedia_Dellarte.xml,Bachlund
-14,1 1/2,52.5,<music21.chord.Chord F4 A4 B4 C#5>,"[0, 2, 4, 8]","[9, 11, 1, 5]",Bachlund_Commedia_Dellarte.xml,Bachlund
-14,2,53.0,<music21.chord.Chord D5 F5 A5>,"[0, 3, 7]","[2, 5, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund
-14,2 1/2,53.5,<music21.chord.Chord C5 E5 G5>,"[0, 4, 7]","[0, 4, 7]",Bachlund_Commedia_Dellarte.xml,Bachlund
-14,3,54.0,<music21.chord.Chord B4 D5 F5>,"[0, 3, 6]","[11, 2, 5]",Bachlund_Commedia_Dellarte.xml,Bachlund
-14,3 1/2,54.5,<music21.chord.Chord A4 C5 E5>,"[0, 3, 7]","[9, 0, 4]",Bachlund_Commedia_Dellarte.xml,Bachlund
-14,4,55.0,<music21.chord.Chord G4 B4 D5>,"[0, 4, 7]","[7, 11, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund
-14,4 1/2,55.5,<music21.chord.Chord F4 A4 C5>,"[0, 4, 7]","[5, 9, 0]",Bachlund_Commedia_Dellarte.xml,Bachlund
-15,1,56.0,<music21.chord.Chord F4 A4 C#5>,"[0, 4, 8]","[1, 5, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund
-15,1 1/6,56.166666666666664,<music21.chord.Chord D4 F4 A4>,"[0, 3, 7]","[2, 5, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund
-15,1 1/3,56.333333333333336,<music21.chord.Chord F#4 A4 C#5>,"[0, 3, 7]","[6, 9, 1]",Bachlund_Commedia_Dellarte.xml,Bachlund
-15,1 1/2,56.5,<music21.chord.Chord C4 G4 B4 D5>,"[0, 4, 5, 7]","[7, 11, 0, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund
-15,2,57.0,<music21.chord.Chord C4 E4 G4 B4>,"[0, 1, 5, 8]","[11, 0, 4, 7]",Bachlund_Commedia_Dellarte.xml,Bachlund
-15,2 1/2,57.5,<music21.chord.Chord C4 G4 B4 D5>,"[0, 4, 5, 7]","[7, 11, 0, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund
-15,3,58.0,<music21.chord.Chord C4 A4 C5 E5>,"[0, 3, 7]","[9, 0, 4]",Bachlund_Commedia_Dellarte.xml,Bachlund
-15,3 1/2,58.5,<music21.chord.Chord C4 B4 D5 F#5>,"[0, 1, 3, 7]","[11, 0, 2, 6]",Bachlund_Commedia_Dellarte.xml,Bachlund
-15,4,59.0,<music21.chord.Chord C4 C5 E5 G5>,"[0, 4, 7]","[0, 4, 7]",Bachlund_Commedia_Dellarte.xml,Bachlund
-15,4 1/6,59.166666666666664,<music21.chord.Chord C4 A4 C5 E5>,"[0, 3, 7]","[9, 0, 4]",Bachlund_Commedia_Dellarte.xml,Bachlund
-15,4 1/3,59.333333333333336,<music21.chord.Chord C4 C5 E5 G5>,"[0, 4, 7]","[0, 4, 7]",Bachlund_Commedia_Dellarte.xml,Bachlund
-15,4 1/2,59.5,<music21.chord.Chord C4 D5 F5 A5>,"[0, 3, 5, 8]","[9, 0, 2, 5]",Bachlund_Commedia_Dellarte.xml,Bachlund
-16,1,60.0,<music21.chord.Chord C4 G5 B5 D6>,"[0, 4, 5, 7]","[7, 11, 0, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund
-16,1 1/2,60.5,<music21.chord.Chord C4 F5 A5 C6>,"[0, 4, 7]","[5, 9, 0]",Bachlund_Commedia_Dellarte.xml,Bachlund
-16,2,61.0,<music21.chord.Chord C4 A5 C6 E6>,"[0, 3, 7]","[9, 0, 4]",Bachlund_Commedia_Dellarte.xml,Bachlund
-16,2 1/2,61.5,<music21.chord.Chord C4 G5 B5 D6>,"[0, 4, 5, 7]","[7, 11, 0, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund
-16,3,62.0,<music21.chord.Chord F5 G5>,"[0, 2]","[5, 7]",Bachlund_Commedia_Dellarte.xml,Bachlund
-16,3 1/2,62.5,<music21.chord.Chord D4 F#4 A4 F5 G5>,"[0, 3, 4, 5, 7]","[2, 5, 6, 7, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund
-17,1,64.0,<music21.chord.Chord F4 A4 C#5>,"[0, 4, 8]","[1, 5, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund
-17,1 1/2,64.5,<music21.chord.Chord E4 G4 B4>,"[0, 3, 7]","[4, 7, 11]",Bachlund_Commedia_Dellarte.xml,Bachlund
-17,2,65.0,<music21.chord.Chord F4 A4 C#5>,"[0, 4, 8]","[1, 5, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund
-17,2 1/2,65.5,<music21.chord.Chord C4 E4 G4>,"[0, 4, 7]","[0, 4, 7]",Bachlund_Commedia_Dellarte.xml,Bachlund
-17,3,66.0,<music21.chord.Chord E3 G3 B3 C4 E4 G4>,"[0, 1, 5, 8]","[11, 0, 4, 7]",Bachlund_Commedia_Dellarte.xml,Bachlund
-18,1,68.0,<music21.chord.Chord F4 A4 C#5>,"[0, 4, 8]","[1, 5, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund
-18,1 1/6,68.16666666666667,<music21.chord.Chord D4 F4 A4>,"[0, 3, 7]","[2, 5, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund
-18,1 1/3,68.33333333333333,<music21.chord.Chord F#4 A4 C#5>,"[0, 3, 7]","[6, 9, 1]",Bachlund_Commedia_Dellarte.xml,Bachlund
-18,1 1/2,68.5,<music21.chord.Chord G4 B4 D5>,"[0, 4, 7]","[7, 11, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund
-18,2,69.0,<music21.chord.Chord E4 G4 B4>,"[0, 3, 7]","[4, 7, 11]",Bachlund_Commedia_Dellarte.xml,Bachlund
-18,2 1/2,69.5,<music21.chord.Chord G4 B4 D5>,"[0, 4, 7]","[7, 11, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund
-18,3,70.0,<music21.chord.Chord A4 C5 E5>,"[0, 3, 7]","[9, 0, 4]",Bachlund_Commedia_Dellarte.xml,Bachlund
-18,3 1/2,70.5,<music21.chord.Chord F4 A4 C5>,"[0, 4, 7]","[5, 9, 0]",Bachlund_Commedia_Dellarte.xml,Bachlund
-18,4,71.0,<music21.chord.Chord A3 C4 E4 F4 A4 C5>,"[0, 1, 5, 8]","[4, 5, 9, 0]",Bachlund_Commedia_Dellarte.xml,Bachlund
-19,1,72.0,<music21.chord.Chord A3 C4 E4 F4 A4 C5>,"[0, 1, 5, 8]","[4, 5, 9, 0]",Bachlund_Commedia_Dellarte.xml,Bachlund
-19,2,73.0,<music21.chord.Chord G3 B3 D4 D5 F#5 A5>,"[0, 1, 3, 5, 8]","[6, 7, 9, 11, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund
-20,1,76.0,<music21.chord.Chord F3 A3 C4 A5 C6 E6>,"[0, 1, 5, 8]","[4, 5, 9, 0]",Bachlund_Commedia_Dellarte.xml,Bachlund
-21,1,80.0,<music21.chord.Chord B5 E6 G6>,"[0, 3, 7]","[4, 7, 11]",Bachlund_Commedia_Dellarte.xml,Bachlund
-22,1,84.0,<music21.chord.Chord A3 C4 D#4 E4>,"[0, 3, 6, 7]","[9, 0, 3, 4]",Bachlund_Commedia_Dellarte.xml,Bachlund
-22,1 1/2,84.5,<music21.chord.Chord F#3 A3 B3 C#4>,"[0, 3, 5, 7]","[6, 9, 11, 1]",Bachlund_Commedia_Dellarte.xml,Bachlund
-22,2,85.0,<music21.chord.Chord D4 F4 A4>,"[0, 3, 7]","[2, 5, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund
-22,2 1/2,85.5,<music21.chord.Chord C4 E4 G4>,"[0, 4, 7]","[0, 4, 7]",Bachlund_Commedia_Dellarte.xml,Bachlund
-22,3,86.0,<music21.chord.Chord B3 D4 F4>,"[0, 3, 6]","[11, 2, 5]",Bachlund_Commedia_Dellarte.xml,Bachlund
-22,3 1/2,86.5,<music21.chord.Chord A3 C4 E4>,"[0, 3, 7]","[9, 0, 4]",Bachlund_Commedia_Dellarte.xml,Bachlund
-22,4,87.0,<music21.chord.Chord G3 B3 D4>,"[0, 4, 7]","[7, 11, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund
-22,4 1/2,87.5,<music21.chord.Chord F3 A3 C4>,"[0, 4, 7]","[5, 9, 0]",Bachlund_Commedia_Dellarte.xml,Bachlund
-23,1 1/2,88.5,<music21.chord.Chord B5 E6 G6>,"[0, 3, 7]","[4, 7, 11]",Bachlund_Commedia_Dellarte.xml,Bachlund
-23,2,89.0,<music21.chord.Chord B5 E6 G6>,"[0, 3, 7]","[4, 7, 11]",Bachlund_Commedia_Dellarte.xml,Bachlund
-24,1,92.0,<music21.chord.Chord F3 A3 C4 A5 C6 E6>,"[0, 1, 5, 8]","[4, 5, 9, 0]",Bachlund_Commedia_Dellarte.xml,Bachlund
-24,4 3/4,95.75,<music21.chord.Chord F3 A3 C4 C6>,"[0, 4, 7]","[5, 9, 0]",Bachlund_Commedia_Dellarte.xml,Bachlund
-25,1,96.0,<music21.chord.Chord G3 B3 D4 D5 F#5 A5>,"[0, 1, 3, 5, 8]","[6, 7, 9, 11, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund
-25,4,99.0,<music21.chord.Chord A3 C4 E4 F4 A4 C5>,"[0, 1, 5, 8]","[4, 5, 9, 0]",Bachlund_Commedia_Dellarte.xml,Bachlund
-26,1,100.0,<music21.chord.Chord A3 C4 E4 F4 A4 C5>,"[0, 1, 5, 8]","[4, 5, 9, 0]",Bachlund_Commedia_Dellarte.xml,Bachlund
-26,2,101.0,<music21.chord.Chord A3 C4 E4 F4 A4 C5>,"[0, 1, 5, 8]","[4, 5, 9, 0]",Bachlund_Commedia_Dellarte.xml,Bachlund
-26,2 1/2,101.5,<music21.chord.Chord A4 C#5 E5>,"[0, 4, 7]","[9, 1, 4]",Bachlund_Commedia_Dellarte.xml,Bachlund
-26,3,102.0,<music21.chord.Chord G4 B4 D5>,"[0, 4, 7]","[7, 11, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund
-26,3 1/2,102.5,<music21.chord.Chord E4 G4 B4>,"[0, 3, 7]","[4, 7, 11]",Bachlund_Commedia_Dellarte.xml,Bachlund
-26,4,103.0,<music21.chord.Chord G4 B4 D5>,"[0, 4, 7]","[7, 11, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund
-26,4 1/3,103.33333333333333,<music21.chord.Chord F#4 A4 C#5>,"[0, 3, 7]","[6, 9, 1]",Bachlund_Commedia_Dellarte.xml,Bachlund
-26,4 1/2,103.5,<music21.chord.Chord D4 F4 A4>,"[0, 3, 7]","[2, 5, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund
-26,4 3/4,103.75,<music21.chord.Chord F#4 A4 C#5>,"[0, 3, 7]","[6, 9, 1]",Bachlund_Commedia_Dellarte.xml,Bachlund
-27,1,104.0,<music21.chord.Chord E3 G3 B3 C4 E4 G4>,"[0, 1, 5, 8]","[11, 0, 4, 7]",Bachlund_Commedia_Dellarte.xml,Bachlund
-27,3,106.0,<music21.chord.Chord E3 G3 B3 C4 E4 G4>,"[0, 1, 5, 8]","[11, 0, 4, 7]",Bachlund_Commedia_Dellarte.xml,Bachlund
-27,3 1/2,106.5,<music21.chord.Chord F4 A4 C#5>,"[0, 4, 8]","[1, 5, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund
-27,4,107.0,<music21.chord.Chord E4 G4 B4>,"[0, 3, 7]","[4, 7, 11]",Bachlund_Commedia_Dellarte.xml,Bachlund
-27,4 1/2,107.5,<music21.chord.Chord F4 A4 C#5>,"[0, 4, 8]","[1, 5, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund
-28,1,108.0,<music21.chord.Chord D4 F#4 A4>,"[0, 4, 7]","[2, 6, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund
-28,1 1/2,108.5,<music21.chord.Chord D4 F#4 A4 B4 D5 F#5>,"[0, 3, 5, 8]","[6, 9, 11, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund
-28,2,109.0,<music21.chord.Chord D4 F#4 A4 F#5 G5 B5 D6>,"[0, 1, 3, 5, 8]","[6, 7, 9, 11, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund
-28,3,110.0,<music21.chord.Chord C4 D4 G5 B5 D6>,"[0, 4, 5, 7]","[7, 11, 0, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund
-28,3 1/2,110.5,<music21.chord.Chord C4 A5 C6 E6>,"[0, 3, 7]","[9, 0, 4]",Bachlund_Commedia_Dellarte.xml,Bachlund
-28,4,111.0,<music21.chord.Chord C4 F5 A5 C6>,"[0, 4, 7]","[5, 9, 0]",Bachlund_Commedia_Dellarte.xml,Bachlund
-28,4 1/2,111.5,<music21.chord.Chord C4 G5 B5 D6>,"[0, 4, 5, 7]","[7, 11, 0, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund
-29,1,112.0,<music21.chord.Chord C4 D5 F5 A5>,"[0, 3, 5, 8]","[9, 0, 2, 5]",Bachlund_Commedia_Dellarte.xml,Bachlund
-29,1 1/3,112.33333333333333,<music21.chord.Chord C4 C5 E5 G5>,"[0, 4, 7]","[0, 4, 7]",Bachlund_Commedia_Dellarte.xml,Bachlund
-29,1 1/2,112.5,<music21.chord.Chord C4 A4 C5 E5>,"[0, 3, 7]","[9, 0, 4]",Bachlund_Commedia_Dellarte.xml,Bachlund
-29,1 3/4,112.75,<music21.chord.Chord C4 C5 E5 G5>,"[0, 4, 7]","[0, 4, 7]",Bachlund_Commedia_Dellarte.xml,Bachlund
-29,2,113.0,<music21.chord.Chord C4 B4 D5 F#5>,"[0, 1, 3, 7]","[11, 0, 2, 6]",Bachlund_Commedia_Dellarte.xml,Bachlund
-29,2 1/2,113.5,<music21.chord.Chord C4 A4 C5 E5>,"[0, 3, 7]","[9, 0, 4]",Bachlund_Commedia_Dellarte.xml,Bachlund
-29,3,114.0,<music21.chord.Chord C4 G4 B4 D5>,"[0, 4, 5, 7]","[7, 11, 0, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund
-29,3 1/2,114.5,<music21.chord.Chord C4 E4 G4 B4>,"[0, 1, 5, 8]","[11, 0, 4, 7]",Bachlund_Commedia_Dellarte.xml,Bachlund
-29,4,115.0,<music21.chord.Chord C4 G4 B4 D5>,"[0, 4, 5, 7]","[7, 11, 0, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund
-29,4 1/3,115.33333333333333,<music21.chord.Chord C4 F4 A4 C#5>,"[0, 4, 7, 8]","[5, 9, 0, 1]",Bachlund_Commedia_Dellarte.xml,Bachlund
-29,4 1/2,115.5,<music21.chord.Chord C4 D4 F4 A4>,"[0, 3, 5, 8]","[9, 0, 2, 5]",Bachlund_Commedia_Dellarte.xml,Bachlund
-29,4 3/4,115.75,<music21.chord.Chord C4 F4 A4 C#5>,"[0, 4, 7, 8]","[5, 9, 0, 1]",Bachlund_Commedia_Dellarte.xml,Bachlund
-30,1,116.0,<music21.chord.Chord F4 A4 C5>,"[0, 4, 7]","[5, 9, 0]",Bachlund_Commedia_Dellarte.xml,Bachlund
-30,1 1/2,116.5,<music21.chord.Chord G4 B4 D5>,"[0, 4, 7]","[7, 11, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund
-30,2,117.0,<music21.chord.Chord A4 C5 E5>,"[0, 3, 7]","[9, 0, 4]",Bachlund_Commedia_Dellarte.xml,Bachlund
-30,2 1/2,117.5,<music21.chord.Chord B4 D5 F5>,"[0, 3, 6]","[11, 2, 5]",Bachlund_Commedia_Dellarte.xml,Bachlund
-30,3,118.0,<music21.chord.Chord C5 E5 G5>,"[0, 4, 7]","[0, 4, 7]",Bachlund_Commedia_Dellarte.xml,Bachlund
-30,3 1/2,118.5,<music21.chord.Chord D5 F5 A5>,"[0, 3, 7]","[2, 5, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund
-30,4,119.0,<music21.chord.Chord F4 A4 C#5>,"[0, 4, 8]","[1, 5, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund
-30,4 1/2,119.5,<music21.chord.Chord A4 C5 D#5 E5>,"[0, 3, 6, 7]","[9, 0, 3, 4]",Bachlund_Commedia_Dellarte.xml,Bachlund
-31,1,120.0,<music21.chord.Chord B3 D4 F#4 A4 C5 E5>,"[0, 2, 3, 5, 7, 9]","[9, 11, 0, 2, 4, 6]",Bachlund_Commedia_Dellarte.xml,Bachlund
-32,1,124.0,<music21.chord.Chord F4 A4 C#5>,"[0, 4, 8]","[1, 5, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund
-32,1 1/2,124.5,<music21.chord.Chord E4 G4 B4>,"[0, 3, 7]","[4, 7, 11]",Bachlund_Commedia_Dellarte.xml,Bachlund
-32,2,125.0,<music21.chord.Chord F4 A4 C#5>,"[0, 4, 8]","[1, 5, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund
-32,2 1/2,125.5,<music21.chord.Chord C4 E4 G4>,"[0, 4, 7]","[0, 4, 7]",Bachlund_Commedia_Dellarte.xml,Bachlund
-32,3,126.0,<music21.chord.Chord C2 F#3 C4 E4 G4>,"[0, 4, 6, 7]","[0, 4, 6, 7]",Bachlund_Commedia_Dellarte.xml,Bachlund
+offset,Chord,NormalForm,PCsInNormalForm,file,Composer,measureNumber,beatNumber
+0.0,<music21.chord.Chord A4 C5 D#5 E5>,"[0, 3, 6, 7]","[9, 0, 3, 4]",Bachlund_Commedia_Dellarte.xml,Bachlund,1,1
+0.5,<music21.chord.Chord F4 A4 B4 C#5>,"[0, 2, 4, 8]","[9, 11, 1, 5]",Bachlund_Commedia_Dellarte.xml,Bachlund,1,1 1/2
+1.0,<music21.chord.Chord D5 F5 A5>,"[0, 3, 7]","[2, 5, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund,1,2
+1.5,<music21.chord.Chord C5 E5 G5>,"[0, 4, 7]","[0, 4, 7]",Bachlund_Commedia_Dellarte.xml,Bachlund,1,2 1/2
+2.0,<music21.chord.Chord B4 D5 F5>,"[0, 3, 6]","[11, 2, 5]",Bachlund_Commedia_Dellarte.xml,Bachlund,1,3
+2.5,<music21.chord.Chord A4 C5 E5>,"[0, 3, 7]","[9, 0, 4]",Bachlund_Commedia_Dellarte.xml,Bachlund,1,3 1/2
+3.0,<music21.chord.Chord G4 B4 D5>,"[0, 4, 7]","[7, 11, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund,1,4
+3.5,<music21.chord.Chord F4 A4 C5>,"[0, 4, 7]","[5, 9, 0]",Bachlund_Commedia_Dellarte.xml,Bachlund,1,4 1/2
+4.0,<music21.chord.Chord F4 A4 C#5>,"[0, 4, 8]","[1, 5, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund,2,1
+4.5,<music21.chord.Chord E4 G4 B4>,"[0, 3, 7]","[4, 7, 11]",Bachlund_Commedia_Dellarte.xml,Bachlund,2,1 1/2
+5.0,<music21.chord.Chord F4 A4 C#5>,"[0, 4, 8]","[1, 5, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund,2,2
+5.5,<music21.chord.Chord C4 E4 G4>,"[0, 4, 7]","[0, 4, 7]",Bachlund_Commedia_Dellarte.xml,Bachlund,2,2 1/2
+6.0,<music21.chord.Chord F4 A4 C#5>,"[0, 4, 8]","[1, 5, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund,2,3
+6.5,<music21.chord.Chord D4 F4 A4>,"[0, 3, 7]","[2, 5, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund,2,3 1/2
+7.0,<music21.chord.Chord F#4 A4 C#5>,"[0, 3, 7]","[6, 9, 1]",Bachlund_Commedia_Dellarte.xml,Bachlund,2,4
+7.5,<music21.chord.Chord E4 G4 B4>,"[0, 3, 7]","[4, 7, 11]",Bachlund_Commedia_Dellarte.xml,Bachlund,2,4 1/2
+8.0,<music21.chord.Chord A4 C5 D#5 E5>,"[0, 3, 6, 7]","[9, 0, 3, 4]",Bachlund_Commedia_Dellarte.xml,Bachlund,3,1
+8.5,<music21.chord.Chord G4 B4 C#5 D5>,"[0, 4, 6, 7]","[7, 11, 1, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund,3,1 1/2
+9.0,<music21.chord.Chord D5 F5 G#5 A5>,"[0, 3, 6, 7]","[2, 5, 8, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund,3,2
+9.5,<music21.chord.Chord C5 E5 G5>,"[0, 4, 7]","[0, 4, 7]",Bachlund_Commedia_Dellarte.xml,Bachlund,3,2 1/2
+10.0,<music21.chord.Chord B4 D5 F5 G5>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Bachlund_Commedia_Dellarte.xml,Bachlund,3,3
+10.5,<music21.chord.Chord A4 C5 E5>,"[0, 3, 7]","[9, 0, 4]",Bachlund_Commedia_Dellarte.xml,Bachlund,3,3 1/2
+11.0,<music21.chord.Chord G4 B4 D5>,"[0, 4, 7]","[7, 11, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund,3,4
+11.5,<music21.chord.Chord F4 A4 C5>,"[0, 4, 7]","[5, 9, 0]",Bachlund_Commedia_Dellarte.xml,Bachlund,3,4 1/2
+12.0,<music21.chord.Chord F#4 A4 C#5>,"[0, 3, 7]","[6, 9, 1]",Bachlund_Commedia_Dellarte.xml,Bachlund,4,1
+12.5,<music21.chord.Chord E4 G4 B4>,"[0, 3, 7]","[4, 7, 11]",Bachlund_Commedia_Dellarte.xml,Bachlund,4,1 1/2
+13.0,<music21.chord.Chord F#4 A4 C#5>,"[0, 3, 7]","[6, 9, 1]",Bachlund_Commedia_Dellarte.xml,Bachlund,4,2
+13.5,<music21.chord.Chord C4 E4 G4>,"[0, 4, 7]","[0, 4, 7]",Bachlund_Commedia_Dellarte.xml,Bachlund,4,2 1/2
+14.0,<music21.chord.Chord F#4 A4 C#5>,"[0, 3, 7]","[6, 9, 1]",Bachlund_Commedia_Dellarte.xml,Bachlund,4,3
+14.5,<music21.chord.Chord A3 C4 E4>,"[0, 3, 7]","[9, 0, 4]",Bachlund_Commedia_Dellarte.xml,Bachlund,4,3 1/2
+15.0,<music21.chord.Chord F#4 A4 C#5>,"[0, 3, 7]","[6, 9, 1]",Bachlund_Commedia_Dellarte.xml,Bachlund,4,4
+15.5,<music21.chord.Chord D4 F4 A4>,"[0, 3, 7]","[2, 5, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund,4,4 1/2
+16.0,<music21.chord.Chord F4 A4 C#5>,"[0, 4, 8]","[1, 5, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund,5,1
+16.166666666666700,<music21.chord.Chord D4 F4 A4>,"[0, 3, 7]","[2, 5, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund,5,1 1/6
+16.333333333333300,<music21.chord.Chord F#4 A4 C#5>,"[0, 3, 7]","[6, 9, 1]",Bachlund_Commedia_Dellarte.xml,Bachlund,5,1 1/3
+16.5,<music21.chord.Chord G4 B4 D5>,"[0, 4, 7]","[7, 11, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund,5,1 1/2
+17.0,<music21.chord.Chord C4 E4 G4 B4>,"[0, 1, 5, 8]","[11, 0, 4, 7]",Bachlund_Commedia_Dellarte.xml,Bachlund,5,2
+17.5,<music21.chord.Chord C4 G4 B4 D5>,"[0, 4, 5, 7]","[7, 11, 0, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund,5,2 1/2
+18.0,<music21.chord.Chord C4 A4 C#5 E5>,"[0, 3, 4, 7]","[9, 0, 1, 4]",Bachlund_Commedia_Dellarte.xml,Bachlund,5,3
+18.5,<music21.chord.Chord C4 F#4 A4 C#5>,"[0, 3, 6, 7]","[6, 9, 0, 1]",Bachlund_Commedia_Dellarte.xml,Bachlund,5,3 1/2
+19.0,<music21.chord.Chord C4 F#4 A4 C#5>,"[0, 3, 6, 7]","[6, 9, 0, 1]",Bachlund_Commedia_Dellarte.xml,Bachlund,5,4
+19.166666666666700,<music21.chord.Chord C4 D4 F4 A4>,"[0, 3, 5, 8]","[9, 0, 2, 5]",Bachlund_Commedia_Dellarte.xml,Bachlund,5,4 1/6
+19.333333333333300,<music21.chord.Chord C4 F#4 A4 C#5>,"[0, 3, 6, 7]","[6, 9, 0, 1]",Bachlund_Commedia_Dellarte.xml,Bachlund,5,4 1/3
+19.5,<music21.chord.Chord C4 G4 B4 D5>,"[0, 4, 5, 7]","[7, 11, 0, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund,5,4 1/2
+20.0,<music21.chord.Chord C4 E4 G4 B4>,"[0, 1, 5, 8]","[11, 0, 4, 7]",Bachlund_Commedia_Dellarte.xml,Bachlund,6,1
+20.5,<music21.chord.Chord C4 G4 B4 D5>,"[0, 4, 5, 7]","[7, 11, 0, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund,6,1 1/2
+21.0,<music21.chord.Chord C4 A4 C5 E5>,"[0, 3, 7]","[9, 0, 4]",Bachlund_Commedia_Dellarte.xml,Bachlund,6,2
+21.5,<music21.chord.Chord C4 B4 D5 F#5>,"[0, 1, 3, 7]","[11, 0, 2, 6]",Bachlund_Commedia_Dellarte.xml,Bachlund,6,2 1/2
+22.0,<music21.chord.Chord C4 C5 E5 G5>,"[0, 4, 7]","[0, 4, 7]",Bachlund_Commedia_Dellarte.xml,Bachlund,6,3
+22.166666666666700,<music21.chord.Chord C4 A4 C5 E5>,"[0, 3, 7]","[9, 0, 4]",Bachlund_Commedia_Dellarte.xml,Bachlund,6,3 1/6
+22.333333333333300,<music21.chord.Chord C4 C#5 E5 G5>,"[0, 1, 4, 7]","[0, 1, 4, 7]",Bachlund_Commedia_Dellarte.xml,Bachlund,6,3 1/3
+22.5,<music21.chord.Chord C4 D5 F5 A5>,"[0, 3, 5, 8]","[9, 0, 2, 5]",Bachlund_Commedia_Dellarte.xml,Bachlund,6,3 1/2
+23.0,<music21.chord.Chord C4 G5 B5 D6>,"[0, 4, 5, 7]","[7, 11, 0, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund,6,4
+23.5,<music21.chord.Chord C4 F5 A5 C6>,"[0, 4, 7]","[5, 9, 0]",Bachlund_Commedia_Dellarte.xml,Bachlund,6,4 1/2
+24.5,<music21.chord.Chord F4 A4 C5>,"[0, 4, 7]","[5, 9, 0]",Bachlund_Commedia_Dellarte.xml,Bachlund,7,1 1/2
+25.0,<music21.chord.Chord A3 C4 E4 F4 A4 C5>,"[0, 1, 5, 8]","[4, 5, 9, 0]",Bachlund_Commedia_Dellarte.xml,Bachlund,7,2
+28.0,<music21.chord.Chord F5 A5 C6>,"[0, 4, 7]","[5, 9, 0]",Bachlund_Commedia_Dellarte.xml,Bachlund,8,1
+31.75,<music21.chord.Chord E6>,[0],[4],Bachlund_Commedia_Dellarte.xml,Bachlund,8,4 3/4
+32.0,<music21.chord.Chord G5 B5 D6>,"[0, 4, 7]","[7, 11, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund,9,1
+32.5,<music21.chord.Chord F4 A4 C5 G5 B5 D6>,"[0, 2, 4, 6, 7, 9]","[5, 7, 9, 11, 0, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund,9,1 1/2
+33.0,<music21.chord.Chord A3 C4 E4 F4 A4 C5 G5 B5 D6>,"[0, 1, 3, 5, 6, 8, 10]","[11, 0, 2, 4, 5, 7, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund,9,2
+35.75,<music21.chord.Chord A3 C4 E4 F4 A4 C5 B5>,"[0, 1, 5, 7, 8]","[4, 5, 9, 11, 0]",Bachlund_Commedia_Dellarte.xml,Bachlund,9,4 3/4
+36.0,<music21.chord.Chord D5 F5 A5>,"[0, 3, 7]","[2, 5, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund,10,1
+36.5,<music21.chord.Chord C4 E4 G4 D5 F5 A5>,"[0, 2, 4, 5, 7, 9]","[0, 2, 4, 5, 7, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund,10,1 1/2
+37.0,<music21.chord.Chord F3 A3 C4 E4 G4 D5 F5 A5>,"[0, 2, 4, 5, 7, 9]","[0, 2, 4, 5, 7, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund,10,2
+39.0,<music21.chord.Chord G3 B3 C4 D4 E4 G4 C5 E5 G5>,"[0, 1, 3, 5, 8]","[11, 0, 2, 4, 7]",Bachlund_Commedia_Dellarte.xml,Bachlund,10,4
+39.5,<music21.chord.Chord G3 B3 C4 D4 E4 G4>,"[0, 1, 3, 5, 8]","[11, 0, 2, 4, 7]",Bachlund_Commedia_Dellarte.xml,Bachlund,10,4 1/2
+40.0,<music21.chord.Chord F3 A3 C4 A4 C#5 E5>,"[0, 3, 4, 7, 8]","[9, 0, 1, 4, 5]",Bachlund_Commedia_Dellarte.xml,Bachlund,11,1
+42.0,<music21.chord.Chord D3 F#3 A3 F4 A4 C5>,"[0, 3, 5, 8, 9]","[9, 0, 2, 5, 6]",Bachlund_Commedia_Dellarte.xml,Bachlund,11,3
+44.0,<music21.chord.Chord F3 A3 C4 D5 F5 A5>,"[0, 3, 5, 8]","[9, 0, 2, 5]",Bachlund_Commedia_Dellarte.xml,Bachlund,12,1
+46.0,<music21.chord.Chord D4 F4 A4 A5 C6 E6>,"[0, 3, 5, 7, 8]","[9, 0, 2, 4, 5]",Bachlund_Commedia_Dellarte.xml,Bachlund,12,3
+47.5,<music21.chord.Chord D4 F4 A4 C6>,"[0, 3, 5, 8]","[9, 0, 2, 5]",Bachlund_Commedia_Dellarte.xml,Bachlund,12,4 1/2
+47.666666666666700,<music21.chord.Chord D4 F4 A4 A5>,"[0, 3, 7]","[2, 5, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund,12,4 2/3
+47.833333333333300,<music21.chord.Chord D4 F4 A4 F5>,"[0, 3, 7]","[2, 5, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund,12,4 5/6
+48.0,<music21.chord.Chord B3 D4 F#4 G4 B4 D5>,"[0, 1, 5, 8]","[6, 7, 11, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund,13,1
+52.0,<music21.chord.Chord A4 C5 D#5 E5>,"[0, 3, 6, 7]","[9, 0, 3, 4]",Bachlund_Commedia_Dellarte.xml,Bachlund,14,1
+52.5,<music21.chord.Chord F4 A4 B4 C#5>,"[0, 2, 4, 8]","[9, 11, 1, 5]",Bachlund_Commedia_Dellarte.xml,Bachlund,14,1 1/2
+53.0,<music21.chord.Chord D5 F5 A5>,"[0, 3, 7]","[2, 5, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund,14,2
+53.5,<music21.chord.Chord C5 E5 G5>,"[0, 4, 7]","[0, 4, 7]",Bachlund_Commedia_Dellarte.xml,Bachlund,14,2 1/2
+54.0,<music21.chord.Chord B4 D5 F5>,"[0, 3, 6]","[11, 2, 5]",Bachlund_Commedia_Dellarte.xml,Bachlund,14,3
+54.5,<music21.chord.Chord A4 C5 E5>,"[0, 3, 7]","[9, 0, 4]",Bachlund_Commedia_Dellarte.xml,Bachlund,14,3 1/2
+55.0,<music21.chord.Chord G4 B4 D5>,"[0, 4, 7]","[7, 11, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund,14,4
+55.5,<music21.chord.Chord F4 A4 C5>,"[0, 4, 7]","[5, 9, 0]",Bachlund_Commedia_Dellarte.xml,Bachlund,14,4 1/2
+56.0,<music21.chord.Chord F4 A4 C#5>,"[0, 4, 8]","[1, 5, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund,15,1
+56.166666666666700,<music21.chord.Chord D4 F4 A4>,"[0, 3, 7]","[2, 5, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund,15,1 1/6
+56.333333333333300,<music21.chord.Chord F#4 A4 C#5>,"[0, 3, 7]","[6, 9, 1]",Bachlund_Commedia_Dellarte.xml,Bachlund,15,1 1/3
+56.5,<music21.chord.Chord C4 G4 B4 D5>,"[0, 4, 5, 7]","[7, 11, 0, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund,15,1 1/2
+57.0,<music21.chord.Chord C4 E4 G4 B4>,"[0, 1, 5, 8]","[11, 0, 4, 7]",Bachlund_Commedia_Dellarte.xml,Bachlund,15,2
+57.5,<music21.chord.Chord C4 G4 B4 D5>,"[0, 4, 5, 7]","[7, 11, 0, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund,15,2 1/2
+58.0,<music21.chord.Chord C4 A4 C5 E5>,"[0, 3, 7]","[9, 0, 4]",Bachlund_Commedia_Dellarte.xml,Bachlund,15,3
+58.5,<music21.chord.Chord C4 B4 D5 F#5>,"[0, 1, 3, 7]","[11, 0, 2, 6]",Bachlund_Commedia_Dellarte.xml,Bachlund,15,3 1/2
+59.0,<music21.chord.Chord C4 C5 E5 G5>,"[0, 4, 7]","[0, 4, 7]",Bachlund_Commedia_Dellarte.xml,Bachlund,15,4
+59.166666666666700,<music21.chord.Chord C4 A4 C5 E5>,"[0, 3, 7]","[9, 0, 4]",Bachlund_Commedia_Dellarte.xml,Bachlund,15,4 1/6
+59.333333333333300,<music21.chord.Chord C4 C5 E5 G5>,"[0, 4, 7]","[0, 4, 7]",Bachlund_Commedia_Dellarte.xml,Bachlund,15,4 1/3
+59.5,<music21.chord.Chord C4 D5 F5 A5>,"[0, 3, 5, 8]","[9, 0, 2, 5]",Bachlund_Commedia_Dellarte.xml,Bachlund,15,4 1/2
+60.0,<music21.chord.Chord C4 G5 B5 D6>,"[0, 4, 5, 7]","[7, 11, 0, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund,16,1
+60.5,<music21.chord.Chord C4 F5 A5 C6>,"[0, 4, 7]","[5, 9, 0]",Bachlund_Commedia_Dellarte.xml,Bachlund,16,1 1/2
+61.0,<music21.chord.Chord C4 A5 C6 E6>,"[0, 3, 7]","[9, 0, 4]",Bachlund_Commedia_Dellarte.xml,Bachlund,16,2
+61.5,<music21.chord.Chord C4 G5 B5 D6>,"[0, 4, 5, 7]","[7, 11, 0, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund,16,2 1/2
+62.0,<music21.chord.Chord F5 G5>,"[0, 2]","[5, 7]",Bachlund_Commedia_Dellarte.xml,Bachlund,16,3
+62.5,<music21.chord.Chord D4 F#4 A4 F5 G5>,"[0, 3, 4, 5, 7]","[2, 5, 6, 7, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund,16,3 1/2
+64.0,<music21.chord.Chord F4 A4 C#5>,"[0, 4, 8]","[1, 5, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund,17,1
+64.5,<music21.chord.Chord E4 G4 B4>,"[0, 3, 7]","[4, 7, 11]",Bachlund_Commedia_Dellarte.xml,Bachlund,17,1 1/2
+65.0,<music21.chord.Chord F4 A4 C#5>,"[0, 4, 8]","[1, 5, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund,17,2
+65.5,<music21.chord.Chord C4 E4 G4>,"[0, 4, 7]","[0, 4, 7]",Bachlund_Commedia_Dellarte.xml,Bachlund,17,2 1/2
+66.0,<music21.chord.Chord E3 G3 B3 C4 E4 G4>,"[0, 1, 5, 8]","[11, 0, 4, 7]",Bachlund_Commedia_Dellarte.xml,Bachlund,17,3
+68.0,<music21.chord.Chord F4 A4 C#5>,"[0, 4, 8]","[1, 5, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund,18,1
+68.16666666666670,<music21.chord.Chord D4 F4 A4>,"[0, 3, 7]","[2, 5, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund,18,1 1/6
+68.33333333333330,<music21.chord.Chord F#4 A4 C#5>,"[0, 3, 7]","[6, 9, 1]",Bachlund_Commedia_Dellarte.xml,Bachlund,18,1 1/3
+68.5,<music21.chord.Chord G4 B4 D5>,"[0, 4, 7]","[7, 11, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund,18,1 1/2
+69.0,<music21.chord.Chord E4 G4 B4>,"[0, 3, 7]","[4, 7, 11]",Bachlund_Commedia_Dellarte.xml,Bachlund,18,2
+69.5,<music21.chord.Chord G4 B4 D5>,"[0, 4, 7]","[7, 11, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund,18,2 1/2
+70.0,<music21.chord.Chord A4 C5 E5>,"[0, 3, 7]","[9, 0, 4]",Bachlund_Commedia_Dellarte.xml,Bachlund,18,3
+70.5,<music21.chord.Chord F4 A4 C5>,"[0, 4, 7]","[5, 9, 0]",Bachlund_Commedia_Dellarte.xml,Bachlund,18,3 1/2
+71.0,<music21.chord.Chord A3 C4 E4 F4 A4 C5>,"[0, 1, 5, 8]","[4, 5, 9, 0]",Bachlund_Commedia_Dellarte.xml,Bachlund,18,4
+72.0,<music21.chord.Chord A3 C4 E4 F4 A4 C5>,"[0, 1, 5, 8]","[4, 5, 9, 0]",Bachlund_Commedia_Dellarte.xml,Bachlund,19,1
+73.0,<music21.chord.Chord G3 B3 D4 D5 F#5 A5>,"[0, 1, 3, 5, 8]","[6, 7, 9, 11, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund,19,2
+76.0,<music21.chord.Chord F3 A3 C4 A5 C6 E6>,"[0, 1, 5, 8]","[4, 5, 9, 0]",Bachlund_Commedia_Dellarte.xml,Bachlund,20,1
+80.0,<music21.chord.Chord B5 E6 G6>,"[0, 3, 7]","[4, 7, 11]",Bachlund_Commedia_Dellarte.xml,Bachlund,21,1
+84.0,<music21.chord.Chord A3 C4 D#4 E4>,"[0, 3, 6, 7]","[9, 0, 3, 4]",Bachlund_Commedia_Dellarte.xml,Bachlund,22,1
+84.5,<music21.chord.Chord F#3 A3 B3 C#4>,"[0, 3, 5, 7]","[6, 9, 11, 1]",Bachlund_Commedia_Dellarte.xml,Bachlund,22,1 1/2
+85.0,<music21.chord.Chord D4 F4 A4>,"[0, 3, 7]","[2, 5, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund,22,2
+85.5,<music21.chord.Chord C4 E4 G4>,"[0, 4, 7]","[0, 4, 7]",Bachlund_Commedia_Dellarte.xml,Bachlund,22,2 1/2
+86.0,<music21.chord.Chord B3 D4 F4>,"[0, 3, 6]","[11, 2, 5]",Bachlund_Commedia_Dellarte.xml,Bachlund,22,3
+86.5,<music21.chord.Chord A3 C4 E4>,"[0, 3, 7]","[9, 0, 4]",Bachlund_Commedia_Dellarte.xml,Bachlund,22,3 1/2
+87.0,<music21.chord.Chord G3 B3 D4>,"[0, 4, 7]","[7, 11, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund,22,4
+87.5,<music21.chord.Chord F3 A3 C4>,"[0, 4, 7]","[5, 9, 0]",Bachlund_Commedia_Dellarte.xml,Bachlund,22,4 1/2
+88.5,<music21.chord.Chord B5 E6 G6>,"[0, 3, 7]","[4, 7, 11]",Bachlund_Commedia_Dellarte.xml,Bachlund,23,1 1/2
+89.0,<music21.chord.Chord B5 E6 G6>,"[0, 3, 7]","[4, 7, 11]",Bachlund_Commedia_Dellarte.xml,Bachlund,23,2
+92.0,<music21.chord.Chord F3 A3 C4 A5 C6 E6>,"[0, 1, 5, 8]","[4, 5, 9, 0]",Bachlund_Commedia_Dellarte.xml,Bachlund,24,1
+95.75,<music21.chord.Chord F3 A3 C4 C6>,"[0, 4, 7]","[5, 9, 0]",Bachlund_Commedia_Dellarte.xml,Bachlund,24,4 3/4
+96.0,<music21.chord.Chord G3 B3 D4 D5 F#5 A5>,"[0, 1, 3, 5, 8]","[6, 7, 9, 11, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund,25,1
+99.0,<music21.chord.Chord A3 C4 E4 F4 A4 C5>,"[0, 1, 5, 8]","[4, 5, 9, 0]",Bachlund_Commedia_Dellarte.xml,Bachlund,25,4
+100.0,<music21.chord.Chord A3 C4 E4 F4 A4 C5>,"[0, 1, 5, 8]","[4, 5, 9, 0]",Bachlund_Commedia_Dellarte.xml,Bachlund,26,1
+101.0,<music21.chord.Chord A3 C4 E4 F4 A4 C5>,"[0, 1, 5, 8]","[4, 5, 9, 0]",Bachlund_Commedia_Dellarte.xml,Bachlund,26,2
+101.5,<music21.chord.Chord A4 C#5 E5>,"[0, 4, 7]","[9, 1, 4]",Bachlund_Commedia_Dellarte.xml,Bachlund,26,2 1/2
+102.0,<music21.chord.Chord G4 B4 D5>,"[0, 4, 7]","[7, 11, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund,26,3
+102.5,<music21.chord.Chord E4 G4 B4>,"[0, 3, 7]","[4, 7, 11]",Bachlund_Commedia_Dellarte.xml,Bachlund,26,3 1/2
+103.0,<music21.chord.Chord G4 B4 D5>,"[0, 4, 7]","[7, 11, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund,26,4
+103.33333333333300,<music21.chord.Chord F#4 A4 C#5>,"[0, 3, 7]","[6, 9, 1]",Bachlund_Commedia_Dellarte.xml,Bachlund,26,4 1/3
+103.5,<music21.chord.Chord D4 F4 A4>,"[0, 3, 7]","[2, 5, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund,26,4 1/2
+103.75,<music21.chord.Chord F#4 A4 C#5>,"[0, 3, 7]","[6, 9, 1]",Bachlund_Commedia_Dellarte.xml,Bachlund,26,4 3/4
+104.0,<music21.chord.Chord E3 G3 B3 C4 E4 G4>,"[0, 1, 5, 8]","[11, 0, 4, 7]",Bachlund_Commedia_Dellarte.xml,Bachlund,27,1
+106.0,<music21.chord.Chord E3 G3 B3 C4 E4 G4>,"[0, 1, 5, 8]","[11, 0, 4, 7]",Bachlund_Commedia_Dellarte.xml,Bachlund,27,3
+106.5,<music21.chord.Chord F4 A4 C#5>,"[0, 4, 8]","[1, 5, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund,27,3 1/2
+107.0,<music21.chord.Chord E4 G4 B4>,"[0, 3, 7]","[4, 7, 11]",Bachlund_Commedia_Dellarte.xml,Bachlund,27,4
+107.5,<music21.chord.Chord F4 A4 C#5>,"[0, 4, 8]","[1, 5, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund,27,4 1/2
+108.0,<music21.chord.Chord D4 F#4 A4>,"[0, 4, 7]","[2, 6, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund,28,1
+108.5,<music21.chord.Chord D4 F#4 A4 B4 D5 F#5>,"[0, 3, 5, 8]","[6, 9, 11, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund,28,1 1/2
+109.0,<music21.chord.Chord D4 F#4 A4 F#5 G5 B5 D6>,"[0, 1, 3, 5, 8]","[6, 7, 9, 11, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund,28,2
+110.0,<music21.chord.Chord C4 D4 G5 B5 D6>,"[0, 4, 5, 7]","[7, 11, 0, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund,28,3
+110.5,<music21.chord.Chord C4 A5 C6 E6>,"[0, 3, 7]","[9, 0, 4]",Bachlund_Commedia_Dellarte.xml,Bachlund,28,3 1/2
+111.0,<music21.chord.Chord C4 F5 A5 C6>,"[0, 4, 7]","[5, 9, 0]",Bachlund_Commedia_Dellarte.xml,Bachlund,28,4
+111.5,<music21.chord.Chord C4 G5 B5 D6>,"[0, 4, 5, 7]","[7, 11, 0, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund,28,4 1/2
+112.0,<music21.chord.Chord C4 D5 F5 A5>,"[0, 3, 5, 8]","[9, 0, 2, 5]",Bachlund_Commedia_Dellarte.xml,Bachlund,29,1
+112.33333333333300,<music21.chord.Chord C4 C5 E5 G5>,"[0, 4, 7]","[0, 4, 7]",Bachlund_Commedia_Dellarte.xml,Bachlund,29,1 1/3
+112.5,<music21.chord.Chord C4 A4 C5 E5>,"[0, 3, 7]","[9, 0, 4]",Bachlund_Commedia_Dellarte.xml,Bachlund,29,1 1/2
+112.75,<music21.chord.Chord C4 C5 E5 G5>,"[0, 4, 7]","[0, 4, 7]",Bachlund_Commedia_Dellarte.xml,Bachlund,29,1 3/4
+113.0,<music21.chord.Chord C4 B4 D5 F#5>,"[0, 1, 3, 7]","[11, 0, 2, 6]",Bachlund_Commedia_Dellarte.xml,Bachlund,29,2
+113.5,<music21.chord.Chord C4 A4 C5 E5>,"[0, 3, 7]","[9, 0, 4]",Bachlund_Commedia_Dellarte.xml,Bachlund,29,2 1/2
+114.0,<music21.chord.Chord C4 G4 B4 D5>,"[0, 4, 5, 7]","[7, 11, 0, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund,29,3
+114.5,<music21.chord.Chord C4 E4 G4 B4>,"[0, 1, 5, 8]","[11, 0, 4, 7]",Bachlund_Commedia_Dellarte.xml,Bachlund,29,3 1/2
+115.0,<music21.chord.Chord C4 G4 B4 D5>,"[0, 4, 5, 7]","[7, 11, 0, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund,29,4
+115.33333333333300,<music21.chord.Chord C4 F4 A4 C#5>,"[0, 4, 7, 8]","[5, 9, 0, 1]",Bachlund_Commedia_Dellarte.xml,Bachlund,29,4 1/3
+115.5,<music21.chord.Chord C4 D4 F4 A4>,"[0, 3, 5, 8]","[9, 0, 2, 5]",Bachlund_Commedia_Dellarte.xml,Bachlund,29,4 1/2
+115.75,<music21.chord.Chord C4 F4 A4 C#5>,"[0, 4, 7, 8]","[5, 9, 0, 1]",Bachlund_Commedia_Dellarte.xml,Bachlund,29,4 3/4
+116.0,<music21.chord.Chord F4 A4 C5>,"[0, 4, 7]","[5, 9, 0]",Bachlund_Commedia_Dellarte.xml,Bachlund,30,1
+116.5,<music21.chord.Chord G4 B4 D5>,"[0, 4, 7]","[7, 11, 2]",Bachlund_Commedia_Dellarte.xml,Bachlund,30,1 1/2
+117.0,<music21.chord.Chord A4 C5 E5>,"[0, 3, 7]","[9, 0, 4]",Bachlund_Commedia_Dellarte.xml,Bachlund,30,2
+117.5,<music21.chord.Chord B4 D5 F5>,"[0, 3, 6]","[11, 2, 5]",Bachlund_Commedia_Dellarte.xml,Bachlund,30,2 1/2
+118.0,<music21.chord.Chord C5 E5 G5>,"[0, 4, 7]","[0, 4, 7]",Bachlund_Commedia_Dellarte.xml,Bachlund,30,3
+118.5,<music21.chord.Chord D5 F5 A5>,"[0, 3, 7]","[2, 5, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund,30,3 1/2
+119.0,<music21.chord.Chord F4 A4 C#5>,"[0, 4, 8]","[1, 5, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund,30,4
+119.5,<music21.chord.Chord A4 C5 D#5 E5>,"[0, 3, 6, 7]","[9, 0, 3, 4]",Bachlund_Commedia_Dellarte.xml,Bachlund,30,4 1/2
+120.0,<music21.chord.Chord B3 D4 F#4 A4 C5 E5>,"[0, 2, 3, 5, 7, 9]","[9, 11, 0, 2, 4, 6]",Bachlund_Commedia_Dellarte.xml,Bachlund,31,1
+124.0,<music21.chord.Chord F4 A4 C#5>,"[0, 4, 8]","[1, 5, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund,32,1
+124.5,<music21.chord.Chord E4 G4 B4>,"[0, 3, 7]","[4, 7, 11]",Bachlund_Commedia_Dellarte.xml,Bachlund,32,1 1/2
+125.0,<music21.chord.Chord F4 A4 C#5>,"[0, 4, 8]","[1, 5, 9]",Bachlund_Commedia_Dellarte.xml,Bachlund,32,2
+125.5,<music21.chord.Chord C4 E4 G4>,"[0, 4, 7]","[0, 4, 7]",Bachlund_Commedia_Dellarte.xml,Bachlund,32,2 1/2
+126.0,<music21.chord.Chord C2 F#3 C4 E4 G4>,"[0, 4, 6, 7]","[0, 4, 6, 7]",Bachlund_Commedia_Dellarte.xml,Bachlund,32,3

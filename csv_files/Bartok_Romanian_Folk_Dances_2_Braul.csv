@@ -1,152 +1,152 @@
-offset,Chord,NormalForm,PCsinNormalForm,file,Phrase Boundary,Measure Number,Measure Count
-0.0,<music21.chord.Chord D4 D2>,[0],[2],Romanian Folk Dances 2 Braul D minor.mid,1,1,1
-0.125,<music21.chord.Chord D2>,[0],[2],Romanian Folk Dances 2 Braul D minor.mid,,1,1
-0.5,<music21.chord.Chord E4>,[0],[4],Romanian Folk Dances 2 Braul D minor.mid,,1,1
-1.0,<music21.chord.Chord F4 F3 A3>,"[0, 4]","[5, 9]",Romanian Folk Dances 2 Braul D minor.mid,,1,2
-1.125,<music21.chord.Chord F3 A3>,"[0, 4]","[5, 9]",Romanian Folk Dances 2 Braul D minor.mid,,1,2
-1.5,<music21.chord.Chord G4>,[0],[7],Romanian Folk Dances 2 Braul D minor.mid,,1,2
-2.0,<music21.chord.Chord A4 D2>,"[0, 5]","[9, 2]",Romanian Folk Dances 2 Braul D minor.mid,,2,1
-2.125,<music21.chord.Chord D2>,[0],[2],Romanian Folk Dances 2 Braul D minor.mid,,2,1
-2.5,<music21.chord.Chord G4>,[0],[7],Romanian Folk Dances 2 Braul D minor.mid,,2,1
-3.0,<music21.chord.Chord D4 G3 B3>,"[0, 4, 7]","[7, 11, 2]",Romanian Folk Dances 2 Braul D minor.mid,,2,2
-3.125,<music21.chord.Chord G3 B3>,"[0, 4]","[7, 11]",Romanian Folk Dances 2 Braul D minor.mid,,2,2
-3.5,<music21.chord.Chord G4>,[0],[7],Romanian Folk Dances 2 Braul D minor.mid,,2,2
-4.0,<music21.chord.Chord A4 D2>,"[0, 5]","[9, 2]",Romanian Folk Dances 2 Braul D minor.mid,,3,1
-5.0,<music21.chord.Chord A4 A3 D4 F4>,"[0, 3, 7]","[2, 5, 9]",Romanian Folk Dances 2 Braul D minor.mid,,3,2
-5.125,<music21.chord.Chord A3 D4 F4>,"[0, 3, 7]","[2, 5, 9]",Romanian Folk Dances 2 Braul D minor.mid,,3,2
-5.75,<music21.chord.Chord B4>,[0],[11],Romanian Folk Dances 2 Braul D minor.mid,,3,2
-6.0,<music21.chord.Chord A4 A3 D4 F4>,"[0, 3, 7]","[2, 5, 9]",Romanian Folk Dances 2 Braul D minor.mid,,4,1
-8.0,<music21.chord.Chord G4 G2>,[0],[7],Romanian Folk Dances 2 Braul D minor.mid,,5,1
-8.125,<music21.chord.Chord G2>,[0],[7],Romanian Folk Dances 2 Braul D minor.mid,,5,1
-8.5,<music21.chord.Chord A4>,[0],[9],Romanian Folk Dances 2 Braul D minor.mid,,5,1
-9.0,<music21.chord.Chord B4 D4 F4>,"[0, 3, 6]","[11, 2, 5]",Romanian Folk Dances 2 Braul D minor.mid,,5,2
-9.125,<music21.chord.Chord D4 F4>,"[0, 3]","[2, 5]",Romanian Folk Dances 2 Braul D minor.mid,,5,2
-9.5,<music21.chord.Chord G4>,[0],[7],Romanian Folk Dances 2 Braul D minor.mid,,5,2
-10.0,<music21.chord.Chord C5 A2>,"[0, 3]","[9, 0]",Romanian Folk Dances 2 Braul D minor.mid,,6,1
-10.25,<music21.chord.Chord C5>,[0],[0],Romanian Folk Dances 2 Braul D minor.mid,,6,1
-11.0,<music21.chord.Chord C5 C4 F4>,"[0, 5]","[0, 5]",Romanian Folk Dances 2 Braul D minor.mid,,6,2
-11.25,<music21.chord.Chord B4>,[0],[11],Romanian Folk Dances 2 Braul D minor.mid,,6,2
-11.5,<music21.chord.Chord A4>,[0],[9],Romanian Folk Dances 2 Braul D minor.mid,,6,2
-11.666666666666700,<music21.chord.Chord G4>,[0],[7],Romanian Folk Dances 2 Braul D minor.mid,,6,2
-11.875,<music21.chord.Chord F4>,[0],[5],Romanian Folk Dances 2 Braul D minor.mid,,6,2
-12.0,<music21.chord.Chord G4 G2>,[0],[7],Romanian Folk Dances 2 Braul D minor.mid,,7,1
-13.0,<music21.chord.Chord G4 C4 D4>,"[0, 2, 7]","[0, 2, 7]",Romanian Folk Dances 2 Braul D minor.mid,,7,2
-13.125,<music21.chord.Chord C4 D4>,"[0, 2]","[0, 2]",Romanian Folk Dances 2 Braul D minor.mid,,7,2
-13.75,<music21.chord.Chord A4>,[0],[9],Romanian Folk Dances 2 Braul D minor.mid,,7,2
-14.0,<music21.chord.Chord G4 B3 D4>,"[0, 4, 7]","[7, 11, 2]",Romanian Folk Dances 2 Braul D minor.mid,2,8,1
-16.0,<music21.chord.Chord G4 F2>,"[0, 2]","[5, 7]",Romanian Folk Dances 2 Braul D minor.mid,1,9,1
-16.125,<music21.chord.Chord F2>,[0],[5],Romanian Folk Dances 2 Braul D minor.mid,,9,1
-16.5,<music21.chord.Chord A4>,[0],[9],Romanian Folk Dances 2 Braul D minor.mid,,9,1
-17.0,<music21.chord.Chord B4 G3 D4>,"[0, 4, 7]","[7, 11, 2]",Romanian Folk Dances 2 Braul D minor.mid,,9,2
-17.125,<music21.chord.Chord G3 D4>,"[0, 5]","[2, 7]",Romanian Folk Dances 2 Braul D minor.mid,,9,2
-17.5,<music21.chord.Chord G4>,[0],[7],Romanian Folk Dances 2 Braul D minor.mid,,9,2
-18.0,<music21.chord.Chord C5 E2>,"[0, 4]","[0, 4]",Romanian Folk Dances 2 Braul D minor.mid,,10,1
-18.25,<music21.chord.Chord C5>,[0],[0],Romanian Folk Dances 2 Braul D minor.mid,,10,1
-19.0,<music21.chord.Chord C5 B3 C4>,"[0, 1]","[11, 0]",Romanian Folk Dances 2 Braul D minor.mid,,10,2
-19.25,<music21.chord.Chord B4>,[0],[11],Romanian Folk Dances 2 Braul D minor.mid,,10,2
-19.5,<music21.chord.Chord A4>,[0],[9],Romanian Folk Dances 2 Braul D minor.mid,,10,2
-19.75,<music21.chord.Chord G4>,[0],[7],Romanian Folk Dances 2 Braul D minor.mid,,10,2
-20.0,<music21.chord.Chord F4 F3 A3 C4>,"[0, 4, 7]","[5, 9, 0]",Romanian Folk Dances 2 Braul D minor.mid,,11,1
-20.25,<music21.chord.Chord F4>,[0],[5],Romanian Folk Dances 2 Braul D minor.mid,,11,1
-20.5,<music21.chord.Chord E4>,[0],[4],Romanian Folk Dances 2 Braul D minor.mid,,11,1
-21.0,<music21.chord.Chord F4 A3 C#4>,"[0, 4, 8]","[1, 5, 9]",Romanian Folk Dances 2 Braul D minor.mid,,11,2
-21.125,<music21.chord.Chord A3 C#4>,"[0, 4]","[9, 1]",Romanian Folk Dances 2 Braul D minor.mid,,11,2
-21.5,<music21.chord.Chord G4>,[0],[7],Romanian Folk Dances 2 Braul D minor.mid,,11,2
-22.0,<music21.chord.Chord F4 B-3 D4>,"[0, 4, 7]","[10, 2, 5]",Romanian Folk Dances 2 Braul D minor.mid,,12,1
-22.125,<music21.chord.Chord B-3 D4>,"[0, 4]","[10, 2]",Romanian Folk Dances 2 Braul D minor.mid,,12,1
-22.5,<music21.chord.Chord E4>,[0],[4],Romanian Folk Dances 2 Braul D minor.mid,,12,1
-23.0,<music21.chord.Chord D4 B-2 F3>,"[0, 4, 7]","[10, 2, 5]",Romanian Folk Dances 2 Braul D minor.mid,,12,2
-23.25,<music21.chord.Chord D4>,[0],[2],Romanian Folk Dances 2 Braul D minor.mid,,12,2
-24.0,<music21.chord.Chord D4 G2>,"[0, 5]","[2, 7]",Romanian Folk Dances 2 Braul D minor.mid,,13,1
-24.125,<music21.chord.Chord G2>,[0],[7],Romanian Folk Dances 2 Braul D minor.mid,,13,1
-24.5,<music21.chord.Chord E4>,[0],[4],Romanian Folk Dances 2 Braul D minor.mid,,13,1
-25.0,<music21.chord.Chord F4 D3 B3>,"[0, 3, 6]","[11, 2, 5]",Romanian Folk Dances 2 Braul D minor.mid,,13,2
-25.125,<music21.chord.Chord D3 B3>,"[0, 3]","[11, 2]",Romanian Folk Dances 2 Braul D minor.mid,,13,2
-25.5,<music21.chord.Chord A4>,[0],[9],Romanian Folk Dances 2 Braul D minor.mid,,13,2
-26.0,<music21.chord.Chord G4 A2>,"[0, 2]","[7, 9]",Romanian Folk Dances 2 Braul D minor.mid,,14,1
-26.125,<music21.chord.Chord A2>,[0],[9],Romanian Folk Dances 2 Braul D minor.mid,,14,1
-26.5,<music21.chord.Chord F4>,[0],[5],Romanian Folk Dances 2 Braul D minor.mid,,14,1
-27.0,<music21.chord.Chord E4 G3 C#4>,"[0, 3, 6]","[1, 4, 7]",Romanian Folk Dances 2 Braul D minor.mid,,14,2
-27.125,<music21.chord.Chord G3 C#4>,"[0, 6]","[1, 7]",Romanian Folk Dances 2 Braul D minor.mid,,14,2
-27.5,<music21.chord.Chord F4>,[0],[5],Romanian Folk Dances 2 Braul D minor.mid,,14,2
-28.0,<music21.chord.Chord D4 D2>,[0],[2],Romanian Folk Dances 2 Braul D minor.mid,,15,1
-29.0,<music21.chord.Chord D4 D3 F3 A3>,"[0, 3, 7]","[2, 5, 9]",Romanian Folk Dances 2 Braul D minor.mid,,15,2
-29.125,<music21.chord.Chord D3 F3 A3>,"[0, 3, 7]","[2, 5, 9]",Romanian Folk Dances 2 Braul D minor.mid,,15,2
-29.75,<music21.chord.Chord A3>,[0],[9],Romanian Folk Dances 2 Braul D minor.mid,,15,2
-30.0,<music21.chord.Chord D4 D3 F3 A3>,"[0, 3, 7]","[2, 5, 9]",Romanian Folk Dances 2 Braul D minor.mid,,16,1
-30.5,<music21.chord.Chord D4>,[0],[2],Romanian Folk Dances 2 Braul D minor.mid,2,16,1
-32.0,<music21.chord.Chord D4 D2>,[0],[2],Romanian Folk Dances 2 Braul D minor.mid,1,17,1
-32.125,<music21.chord.Chord D2>,[0],[2],Romanian Folk Dances 2 Braul D minor.mid,,17,1
-32.5,<music21.chord.Chord E4>,[0],[4],Romanian Folk Dances 2 Braul D minor.mid,,17,1
-33.0,<music21.chord.Chord F4 F3 A3>,"[0, 4]","[5, 9]",Romanian Folk Dances 2 Braul D minor.mid,,17,2
-33.125,<music21.chord.Chord F3 A3>,"[0, 4]","[5, 9]",Romanian Folk Dances 2 Braul D minor.mid,,17,2
-33.5,<music21.chord.Chord G4>,[0],[7],Romanian Folk Dances 2 Braul D minor.mid,,17,2
-34.0,<music21.chord.Chord A4 D2>,"[0, 5]","[9, 2]",Romanian Folk Dances 2 Braul D minor.mid,,18,1
-34.125,<music21.chord.Chord D2>,[0],[2],Romanian Folk Dances 2 Braul D minor.mid,,18,1
-34.5,<music21.chord.Chord G4>,[0],[7],Romanian Folk Dances 2 Braul D minor.mid,,18,1
-35.0,<music21.chord.Chord D4 G3 B3>,"[0, 4, 7]","[7, 11, 2]",Romanian Folk Dances 2 Braul D minor.mid,,18,2
-35.125,<music21.chord.Chord G3 B3>,"[0, 4]","[7, 11]",Romanian Folk Dances 2 Braul D minor.mid,,18,2
-35.5,<music21.chord.Chord G4>,[0],[7],Romanian Folk Dances 2 Braul D minor.mid,,18,2
-36.0,<music21.chord.Chord A4 D2>,"[0, 5]","[9, 2]",Romanian Folk Dances 2 Braul D minor.mid,,19,1
-37.0,<music21.chord.Chord A4 A3 D4 F4>,"[0, 3, 7]","[2, 5, 9]",Romanian Folk Dances 2 Braul D minor.mid,,19,2
-37.125,<music21.chord.Chord A3 D4 F4>,"[0, 3, 7]","[2, 5, 9]",Romanian Folk Dances 2 Braul D minor.mid,,19,2
-37.75,<music21.chord.Chord B4>,[0],[11],Romanian Folk Dances 2 Braul D minor.mid,,19,2
-38.0,<music21.chord.Chord A4 A3 D4 F4>,"[0, 3, 7]","[2, 5, 9]",Romanian Folk Dances 2 Braul D minor.mid,,20,1
-40.0,<music21.chord.Chord G4 G2>,[0],[7],Romanian Folk Dances 2 Braul D minor.mid,,21,1
-40.125,<music21.chord.Chord G2>,[0],[7],Romanian Folk Dances 2 Braul D minor.mid,,21,1
-40.5,<music21.chord.Chord A4>,[0],[9],Romanian Folk Dances 2 Braul D minor.mid,,21,1
-41.0,<music21.chord.Chord B4 D4 F4>,"[0, 3, 6]","[11, 2, 5]",Romanian Folk Dances 2 Braul D minor.mid,,21,2
-41.125,<music21.chord.Chord D4 F4>,"[0, 3]","[2, 5]",Romanian Folk Dances 2 Braul D minor.mid,,21,2
-41.5,<music21.chord.Chord G4>,[0],[7],Romanian Folk Dances 2 Braul D minor.mid,,21,2
-42.0,<music21.chord.Chord C5 A2>,"[0, 3]","[9, 0]",Romanian Folk Dances 2 Braul D minor.mid,,22,1
-42.25,<music21.chord.Chord C5>,[0],[0],Romanian Folk Dances 2 Braul D minor.mid,,22,1
-43.0,<music21.chord.Chord C5 C4 F4>,"[0, 5]","[0, 5]",Romanian Folk Dances 2 Braul D minor.mid,,22,2
-43.25,<music21.chord.Chord B4>,[0],[11],Romanian Folk Dances 2 Braul D minor.mid,,22,2
-43.5,<music21.chord.Chord A4>,[0],[9],Romanian Folk Dances 2 Braul D minor.mid,,22,2
-43.666666666666700,<music21.chord.Chord G4>,[0],[7],Romanian Folk Dances 2 Braul D minor.mid,,22,2
-43.875,<music21.chord.Chord F4>,[0],[5],Romanian Folk Dances 2 Braul D minor.mid,,22,2
-44.0,<music21.chord.Chord G4 G2>,[0],[7],Romanian Folk Dances 2 Braul D minor.mid,,23,1
-45.0,<music21.chord.Chord G4 C4 D4>,"[0, 2, 7]","[0, 2, 7]",Romanian Folk Dances 2 Braul D minor.mid,,23,2
-45.125,<music21.chord.Chord C4 D4>,"[0, 2]","[0, 2]",Romanian Folk Dances 2 Braul D minor.mid,,23,2
-45.75,<music21.chord.Chord A4>,[0],[9],Romanian Folk Dances 2 Braul D minor.mid,,23,2
-46.0,<music21.chord.Chord G4 B3 D4>,"[0, 4, 7]","[7, 11, 2]",Romanian Folk Dances 2 Braul D minor.mid,2,24,1
-48.0,<music21.chord.Chord G4 F2>,"[0, 2]","[5, 7]",Romanian Folk Dances 2 Braul D minor.mid,1,25,1
-48.125,<music21.chord.Chord F2>,[0],[5],Romanian Folk Dances 2 Braul D minor.mid,,25,1
-48.5,<music21.chord.Chord A4>,[0],[9],Romanian Folk Dances 2 Braul D minor.mid,,25,1
-49.0,<music21.chord.Chord B4 G3 D4>,"[0, 4, 7]","[7, 11, 2]",Romanian Folk Dances 2 Braul D minor.mid,,25,2
-49.125,<music21.chord.Chord G3 D4>,"[0, 5]","[2, 7]",Romanian Folk Dances 2 Braul D minor.mid,,25,2
-49.5,<music21.chord.Chord G4>,[0],[7],Romanian Folk Dances 2 Braul D minor.mid,,25,2
-50.0,<music21.chord.Chord C5 E2>,"[0, 4]","[0, 4]",Romanian Folk Dances 2 Braul D minor.mid,,26,1
-50.25,<music21.chord.Chord C5>,[0],[0],Romanian Folk Dances 2 Braul D minor.mid,,26,1
-51.0,<music21.chord.Chord C5 B3 C4>,"[0, 1]","[11, 0]",Romanian Folk Dances 2 Braul D minor.mid,,26,2
-51.25,<music21.chord.Chord B4>,[0],[11],Romanian Folk Dances 2 Braul D minor.mid,,26,2
-51.5,<music21.chord.Chord A4>,[0],[9],Romanian Folk Dances 2 Braul D minor.mid,,26,2
-51.75,<music21.chord.Chord G4>,[0],[7],Romanian Folk Dances 2 Braul D minor.mid,,26,2
-52.0,<music21.chord.Chord F4 F3 A3 C4>,"[0, 4, 7]","[5, 9, 0]",Romanian Folk Dances 2 Braul D minor.mid,,27,1
-52.25,<music21.chord.Chord F4>,[0],[5],Romanian Folk Dances 2 Braul D minor.mid,,27,1
-52.5,<music21.chord.Chord E4>,[0],[4],Romanian Folk Dances 2 Braul D minor.mid,,27,1
-53.0,<music21.chord.Chord F4 A3 C#4>,"[0, 4, 8]","[1, 5, 9]",Romanian Folk Dances 2 Braul D minor.mid,,27,2
-53.125,<music21.chord.Chord A3 C#4>,"[0, 4]","[9, 1]",Romanian Folk Dances 2 Braul D minor.mid,,27,2
-53.5,<music21.chord.Chord G4>,[0],[7],Romanian Folk Dances 2 Braul D minor.mid,,27,2
-54.0,<music21.chord.Chord F4 B-3 D4>,"[0, 4, 7]","[10, 2, 5]",Romanian Folk Dances 2 Braul D minor.mid,,28,1
-54.125,<music21.chord.Chord B-3 D4>,"[0, 4]","[10, 2]",Romanian Folk Dances 2 Braul D minor.mid,,28,1
-54.5,<music21.chord.Chord E4>,[0],[4],Romanian Folk Dances 2 Braul D minor.mid,,28,1
-55.0,<music21.chord.Chord D4 B-2 F3>,"[0, 4, 7]","[10, 2, 5]",Romanian Folk Dances 2 Braul D minor.mid,,28,2
-55.25,<music21.chord.Chord D4>,[0],[2],Romanian Folk Dances 2 Braul D minor.mid,,28,2
-56.0,<music21.chord.Chord D4 G2>,"[0, 5]","[2, 7]",Romanian Folk Dances 2 Braul D minor.mid,,29,1
-56.125,<music21.chord.Chord G2>,[0],[7],Romanian Folk Dances 2 Braul D minor.mid,,29,1
-56.5,<music21.chord.Chord E4>,[0],[4],Romanian Folk Dances 2 Braul D minor.mid,,29,1
-57.0,<music21.chord.Chord F4 D3 B3>,"[0, 3, 6]","[11, 2, 5]",Romanian Folk Dances 2 Braul D minor.mid,,29,2
-57.125,<music21.chord.Chord D3 B3>,"[0, 3]","[11, 2]",Romanian Folk Dances 2 Braul D minor.mid,,29,2
-57.5,<music21.chord.Chord A4>,[0],[9],Romanian Folk Dances 2 Braul D minor.mid,,29,2
-58.0,<music21.chord.Chord G4 A2>,"[0, 2]","[7, 9]",Romanian Folk Dances 2 Braul D minor.mid,,30,1
-58.125,<music21.chord.Chord A2>,[0],[9],Romanian Folk Dances 2 Braul D minor.mid,,30,1
-58.5,<music21.chord.Chord F4>,[0],[5],Romanian Folk Dances 2 Braul D minor.mid,,30,1
-59.0,<music21.chord.Chord E4 G3 C#4>,"[0, 3, 6]","[1, 4, 7]",Romanian Folk Dances 2 Braul D minor.mid,,30,2
-59.125,<music21.chord.Chord G3 C#4>,"[0, 6]","[1, 7]",Romanian Folk Dances 2 Braul D minor.mid,,30,2
-59.5,<music21.chord.Chord F4>,[0],[5],Romanian Folk Dances 2 Braul D minor.mid,,30,2
-60.0,<music21.chord.Chord D4 D2>,[0],[2],Romanian Folk Dances 2 Braul D minor.mid,,31,1
-61.0,<music21.chord.Chord D4 D3 F3 A3>,"[0, 3, 7]","[2, 5, 9]",Romanian Folk Dances 2 Braul D minor.mid,,31,2
-61.125,<music21.chord.Chord D3 F3 A3>,"[0, 3, 7]","[2, 5, 9]",Romanian Folk Dances 2 Braul D minor.mid,,31,2
-61.75,<music21.chord.Chord A3>,[0],[9],Romanian Folk Dances 2 Braul D minor.mid,,31,2
-62.0,<music21.chord.Chord D4 D3 F3 A3>,"[0, 3, 7]","[2, 5, 9]",Romanian Folk Dances 2 Braul D minor.mid,2,32,1
+offset,Chord,NormalForm,PCsinNormalForm,file,Composer,Measure Number,Measure Count
+0.0,<music21.chord.Chord D4 D2>,[0],[2],Romanian Folk Dances 2 Braul D minor.mid,Bartok,1,1.0
+0.125,<music21.chord.Chord D2>,[0],[2],Romanian Folk Dances 2 Braul D minor.mid,Bartok,1,1.125
+0.5,<music21.chord.Chord E4>,[0],[4],Romanian Folk Dances 2 Braul D minor.mid,Bartok,1,1.5
+1.0,<music21.chord.Chord F4 F3 A3>,"[0, 4]","[5, 9]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,1,2.0
+1.125,<music21.chord.Chord F3 A3>,"[0, 4]","[5, 9]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,1,2.125
+1.5,<music21.chord.Chord G4>,[0],[7],Romanian Folk Dances 2 Braul D minor.mid,Bartok,1,2.5
+2.0,<music21.chord.Chord A4 D2>,"[0, 5]","[9, 2]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,2,1.0
+2.125,<music21.chord.Chord D2>,[0],[2],Romanian Folk Dances 2 Braul D minor.mid,Bartok,2,1.125
+2.5,<music21.chord.Chord G4>,[0],[7],Romanian Folk Dances 2 Braul D minor.mid,Bartok,2,1.5
+3.0,<music21.chord.Chord D4 G3 B3>,"[0, 4, 7]","[7, 11, 2]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,2,2.0
+3.125,<music21.chord.Chord G3 B3>,"[0, 4]","[7, 11]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,2,2.125
+3.5,<music21.chord.Chord G4>,[0],[7],Romanian Folk Dances 2 Braul D minor.mid,Bartok,2,2.5
+4.0,<music21.chord.Chord A4 D2>,"[0, 5]","[9, 2]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,3,1.0
+5.0,<music21.chord.Chord A4 A3 D4 F4>,"[0, 3, 7]","[2, 5, 9]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,3,2.0
+5.125,<music21.chord.Chord A3 D4 F4>,"[0, 3, 7]","[2, 5, 9]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,3,2.125
+5.75,<music21.chord.Chord B4>,[0],[11],Romanian Folk Dances 2 Braul D minor.mid,Bartok,3,2.75
+6.0,<music21.chord.Chord A4 A3 D4 F4>,"[0, 3, 7]","[2, 5, 9]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,4,1.0
+8.0,<music21.chord.Chord G4 G2>,[0],[7],Romanian Folk Dances 2 Braul D minor.mid,Bartok,5,1.0
+8.125,<music21.chord.Chord G2>,[0],[7],Romanian Folk Dances 2 Braul D minor.mid,Bartok,5,1.125
+8.5,<music21.chord.Chord A4>,[0],[9],Romanian Folk Dances 2 Braul D minor.mid,Bartok,5,1.5
+9.0,<music21.chord.Chord B4 D4 F4>,"[0, 3, 6]","[11, 2, 5]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,5,2.0
+9.125,<music21.chord.Chord D4 F4>,"[0, 3]","[2, 5]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,5,2.125
+9.5,<music21.chord.Chord G4>,[0],[7],Romanian Folk Dances 2 Braul D minor.mid,Bartok,5,2.5
+10.0,<music21.chord.Chord C5 A2>,"[0, 3]","[9, 0]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,6,1.0
+10.25,<music21.chord.Chord C5>,[0],[0],Romanian Folk Dances 2 Braul D minor.mid,Bartok,6,1.25
+11.0,<music21.chord.Chord C5 C4 F4>,"[0, 5]","[0, 5]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,6,2.0
+11.25,<music21.chord.Chord B4>,[0],[11],Romanian Folk Dances 2 Braul D minor.mid,Bartok,6,2.25
+11.5,<music21.chord.Chord A4>,[0],[9],Romanian Folk Dances 2 Braul D minor.mid,Bartok,6,2.5
+11.666666666666700,<music21.chord.Chord G4>,[0],[7],Romanian Folk Dances 2 Braul D minor.mid,Bartok,6,2.666666666666700
+11.875,<music21.chord.Chord F4>,[0],[5],Romanian Folk Dances 2 Braul D minor.mid,Bartok,6,2.875
+12.0,<music21.chord.Chord G4 G2>,[0],[7],Romanian Folk Dances 2 Braul D minor.mid,Bartok,7,1.0
+13.0,<music21.chord.Chord G4 C4 D4>,"[0, 2, 7]","[0, 2, 7]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,7,2.0
+13.125,<music21.chord.Chord C4 D4>,"[0, 2]","[0, 2]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,7,2.125
+13.75,<music21.chord.Chord A4>,[0],[9],Romanian Folk Dances 2 Braul D minor.mid,Bartok,7,2.75
+14.0,<music21.chord.Chord G4 B3 D4>,"[0, 4, 7]","[7, 11, 2]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,8,1.0
+16.0,<music21.chord.Chord G4 F2>,"[0, 2]","[5, 7]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,9,1.0
+16.125,<music21.chord.Chord F2>,[0],[5],Romanian Folk Dances 2 Braul D minor.mid,Bartok,9,1.125
+16.5,<music21.chord.Chord A4>,[0],[9],Romanian Folk Dances 2 Braul D minor.mid,Bartok,9,1.5
+17.0,<music21.chord.Chord B4 G3 D4>,"[0, 4, 7]","[7, 11, 2]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,9,2.0
+17.125,<music21.chord.Chord G3 D4>,"[0, 5]","[2, 7]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,9,2.125
+17.5,<music21.chord.Chord G4>,[0],[7],Romanian Folk Dances 2 Braul D minor.mid,Bartok,9,2.5
+18.0,<music21.chord.Chord C5 E2>,"[0, 4]","[0, 4]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,10,1.0
+18.25,<music21.chord.Chord C5>,[0],[0],Romanian Folk Dances 2 Braul D minor.mid,Bartok,10,1.25
+19.0,<music21.chord.Chord C5 B3 C4>,"[0, 1]","[11, 0]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,10,2.0
+19.25,<music21.chord.Chord B4>,[0],[11],Romanian Folk Dances 2 Braul D minor.mid,Bartok,10,2.25
+19.5,<music21.chord.Chord A4>,[0],[9],Romanian Folk Dances 2 Braul D minor.mid,Bartok,10,2.5
+19.75,<music21.chord.Chord G4>,[0],[7],Romanian Folk Dances 2 Braul D minor.mid,Bartok,10,2.75
+20.0,<music21.chord.Chord F4 F3 A3 C4>,"[0, 4, 7]","[5, 9, 0]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,11,1.0
+20.25,<music21.chord.Chord F4>,[0],[5],Romanian Folk Dances 2 Braul D minor.mid,Bartok,11,1.25
+20.5,<music21.chord.Chord E4>,[0],[4],Romanian Folk Dances 2 Braul D minor.mid,Bartok,11,1.5
+21.0,<music21.chord.Chord F4 A3 C#4>,"[0, 4, 8]","[1, 5, 9]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,11,2.0
+21.125,<music21.chord.Chord A3 C#4>,"[0, 4]","[9, 1]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,11,2.125
+21.5,<music21.chord.Chord G4>,[0],[7],Romanian Folk Dances 2 Braul D minor.mid,Bartok,11,2.5
+22.0,<music21.chord.Chord F4 B-3 D4>,"[0, 4, 7]","[10, 2, 5]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,12,1.0
+22.125,<music21.chord.Chord B-3 D4>,"[0, 4]","[10, 2]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,12,1.125
+22.5,<music21.chord.Chord E4>,[0],[4],Romanian Folk Dances 2 Braul D minor.mid,Bartok,12,1.5
+23.0,<music21.chord.Chord D4 B-2 F3>,"[0, 4, 7]","[10, 2, 5]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,12,2.0
+23.25,<music21.chord.Chord D4>,[0],[2],Romanian Folk Dances 2 Braul D minor.mid,Bartok,12,2.25
+24.0,<music21.chord.Chord D4 G2>,"[0, 5]","[2, 7]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,13,1.0
+24.125,<music21.chord.Chord G2>,[0],[7],Romanian Folk Dances 2 Braul D minor.mid,Bartok,13,1.125
+24.5,<music21.chord.Chord E4>,[0],[4],Romanian Folk Dances 2 Braul D minor.mid,Bartok,13,1.5
+25.0,<music21.chord.Chord F4 D3 B3>,"[0, 3, 6]","[11, 2, 5]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,13,2.0
+25.125,<music21.chord.Chord D3 B3>,"[0, 3]","[11, 2]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,13,2.125
+25.5,<music21.chord.Chord A4>,[0],[9],Romanian Folk Dances 2 Braul D minor.mid,Bartok,13,2.5
+26.0,<music21.chord.Chord G4 A2>,"[0, 2]","[7, 9]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,14,1.0
+26.125,<music21.chord.Chord A2>,[0],[9],Romanian Folk Dances 2 Braul D minor.mid,Bartok,14,1.125
+26.5,<music21.chord.Chord F4>,[0],[5],Romanian Folk Dances 2 Braul D minor.mid,Bartok,14,1.5
+27.0,<music21.chord.Chord E4 G3 C#4>,"[0, 3, 6]","[1, 4, 7]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,14,2.0
+27.125,<music21.chord.Chord G3 C#4>,"[0, 6]","[1, 7]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,14,2.125
+27.5,<music21.chord.Chord F4>,[0],[5],Romanian Folk Dances 2 Braul D minor.mid,Bartok,14,2.5
+28.0,<music21.chord.Chord D4 D2>,[0],[2],Romanian Folk Dances 2 Braul D minor.mid,Bartok,15,1.0
+29.0,<music21.chord.Chord D4 D3 F3 A3>,"[0, 3, 7]","[2, 5, 9]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,15,2.0
+29.125,<music21.chord.Chord D3 F3 A3>,"[0, 3, 7]","[2, 5, 9]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,15,2.125
+29.75,<music21.chord.Chord A3>,[0],[9],Romanian Folk Dances 2 Braul D minor.mid,Bartok,15,2.75
+30.0,<music21.chord.Chord D4 D3 F3 A3>,"[0, 3, 7]","[2, 5, 9]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,16,1.0
+30.5,<music21.chord.Chord D4>,[0],[2],Romanian Folk Dances 2 Braul D minor.mid,Bartok,16,1.5
+32.0,<music21.chord.Chord D4 D2>,[0],[2],Romanian Folk Dances 2 Braul D minor.mid,Bartok,17,1.0
+32.125,<music21.chord.Chord D2>,[0],[2],Romanian Folk Dances 2 Braul D minor.mid,Bartok,17,1.125
+32.5,<music21.chord.Chord E4>,[0],[4],Romanian Folk Dances 2 Braul D minor.mid,Bartok,17,1.5
+33.0,<music21.chord.Chord F4 F3 A3>,"[0, 4]","[5, 9]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,17,2.0
+33.125,<music21.chord.Chord F3 A3>,"[0, 4]","[5, 9]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,17,2.125
+33.5,<music21.chord.Chord G4>,[0],[7],Romanian Folk Dances 2 Braul D minor.mid,Bartok,17,2.5
+34.0,<music21.chord.Chord A4 D2>,"[0, 5]","[9, 2]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,18,1.0
+34.125,<music21.chord.Chord D2>,[0],[2],Romanian Folk Dances 2 Braul D minor.mid,Bartok,18,1.125
+34.5,<music21.chord.Chord G4>,[0],[7],Romanian Folk Dances 2 Braul D minor.mid,Bartok,18,1.5
+35.0,<music21.chord.Chord D4 G3 B3>,"[0, 4, 7]","[7, 11, 2]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,18,2.0
+35.125,<music21.chord.Chord G3 B3>,"[0, 4]","[7, 11]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,18,2.125
+35.5,<music21.chord.Chord G4>,[0],[7],Romanian Folk Dances 2 Braul D minor.mid,Bartok,18,2.5
+36.0,<music21.chord.Chord A4 D2>,"[0, 5]","[9, 2]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,19,1.0
+37.0,<music21.chord.Chord A4 A3 D4 F4>,"[0, 3, 7]","[2, 5, 9]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,19,2.0
+37.125,<music21.chord.Chord A3 D4 F4>,"[0, 3, 7]","[2, 5, 9]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,19,2.125
+37.75,<music21.chord.Chord B4>,[0],[11],Romanian Folk Dances 2 Braul D minor.mid,Bartok,19,2.75
+38.0,<music21.chord.Chord A4 A3 D4 F4>,"[0, 3, 7]","[2, 5, 9]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,20,1.0
+40.0,<music21.chord.Chord G4 G2>,[0],[7],Romanian Folk Dances 2 Braul D minor.mid,Bartok,21,1.0
+40.125,<music21.chord.Chord G2>,[0],[7],Romanian Folk Dances 2 Braul D minor.mid,Bartok,21,1.125
+40.5,<music21.chord.Chord A4>,[0],[9],Romanian Folk Dances 2 Braul D minor.mid,Bartok,21,1.5
+41.0,<music21.chord.Chord B4 D4 F4>,"[0, 3, 6]","[11, 2, 5]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,21,2.0
+41.125,<music21.chord.Chord D4 F4>,"[0, 3]","[2, 5]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,21,2.125
+41.5,<music21.chord.Chord G4>,[0],[7],Romanian Folk Dances 2 Braul D minor.mid,Bartok,21,2.5
+42.0,<music21.chord.Chord C5 A2>,"[0, 3]","[9, 0]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,22,1.0
+42.25,<music21.chord.Chord C5>,[0],[0],Romanian Folk Dances 2 Braul D minor.mid,Bartok,22,1.25
+43.0,<music21.chord.Chord C5 C4 F4>,"[0, 5]","[0, 5]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,22,2.0
+43.25,<music21.chord.Chord B4>,[0],[11],Romanian Folk Dances 2 Braul D minor.mid,Bartok,22,2.25
+43.5,<music21.chord.Chord A4>,[0],[9],Romanian Folk Dances 2 Braul D minor.mid,Bartok,22,2.5
+43.666666666666700,<music21.chord.Chord G4>,[0],[7],Romanian Folk Dances 2 Braul D minor.mid,Bartok,22,2.666666666666700
+43.875,<music21.chord.Chord F4>,[0],[5],Romanian Folk Dances 2 Braul D minor.mid,Bartok,22,2.875
+44.0,<music21.chord.Chord G4 G2>,[0],[7],Romanian Folk Dances 2 Braul D minor.mid,Bartok,23,1.0
+45.0,<music21.chord.Chord G4 C4 D4>,"[0, 2, 7]","[0, 2, 7]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,23,2.0
+45.125,<music21.chord.Chord C4 D4>,"[0, 2]","[0, 2]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,23,2.125
+45.75,<music21.chord.Chord A4>,[0],[9],Romanian Folk Dances 2 Braul D minor.mid,Bartok,23,2.75
+46.0,<music21.chord.Chord G4 B3 D4>,"[0, 4, 7]","[7, 11, 2]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,24,1.0
+48.0,<music21.chord.Chord G4 F2>,"[0, 2]","[5, 7]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,25,1.0
+48.125,<music21.chord.Chord F2>,[0],[5],Romanian Folk Dances 2 Braul D minor.mid,Bartok,25,1.125
+48.5,<music21.chord.Chord A4>,[0],[9],Romanian Folk Dances 2 Braul D minor.mid,Bartok,25,1.5
+49.0,<music21.chord.Chord B4 G3 D4>,"[0, 4, 7]","[7, 11, 2]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,25,2.0
+49.125,<music21.chord.Chord G3 D4>,"[0, 5]","[2, 7]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,25,2.125
+49.5,<music21.chord.Chord G4>,[0],[7],Romanian Folk Dances 2 Braul D minor.mid,Bartok,25,2.5
+50.0,<music21.chord.Chord C5 E2>,"[0, 4]","[0, 4]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,26,1.0
+50.25,<music21.chord.Chord C5>,[0],[0],Romanian Folk Dances 2 Braul D minor.mid,Bartok,26,1.25
+51.0,<music21.chord.Chord C5 B3 C4>,"[0, 1]","[11, 0]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,26,2.0
+51.25,<music21.chord.Chord B4>,[0],[11],Romanian Folk Dances 2 Braul D minor.mid,Bartok,26,2.25
+51.5,<music21.chord.Chord A4>,[0],[9],Romanian Folk Dances 2 Braul D minor.mid,Bartok,26,2.5
+51.75,<music21.chord.Chord G4>,[0],[7],Romanian Folk Dances 2 Braul D minor.mid,Bartok,26,2.75
+52.0,<music21.chord.Chord F4 F3 A3 C4>,"[0, 4, 7]","[5, 9, 0]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,27,1.0
+52.25,<music21.chord.Chord F4>,[0],[5],Romanian Folk Dances 2 Braul D minor.mid,Bartok,27,1.25
+52.5,<music21.chord.Chord E4>,[0],[4],Romanian Folk Dances 2 Braul D minor.mid,Bartok,27,1.5
+53.0,<music21.chord.Chord F4 A3 C#4>,"[0, 4, 8]","[1, 5, 9]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,27,2.0
+53.125,<music21.chord.Chord A3 C#4>,"[0, 4]","[9, 1]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,27,2.125
+53.5,<music21.chord.Chord G4>,[0],[7],Romanian Folk Dances 2 Braul D minor.mid,Bartok,27,2.5
+54.0,<music21.chord.Chord F4 B-3 D4>,"[0, 4, 7]","[10, 2, 5]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,28,1.0
+54.125,<music21.chord.Chord B-3 D4>,"[0, 4]","[10, 2]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,28,1.125
+54.5,<music21.chord.Chord E4>,[0],[4],Romanian Folk Dances 2 Braul D minor.mid,Bartok,28,1.5
+55.0,<music21.chord.Chord D4 B-2 F3>,"[0, 4, 7]","[10, 2, 5]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,28,2.0
+55.25,<music21.chord.Chord D4>,[0],[2],Romanian Folk Dances 2 Braul D minor.mid,Bartok,28,2.25
+56.0,<music21.chord.Chord D4 G2>,"[0, 5]","[2, 7]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,29,1.0
+56.125,<music21.chord.Chord G2>,[0],[7],Romanian Folk Dances 2 Braul D minor.mid,Bartok,29,1.125
+56.5,<music21.chord.Chord E4>,[0],[4],Romanian Folk Dances 2 Braul D minor.mid,Bartok,29,1.5
+57.0,<music21.chord.Chord F4 D3 B3>,"[0, 3, 6]","[11, 2, 5]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,29,2.0
+57.125,<music21.chord.Chord D3 B3>,"[0, 3]","[11, 2]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,29,2.125
+57.5,<music21.chord.Chord A4>,[0],[9],Romanian Folk Dances 2 Braul D minor.mid,Bartok,29,2.5
+58.0,<music21.chord.Chord G4 A2>,"[0, 2]","[7, 9]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,30,1.0
+58.125,<music21.chord.Chord A2>,[0],[9],Romanian Folk Dances 2 Braul D minor.mid,Bartok,30,1.125
+58.5,<music21.chord.Chord F4>,[0],[5],Romanian Folk Dances 2 Braul D minor.mid,Bartok,30,1.5
+59.0,<music21.chord.Chord E4 G3 C#4>,"[0, 3, 6]","[1, 4, 7]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,30,2.0
+59.125,<music21.chord.Chord G3 C#4>,"[0, 6]","[1, 7]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,30,2.125
+59.5,<music21.chord.Chord F4>,[0],[5],Romanian Folk Dances 2 Braul D minor.mid,Bartok,30,2.5
+60.0,<music21.chord.Chord D4 D2>,[0],[2],Romanian Folk Dances 2 Braul D minor.mid,Bartok,31,1.0
+61.0,<music21.chord.Chord D4 D3 F3 A3>,"[0, 3, 7]","[2, 5, 9]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,31,2.0
+61.125,<music21.chord.Chord D3 F3 A3>,"[0, 3, 7]","[2, 5, 9]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,31,2.125
+61.75,<music21.chord.Chord A3>,[0],[9],Romanian Folk Dances 2 Braul D minor.mid,Bartok,31,2.75
+62.0,<music21.chord.Chord D4 D3 F3 A3>,"[0, 3, 7]","[2, 5, 9]",Romanian Folk Dances 2 Braul D minor.mid,Bartok,32,1.0
