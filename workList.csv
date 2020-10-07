@@ -1,41 +1,41 @@
-,pieceName,movementName,genre,composer,publicationYear,Epoch,Source,fileFormat,phraseAnalysis,fileConversion,getChords
-piece1,25 Preludes Premiere,Suite 9 Placiditas Tranquillement in E major,Prelude,Alkan,1844,1820-1869,YCAC,CSV,N,NA,NA
-piece2,Etudes Op100,No10 Tendre Fleur D Major,Etude,Burgmuller,1858,1820-1869,YCAC,CSV,Y,NA,NA
-piece3,Nocturne Op55,No1,Nocturne F Minor,Chopin,1843,1820-1869,YCAC,CSV,Y,NA,NA
-piece4,Etudes Op299,No9 C Major,Etude,Czerny,1830,1820-1869,YCAC,CSV,Y,NA,NA
-piece5,Six Bagatelles Op107,VI Rondo all Ungarese C Major,Bagatelle,Hummel,1827,1820-1869,YCAC,CSV,N,NA,NA
-piece6,S248,La Cloches Sonne C Minor,CharacterPiece,Liszt,1850,1820-1869,YCAC,CSV,Y,NA,NA
-piece7,Songs without Words Op102,No1 E Minor,CharacterPiece,Mendelssohn,1843,1820-1869,YCAC,CSV,Y,NA,NA
-piece8,D850 II,Con Moto A Major,SoloSonata,Schubert,1825,1820-1869,YCAC,CSV,Y,NA,NA
-piece9,Waldszenen Op82,Verrufene Stelle D minor,CharacterPiece,Schumann,1849,1820-1869,YCAC,CSV,Y,NA,NA
-piece10,Studi-Poetici Op53,No12 Rimprovero G-sharp Minor,Etude,Haberbier,1861,1820-1869,YCAC,CSV,N,NA,NA
-piece11,Suite Espana Op165,6 Zortzico E Major,OtherSolo,Albeniz,1890,1870-1919,YCAC,CSV,N,NA,NA
-piece12,Romanian Folk Dances,2 Braul D minor,OtherSolo,Bartok,1917,1870-1919,YCAC,CSV,N,NA,NA
-piece13,Rhapsody Op79,No2 G minor,CharacterPiece,Brahms,1879,1870-1919,YCAC,CSV,Y,NA,NA
-piece14,Childrens Corner L113,No1,SoloSuitePartita,Debussy,1907,1870-1919,YCAC,CSV,Y,NA,NA
-piece15,Humoresque in B Op101,No2 B Major,OtherSolo,Dvorak,1894,1870-1919,YCAC,CSV,N,NA,NA
-piece16,S186 Lighting the Tree F Major,,CharacterPiece,Liszt,1876,1870-1919,YCAC,CSV,N,NA,NA
-piece17,Prelude in C Op3,No2 C Major,Prelude,Rachmaninov,1887,1870-1919,YCAC,CSV,N,NA,NA
-piece18,6 Etudes for Piano Op111,Prelude and Fugue Eb Minor,PreludeAndFugue,Saint-Saens,1899,1870-1919,YCAC,CSV,N,NA,NA
-piece19,Ogives,No3 D minor,OtherSolo,Satie,1885,1870-1919,YCAC,CSV,N,NA,NA
-piece20,Seven Preludes Op17,No5 F Minor,Prelude,Scriabin,1895,1870-1919,YCAC,CSV,N,NA,NA
-piece21,Pianoflage C Major,,OtherSolo,Bargy,1922,1920-1969,YCAC,CSV,N,NA,NA
-piece22,Studies,No7 F Major,Etude,DAragona,1923,1920-1969,YCAC,CSV,N,NA,NA
-piece23,Album for Children,4 Cumpleanos E Major,OtherSolo,Khachatruian,1926,1920-1969,YCAC,CSV,N,NA,NA
-piece24,Aphorisms Op13,8 Canon D Minor,OtherSolo,Shostakovich,1927,1920-1969,YCAC,CSV,N,NA,NA
-piece25,Les Cinq Doigts,Larghetto C Major,Ballet,Stravinsky,1921,1920-1969,YCAC,CSV,N,NA,NA
-piece26,Four Piano blues,Piano Blues No3,OtherSolo,Copland,1947,1920-1969,MuseScore,MusicXML,N,Y,Y
-piece27,Etudes Op42,Thirds,Etude,Rautavaara,1969,1920-1969,MuseScore,MusicXML,N,Y,Y
-piece28,Les chemins de lamour,,Waltz,Poulenc,1940,1920-1969,MuseScore,MusicXML,N,Y,Y
-piece29,Vingt Regards sur lenfant-JÃ©sus,Regard du PÃ¨re,OtherSolo,Messiaen,1944,1920-1969,MuseScore,MusicXML,N,Y,Y
-piece30,Romance,,OtherSolo,Takemitsu,1949,1920-1969,MuseScore,MusicXML,N,Y,Y
-piece31,Yellow Saraband,,OtherSolo,Carbajo,2015,1970-2020,IMSLP,PDF,N,Y,Y
-piece32,24 Etudes,No15 Mazurka with Chinese Trio,Etude,Zhang,2015,1970-2020,IMSLP,PDF,N,Y,Y
-piece33,La commedia dellâ€™arte,Arlecchino,OtherSolo,Bachlund,2007,1970-2020,IMSLP,PDF,N,Y,Y
-piece34,"Musing for Piano, Op833",No. 7,OtherSolo,Beatty,2017,1970-2020,IMSLP,PDF,N,Y,Y
-piece35,5 Diversions,Reaching,OtherSolo,Allard,2006,1970-2020,IMSLP,PDF,N,Y,Y
-piece36,Piano Piece No8,Op7 No2,OtherSolo,Alario del Rio,2013,1970-2020,IMSLP,PDF,N,Y,Y
-piece37,Invention No6 in B-flat major,,Invention,Simpson,1981,1970-2020,IMSLP,PDF,N,Y,Y
-piece38,FÃ¼r Alina,,OtherSolo,PÃ¤rt,1976,1970-2020,MuseScore,MusicXML,N,Y,Y
-piece39,Concerto Grosso 1: Rondo,Tango,Concerto,Schnittke,1977,1970-2020,MuseScore,MusicXML,N,Y,Y
-piece40,Two Easy Pieces No1,Sea Chant,OtherSolo,Sculthorpe,1970,1970-2020,MuseScore,MusicXML,N,Y,Y
+Piece Name,MovementName,Composer,Publication Year,Epoch,Source,File Format,Filename/URL
+25 Preludes Premiere ,Suite 9 Placiditas Tranquillement in E-,Alkan,1844,1820-1869,YCAC,Music21,25 Preludes Premiere Suite 9 Placiditas Tranquillement in E- Op31 E major
+Etudes Tendre Fleur,,Burgmuller,1858,1820-1869,YCAC,Music21,Etudes Tendre Fleur Op100No10 D major
+Nocturne Op. 55 No. 1,,Chopin,1843,1820-1869,YCAC,Music21,Nocturne 55 1 F Minor
+Etudes ,,Czerny,1830,1820-1869,YCAC,Music21,Etudes Op299No9 C major
+Six Bagatelles ,VI Rondo all'Ungarese,Hummel,1827,1820-1869,YCAC,Music21,Six Bagatelles VI Rondo all'Ungarese Op107 C Major
+La cloches sonne,,Liszt,1850,1820-1869,YCAC,Music21,La Cloches Sonne S248 C minor
+Songs without Words Op102 No1 E minor,,Mendelssohn,1843,1820-1869,YCAC,Music21,Songs without Words Op102 No1 E minor
+Con Moto,,Schubert,1825,1820-1869,YCAC,Music21,Con moto D850 II A Major
+"Waldszenen, Verrufene Stelle",,Schumann,1849,1820-1869,YCAC,Music21,Waldszenen Op 82 Verrufene Stelle D minor
+Studi-Poetici Op 53 No. 12 Rimprovero,,Haberbier,1861,1820-1869,YCAC,Music21,Studi-Poetici Rimprovero Op53No12 G# Minor
+Suite Espana 6 Zortzico,,Albeniz,1890,1870-1919,YCAC,Music21,Suite Espana 6 Zortzico Op165 E major
+Romanian Folk Dances 2 Braul,,Bartok,1917,1870-1919,YCAC,Music21,Romanian Folk Dances 2 Braul D minor
+Rhapsody Op. 79 No. 1 in G minor,,Brahms,1879,1870-1919,YCAC,Music21,Rhapsody 79 2 G minor
+Children's Corner L. 113 No. 1,,Debussy,1907,1870-1919,YCAC,Music21,Children's Corner L. 113 No. 1
+Humoresque in B,,Dvorak,1894,1870-1919,YCAC,Music21,Humoresque in B Op101No2 B major
+Lighting the Tree,,Liszt,1876,1870-1919,YCAC,Music21,Lighting the Tree S186 F Major
+Prelude in C#-,,Rachmaninov,1887,1870-1919,YCAC,Music21,Prelude in C#- Op3No2 C#-
+6 Etudes for Piano,Prelude and Fugue,Saint-Saens,1899,1870-1919,YCAC,Music21,6 Etudes for Piano Op 111 Prelude and Fugue Eb minor
+Ogives No3,,Satie,1885,1870-1919,YCAC,Music21,Ogives No3 D minor
+Seven Preludes ,Op17No5,Scriabin,1895,1870-1919,YCAC,Music21,Seven Preludes Op17No5 F minor
+Pianoflage,,Bargy,1922,1920-1969,YCAC,Music21,Pianoflage C major
+Studies No7,,DAragona,1923,1920-1969,YCAC,Music21,Studies No7 F major
+Album for Children 4 Cumpleanos,,Khachatruian,1926,1920-1969,YCAC,Music21,Album for Children 4 Cumpleanos E major
+Aphorisms 8 Canon,,Shostakovich,1927,1920-1969,YCAC,Music21,Aphorisms 8 Canon Op13No8 D minor
+Les Cinq Doigts Larghetto,,Stravinsky,1921,1920-1969,YCAC,Music21,Les Cinq Doigts Larghetto C major
+Piano blues no. 3,,Copland,1947,1920-1969,MuseScore,MusicXML or MIDI,https://musescore.com/derek_john_benton/copland-piano-blues-no-3
+"Etydit (Études), Op. 42",Terssit (Thirds)  ,Rautavaara,1969,1920-1969,MuseScore,MusicXML or MIDI,https://musescore.com/user/28626800/scores/5645673
+Les chemins de l'amour,,Poulenc,1940,1920-1969,MuseScore,MusicXML or MIDI,https://musescore.com/user/27057308/scores/5682178
+Vingt Regards sur l'enfant-Jésus,Regard du Père ,Messiaen,1944,1920-1969,MuseScore,MusicXML or MIDI,https://musescore.com/user/32203105/scores/5693195
+Romance,,Takemitsu,1949,1920-1969,MuseScore,MusicXML or MIDI,https://musescore.com/user/27057308/scores/4844436
+"2 Visions, tbp 116",,Novegno,2010,1970-2020,IMSLP,PDF,https://imslp.org/wiki/2_Visions%2C_tbp_116_(Novegno%2C_Roberto)
+Piano Sonata No. $ in E-flat major,,Zhang,2013,1970-2020,IMSLP,PDF,https://imslp.org/wiki/Piano_Sonata_No.4_in_E-flat_major_(Zhang%2C_Shuwen)
+La commedia dell’arte,,Bachlund,2007,1970-2020,IMSLP,PDF,https://imslp.org/wiki/La_commedia_dell’arte_(Bachlund%2C_Gary)
+"Musing for Piano, Op.833",,Beatty,2017,1970-2020,IMSLP,PDF,https://imslp.org/wiki/Musing_for_Piano%2C_Op.833_(Beatty%2C_Stephen_W.)
+5 Diversions,,Allard,2006,1970-2020,IMSLP,PDF,https://imslp.org/wiki/5_Diversions_(Allard%2C_Michel)
+"Fugue No. 21 or 6 Voice, Op. 31 No. 6",,Alario del Rio,2016,1970-2020,IMSLP,PDF,https://imslp.org/wiki/Fugue_No.21_for_6_Voices%2C_Op.31_No.6_(Alario_Del_R%C3%ADo%2C_V%C3%ADctor_Alberto)
+Invention No. 6 in B-flat major,,Simpson,1981,1970-2020,IMSLP,PDF,https://imslp.org/wiki/Invention_No.6_in_B-flat_major_(Simpson%2C_Daniel_Léo)
+Für Alina,,Pärt,1976,1970-2020,MuseScore,MusicXML or MIDI,https://musescore.com/user/31963898/scores/6216765
+Concerto Grosso 1: Rondo,Tango ,Schnittke,1977,1970-2020,MuseScore,MusicXML or MIDI,https://musescore.com/user/14197286/scores/5144296
+Two Easy Pieces No. 1,Sea Chant,Sculthorpe,1970,1970-2020,MuseScore,MusicXML or MIDI,https://musescore.com/user/4151271/scores/6265669
