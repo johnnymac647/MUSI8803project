@@ -1,0 +1,614 @@
+offset,Chord,NormalForm,PCsinNormalForm,file,Measure Number,Measure Count
+0,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,1,1
+0.5,<music21.chord.Chord A#3>,[0],[10],AlariodelRio_Sol_Sostenido.xml,1,1 1/4
+1,<music21.chord.Chord G#3>,[0],[8],AlariodelRio_Sol_Sostenido.xml,1,1 1/2
+1.5,<music21.chord.Chord D#3>,[0],[3],AlariodelRio_Sol_Sostenido.xml,1,1 3/4
+2,<music21.chord.Chord A#3>,[0],[10],AlariodelRio_Sol_Sostenido.xml,1,2
+2.5,<music21.chord.Chord A#2>,[0],[10],AlariodelRio_Sol_Sostenido.xml,1,2 1/4
+3,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,1,2 1/2
+3.5,<music21.chord.Chord A#3>,[0],[10],AlariodelRio_Sol_Sostenido.xml,1,2 3/4
+4,<music21.chord.Chord G#3>,[0],[8],AlariodelRio_Sol_Sostenido.xml,1,3
+4.5,<music21.chord.Chord D#3>,[0],[3],AlariodelRio_Sol_Sostenido.xml,1,3 1/4
+5,<music21.chord.Chord A#3>,[0],[10],AlariodelRio_Sol_Sostenido.xml,1,3 1/2
+5.5,<music21.chord.Chord A#2>,[0],[10],AlariodelRio_Sol_Sostenido.xml,1,3 3/4
+6,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,2,1
+6.5,<music21.chord.Chord A#3>,[0],[10],AlariodelRio_Sol_Sostenido.xml,2,1 1/4
+7,<music21.chord.Chord G#3>,[0],[8],AlariodelRio_Sol_Sostenido.xml,2,1 1/2
+7.5,<music21.chord.Chord D#3>,[0],[3],AlariodelRio_Sol_Sostenido.xml,2,1 3/4
+8,<music21.chord.Chord A#3>,[0],[10],AlariodelRio_Sol_Sostenido.xml,2,2
+8.5,<music21.chord.Chord A#2>,[0],[10],AlariodelRio_Sol_Sostenido.xml,2,2 1/4
+9,<music21.chord.Chord G#2 E5>,"[0, 4]","[4, 8]",AlariodelRio_Sol_Sostenido.xml,2,2 1/2
+9.5,<music21.chord.Chord B2 E5>,"[0, -7]","[11, 4]",AlariodelRio_Sol_Sostenido.xml,2,2 3/4
+10,<music21.chord.Chord G#3 E5>,"[0, 4]","[4, 8]",AlariodelRio_Sol_Sostenido.xml,2,3
+10.5,<music21.chord.Chord G#2 E5>,"[0, 4]","[4, 8]",AlariodelRio_Sol_Sostenido.xml,2,3 1/4
+11,<music21.chord.Chord F#3 E5>,"[0, 2]","[4, 6]",AlariodelRio_Sol_Sostenido.xml,2,3 1/2
+11.5,<music21.chord.Chord B2 E5>,"[0, -7]","[11, 4]",AlariodelRio_Sol_Sostenido.xml,2,3 3/4
+12,<music21.chord.Chord E5>,[0],[4],AlariodelRio_Sol_Sostenido.xml,3,1
+13,<music21.chord.Chord E5>,[0],[4],AlariodelRio_Sol_Sostenido.xml,3,1 1/2
+14,<music21.chord.Chord F#3 E5>,"[0, 2]","[4, 6]",AlariodelRio_Sol_Sostenido.xml,3,2
+14.5,<music21.chord.Chord G#2 E5>,"[0, 4]","[4, 8]",AlariodelRio_Sol_Sostenido.xml,3,2 1/4
+15,<music21.chord.Chord C#3 E5>,"[0, 3]","[1, 4]",AlariodelRio_Sol_Sostenido.xml,3,2 1/2
+15.5,<music21.chord.Chord B2 E5>,"[0, -7]","[11, 4]",AlariodelRio_Sol_Sostenido.xml,3,2 3/4
+16,<music21.chord.Chord D#3 E5>,"[0, 1]","[3, 4]",AlariodelRio_Sol_Sostenido.xml,3,3
+16.5,<music21.chord.Chord D#3 E5>,"[0, 1]","[3, 4]",AlariodelRio_Sol_Sostenido.xml,3,3 1/4
+17,<music21.chord.Chord B2 E5>,"[0, -7]","[11, 4]",AlariodelRio_Sol_Sostenido.xml,3,3 1/2
+17.5,<music21.chord.Chord A#2 E5>,"[0, 6]","[4, 10]",AlariodelRio_Sol_Sostenido.xml,3,3 3/4
+18,<music21.chord.Chord F#3 E5>,"[0, 2]","[4, 6]",AlariodelRio_Sol_Sostenido.xml,4,1
+18.5,<music21.chord.Chord E3 E5>,[0],[4],AlariodelRio_Sol_Sostenido.xml,4,1 1/4
+19,<music21.chord.Chord E3 E5>,[0],[4],AlariodelRio_Sol_Sostenido.xml,4,1 1/2
+19.5,<music21.chord.Chord A#3 E5>,"[0, 6]","[4, 10]",AlariodelRio_Sol_Sostenido.xml,4,1 3/4
+20,<music21.chord.Chord G#3 E5>,"[0, 4]","[4, 8]",AlariodelRio_Sol_Sostenido.xml,4,2
+20.5,<music21.chord.Chord D#3 E5>,"[0, 1]","[3, 4]",AlariodelRio_Sol_Sostenido.xml,4,2 1/4
+21,<music21.chord.Chord A#3 A#5>,[0],[10],AlariodelRio_Sol_Sostenido.xml,4,2 1/2
+21.5,<music21.chord.Chord A#2 A#5>,[0],[10],AlariodelRio_Sol_Sostenido.xml,4,2 3/4
+22,<music21.chord.Chord E3 A#5>,"[0, 6]","[4, 10]",AlariodelRio_Sol_Sostenido.xml,4,3
+22.5,<music21.chord.Chord A#3 A#5>,[0],[10],AlariodelRio_Sol_Sostenido.xml,4,3 1/4
+23,<music21.chord.Chord G#3 A#5>,"[0, 2]","[8, 10]",AlariodelRio_Sol_Sostenido.xml,4,3 1/2
+23.5,<music21.chord.Chord D#3 A#5>,"[0, -7]","[10, 3]",AlariodelRio_Sol_Sostenido.xml,4,3 3/4
+24,<music21.chord.Chord A#3 A#5>,[0],[10],AlariodelRio_Sol_Sostenido.xml,5,1
+24.5,<music21.chord.Chord A#2 A#5>,[0],[10],AlariodelRio_Sol_Sostenido.xml,5,1 1/4
+25,<music21.chord.Chord E3 A#5>,"[0, 6]","[4, 10]",AlariodelRio_Sol_Sostenido.xml,5,1 1/2
+25.5,<music21.chord.Chord A#3 A#5>,[0],[10],AlariodelRio_Sol_Sostenido.xml,5,1 3/4
+26,<music21.chord.Chord G#3 A#5>,"[0, 2]","[8, 10]",AlariodelRio_Sol_Sostenido.xml,5,2
+26.5,<music21.chord.Chord D#3 A#5>,"[0, -7]","[10, 3]",AlariodelRio_Sol_Sostenido.xml,5,2 1/4
+27,<music21.chord.Chord A#3 A#5>,[0],[10],AlariodelRio_Sol_Sostenido.xml,5,2 1/2
+27.5,<music21.chord.Chord A#2 A#5>,[0],[10],AlariodelRio_Sol_Sostenido.xml,5,2 3/4
+28,<music21.chord.Chord G#2 A#5>,"[0, 2]","[8, 10]",AlariodelRio_Sol_Sostenido.xml,5,3
+28.5,<music21.chord.Chord B2 A#5>,"[0, 1]","[10, 11]",AlariodelRio_Sol_Sostenido.xml,5,3 1/4
+29,<music21.chord.Chord G#3 A#5>,"[0, 2]","[8, 10]",AlariodelRio_Sol_Sostenido.xml,5,3 1/2
+29.5,<music21.chord.Chord G#2 A#5>,"[0, 2]","[8, 10]",AlariodelRio_Sol_Sostenido.xml,5,3 3/4
+30,<music21.chord.Chord F#3 A#5>,"[0, 4]","[6, 10]",AlariodelRio_Sol_Sostenido.xml,6,1
+30.5,<music21.chord.Chord B2 A#5>,"[0, 1]","[10, 11]",AlariodelRio_Sol_Sostenido.xml,6,1 1/4
+31,<music21.chord.Chord A#5>,[0],[10],AlariodelRio_Sol_Sostenido.xml,6,1 1/2
+33,<music21.chord.Chord F#3 A#5>,"[0, 4]","[6, 10]",AlariodelRio_Sol_Sostenido.xml,6,2 1/2
+33.5,<music21.chord.Chord G#2 A#5>,"[0, 2]","[8, 10]",AlariodelRio_Sol_Sostenido.xml,6,2 3/4
+34,<music21.chord.Chord C#3 A#5>,"[0, -9]","[10, 1]",AlariodelRio_Sol_Sostenido.xml,6,3
+34.5,<music21.chord.Chord B2 A#5>,"[0, 1]","[10, 11]",AlariodelRio_Sol_Sostenido.xml,6,3 1/4
+35,<music21.chord.Chord D#3 A#5>,"[0, -7]","[10, 3]",AlariodelRio_Sol_Sostenido.xml,6,3 1/2
+35.5,<music21.chord.Chord D#3 A#5>,"[0, -7]","[10, 3]",AlariodelRio_Sol_Sostenido.xml,6,3 3/4
+36,<music21.chord.Chord B2 A#5>,"[0, 1]","[10, 11]",AlariodelRio_Sol_Sostenido.xml,7,1
+36.5,<music21.chord.Chord A#2 A#5>,[0],[10],AlariodelRio_Sol_Sostenido.xml,7,1 1/4
+37,<music21.chord.Chord F#3 A#5>,"[0, 4]","[6, 10]",AlariodelRio_Sol_Sostenido.xml,7,1 1/2
+37.5,<music21.chord.Chord E3 A#5>,"[0, 6]","[4, 10]",AlariodelRio_Sol_Sostenido.xml,7,1 3/4
+38,<music21.chord.Chord E3 A#5>,"[0, 6]","[4, 10]",AlariodelRio_Sol_Sostenido.xml,7,2
+38.5,<music21.chord.Chord A#3 A#5>,[0],[10],AlariodelRio_Sol_Sostenido.xml,7,2 1/4
+39,<music21.chord.Chord G#3 G#5>,[0],[8],AlariodelRio_Sol_Sostenido.xml,7,2 1/2
+39.5,<music21.chord.Chord D#3 G#5>,"[0, 5]","[3, 8]",AlariodelRio_Sol_Sostenido.xml,7,2 3/4
+40,<music21.chord.Chord A#3 G#5>,"[0, 2]","[8, 10]",AlariodelRio_Sol_Sostenido.xml,7,3
+40.5,<music21.chord.Chord A#2 G#5>,"[0, 2]","[8, 10]",AlariodelRio_Sol_Sostenido.xml,7,3 1/4
+41,<music21.chord.Chord E3 G#5>,"[0, 4]","[4, 8]",AlariodelRio_Sol_Sostenido.xml,7,3 1/2
+41.5,<music21.chord.Chord A#3 G#5>,"[0, 2]","[8, 10]",AlariodelRio_Sol_Sostenido.xml,7,3 3/4
+42,<music21.chord.Chord G#3 G#5>,[0],[8],AlariodelRio_Sol_Sostenido.xml,8,1
+42.5,<music21.chord.Chord D#3 G#5>,"[0, 5]","[3, 8]",AlariodelRio_Sol_Sostenido.xml,8,1 1/4
+43,<music21.chord.Chord A#3 G#5>,"[0, 2]","[8, 10]",AlariodelRio_Sol_Sostenido.xml,8,1 1/2
+43.5,<music21.chord.Chord A#2 G#5>,"[0, 2]","[8, 10]",AlariodelRio_Sol_Sostenido.xml,8,1 3/4
+44,<music21.chord.Chord E3 G#5>,"[0, 4]","[4, 8]",AlariodelRio_Sol_Sostenido.xml,8,2
+44.5,<music21.chord.Chord A#3 G#5>,"[0, 2]","[8, 10]",AlariodelRio_Sol_Sostenido.xml,8,2 1/4
+45,<music21.chord.Chord G#3 G#5>,[0],[8],AlariodelRio_Sol_Sostenido.xml,8,2 1/2
+45.5,<music21.chord.Chord D#3 G#5>,"[0, 5]","[3, 8]",AlariodelRio_Sol_Sostenido.xml,8,2 3/4
+46,<music21.chord.Chord A#3 G#5>,"[0, 2]","[8, 10]",AlariodelRio_Sol_Sostenido.xml,8,3
+46.5,<music21.chord.Chord A#2 G#5>,"[0, 2]","[8, 10]",AlariodelRio_Sol_Sostenido.xml,8,3 1/4
+47,<music21.chord.Chord G#2 G#5>,[0],[8],AlariodelRio_Sol_Sostenido.xml,8,3 1/2
+47.5,<music21.chord.Chord B2 G#5>,"[0, 3]","[8, 11]",AlariodelRio_Sol_Sostenido.xml,8,3 3/4
+48,<music21.chord.Chord G#3 G#5>,[0],[8],AlariodelRio_Sol_Sostenido.xml,9,1
+48.5,<music21.chord.Chord G#2 G#5>,[0],[8],AlariodelRio_Sol_Sostenido.xml,9,1 1/4
+49,<music21.chord.Chord F#3 G#5>,"[0, 2]","[6, 8]",AlariodelRio_Sol_Sostenido.xml,9,1 1/2
+49.5,<music21.chord.Chord B2 G#5>,"[0, 3]","[8, 11]",AlariodelRio_Sol_Sostenido.xml,9,1 3/4
+50,<music21.chord.Chord G#5>,[0],[8],AlariodelRio_Sol_Sostenido.xml,9,2
+51,<music21.chord.Chord G#5>,[0],[8],AlariodelRio_Sol_Sostenido.xml,9,2 1/2
+52,<music21.chord.Chord F#3 G#5>,"[0, 2]","[6, 8]",AlariodelRio_Sol_Sostenido.xml,9,3
+52.5,<music21.chord.Chord G#2 G#5>,[0],[8],AlariodelRio_Sol_Sostenido.xml,9,3 1/4
+53,<music21.chord.Chord C#3 G#5>,"[0, -7]","[8, 1]",AlariodelRio_Sol_Sostenido.xml,9,3 1/2
+53.5,<music21.chord.Chord B2 G#5>,"[0, 3]","[8, 11]",AlariodelRio_Sol_Sostenido.xml,9,3 3/4
+54,<music21.chord.Chord D#3 G#5>,"[0, 5]","[3, 8]",AlariodelRio_Sol_Sostenido.xml,10,1
+54.5,<music21.chord.Chord D#3 G#5>,"[0, 5]","[3, 8]",AlariodelRio_Sol_Sostenido.xml,10,1 1/4
+55,<music21.chord.Chord B2>,[0],[11],AlariodelRio_Sol_Sostenido.xml,10,1 1/2
+55.5,<music21.chord.Chord A#2>,[0],[10],AlariodelRio_Sol_Sostenido.xml,10,1 3/4
+56,<music21.chord.Chord F#3>,[0],[6],AlariodelRio_Sol_Sostenido.xml,10,2
+56.5,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,10,2 1/4
+60,<music21.chord.Chord D#3>,[0],[3],AlariodelRio_Sol_Sostenido.xml,11,1
+60.5,<music21.chord.Chord C#3>,[0],[1],AlariodelRio_Sol_Sostenido.xml,11,1 1/4
+61,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,11,1 1/2
+63.5,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,11,2 3/4
+64,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,11,3
+64.5,<music21.chord.Chord F#3>,[0],[6],AlariodelRio_Sol_Sostenido.xml,11,3 1/4
+65,<music21.chord.Chord D#3>,[0],[3],AlariodelRio_Sol_Sostenido.xml,11,3 1/2
+65.5,<music21.chord.Chord C#3>,[0],[1],AlariodelRio_Sol_Sostenido.xml,11,3 3/4
+66,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,12,1
+68.5,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,12,2 1/4
+69,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,12,2 1/2
+69.5,<music21.chord.Chord F#3>,[0],[6],AlariodelRio_Sol_Sostenido.xml,12,2 3/4
+70,<music21.chord.Chord D#3>,[0],[3],AlariodelRio_Sol_Sostenido.xml,12,3
+70.5,<music21.chord.Chord C#3>,[0],[1],AlariodelRio_Sol_Sostenido.xml,12,3 1/4
+71,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,12,3 1/2
+73.5,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,13,1 3/4
+74,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,13,2
+74.5,<music21.chord.Chord F#3>,[0],[6],AlariodelRio_Sol_Sostenido.xml,13,2 1/4
+75,<music21.chord.Chord D#3 D#5>,[0],[3],AlariodelRio_Sol_Sostenido.xml,13,2 1/2
+75.5,<music21.chord.Chord D#3 D#5>,[0],[3],AlariodelRio_Sol_Sostenido.xml,13,2 3/4
+76,<music21.chord.Chord B2 D#5>,"[0, -8]","[11, 3]",AlariodelRio_Sol_Sostenido.xml,13,3
+76.5,<music21.chord.Chord A#2 D#5>,"[0, -7]","[10, 3]",AlariodelRio_Sol_Sostenido.xml,13,3 1/4
+77,<music21.chord.Chord F#3 D#5>,"[0, 3]","[3, 6]",AlariodelRio_Sol_Sostenido.xml,13,3 1/2
+77.5,<music21.chord.Chord E3 D#5>,"[0, 1]","[3, 4]",AlariodelRio_Sol_Sostenido.xml,13,3 3/4
+78,<music21.chord.Chord D#5>,[0],[3],AlariodelRio_Sol_Sostenido.xml,14,1
+79,<music21.chord.Chord D#5>,[0],[3],AlariodelRio_Sol_Sostenido.xml,14,1 1/2
+80,<music21.chord.Chord F#3 D#5>,"[0, 3]","[3, 6]",AlariodelRio_Sol_Sostenido.xml,14,2
+80.5,<music21.chord.Chord G#2 D#5>,"[0, 5]","[3, 8]",AlariodelRio_Sol_Sostenido.xml,14,2 1/4
+81,<music21.chord.Chord C#3 D#5>,"[0, 2]","[1, 3]",AlariodelRio_Sol_Sostenido.xml,14,2 1/2
+81.5,<music21.chord.Chord B2 D#5>,"[0, -8]","[11, 3]",AlariodelRio_Sol_Sostenido.xml,14,2 3/4
+82,<music21.chord.Chord G#2 D#5>,"[0, 5]","[3, 8]",AlariodelRio_Sol_Sostenido.xml,14,3
+82.5,<music21.chord.Chord B2 D#5>,"[0, -8]","[11, 3]",AlariodelRio_Sol_Sostenido.xml,14,3 1/4
+83,<music21.chord.Chord G#3 D#5>,"[0, 5]","[3, 8]",AlariodelRio_Sol_Sostenido.xml,14,3 1/2
+83.5,<music21.chord.Chord G#2 D#5>,"[0, 5]","[3, 8]",AlariodelRio_Sol_Sostenido.xml,14,3 3/4
+84,<music21.chord.Chord F#3 D#5>,"[0, 3]","[3, 6]",AlariodelRio_Sol_Sostenido.xml,15,1
+84.5,<music21.chord.Chord B2 D#5>,"[0, -8]","[11, 3]",AlariodelRio_Sol_Sostenido.xml,15,1 1/4
+85,<music21.chord.Chord D#3 C#5>,"[0, 2]","[1, 3]",AlariodelRio_Sol_Sostenido.xml,15,1 1/2
+85.5,<music21.chord.Chord C#3 C#5>,[0],[1],AlariodelRio_Sol_Sostenido.xml,15,1 3/4
+86,<music21.chord.Chord E3 C#5>,"[0, 3]","[1, 4]",AlariodelRio_Sol_Sostenido.xml,15,2
+86.5,<music21.chord.Chord C#5>,[0],[1],AlariodelRio_Sol_Sostenido.xml,15,2 1/4
+87,<music21.chord.Chord C#5>,[0],[1],AlariodelRio_Sol_Sostenido.xml,15,2 1/2
+88.5,<music21.chord.Chord E3 C#5>,"[0, 3]","[1, 4]",AlariodelRio_Sol_Sostenido.xml,15,3 1/4
+89,<music21.chord.Chord E3 C#5>,"[0, 3]","[1, 4]",AlariodelRio_Sol_Sostenido.xml,15,3 1/2
+89.5,<music21.chord.Chord F#3 C#5>,"[0, 5]","[1, 6]",AlariodelRio_Sol_Sostenido.xml,15,3 3/4
+90,<music21.chord.Chord D#3 C#5>,"[0, 2]","[1, 3]",AlariodelRio_Sol_Sostenido.xml,16,1
+90.5,<music21.chord.Chord C#3 C#5>,[0],[1],AlariodelRio_Sol_Sostenido.xml,16,1 1/4
+91,<music21.chord.Chord E3 C#5>,"[0, 3]","[1, 4]",AlariodelRio_Sol_Sostenido.xml,16,1 1/2
+91.5,<music21.chord.Chord C#5>,[0],[1],AlariodelRio_Sol_Sostenido.xml,16,1 3/4
+93,<music21.chord.Chord C#5>,[0],[1],AlariodelRio_Sol_Sostenido.xml,16,2 1/2
+93.5,<music21.chord.Chord E3 C#5>,"[0, 3]","[1, 4]",AlariodelRio_Sol_Sostenido.xml,16,2 3/4
+94,<music21.chord.Chord E3 C#5>,"[0, 3]","[1, 4]",AlariodelRio_Sol_Sostenido.xml,16,3
+94.5,<music21.chord.Chord F#3 C#5>,"[0, 5]","[1, 6]",AlariodelRio_Sol_Sostenido.xml,16,3 1/4
+95,<music21.chord.Chord D#3 E5>,"[0, 1]","[3, 4]",AlariodelRio_Sol_Sostenido.xml,16,3 1/2
+95.5,<music21.chord.Chord C#3 E5>,"[0, 3]","[1, 4]",AlariodelRio_Sol_Sostenido.xml,16,3 3/4
+96,<music21.chord.Chord E3 E5>,[0],[4],AlariodelRio_Sol_Sostenido.xml,17,1
+96.5,<music21.chord.Chord E5>,[0],[4],AlariodelRio_Sol_Sostenido.xml,17,1 1/4
+97,<music21.chord.Chord E5>,[0],[4],AlariodelRio_Sol_Sostenido.xml,17,1 1/2
+98,<music21.chord.Chord E5>,[0],[4],AlariodelRio_Sol_Sostenido.xml,17,2
+98.5,<music21.chord.Chord E3 E5>,[0],[4],AlariodelRio_Sol_Sostenido.xml,17,2 1/4
+99,<music21.chord.Chord E3 E5>,[0],[4],AlariodelRio_Sol_Sostenido.xml,17,2 1/2
+99.5,<music21.chord.Chord F#3 E5>,"[0, 2]","[4, 6]",AlariodelRio_Sol_Sostenido.xml,17,2 3/4
+100,<music21.chord.Chord D#3 E5>,"[0, 1]","[3, 4]",AlariodelRio_Sol_Sostenido.xml,17,3
+100.5,<music21.chord.Chord D#3 E5>,"[0, 1]","[3, 4]",AlariodelRio_Sol_Sostenido.xml,17,3 1/4
+101,<music21.chord.Chord B2 E5>,"[0, -7]","[11, 4]",AlariodelRio_Sol_Sostenido.xml,17,3 1/2
+101.5,<music21.chord.Chord A#2 E5>,"[0, 6]","[4, 10]",AlariodelRio_Sol_Sostenido.xml,17,3 3/4
+102,<music21.chord.Chord F#3 E5>,"[0, 2]","[4, 6]",AlariodelRio_Sol_Sostenido.xml,18,1
+102.5,<music21.chord.Chord E3 E5>,[0],[4],AlariodelRio_Sol_Sostenido.xml,18,1 1/4
+103,<music21.chord.Chord E5>,[0],[4],AlariodelRio_Sol_Sostenido.xml,18,1 1/2
+105,<music21.chord.Chord F#3 E5>,"[0, 2]","[4, 6]",AlariodelRio_Sol_Sostenido.xml,18,2 1/2
+105.5,<music21.chord.Chord G#2 E5>,"[0, 4]","[4, 8]",AlariodelRio_Sol_Sostenido.xml,18,2 3/4
+106,<music21.chord.Chord C#3 E5>,"[0, 3]","[1, 4]",AlariodelRio_Sol_Sostenido.xml,18,3
+106.5,<music21.chord.Chord B2 E5>,"[0, -7]","[11, 4]",AlariodelRio_Sol_Sostenido.xml,18,3 1/4
+107,<music21.chord.Chord G#2>,[0],[8],AlariodelRio_Sol_Sostenido.xml,18,3 1/2
+107.5,<music21.chord.Chord B2>,[0],[11],AlariodelRio_Sol_Sostenido.xml,18,3 3/4
+108,<music21.chord.Chord G#3>,[0],[8],AlariodelRio_Sol_Sostenido.xml,19,1
+108.5,<music21.chord.Chord G#2>,[0],[8],AlariodelRio_Sol_Sostenido.xml,19,1 1/4
+109,<music21.chord.Chord F#3>,[0],[6],AlariodelRio_Sol_Sostenido.xml,19,1 1/2
+109.5,<music21.chord.Chord B2>,[0],[11],AlariodelRio_Sol_Sostenido.xml,19,1 3/4
+110,<music21.chord.Chord D#3>,[0],[3],AlariodelRio_Sol_Sostenido.xml,19,2
+110.5,<music21.chord.Chord C#3>,[0],[1],AlariodelRio_Sol_Sostenido.xml,19,2 1/4
+111,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,19,2 1/2
+113.5,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,19,3 3/4
+114,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,20,1
+114.5,<music21.chord.Chord F#3>,[0],[6],AlariodelRio_Sol_Sostenido.xml,20,1 1/4
+115,<music21.chord.Chord D#3>,[0],[3],AlariodelRio_Sol_Sostenido.xml,20,1 1/2
+115.5,<music21.chord.Chord C#3>,[0],[1],AlariodelRio_Sol_Sostenido.xml,20,1 3/4
+116,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,20,2
+118.5,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,20,3 1/4
+119,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,20,3 1/2
+119.5,<music21.chord.Chord F#3>,[0],[6],AlariodelRio_Sol_Sostenido.xml,20,3 3/4
+120,<music21.chord.Chord D#3>,[0],[3],AlariodelRio_Sol_Sostenido.xml,21,1
+120.5,<music21.chord.Chord C#3>,[0],[1],AlariodelRio_Sol_Sostenido.xml,21,1 1/4
+121,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,21,1 1/2
+123.5,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,21,2 3/4
+124,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,21,3
+124.5,<music21.chord.Chord F#3>,[0],[6],AlariodelRio_Sol_Sostenido.xml,21,3 1/4
+125,<music21.chord.Chord D#3>,[0],[3],AlariodelRio_Sol_Sostenido.xml,21,3 1/2
+125.5,<music21.chord.Chord D#3>,[0],[3],AlariodelRio_Sol_Sostenido.xml,21,3 3/4
+126,<music21.chord.Chord B2>,[0],[11],AlariodelRio_Sol_Sostenido.xml,22,1
+126.5,<music21.chord.Chord A#2>,[0],[10],AlariodelRio_Sol_Sostenido.xml,22,1 1/4
+127,<music21.chord.Chord F#3>,[0],[6],AlariodelRio_Sol_Sostenido.xml,22,1 1/2
+127.5,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,22,1 3/4
+130,<music21.chord.Chord F#3>,[0],[6],AlariodelRio_Sol_Sostenido.xml,22,3
+130.5,<music21.chord.Chord G#2>,[0],[8],AlariodelRio_Sol_Sostenido.xml,22,3 1/4
+131,<music21.chord.Chord C#3>,[0],[1],AlariodelRio_Sol_Sostenido.xml,22,3 1/2
+131.5,<music21.chord.Chord B2>,[0],[11],AlariodelRio_Sol_Sostenido.xml,22,3 3/4
+132,<music21.chord.Chord G#2>,[0],[8],AlariodelRio_Sol_Sostenido.xml,23,1
+132.5,<music21.chord.Chord B2>,[0],[11],AlariodelRio_Sol_Sostenido.xml,23,1 1/4
+133,<music21.chord.Chord G#3>,[0],[8],AlariodelRio_Sol_Sostenido.xml,23,1 1/2
+133.5,<music21.chord.Chord G#2>,[0],[8],AlariodelRio_Sol_Sostenido.xml,23,1 3/4
+134,<music21.chord.Chord F#3>,[0],[6],AlariodelRio_Sol_Sostenido.xml,23,2
+134.5,<music21.chord.Chord B2>,[0],[11],AlariodelRio_Sol_Sostenido.xml,23,2 1/4
+140,<music21.chord.Chord B2>,[0],[11],AlariodelRio_Sol_Sostenido.xml,24,2
+140.5,<music21.chord.Chord C#3>,[0],[1],AlariodelRio_Sol_Sostenido.xml,24,2 1/4
+141,<music21.chord.Chord A#3>,[0],[10],AlariodelRio_Sol_Sostenido.xml,24,2 1/2
+141.5,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,24,2 3/4
+144,<music21.chord.Chord B2>,[0],[11],AlariodelRio_Sol_Sostenido.xml,25,1
+144.5,<music21.chord.Chord C#3>,[0],[1],AlariodelRio_Sol_Sostenido.xml,25,1 1/4
+145,<music21.chord.Chord A#3>,[0],[10],AlariodelRio_Sol_Sostenido.xml,25,1 1/2
+145.5,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,25,1 3/4
+148,<music21.chord.Chord B2>,[0],[11],AlariodelRio_Sol_Sostenido.xml,25,3
+148.5,<music21.chord.Chord C#3>,[0],[1],AlariodelRio_Sol_Sostenido.xml,25,3 1/4
+149,<music21.chord.Chord A#3>,[0],[10],AlariodelRio_Sol_Sostenido.xml,25,3 1/2
+149.5,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,25,3 3/4
+152,<music21.chord.Chord F#3 B4>,"[0, 5]","[6, 11]",AlariodelRio_Sol_Sostenido.xml,26,2
+152.5,<music21.chord.Chord G#2 B4>,"[0, 3]","[8, 11]",AlariodelRio_Sol_Sostenido.xml,26,2 1/4
+153,<music21.chord.Chord C#3 B4>,"[0, -10]","[11, 1]",AlariodelRio_Sol_Sostenido.xml,26,2 1/2
+153.5,<music21.chord.Chord B2 B4>,[0],[11],AlariodelRio_Sol_Sostenido.xml,26,2 3/4
+154,<music21.chord.Chord G#2 B4>,"[0, 3]","[8, 11]",AlariodelRio_Sol_Sostenido.xml,26,3
+154.5,<music21.chord.Chord B2 B4>,[0],[11],AlariodelRio_Sol_Sostenido.xml,26,3 1/4
+155,<music21.chord.Chord G#3 B4>,"[0, 3]","[8, 11]",AlariodelRio_Sol_Sostenido.xml,26,3 1/2
+155.5,<music21.chord.Chord G#2 B4>,"[0, 3]","[8, 11]",AlariodelRio_Sol_Sostenido.xml,26,3 3/4
+156,<music21.chord.Chord F#3 B4>,"[0, 5]","[6, 11]",AlariodelRio_Sol_Sostenido.xml,27,1
+156.5,<music21.chord.Chord B2 B4>,[0],[11],AlariodelRio_Sol_Sostenido.xml,27,1 1/4
+157,<music21.chord.Chord D#3 B4>,"[0, -8]","[11, 3]",AlariodelRio_Sol_Sostenido.xml,27,1 1/2
+157.5,<music21.chord.Chord D#3 B4>,"[0, -8]","[11, 3]",AlariodelRio_Sol_Sostenido.xml,27,1 3/4
+158,<music21.chord.Chord B2>,[0],[11],AlariodelRio_Sol_Sostenido.xml,27,2
+158.5,<music21.chord.Chord A#2>,[0],[10],AlariodelRio_Sol_Sostenido.xml,27,2 1/4
+159,<music21.chord.Chord F#3>,[0],[6],AlariodelRio_Sol_Sostenido.xml,27,2 1/2
+159.5,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,27,2 3/4
+162,<music21.chord.Chord B2>,[0],[11],AlariodelRio_Sol_Sostenido.xml,28,1
+162.5,<music21.chord.Chord C#3>,[0],[1],AlariodelRio_Sol_Sostenido.xml,28,1 1/4
+163,<music21.chord.Chord A#3>,[0],[10],AlariodelRio_Sol_Sostenido.xml,28,1 1/2
+163.5,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,28,1 3/4
+166,<music21.chord.Chord B2>,[0],[11],AlariodelRio_Sol_Sostenido.xml,28,3
+166.5,<music21.chord.Chord C#3>,[0],[1],AlariodelRio_Sol_Sostenido.xml,28,3 1/4
+167,<music21.chord.Chord A#3>,[0],[10],AlariodelRio_Sol_Sostenido.xml,28,3 1/2
+167.5,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,28,3 3/4
+170,<music21.chord.Chord B2>,[0],[11],AlariodelRio_Sol_Sostenido.xml,29,2
+170.5,<music21.chord.Chord C#3>,[0],[1],AlariodelRio_Sol_Sostenido.xml,29,2 1/4
+171,<music21.chord.Chord A#3>,[0],[10],AlariodelRio_Sol_Sostenido.xml,29,2 1/2
+171.5,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,29,2 3/4
+174,<music21.chord.Chord F#3>,[0],[6],AlariodelRio_Sol_Sostenido.xml,30,1
+174.5,<music21.chord.Chord G#2>,[0],[8],AlariodelRio_Sol_Sostenido.xml,30,1 1/4
+175,<music21.chord.Chord C#3>,[0],[1],AlariodelRio_Sol_Sostenido.xml,30,1 1/2
+175.5,<music21.chord.Chord B2>,[0],[11],AlariodelRio_Sol_Sostenido.xml,30,1 3/4
+176,<music21.chord.Chord G#2>,[0],[8],AlariodelRio_Sol_Sostenido.xml,30,2
+176.5,<music21.chord.Chord B2>,[0],[11],AlariodelRio_Sol_Sostenido.xml,30,2 1/4
+177,<music21.chord.Chord G#3>,[0],[8],AlariodelRio_Sol_Sostenido.xml,30,2 1/2
+177.5,<music21.chord.Chord G#2>,[0],[8],AlariodelRio_Sol_Sostenido.xml,30,2 3/4
+178,<music21.chord.Chord F#3>,[0],[6],AlariodelRio_Sol_Sostenido.xml,30,3
+178.5,<music21.chord.Chord B2>,[0],[11],AlariodelRio_Sol_Sostenido.xml,30,3 1/4
+179,<music21.chord.Chord D#3>,[0],[3],AlariodelRio_Sol_Sostenido.xml,30,3 1/2
+179.5,<music21.chord.Chord D#3>,[0],[3],AlariodelRio_Sol_Sostenido.xml,30,3 3/4
+180,<music21.chord.Chord B2>,[0],[11],AlariodelRio_Sol_Sostenido.xml,31,1
+180.5,<music21.chord.Chord A#2>,[0],[10],AlariodelRio_Sol_Sostenido.xml,31,1 1/4
+181,<music21.chord.Chord F#3>,[0],[6],AlariodelRio_Sol_Sostenido.xml,31,1 1/2
+181.5,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,31,1 3/4
+184,<music21.chord.Chord B2>,[0],[11],AlariodelRio_Sol_Sostenido.xml,31,3
+184.5,<music21.chord.Chord C#3>,[0],[1],AlariodelRio_Sol_Sostenido.xml,31,3 1/4
+185,<music21.chord.Chord A#3>,[0],[10],AlariodelRio_Sol_Sostenido.xml,31,3 1/2
+185.5,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,31,3 3/4
+188,<music21.chord.Chord B2>,[0],[11],AlariodelRio_Sol_Sostenido.xml,32,2
+188.5,<music21.chord.Chord C#3>,[0],[1],AlariodelRio_Sol_Sostenido.xml,32,2 1/4
+189,<music21.chord.Chord A#3>,[0],[10],AlariodelRio_Sol_Sostenido.xml,32,2 1/2
+189.5,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,32,2 3/4
+192,<music21.chord.Chord B2>,[0],[11],AlariodelRio_Sol_Sostenido.xml,33,1
+192.5,<music21.chord.Chord C#3>,[0],[1],AlariodelRio_Sol_Sostenido.xml,33,1 1/4
+193,<music21.chord.Chord A#3>,[0],[10],AlariodelRio_Sol_Sostenido.xml,33,1 1/2
+193.5,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,33,1 3/4
+196,<music21.chord.Chord F#3>,[0],[6],AlariodelRio_Sol_Sostenido.xml,33,3
+196.5,<music21.chord.Chord G#2>,[0],[8],AlariodelRio_Sol_Sostenido.xml,33,3 1/4
+197,<music21.chord.Chord C#3>,[0],[1],AlariodelRio_Sol_Sostenido.xml,33,3 1/2
+197.5,<music21.chord.Chord B2>,[0],[11],AlariodelRio_Sol_Sostenido.xml,33,3 3/4
+198,<music21.chord.Chord G#2>,[0],[8],AlariodelRio_Sol_Sostenido.xml,34,1
+198.5,<music21.chord.Chord B2>,[0],[11],AlariodelRio_Sol_Sostenido.xml,34,1 1/4
+199,<music21.chord.Chord G#3>,[0],[8],AlariodelRio_Sol_Sostenido.xml,34,1 1/2
+199.5,<music21.chord.Chord G#2>,[0],[8],AlariodelRio_Sol_Sostenido.xml,34,1 3/4
+200,<music21.chord.Chord F#3>,[0],[6],AlariodelRio_Sol_Sostenido.xml,34,2
+200.5,<music21.chord.Chord B2>,[0],[11],AlariodelRio_Sol_Sostenido.xml,34,2 1/4
+201,<music21.chord.Chord D#3>,[0],[3],AlariodelRio_Sol_Sostenido.xml,34,2 1/2
+201.5,<music21.chord.Chord D#3>,[0],[3],AlariodelRio_Sol_Sostenido.xml,34,2 3/4
+202,<music21.chord.Chord B2>,[0],[11],AlariodelRio_Sol_Sostenido.xml,34,3
+202.5,<music21.chord.Chord A#2>,[0],[10],AlariodelRio_Sol_Sostenido.xml,34,3 1/4
+203,<music21.chord.Chord F#3>,[0],[6],AlariodelRio_Sol_Sostenido.xml,34,3 1/2
+203.5,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,34,3 3/4
+207,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,35,2 1/2
+207.5,<music21.chord.Chord F#3>,[0],[6],AlariodelRio_Sol_Sostenido.xml,35,2 3/4
+208,<music21.chord.Chord A#2>,[0],[10],AlariodelRio_Sol_Sostenido.xml,35,3
+208.5,<music21.chord.Chord B2>,[0],[11],AlariodelRio_Sol_Sostenido.xml,35,3 1/4
+209,<music21.chord.Chord D#3 G#5>,"[0, 5]","[3, 8]",AlariodelRio_Sol_Sostenido.xml,35,3 1/2
+209.5,<music21.chord.Chord D#3 G#5>,"[0, 5]","[3, 8]",AlariodelRio_Sol_Sostenido.xml,35,3 3/4
+210,<music21.chord.Chord B2 G#5>,"[0, 3]","[8, 11]",AlariodelRio_Sol_Sostenido.xml,36,1
+210.5,<music21.chord.Chord C#3 G#5>,"[0, -7]","[8, 1]",AlariodelRio_Sol_Sostenido.xml,36,1 1/4
+211,<music21.chord.Chord G#2 G#5>,[0],[8],AlariodelRio_Sol_Sostenido.xml,36,1 1/2
+211.5,<music21.chord.Chord F#3 G#5>,"[0, 2]","[6, 8]",AlariodelRio_Sol_Sostenido.xml,36,1 3/4
+212,<music21.chord.Chord G#5>,[0],[8],AlariodelRio_Sol_Sostenido.xml,36,2
+213,<music21.chord.Chord G#5>,[0],[8],AlariodelRio_Sol_Sostenido.xml,36,2 1/2
+214,<music21.chord.Chord B2 G#5>,"[0, 3]","[8, 11]",AlariodelRio_Sol_Sostenido.xml,36,3
+214.5,<music21.chord.Chord F#3 G#5>,"[0, 2]","[6, 8]",AlariodelRio_Sol_Sostenido.xml,36,3 1/4
+215,<music21.chord.Chord G#2 G#5>,[0],[8],AlariodelRio_Sol_Sostenido.xml,36,3 1/2
+215.5,<music21.chord.Chord G#3 G#5>,[0],[8],AlariodelRio_Sol_Sostenido.xml,36,3 3/4
+216,<music21.chord.Chord B2 G#5>,"[0, 3]","[8, 11]",AlariodelRio_Sol_Sostenido.xml,37,1
+216.5,<music21.chord.Chord G#2 G#5>,[0],[8],AlariodelRio_Sol_Sostenido.xml,37,1 1/4
+217,<music21.chord.Chord A#2 G#5>,"[0, 2]","[8, 10]",AlariodelRio_Sol_Sostenido.xml,37,1 1/2
+217.5,<music21.chord.Chord A#3 G#5>,"[0, 2]","[8, 10]",AlariodelRio_Sol_Sostenido.xml,37,1 3/4
+218,<music21.chord.Chord D#3 G#5>,"[0, 5]","[3, 8]",AlariodelRio_Sol_Sostenido.xml,37,2
+218.5,<music21.chord.Chord G#3 G#5>,[0],[8],AlariodelRio_Sol_Sostenido.xml,37,2 1/4
+219,<music21.chord.Chord A#3 G#5>,"[0, 2]","[8, 10]",AlariodelRio_Sol_Sostenido.xml,37,2 1/2
+219.5,<music21.chord.Chord E3 G#5>,"[0, 4]","[4, 8]",AlariodelRio_Sol_Sostenido.xml,37,2 3/4
+220,<music21.chord.Chord A#2 G#5>,"[0, 2]","[8, 10]",AlariodelRio_Sol_Sostenido.xml,37,3
+220.5,<music21.chord.Chord A#3 G#5>,"[0, 2]","[8, 10]",AlariodelRio_Sol_Sostenido.xml,37,3 1/4
+221,<music21.chord.Chord D#3 G#5>,"[0, 5]","[3, 8]",AlariodelRio_Sol_Sostenido.xml,37,3 1/2
+221.5,<music21.chord.Chord G#3 G#5>,[0],[8],AlariodelRio_Sol_Sostenido.xml,37,3 3/4
+222,<music21.chord.Chord A#3 G#5>,"[0, 2]","[8, 10]",AlariodelRio_Sol_Sostenido.xml,38,1
+222.5,<music21.chord.Chord E3 G#5>,"[0, 4]","[4, 8]",AlariodelRio_Sol_Sostenido.xml,38,1 1/4
+223,<music21.chord.Chord A#2 G#5>,"[0, 2]","[8, 10]",AlariodelRio_Sol_Sostenido.xml,38,1 1/2
+223.5,<music21.chord.Chord A#3 G#5>,"[0, 2]","[8, 10]",AlariodelRio_Sol_Sostenido.xml,38,1 3/4
+224,<music21.chord.Chord D#3 G#5>,"[0, 5]","[3, 8]",AlariodelRio_Sol_Sostenido.xml,38,2
+224.5,<music21.chord.Chord G#3 G#5>,[0],[8],AlariodelRio_Sol_Sostenido.xml,38,2 1/4
+225,<music21.chord.Chord A#3 A#5>,[0],[10],AlariodelRio_Sol_Sostenido.xml,38,2 1/2
+225.5,<music21.chord.Chord E3 A#5>,"[0, 6]","[4, 10]",AlariodelRio_Sol_Sostenido.xml,38,2 3/4
+226,<music21.chord.Chord E3 A#5>,"[0, 6]","[4, 10]",AlariodelRio_Sol_Sostenido.xml,38,3
+226.5,<music21.chord.Chord F#3 A#5>,"[0, 4]","[6, 10]",AlariodelRio_Sol_Sostenido.xml,38,3 1/4
+227,<music21.chord.Chord A#2 A#5>,[0],[10],AlariodelRio_Sol_Sostenido.xml,38,3 1/2
+227.5,<music21.chord.Chord B2 A#5>,"[0, 1]","[10, 11]",AlariodelRio_Sol_Sostenido.xml,38,3 3/4
+228,<music21.chord.Chord D#3 A#5>,"[0, -7]","[10, 3]",AlariodelRio_Sol_Sostenido.xml,39,1
+228.5,<music21.chord.Chord D#3 A#5>,"[0, -7]","[10, 3]",AlariodelRio_Sol_Sostenido.xml,39,1 1/4
+229,<music21.chord.Chord B2 A#5>,"[0, 1]","[10, 11]",AlariodelRio_Sol_Sostenido.xml,39,1 1/2
+229.5,<music21.chord.Chord C#3 A#5>,"[0, -9]","[10, 1]",AlariodelRio_Sol_Sostenido.xml,39,1 3/4
+230,<music21.chord.Chord G#2 A#5>,"[0, 2]","[8, 10]",AlariodelRio_Sol_Sostenido.xml,39,2
+230.5,<music21.chord.Chord F#3 A#5>,"[0, 4]","[6, 10]",AlariodelRio_Sol_Sostenido.xml,39,2 1/4
+231,<music21.chord.Chord A#5>,[0],[10],AlariodelRio_Sol_Sostenido.xml,39,2 1/2
+232,<music21.chord.Chord A#5>,[0],[10],AlariodelRio_Sol_Sostenido.xml,39,3
+233,<music21.chord.Chord B2 A#5>,"[0, 1]","[10, 11]",AlariodelRio_Sol_Sostenido.xml,39,3 1/2
+233.5,<music21.chord.Chord F#3 A#5>,"[0, 4]","[6, 10]",AlariodelRio_Sol_Sostenido.xml,39,3 3/4
+234,<music21.chord.Chord G#2 A#5>,"[0, 2]","[8, 10]",AlariodelRio_Sol_Sostenido.xml,40,1
+234.5,<music21.chord.Chord G#3 A#5>,"[0, 2]","[8, 10]",AlariodelRio_Sol_Sostenido.xml,40,1 1/4
+235,<music21.chord.Chord B2 A#5>,"[0, 1]","[10, 11]",AlariodelRio_Sol_Sostenido.xml,40,1 1/2
+235.5,<music21.chord.Chord G#2 A#5>,"[0, 2]","[8, 10]",AlariodelRio_Sol_Sostenido.xml,40,1 3/4
+236,<music21.chord.Chord A#2 A#5>,[0],[10],AlariodelRio_Sol_Sostenido.xml,40,2
+236.5,<music21.chord.Chord A#3 A#5>,[0],[10],AlariodelRio_Sol_Sostenido.xml,40,2 1/4
+237,<music21.chord.Chord D#3 A#5>,"[0, -7]","[10, 3]",AlariodelRio_Sol_Sostenido.xml,40,2 1/2
+237.5,<music21.chord.Chord G#3 A#5>,"[0, 2]","[8, 10]",AlariodelRio_Sol_Sostenido.xml,40,2 3/4
+238,<music21.chord.Chord A#3 A#5>,[0],[10],AlariodelRio_Sol_Sostenido.xml,40,3
+238.5,<music21.chord.Chord E3 A#5>,"[0, 6]","[4, 10]",AlariodelRio_Sol_Sostenido.xml,40,3 1/4
+239,<music21.chord.Chord A#2 A#5>,[0],[10],AlariodelRio_Sol_Sostenido.xml,40,3 1/2
+239.5,<music21.chord.Chord A#3 A#5>,[0],[10],AlariodelRio_Sol_Sostenido.xml,40,3 3/4
+240,<music21.chord.Chord D#3 A#5>,"[0, -7]","[10, 3]",AlariodelRio_Sol_Sostenido.xml,41,1
+240.5,<music21.chord.Chord G#3 A#5>,"[0, 2]","[8, 10]",AlariodelRio_Sol_Sostenido.xml,41,1 1/4
+241,<music21.chord.Chord A#3 A#5>,[0],[10],AlariodelRio_Sol_Sostenido.xml,41,1 1/2
+241.5,<music21.chord.Chord E3 A#5>,"[0, 6]","[4, 10]",AlariodelRio_Sol_Sostenido.xml,41,1 3/4
+242,<music21.chord.Chord A#2 A#5>,[0],[10],AlariodelRio_Sol_Sostenido.xml,41,2
+242.5,<music21.chord.Chord A#3 A#5>,[0],[10],AlariodelRio_Sol_Sostenido.xml,41,2 1/4
+243,<music21.chord.Chord D#3 E5>,"[0, 1]","[3, 4]",AlariodelRio_Sol_Sostenido.xml,41,2 1/2
+243.5,<music21.chord.Chord G#3 E5>,"[0, 4]","[4, 8]",AlariodelRio_Sol_Sostenido.xml,41,2 3/4
+244,<music21.chord.Chord A#3 E5>,"[0, 6]","[4, 10]",AlariodelRio_Sol_Sostenido.xml,41,3
+244.5,<music21.chord.Chord E3 E5>,[0],[4],AlariodelRio_Sol_Sostenido.xml,41,3 1/4
+245,<music21.chord.Chord E3 E5>,[0],[4],AlariodelRio_Sol_Sostenido.xml,41,3 1/2
+245.5,<music21.chord.Chord F#3 E5>,"[0, 2]","[4, 6]",AlariodelRio_Sol_Sostenido.xml,41,3 3/4
+246,<music21.chord.Chord A#2 E5>,"[0, 6]","[4, 10]",AlariodelRio_Sol_Sostenido.xml,42,1
+246.5,<music21.chord.Chord B2 E5>,"[0, -7]","[11, 4]",AlariodelRio_Sol_Sostenido.xml,42,1 1/4
+247,<music21.chord.Chord D#3 E5>,"[0, 1]","[3, 4]",AlariodelRio_Sol_Sostenido.xml,42,1 1/2
+247.5,<music21.chord.Chord D#3 E5>,"[0, 1]","[3, 4]",AlariodelRio_Sol_Sostenido.xml,42,1 3/4
+248,<music21.chord.Chord B2 E5>,"[0, -7]","[11, 4]",AlariodelRio_Sol_Sostenido.xml,42,2
+248.5,<music21.chord.Chord C#3 E5>,"[0, 3]","[1, 4]",AlariodelRio_Sol_Sostenido.xml,42,2 1/4
+249,<music21.chord.Chord G#2 E5>,"[0, 4]","[4, 8]",AlariodelRio_Sol_Sostenido.xml,42,2 1/2
+249.5,<music21.chord.Chord F#3 E5>,"[0, 2]","[4, 6]",AlariodelRio_Sol_Sostenido.xml,42,2 3/4
+250,<music21.chord.Chord E5>,[0],[4],AlariodelRio_Sol_Sostenido.xml,42,3
+251,<music21.chord.Chord E5>,[0],[4],AlariodelRio_Sol_Sostenido.xml,42,3 1/2
+252,<music21.chord.Chord B2 E5>,"[0, -7]","[11, 4]",AlariodelRio_Sol_Sostenido.xml,43,1
+252.5,<music21.chord.Chord F#3 E5>,"[0, 2]","[4, 6]",AlariodelRio_Sol_Sostenido.xml,43,1 1/4
+253,<music21.chord.Chord G#2 E5>,"[0, 4]","[4, 8]",AlariodelRio_Sol_Sostenido.xml,43,1 1/2
+253.5,<music21.chord.Chord G#3 E5>,"[0, 4]","[4, 8]",AlariodelRio_Sol_Sostenido.xml,43,1 3/4
+254,<music21.chord.Chord B2 E5>,"[0, -7]","[11, 4]",AlariodelRio_Sol_Sostenido.xml,43,2
+254.5,<music21.chord.Chord G#2 E5>,"[0, 4]","[4, 8]",AlariodelRio_Sol_Sostenido.xml,43,2 1/4
+255,<music21.chord.Chord A#2>,[0],[10],AlariodelRio_Sol_Sostenido.xml,43,2 1/2
+255.5,<music21.chord.Chord A#3>,[0],[10],AlariodelRio_Sol_Sostenido.xml,43,2 3/4
+256,<music21.chord.Chord D#3>,[0],[3],AlariodelRio_Sol_Sostenido.xml,43,3
+256.5,<music21.chord.Chord G#3>,[0],[8],AlariodelRio_Sol_Sostenido.xml,43,3 1/4
+257,<music21.chord.Chord A#3>,[0],[10],AlariodelRio_Sol_Sostenido.xml,43,3 1/2
+257.5,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,43,3 3/4
+258,<music21.chord.Chord A#2>,[0],[10],AlariodelRio_Sol_Sostenido.xml,44,1
+258.5,<music21.chord.Chord A#3>,[0],[10],AlariodelRio_Sol_Sostenido.xml,44,1 1/4
+259,<music21.chord.Chord D#3>,[0],[3],AlariodelRio_Sol_Sostenido.xml,44,1 1/2
+259.5,<music21.chord.Chord G#3>,[0],[8],AlariodelRio_Sol_Sostenido.xml,44,1 3/4
+260,<music21.chord.Chord A#3>,[0],[10],AlariodelRio_Sol_Sostenido.xml,44,2
+260.5,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,44,2 1/4
+261,<music21.chord.Chord A#2>,[0],[10],AlariodelRio_Sol_Sostenido.xml,44,2 1/2
+261.5,<music21.chord.Chord A#3>,[0],[10],AlariodelRio_Sol_Sostenido.xml,44,2 3/4
+262,<music21.chord.Chord D#3>,[0],[3],AlariodelRio_Sol_Sostenido.xml,44,3
+262.5,<music21.chord.Chord G#3>,[0],[8],AlariodelRio_Sol_Sostenido.xml,44,3 1/4
+263,<music21.chord.Chord A#3>,[0],[10],AlariodelRio_Sol_Sostenido.xml,44,3 1/2
+263.5,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,44,3 3/4
+267,<music21.chord.Chord B2>,[0],[11],AlariodelRio_Sol_Sostenido.xml,45,2 1/2
+267.5,<music21.chord.Chord F#3>,[0],[6],AlariodelRio_Sol_Sostenido.xml,45,2 3/4
+268,<music21.chord.Chord G#2>,[0],[8],AlariodelRio_Sol_Sostenido.xml,45,3
+268.5,<music21.chord.Chord G#3>,[0],[8],AlariodelRio_Sol_Sostenido.xml,45,3 1/4
+269,<music21.chord.Chord B2>,[0],[11],AlariodelRio_Sol_Sostenido.xml,45,3 1/2
+269.5,<music21.chord.Chord G#2>,[0],[8],AlariodelRio_Sol_Sostenido.xml,45,3 3/4
+270,<music21.chord.Chord B2>,[0],[11],AlariodelRio_Sol_Sostenido.xml,46,1
+270.5,<music21.chord.Chord C#3>,[0],[1],AlariodelRio_Sol_Sostenido.xml,46,1 1/4
+271,<music21.chord.Chord G#2>,[0],[8],AlariodelRio_Sol_Sostenido.xml,46,1 1/2
+271.5,<music21.chord.Chord F#3>,[0],[6],AlariodelRio_Sol_Sostenido.xml,46,1 3/4
+274,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,46,3
+274.5,<music21.chord.Chord F#3>,[0],[6],AlariodelRio_Sol_Sostenido.xml,46,3 1/4
+275,<music21.chord.Chord A#2>,[0],[10],AlariodelRio_Sol_Sostenido.xml,46,3 1/2
+275.5,<music21.chord.Chord B2>,[0],[11],AlariodelRio_Sol_Sostenido.xml,46,3 3/4
+276,<music21.chord.Chord D#3>,[0],[3],AlariodelRio_Sol_Sostenido.xml,47,1
+276.5,<music21.chord.Chord D#3>,[0],[3],AlariodelRio_Sol_Sostenido.xml,47,1 1/4
+277,<music21.chord.Chord F#3>,[0],[6],AlariodelRio_Sol_Sostenido.xml,47,1 1/2
+277.5,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,47,1 3/4
+278,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,47,2
+280.5,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,47,3 1/4
+281,<music21.chord.Chord C#3>,[0],[1],AlariodelRio_Sol_Sostenido.xml,47,3 1/2
+281.5,<music21.chord.Chord D#3>,[0],[3],AlariodelRio_Sol_Sostenido.xml,47,3 3/4
+282,<music21.chord.Chord F#3>,[0],[6],AlariodelRio_Sol_Sostenido.xml,48,1
+282.5,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,48,1 1/4
+283,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,48,1 1/2
+285.5,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,48,2 3/4
+286,<music21.chord.Chord C#3>,[0],[1],AlariodelRio_Sol_Sostenido.xml,48,3
+286.5,<music21.chord.Chord D#3>,[0],[3],AlariodelRio_Sol_Sostenido.xml,48,3 1/4
+287,<music21.chord.Chord F#3>,[0],[6],AlariodelRio_Sol_Sostenido.xml,48,3 1/2
+287.5,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,48,3 3/4
+288,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,49,1
+290.5,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,49,2 1/4
+291,<music21.chord.Chord C#3>,[0],[1],AlariodelRio_Sol_Sostenido.xml,49,2 1/2
+291.5,<music21.chord.Chord D#3>,[0],[3],AlariodelRio_Sol_Sostenido.xml,49,2 3/4
+292,<music21.chord.Chord B2>,[0],[11],AlariodelRio_Sol_Sostenido.xml,49,3
+292.5,<music21.chord.Chord F#3>,[0],[6],AlariodelRio_Sol_Sostenido.xml,49,3 1/4
+293,<music21.chord.Chord G#2>,[0],[8],AlariodelRio_Sol_Sostenido.xml,49,3 1/2
+293.5,<music21.chord.Chord G#3>,[0],[8],AlariodelRio_Sol_Sostenido.xml,49,3 3/4
+294,<music21.chord.Chord B2>,[0],[11],AlariodelRio_Sol_Sostenido.xml,50,1
+294.5,<music21.chord.Chord G#2>,[0],[8],AlariodelRio_Sol_Sostenido.xml,50,1 1/4
+295,<music21.chord.Chord B2 E5>,"[0, -7]","[11, 4]",AlariodelRio_Sol_Sostenido.xml,50,1 1/2
+295.5,<music21.chord.Chord C#3 E5>,"[0, 3]","[1, 4]",AlariodelRio_Sol_Sostenido.xml,50,1 3/4
+296,<music21.chord.Chord G#2 E5>,"[0, 4]","[4, 8]",AlariodelRio_Sol_Sostenido.xml,50,2
+296.5,<music21.chord.Chord F#3 E5>,"[0, 2]","[4, 6]",AlariodelRio_Sol_Sostenido.xml,50,2 1/4
+297,<music21.chord.Chord E5>,[0],[4],AlariodelRio_Sol_Sostenido.xml,50,2 1/2
+298,<music21.chord.Chord E5>,[0],[4],AlariodelRio_Sol_Sostenido.xml,50,3
+299,<music21.chord.Chord E3 E5>,[0],[4],AlariodelRio_Sol_Sostenido.xml,50,3 1/2
+299.5,<music21.chord.Chord F#3 E5>,"[0, 2]","[4, 6]",AlariodelRio_Sol_Sostenido.xml,50,3 3/4
+300,<music21.chord.Chord A#2 E5>,"[0, 6]","[4, 10]",AlariodelRio_Sol_Sostenido.xml,51,1
+300.5,<music21.chord.Chord B2 E5>,"[0, -7]","[11, 4]",AlariodelRio_Sol_Sostenido.xml,51,1 1/4
+301,<music21.chord.Chord D#3 E5>,"[0, 1]","[3, 4]",AlariodelRio_Sol_Sostenido.xml,51,1 1/2
+301.5,<music21.chord.Chord D#3 E5>,"[0, 1]","[3, 4]",AlariodelRio_Sol_Sostenido.xml,51,1 3/4
+302,<music21.chord.Chord F#3 E5>,"[0, 2]","[4, 6]",AlariodelRio_Sol_Sostenido.xml,51,2
+302.5,<music21.chord.Chord E3 E5>,[0],[4],AlariodelRio_Sol_Sostenido.xml,51,2 1/4
+303,<music21.chord.Chord E3 E5>,[0],[4],AlariodelRio_Sol_Sostenido.xml,51,2 1/2
+303.5,<music21.chord.Chord E5>,[0],[4],AlariodelRio_Sol_Sostenido.xml,51,2 3/4
+304,<music21.chord.Chord E5>,[0],[4],AlariodelRio_Sol_Sostenido.xml,51,3
+305,<music21.chord.Chord E5>,[0],[4],AlariodelRio_Sol_Sostenido.xml,51,3 1/2
+305.5,<music21.chord.Chord E3 E5>,[0],[4],AlariodelRio_Sol_Sostenido.xml,51,3 3/4
+306,<music21.chord.Chord C#3 E5>,"[0, 3]","[1, 4]",AlariodelRio_Sol_Sostenido.xml,52,1
+306.5,<music21.chord.Chord D#3 E5>,"[0, 1]","[3, 4]",AlariodelRio_Sol_Sostenido.xml,52,1 1/4
+307,<music21.chord.Chord F#3 C#5>,"[0, 5]","[1, 6]",AlariodelRio_Sol_Sostenido.xml,52,1 1/2
+307.5,<music21.chord.Chord E3 C#5>,"[0, 3]","[1, 4]",AlariodelRio_Sol_Sostenido.xml,52,1 3/4
+308,<music21.chord.Chord E3 C#5>,"[0, 3]","[1, 4]",AlariodelRio_Sol_Sostenido.xml,52,2
+308.5,<music21.chord.Chord C#5>,[0],[1],AlariodelRio_Sol_Sostenido.xml,52,2 1/4
+309,<music21.chord.Chord C#5>,[0],[1],AlariodelRio_Sol_Sostenido.xml,52,2 1/2
+310,<music21.chord.Chord C#5>,[0],[1],AlariodelRio_Sol_Sostenido.xml,52,3
+310.5,<music21.chord.Chord E3 C#5>,"[0, 3]","[1, 4]",AlariodelRio_Sol_Sostenido.xml,52,3 1/4
+311,<music21.chord.Chord C#3 C#5>,[0],[1],AlariodelRio_Sol_Sostenido.xml,52,3 1/2
+311.5,<music21.chord.Chord D#3 C#5>,"[0, 2]","[1, 3]",AlariodelRio_Sol_Sostenido.xml,52,3 3/4
+312,<music21.chord.Chord F#3 C#5>,"[0, 5]","[1, 6]",AlariodelRio_Sol_Sostenido.xml,53,1
+312.5,<music21.chord.Chord E3 C#5>,"[0, 3]","[1, 4]",AlariodelRio_Sol_Sostenido.xml,53,1 1/4
+313,<music21.chord.Chord E3 C#5>,"[0, 3]","[1, 4]",AlariodelRio_Sol_Sostenido.xml,53,1 1/2
+313.5,<music21.chord.Chord C#5>,[0],[1],AlariodelRio_Sol_Sostenido.xml,53,1 3/4
+314,<music21.chord.Chord C#5>,[0],[1],AlariodelRio_Sol_Sostenido.xml,53,2
+315,<music21.chord.Chord C#5>,[0],[1],AlariodelRio_Sol_Sostenido.xml,53,2 1/2
+315.5,<music21.chord.Chord E3 C#5>,"[0, 3]","[1, 4]",AlariodelRio_Sol_Sostenido.xml,53,2 3/4
+316,<music21.chord.Chord C#3 C#5>,[0],[1],AlariodelRio_Sol_Sostenido.xml,53,3
+316.5,<music21.chord.Chord D#3 C#5>,"[0, 2]","[1, 3]",AlariodelRio_Sol_Sostenido.xml,53,3 1/4
+317,<music21.chord.Chord B2 D#5>,"[0, -8]","[11, 3]",AlariodelRio_Sol_Sostenido.xml,53,3 1/2
+317.5,<music21.chord.Chord F#3 D#5>,"[0, 3]","[3, 6]",AlariodelRio_Sol_Sostenido.xml,53,3 3/4
+318,<music21.chord.Chord G#2 D#5>,"[0, 5]","[3, 8]",AlariodelRio_Sol_Sostenido.xml,54,1
+318.5,<music21.chord.Chord G#3 D#5>,"[0, 5]","[3, 8]",AlariodelRio_Sol_Sostenido.xml,54,1 1/4
+319,<music21.chord.Chord B2 D#5>,"[0, -8]","[11, 3]",AlariodelRio_Sol_Sostenido.xml,54,1 1/2
+319.5,<music21.chord.Chord G#2 D#5>,"[0, 5]","[3, 8]",AlariodelRio_Sol_Sostenido.xml,54,1 3/4
+320,<music21.chord.Chord B2 D#5>,"[0, -8]","[11, 3]",AlariodelRio_Sol_Sostenido.xml,54,2
+320.5,<music21.chord.Chord C#3 D#5>,"[0, 2]","[1, 3]",AlariodelRio_Sol_Sostenido.xml,54,2 1/4
+321,<music21.chord.Chord G#2 D#5>,"[0, 5]","[3, 8]",AlariodelRio_Sol_Sostenido.xml,54,2 1/2
+321.5,<music21.chord.Chord F#3 D#5>,"[0, 3]","[3, 6]",AlariodelRio_Sol_Sostenido.xml,54,2 3/4
+322,<music21.chord.Chord D#5>,[0],[3],AlariodelRio_Sol_Sostenido.xml,54,3
+323,<music21.chord.Chord D#5>,[0],[3],AlariodelRio_Sol_Sostenido.xml,54,3 1/2
+324,<music21.chord.Chord E3 D#5>,"[0, 1]","[3, 4]",AlariodelRio_Sol_Sostenido.xml,55,1
+324.5,<music21.chord.Chord F#3 D#5>,"[0, 3]","[3, 6]",AlariodelRio_Sol_Sostenido.xml,55,1 1/4
+325,<music21.chord.Chord A#2 D#5>,"[0, -7]","[10, 3]",AlariodelRio_Sol_Sostenido.xml,55,1 1/2
+325.5,<music21.chord.Chord B2 D#5>,"[0, -8]","[11, 3]",AlariodelRio_Sol_Sostenido.xml,55,1 3/4
+326,<music21.chord.Chord D#3 D#5>,[0],[3],AlariodelRio_Sol_Sostenido.xml,55,2
+326.5,<music21.chord.Chord D#3 D#5>,[0],[3],AlariodelRio_Sol_Sostenido.xml,55,2 1/4
+327,<music21.chord.Chord F#3>,[0],[6],AlariodelRio_Sol_Sostenido.xml,55,2 1/2
+327.5,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,55,2 3/4
+328,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,55,3
+330.5,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,56,1 1/4
+331,<music21.chord.Chord C#3>,[0],[1],AlariodelRio_Sol_Sostenido.xml,56,1 1/2
+331.5,<music21.chord.Chord D#3>,[0],[3],AlariodelRio_Sol_Sostenido.xml,56,1 3/4
+332,<music21.chord.Chord F#3>,[0],[6],AlariodelRio_Sol_Sostenido.xml,56,2
+332.5,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,56,2 1/4
+333,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,56,2 1/2
+335.5,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,56,3 3/4
+336,<music21.chord.Chord C#3>,[0],[1],AlariodelRio_Sol_Sostenido.xml,57,1
+336.5,<music21.chord.Chord D#3>,[0],[3],AlariodelRio_Sol_Sostenido.xml,57,1 1/4
+337,<music21.chord.Chord F#3>,[0],[6],AlariodelRio_Sol_Sostenido.xml,57,1 1/2
+337.5,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,57,1 3/4
+338,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,57,2
+340.5,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,57,3 1/4
+341,<music21.chord.Chord C#3>,[0],[1],AlariodelRio_Sol_Sostenido.xml,57,3 1/2
+341.5,<music21.chord.Chord D#3>,[0],[3],AlariodelRio_Sol_Sostenido.xml,57,3 3/4
+342,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,58,1
+342.5,<music21.chord.Chord F#3>,[0],[6],AlariodelRio_Sol_Sostenido.xml,58,1 1/4
+343,<music21.chord.Chord A#2>,[0],[10],AlariodelRio_Sol_Sostenido.xml,58,1 1/2
+343.5,<music21.chord.Chord B2>,[0],[11],AlariodelRio_Sol_Sostenido.xml,58,1 3/4
+344,<music21.chord.Chord D#3>,[0],[3],AlariodelRio_Sol_Sostenido.xml,58,2
+344.5,<music21.chord.Chord D#3>,[0],[3],AlariodelRio_Sol_Sostenido.xml,58,2 1/4
+345,<music21.chord.Chord B2>,[0],[11],AlariodelRio_Sol_Sostenido.xml,58,2 1/2
+345.5,<music21.chord.Chord F#3>,[0],[6],AlariodelRio_Sol_Sostenido.xml,58,2 3/4
+346,<music21.chord.Chord G#2>,[0],[8],AlariodelRio_Sol_Sostenido.xml,58,3
+346.5,<music21.chord.Chord G#3>,[0],[8],AlariodelRio_Sol_Sostenido.xml,58,3 1/4
+347,<music21.chord.Chord B2>,[0],[11],AlariodelRio_Sol_Sostenido.xml,58,3 1/2
+347.5,<music21.chord.Chord G#2>,[0],[8],AlariodelRio_Sol_Sostenido.xml,58,3 3/4
+348,<music21.chord.Chord B2>,[0],[11],AlariodelRio_Sol_Sostenido.xml,59,1
+348.5,<music21.chord.Chord C#3>,[0],[1],AlariodelRio_Sol_Sostenido.xml,59,1 1/4
+349,<music21.chord.Chord G#2>,[0],[8],AlariodelRio_Sol_Sostenido.xml,59,1 1/2
+349.5,<music21.chord.Chord F#3>,[0],[6],AlariodelRio_Sol_Sostenido.xml,59,1 3/4
+352,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,59,3
+352.5,<music21.chord.Chord A#3>,[0],[10],AlariodelRio_Sol_Sostenido.xml,59,3 1/4
+353,<music21.chord.Chord C#3>,[0],[1],AlariodelRio_Sol_Sostenido.xml,59,3 1/2
+353.5,<music21.chord.Chord B2>,[0],[11],AlariodelRio_Sol_Sostenido.xml,59,3 3/4
+356,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,60,2
+356.5,<music21.chord.Chord A#3>,[0],[10],AlariodelRio_Sol_Sostenido.xml,60,2 1/4
+357,<music21.chord.Chord C#3>,[0],[1],AlariodelRio_Sol_Sostenido.xml,60,2 1/2
+357.5,<music21.chord.Chord B2>,[0],[11],AlariodelRio_Sol_Sostenido.xml,60,2 3/4
+360,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,61,1
+360.5,<music21.chord.Chord A#3>,[0],[10],AlariodelRio_Sol_Sostenido.xml,61,1 1/4
+361,<music21.chord.Chord C#3>,[0],[1],AlariodelRio_Sol_Sostenido.xml,61,1 1/2
+361.5,<music21.chord.Chord B2>,[0],[11],AlariodelRio_Sol_Sostenido.xml,61,1 3/4
+364,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,61,3
+364.5,<music21.chord.Chord F#3>,[0],[6],AlariodelRio_Sol_Sostenido.xml,61,3 1/4
+365,<music21.chord.Chord A#2>,[0],[10],AlariodelRio_Sol_Sostenido.xml,61,3 1/2
+365.5,<music21.chord.Chord B2>,[0],[11],AlariodelRio_Sol_Sostenido.xml,61,3 3/4
+366,<music21.chord.Chord D#3>,[0],[3],AlariodelRio_Sol_Sostenido.xml,62,1
+366.5,<music21.chord.Chord D#3>,[0],[3],AlariodelRio_Sol_Sostenido.xml,62,1 1/4
+367,<music21.chord.Chord B2>,[0],[11],AlariodelRio_Sol_Sostenido.xml,62,1 1/2
+367.5,<music21.chord.Chord F#3>,[0],[6],AlariodelRio_Sol_Sostenido.xml,62,1 3/4
+368,<music21.chord.Chord G#2>,[0],[8],AlariodelRio_Sol_Sostenido.xml,62,2
+368.5,<music21.chord.Chord G#3>,[0],[8],AlariodelRio_Sol_Sostenido.xml,62,2 1/4
+369,<music21.chord.Chord B2>,[0],[11],AlariodelRio_Sol_Sostenido.xml,62,2 1/2
+369.5,<music21.chord.Chord G#2>,[0],[8],AlariodelRio_Sol_Sostenido.xml,62,2 3/4
+370,<music21.chord.Chord B2>,[0],[11],AlariodelRio_Sol_Sostenido.xml,62,3
+370.5,<music21.chord.Chord C#3>,[0],[1],AlariodelRio_Sol_Sostenido.xml,62,3 1/4
+371,<music21.chord.Chord G#2>,[0],[8],AlariodelRio_Sol_Sostenido.xml,62,3 1/2
+371.5,<music21.chord.Chord F#3>,[0],[6],AlariodelRio_Sol_Sostenido.xml,62,3 3/4
+374,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,63,2
+374.5,<music21.chord.Chord A#3>,[0],[10],AlariodelRio_Sol_Sostenido.xml,63,2 1/4
+375,<music21.chord.Chord C#3>,[0],[1],AlariodelRio_Sol_Sostenido.xml,63,2 1/2
+375.5,<music21.chord.Chord B2>,[0],[11],AlariodelRio_Sol_Sostenido.xml,63,2 3/4
+378,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,64,1
+378.5,<music21.chord.Chord A#3>,[0],[10],AlariodelRio_Sol_Sostenido.xml,64,1 1/4
+379,<music21.chord.Chord C#3>,[0],[1],AlariodelRio_Sol_Sostenido.xml,64,1 1/2
+379.5,<music21.chord.Chord B2>,[0],[11],AlariodelRio_Sol_Sostenido.xml,64,1 3/4
+382,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,64,3
+382.5,<music21.chord.Chord A#3>,[0],[10],AlariodelRio_Sol_Sostenido.xml,64,3 1/4
+383,<music21.chord.Chord C#3>,[0],[1],AlariodelRio_Sol_Sostenido.xml,64,3 1/2
+383.5,<music21.chord.Chord B2>,[0],[11],AlariodelRio_Sol_Sostenido.xml,64,3 3/4
+386,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,65,2
+386.5,<music21.chord.Chord F#3>,[0],[6],AlariodelRio_Sol_Sostenido.xml,65,2 1/4
+387,<music21.chord.Chord A#2>,[0],[10],AlariodelRio_Sol_Sostenido.xml,65,2 1/2
+387.5,<music21.chord.Chord B2>,[0],[11],AlariodelRio_Sol_Sostenido.xml,65,2 3/4
+388,<music21.chord.Chord D#3 B4>,"[0, -8]","[11, 3]",AlariodelRio_Sol_Sostenido.xml,65,3
+388.5,<music21.chord.Chord D#3 B4>,"[0, -8]","[11, 3]",AlariodelRio_Sol_Sostenido.xml,65,3 1/4
+389,<music21.chord.Chord B2 B4>,[0],[11],AlariodelRio_Sol_Sostenido.xml,65,3 1/2
+389.5,<music21.chord.Chord F#3 B4>,"[0, 5]","[6, 11]",AlariodelRio_Sol_Sostenido.xml,65,3 3/4
+390,<music21.chord.Chord G#2 B4>,"[0, 3]","[8, 11]",AlariodelRio_Sol_Sostenido.xml,66,1
+390.5,<music21.chord.Chord G#3 B4>,"[0, 3]","[8, 11]",AlariodelRio_Sol_Sostenido.xml,66,1 1/4
+391,<music21.chord.Chord B2 B4>,[0],[11],AlariodelRio_Sol_Sostenido.xml,66,1 1/2
+391.5,<music21.chord.Chord G#2 B4>,"[0, 3]","[8, 11]",AlariodelRio_Sol_Sostenido.xml,66,1 3/4
+392,<music21.chord.Chord B2 B4>,[0],[11],AlariodelRio_Sol_Sostenido.xml,66,2
+392.5,<music21.chord.Chord C#3 B4>,"[0, -10]","[11, 1]",AlariodelRio_Sol_Sostenido.xml,66,2 1/4
+393,<music21.chord.Chord G#2 B4>,"[0, 3]","[8, 11]",AlariodelRio_Sol_Sostenido.xml,66,2 1/2
+393.5,<music21.chord.Chord F#3 B4>,"[0, 5]","[6, 11]",AlariodelRio_Sol_Sostenido.xml,66,2 3/4
+396,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,67,1
+396.5,<music21.chord.Chord A#3>,[0],[10],AlariodelRio_Sol_Sostenido.xml,67,1 1/4
+397,<music21.chord.Chord C#3>,[0],[1],AlariodelRio_Sol_Sostenido.xml,67,1 1/2
+397.5,<music21.chord.Chord B2>,[0],[11],AlariodelRio_Sol_Sostenido.xml,67,1 3/4
+400,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,67,3
+400.5,<music21.chord.Chord A#3>,[0],[10],AlariodelRio_Sol_Sostenido.xml,67,3 1/4
+401,<music21.chord.Chord C#3>,[0],[1],AlariodelRio_Sol_Sostenido.xml,67,3 1/2
+401.5,<music21.chord.Chord B2>,[0],[11],AlariodelRio_Sol_Sostenido.xml,67,3 3/4
+404,<music21.chord.Chord E3>,[0],[4],AlariodelRio_Sol_Sostenido.xml,68,2
+404.5,<music21.chord.Chord A#3>,[0],[10],AlariodelRio_Sol_Sostenido.xml,68,2 1/4
+405,<music21.chord.Chord C#3>,[0],[1],AlariodelRio_Sol_Sostenido.xml,68,2 1/2
+405.5,<music21.chord.Chord B2>,[0],[11],AlariodelRio_Sol_Sostenido.xml,68,2 3/4
+408,<music21.chord.Chord A#2 F#3 B4 A#5>,"[0, 4, 5]","[6, 10, 11]",AlariodelRio_Sol_Sostenido.xml,69,1
+410,<music21.chord.Chord A#2 C#3 B4 C#5>,"[0, 1, -9]","[10, 11, 1]",AlariodelRio_Sol_Sostenido.xml,69,2
+412,<music21.chord.Chord A#2 A#3 A#4 A#5>,[0],[10],AlariodelRio_Sol_Sostenido.xml,69,3
