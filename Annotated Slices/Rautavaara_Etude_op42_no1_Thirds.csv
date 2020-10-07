@@ -1,0 +1,1578 @@
+offset,Chord,NormalForm,PCsinNormalForm,file,Phrase Boundary,Song Count,Measure Number,Measure Count
+0.0,<music21.chord.Chord D2 F#2 A2 F3 A3 C4 E4>,"[0, -9, -7, -5, -4, -3]","[9, 0, 2, 4, 5, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,1,1
+1.5,<music21.chord.Chord D2 F#2 A2 F3 A3 C4 E4>,"[0, -9, -7, -5, -4, -3]","[9, 0, 2, 4, 5, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,1,2 1/2
+2.0,<music21.chord.Chord E2 G#2 B2 E3 G3 B3 D4>,"[0, -9, -7, -4, -3]","[11, 2, 4, 7, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,1,3
+4.0,<music21.chord.Chord C1 C2 B2>,"[0, -11]","[11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,1,5
+4.125,<music21.chord.Chord E1 B2>,"[0, -7]","[11, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,1,5 1/8
+4.25,<music21.chord.Chord G1 B2>,"[0, 4]","[7, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,1,5 1/4
+4.375,<music21.chord.Chord B1 B2>,[0],[11],Rautavaara_Etude_op42_no1_Thirds.mxl,,,1,5 3/8
+4.5,<music21.chord.Chord C2 B2>,"[0, -11]","[11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,1,5 1/2
+4.625,<music21.chord.Chord E2 B2>,"[0, -7]","[11, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,1,5 5/8
+4.75,<music21.chord.Chord G2 B2>,"[0, 4]","[7, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,1,5 3/4
+4.875,<music21.chord.Chord B2>,[0],[11],Rautavaara_Etude_op42_no1_Thirds.mxl,,,1,5 7/8
+5.0,<music21.chord.Chord C2 B2>,"[0, -11]","[11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,1,6
+5.125,<music21.chord.Chord E2 B2>,"[0, -7]","[11, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,1,6 1/8
+5.25,<music21.chord.Chord G2 B2>,"[0, 4]","[7, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,1,6 1/4
+5.375,<music21.chord.Chord B2>,[0],[11],Rautavaara_Etude_op42_no1_Thirds.mxl,,,1,6 3/8
+5.5,<music21.chord.Chord B2 C3>,"[0, -11]","[11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,1,6 1/2
+5.625,<music21.chord.Chord B2 E3>,"[0, -7]","[11, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,1,6 5/8
+5.75,<music21.chord.Chord B2 G3>,"[0, 4]","[7, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,1,6 3/4
+5.875,<music21.chord.Chord B2 B3>,[0],[11],Rautavaara_Etude_op42_no1_Thirds.mxl,,,1,6 7/8
+6.0,<music21.chord.Chord B2 C3>,"[0, -11]","[11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,1,7
+6.125,<music21.chord.Chord B2 E3>,"[0, -7]","[11, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,1,7 1/8
+6.25,<music21.chord.Chord B2 G3>,"[0, 4]","[7, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,1,7 1/4
+6.375,<music21.chord.Chord B2 B3>,[0],[11],Rautavaara_Etude_op42_no1_Thirds.mxl,,,1,7 3/8
+6.5,<music21.chord.Chord B2 C4>,"[0, -11]","[11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,1,7 1/2
+6.625,<music21.chord.Chord B2 E4>,"[0, -7]","[11, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,1,7 5/8
+6.75,<music21.chord.Chord B2 G4>,"[0, 4]","[7, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,1,7 3/4
+6.875,<music21.chord.Chord B2 B4>,[0],[11],Rautavaara_Etude_op42_no1_Thirds.mxl,,,1,7 7/8
+7.0,<music21.chord.Chord B2 C4>,"[0, -11]","[11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,1,8
+7.125,<music21.chord.Chord B2 E4>,"[0, -7]","[11, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,1,8 1/8
+7.25,<music21.chord.Chord B2 G4>,"[0, 4]","[7, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,1,8 1/4
+7.375,<music21.chord.Chord B2 B4>,[0],[11],Rautavaara_Etude_op42_no1_Thirds.mxl,,,1,8 3/8
+7.5,<music21.chord.Chord B2 C5>,"[0, -11]","[11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,1,8 1/2
+7.625,<music21.chord.Chord B2 E5>,"[0, -7]","[11, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,1,8 5/8
+7.75,<music21.chord.Chord B2 G5>,"[0, 4]","[7, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,1,8 3/4
+7.875,<music21.chord.Chord B2 B5>,[0],[11],Rautavaara_Etude_op42_no1_Thirds.mxl,,,1,8 7/8
+8.0,<music21.chord.Chord C5>,[0],[0],Rautavaara_Etude_op42_no1_Thirds.mxl,,,1,9
+8.125,<music21.chord.Chord E5>,[0],[4],Rautavaara_Etude_op42_no1_Thirds.mxl,,,1,9 1/8
+8.25,<music21.chord.Chord G5>,[0],[7],Rautavaara_Etude_op42_no1_Thirds.mxl,,,1,9 1/4
+8.375,<music21.chord.Chord B5>,[0],[11],Rautavaara_Etude_op42_no1_Thirds.mxl,,,1,9 3/8
+8.5,<music21.chord.Chord C6>,[0],[0],Rautavaara_Etude_op42_no1_Thirds.mxl,,,1,9 1/2
+8.625,<music21.chord.Chord E6>,[0],[4],Rautavaara_Etude_op42_no1_Thirds.mxl,,,1,9 5/8
+8.75,<music21.chord.Chord G6>,[0],[7],Rautavaara_Etude_op42_no1_Thirds.mxl,,,1,9 3/4
+8.875,<music21.chord.Chord B6>,[0],[11],Rautavaara_Etude_op42_no1_Thirds.mxl,,,1,9 7/8
+0.0,<music21.chord.Chord D2 F#2 A2 F3 A3 C4 E4>,"[0, -9, -7, -5, -4, -3]","[9, 0, 2, 4, 5, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,2,1
+1.5,<music21.chord.Chord D2 F#2 A2 F3 A3 C4 E4>,"[0, -9, -7, -5, -4, -3]","[9, 0, 2, 4, 5, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,2,2 1/2
+2.0,<music21.chord.Chord E2 G#2 B2 E3 G3 B3 D4>,"[0, -9, -7, -4, -3]","[11, 2, 4, 7, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,2,3
+4.0,<music21.chord.Chord C1 C2 B2>,"[0, -11]","[11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,2,5
+4.125,<music21.chord.Chord E1 B2>,"[0, -7]","[11, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,2,5 1/8
+4.25,<music21.chord.Chord G1 B2>,"[0, 4]","[7, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,2,5 1/4
+4.375,<music21.chord.Chord B1 B2>,[0],[11],Rautavaara_Etude_op42_no1_Thirds.mxl,,,2,5 3/8
+4.5,<music21.chord.Chord C2 B2>,"[0, -11]","[11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,2,5 1/2
+4.625,<music21.chord.Chord E2 B2>,"[0, -7]","[11, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,2,5 5/8
+4.75,<music21.chord.Chord G2 B2>,"[0, 4]","[7, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,2,5 3/4
+4.875,<music21.chord.Chord B2>,[0],[11],Rautavaara_Etude_op42_no1_Thirds.mxl,,,2,5 7/8
+5.0,<music21.chord.Chord C2 B2>,"[0, -11]","[11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,2,6
+5.125,<music21.chord.Chord E2 B2>,"[0, -7]","[11, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,2,6 1/8
+5.25,<music21.chord.Chord G2 B2>,"[0, 4]","[7, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,2,6 1/4
+5.375,<music21.chord.Chord B2>,[0],[11],Rautavaara_Etude_op42_no1_Thirds.mxl,,,2,6 3/8
+5.5,<music21.chord.Chord B2 C3>,"[0, -11]","[11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,2,6 1/2
+5.625,<music21.chord.Chord B2 E3>,"[0, -7]","[11, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,2,6 5/8
+5.75,<music21.chord.Chord B2 G3>,"[0, 4]","[7, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,2,6 3/4
+5.875,<music21.chord.Chord B2 B3>,[0],[11],Rautavaara_Etude_op42_no1_Thirds.mxl,,,2,6 7/8
+6.0,<music21.chord.Chord B2 C3>,"[0, -11]","[11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,2,7
+6.125,<music21.chord.Chord B2 E3>,"[0, -7]","[11, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,2,7 1/8
+6.25,<music21.chord.Chord B2 G3>,"[0, 4]","[7, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,2,7 1/4
+6.375,<music21.chord.Chord B2 B3>,[0],[11],Rautavaara_Etude_op42_no1_Thirds.mxl,,,2,7 3/8
+6.5,<music21.chord.Chord B2 C4>,"[0, -11]","[11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,2,7 1/2
+6.625,<music21.chord.Chord B2 E4>,"[0, -7]","[11, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,2,7 5/8
+6.75,<music21.chord.Chord B2 G4>,"[0, 4]","[7, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,2,7 3/4
+6.875,<music21.chord.Chord B2 B4>,[0],[11],Rautavaara_Etude_op42_no1_Thirds.mxl,,,2,7 7/8
+7.0,<music21.chord.Chord B2 C4>,"[0, -11]","[11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,2,8
+7.125,<music21.chord.Chord B2 E4>,"[0, -7]","[11, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,2,8 1/8
+7.25,<music21.chord.Chord B2 G4>,"[0, 4]","[7, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,2,8 1/4
+7.375,<music21.chord.Chord B2 B4>,[0],[11],Rautavaara_Etude_op42_no1_Thirds.mxl,,,2,8 3/8
+7.5,<music21.chord.Chord B2 C5>,"[0, -11]","[11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,2,8 1/2
+7.625,<music21.chord.Chord B2 E5>,"[0, -7]","[11, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,2,8 5/8
+7.75,<music21.chord.Chord B2 G5>,"[0, 4]","[7, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,2,8 3/4
+7.875,<music21.chord.Chord B2 B5>,[0],[11],Rautavaara_Etude_op42_no1_Thirds.mxl,,,2,8 7/8
+8.0,<music21.chord.Chord C5>,[0],[0],Rautavaara_Etude_op42_no1_Thirds.mxl,,,2,9
+8.125,<music21.chord.Chord E5>,[0],[4],Rautavaara_Etude_op42_no1_Thirds.mxl,,,2,9 1/8
+8.25,<music21.chord.Chord G5>,[0],[7],Rautavaara_Etude_op42_no1_Thirds.mxl,,,2,9 1/4
+8.375,<music21.chord.Chord B5>,[0],[11],Rautavaara_Etude_op42_no1_Thirds.mxl,,,2,9 3/8
+8.5,<music21.chord.Chord C6>,[0],[0],Rautavaara_Etude_op42_no1_Thirds.mxl,,,2,9 1/2
+8.625,<music21.chord.Chord E6>,[0],[4],Rautavaara_Etude_op42_no1_Thirds.mxl,,,2,9 5/8
+8.75,<music21.chord.Chord G6>,[0],[7],Rautavaara_Etude_op42_no1_Thirds.mxl,,,2,9 3/4
+8.875,<music21.chord.Chord B6>,[0],[11],Rautavaara_Etude_op42_no1_Thirds.mxl,,,2,9 7/8
+0.0,<music21.chord.Chord D2 F#2 A2 F3 A3 C4 E4>,"[0, -9, -7, -5, -4, -3]","[9, 0, 2, 4, 5, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,3,1
+1.5,<music21.chord.Chord D2 F#2 A2 F3 A3 C4 E4>,"[0, -9, -7, -5, -4, -3]","[9, 0, 2, 4, 5, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,3,2 1/2
+2.0,<music21.chord.Chord E2 G#2 B2 E3 G3 B3 D4>,"[0, -9, -7, -4, -3]","[11, 2, 4, 7, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,3,3
+3.0,<music21.chord.Chord F2 A2 C3 F3 A3 C4 E4>,"[0, 1, 5, -4]","[4, 5, 9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,3,4
+4.0,<music21.chord.Chord A1 C#2 E2 A3 C#4 E4 G4>,"[0, 3, 6, 8]","[1, 4, 7, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,3,5
+5.0,<music21.chord.Chord G1 B1 D2 B3 E-4 F#4 A4>,"[0, 1, 3, 5, -4, -3]","[6, 7, 9, 11, 2, 3]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,3,6
+6.0,<music21.chord.Chord F1 A1 C2 C4 E4 G4 B4>,"[0, 1, 3, 5, 7, -4]","[4, 5, 7, 9, 11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,3,7
+0.0,<music21.chord.Chord D2 F#2 A2 F3 A3 C4 E4>,"[0, -9, -7, -5, -4, -3]","[9, 0, 2, 4, 5, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,4,1
+0.125,<music21.chord.Chord F#2 F3 A3 C4 E4>,"[0, 1, 2, 5, -4]","[4, 5, 6, 9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,4,1 1/8
+0.25,<music21.chord.Chord A2 F3 A3 C4 E4>,"[0, 1, 5, -4]","[4, 5, 9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,4,1 1/4
+0.375,<music21.chord.Chord C#3 F3 A3 C4 E4>,"[0, -9, -8, -5, -4]","[9, 0, 1, 4, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,4,1 3/8
+0.5,<music21.chord.Chord F3 A3 C4 E4>,"[0, 1, 5, -4]","[4, 5, 9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,4,1 1/2
+0.625,<music21.chord.Chord F3 A3 C4 E4>,"[0, 1, 5, -4]","[4, 5, 9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,4,1 5/8
+0.75,<music21.chord.Chord F3 A3 C4 E4>,"[0, 1, 5, -4]","[4, 5, 9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,4,1 3/4
+0.875,<music21.chord.Chord F3 A3 C4 E4>,"[0, 1, 5, -4]","[4, 5, 9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,4,1 7/8
+1.0,<music21.chord.Chord D3 F3 A3 C4 E4>,"[0, -9, -7, -5, -4]","[9, 0, 2, 4, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,4,2
+1.125,<music21.chord.Chord F3 F#3 A3 C4 E4>,"[0, 1, 2, 5, -4]","[4, 5, 6, 9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,4,2 1/8
+1.25,<music21.chord.Chord F3 A3 C4 E4>,"[0, 1, 5, -4]","[4, 5, 9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,4,2 1/4
+1.375,<music21.chord.Chord F3 A3 C4 C#4 E4>,"[0, -9, -8, -5, -4]","[9, 0, 1, 4, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,4,2 3/8
+1.5,<music21.chord.Chord F3 A3 C4 E4 F4>,"[0, 1, 5, -4]","[4, 5, 9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,4,2 1/2
+1.625,<music21.chord.Chord F3 A3 C4 E4 A4>,"[0, 1, 5, -4]","[4, 5, 9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,4,2 5/8
+1.75,<music21.chord.Chord F3 A3 C4 E4 C5>,"[0, 1, 5, -4]","[4, 5, 9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,4,2 3/4
+1.875,<music21.chord.Chord F3 A3 C4 E4 E5>,"[0, 1, 5, -4]","[4, 5, 9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,4,2 7/8
+2.0,<music21.chord.Chord F3 A3 C4 D4 E4>,"[0, -9, -7, -5, -4]","[9, 0, 2, 4, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,4,3
+2.125,<music21.chord.Chord F3 A3 C4 E4 F#4>,"[0, 1, 2, 5, -4]","[4, 5, 6, 9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,4,3 1/8
+2.25,<music21.chord.Chord F3 A3 C4 E4 A4>,"[0, 1, 5, -4]","[4, 5, 9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,4,3 1/4
+2.375,<music21.chord.Chord F3 A3 C4 E4 C#5>,"[0, -9, -8, -5, -4]","[9, 0, 1, 4, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,4,3 3/8
+2.5,<music21.chord.Chord F3 A3 C4 E4 F5>,"[0, 1, 5, -4]","[4, 5, 9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,4,3 1/2
+2.625,<music21.chord.Chord F3 A3 C4 E4 A5>,"[0, 1, 5, -4]","[4, 5, 9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,4,3 5/8
+2.75,<music21.chord.Chord F3 A3 C4 E4 C6>,"[0, 1, 5, -4]","[4, 5, 9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,4,3 3/4
+2.875,<music21.chord.Chord F3 A3 C4 E4 E6>,"[0, 1, 5, -4]","[4, 5, 9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,4,3 7/8
+3.0,<music21.chord.Chord F3 A3 C4 E4 D5>,"[0, -9, -7, -5, -4]","[9, 0, 2, 4, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,4,4
+3.125,<music21.chord.Chord F3 A3 C4 E4 F#5>,"[0, 1, 2, 5, -4]","[4, 5, 6, 9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,4,4 1/8
+3.25,<music21.chord.Chord F3 A3 C4 E4 A5>,"[0, 1, 5, -4]","[4, 5, 9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,4,4 1/4
+3.375,<music21.chord.Chord F3 A3 C4 E4 C#6>,"[0, -9, -8, -5, -4]","[9, 0, 1, 4, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,4,4 3/8
+3.5,<music21.chord.Chord F3 A3 C4 E4 F6>,"[0, 1, 5, -4]","[4, 5, 9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,4,4 1/2
+3.625,<music21.chord.Chord F3 A3 C4 E4 A6>,"[0, 1, 5, -4]","[4, 5, 9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,4,4 5/8
+3.75,<music21.chord.Chord F3 A3 C4 E4 C7>,"[0, 1, 5, -4]","[4, 5, 9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,4,4 3/4
+3.875,<music21.chord.Chord F3 A3 C4 E4 E7>,"[0, 1, 5, -4]","[4, 5, 9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,4,4 7/8
+0.0,<music21.chord.Chord D1 F#1 A1 F4 A4 C5 E5>,"[0, -9, -7, -5, -4, -3]","[9, 0, 2, 4, 5, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,5,1
+2.0,<music21.chord.Chord E1 G#1 B1 E4 G4 B4 D5>,"[0, -9, -7, -4, -3]","[11, 2, 4, 7, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,5,2
+4.0,<music21.chord.Chord F1 A1 C2 D4 F#4 A4 C5>,"[0, -9, -7, -4, -3]","[9, 0, 2, 5, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,5,3
+6.0,<music21.chord.Chord G1 B1 D2 C4 E4 G4 B4>,"[0, -11, -9, -7, -4]","[11, 0, 2, 4, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,5,4
+0.0,<music21.chord.Chord A1 C#2 E2 A3 C#4 F#4 A4>,"[0, 3, 5, 8]","[1, 4, 6, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,6,1
+0.5,<music21.chord.Chord A1 C#2 E2 A3 C#4 F#4 A4>,"[0, 3, 5, 8]","[1, 4, 6, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,6,2
+2/3,<music21.chord.Chord A1 C#2 E2 A3 C#4 F#4 A4>,"[0, 3, 5, 8]","[1, 4, 6, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,6,2 1/3
+5/6,<music21.chord.Chord A1 C#2 E2 A3 C#4 F#4 A4>,"[0, 3, 5, 8]","[1, 4, 6, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,6,2 2/3
+1.0,<music21.chord.Chord A1 C#2 E2 F#2 A3 C#4 F#4 A4>,"[0, 3, 5, 8]","[1, 4, 6, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,6,3
+7/6,<music21.chord.Chord A1 C#2 E2 B-2 A3 C#4 F#4 A4>,"[0, 3, 5, 8, 9]","[1, 4, 6, 9, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,6,3 1/3
+4/3,<music21.chord.Chord A1 C#2 E2 C#3 A3 C#4 F#4 A4>,"[0, 3, 5, 8]","[1, 4, 6, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,6,3 2/3
+1.5,<music21.chord.Chord A1 C#2 E2 A2 A3 C#4 F#4 A4>,"[0, 3, 5, 8]","[1, 4, 6, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,6,4
+5/3,<music21.chord.Chord A1 C#2 E2 C#3 A3 C#4 F#4 A4>,"[0, 3, 5, 8]","[1, 4, 6, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,6,4 1/3
+11/6,<music21.chord.Chord A1 C#2 E2 E3 A3 C#4 F#4 A4>,"[0, 3, 5, 8]","[1, 4, 6, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,6,4 2/3
+2.0,<music21.chord.Chord A1 C#2 E2 F#3 A3 C#4 F#4 A4>,"[0, 3, 5, 8]","[1, 4, 6, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,6,5
+13/6,<music21.chord.Chord A1 C#2 E2 A3 B-3 C#4 F#4 A4>,"[0, 3, 5, 8, 9]","[1, 4, 6, 9, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,6,5 1/3
+7/3,<music21.chord.Chord A1 C#2 E2 A3 C#4 F#4 A4>,"[0, 3, 5, 8]","[1, 4, 6, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,6,5 2/3
+2.5,<music21.chord.Chord A1 C#2 E2 A3 B-3 C#4 F#4 A4>,"[0, 3, 5, 8, 9]","[1, 4, 6, 9, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,6,6
+8/3,<music21.chord.Chord A1 C#2 E2 F#3 A3 C#4 F#4 A4>,"[0, 3, 5, 8]","[1, 4, 6, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,6,6 1/3
+17/6,<music21.chord.Chord A1 C#2 E2 E3 A3 C#4 F#4 A4>,"[0, 3, 5, 8]","[1, 4, 6, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,6,6 2/3
+3.0,<music21.chord.Chord A1 C#2 E2 C#3 A3 C#4 F#4 A4>,"[0, 3, 5, 8]","[1, 4, 6, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,6,7
+19/6,<music21.chord.Chord A1 C#2 E2 A2 A3 C#4 F#4 A4>,"[0, 3, 5, 8]","[1, 4, 6, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,6,7 1/3
+10/3,<music21.chord.Chord A1 C#2 E2 C#3 A3 C#4 F#4 A4>,"[0, 3, 5, 8]","[1, 4, 6, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,6,7 2/3
+0.0,<music21.chord.Chord E3>,[0],[4],Rautavaara_Etude_op42_no1_Thirds.mxl,,,7,1
+1/6,<music21.chord.Chord F#3>,[0],[6],Rautavaara_Etude_op42_no1_Thirds.mxl,,,7,1 1/3
+1/3,<music21.chord.Chord B-3>,[0],[10],Rautavaara_Etude_op42_no1_Thirds.mxl,,,7,1 2/3
+0.5,<music21.chord.Chord C#4>,[0],[1],Rautavaara_Etude_op42_no1_Thirds.mxl,,,7,2
+2/3,<music21.chord.Chord A3>,[0],[9],Rautavaara_Etude_op42_no1_Thirds.mxl,,,7,2 1/3
+5/6,<music21.chord.Chord C#4>,[0],[1],Rautavaara_Etude_op42_no1_Thirds.mxl,,,7,2 2/3
+1.0,<music21.chord.Chord E4>,[0],[4],Rautavaara_Etude_op42_no1_Thirds.mxl,,,7,3
+7/6,<music21.chord.Chord F#4>,[0],[6],Rautavaara_Etude_op42_no1_Thirds.mxl,,,7,3 1/3
+4/3,<music21.chord.Chord B-4>,[0],[10],Rautavaara_Etude_op42_no1_Thirds.mxl,,,7,3 2/3
+1.5,<music21.chord.Chord C#5>,[0],[1],Rautavaara_Etude_op42_no1_Thirds.mxl,,,7,4
+5/3,<music21.chord.Chord B-4>,[0],[10],Rautavaara_Etude_op42_no1_Thirds.mxl,,,7,4 1/3
+11/6,<music21.chord.Chord F#4>,[0],[6],Rautavaara_Etude_op42_no1_Thirds.mxl,,,7,4 2/3
+2.0,<music21.chord.Chord E4>,[0],[4],Rautavaara_Etude_op42_no1_Thirds.mxl,,,7,5
+13/6,<music21.chord.Chord C#4>,[0],[1],Rautavaara_Etude_op42_no1_Thirds.mxl,,,7,5 1/3
+7/3,<music21.chord.Chord A3>,[0],[9],Rautavaara_Etude_op42_no1_Thirds.mxl,,,7,5 2/3
+2.5,<music21.chord.Chord C#4>,[0],[1],Rautavaara_Etude_op42_no1_Thirds.mxl,,,7,6
+8/3,<music21.chord.Chord B-3>,[0],[10],Rautavaara_Etude_op42_no1_Thirds.mxl,,,7,6 1/3
+17/6,<music21.chord.Chord F#3>,[0],[6],Rautavaara_Etude_op42_no1_Thirds.mxl,,,7,6 2/3
+3.0,<music21.chord.Chord E3>,[0],[4],Rautavaara_Etude_op42_no1_Thirds.mxl,,,7,7
+19/6,<music21.chord.Chord C#3>,[0],[1],Rautavaara_Etude_op42_no1_Thirds.mxl,,,7,7 1/3
+10/3,<music21.chord.Chord A2>,[0],[9],Rautavaara_Etude_op42_no1_Thirds.mxl,,,7,7 2/3
+0.0,<music21.chord.Chord C#3>,[0],[1],Rautavaara_Etude_op42_no1_Thirds.mxl,,,8,1
+1/6,<music21.chord.Chord E3>,[0],[4],Rautavaara_Etude_op42_no1_Thirds.mxl,,,8,1 1/3
+1/3,<music21.chord.Chord F#3>,[0],[6],Rautavaara_Etude_op42_no1_Thirds.mxl,,,8,1 2/3
+0.5,<music21.chord.Chord B-3>,[0],[10],Rautavaara_Etude_op42_no1_Thirds.mxl,,,8,2
+2/3,<music21.chord.Chord C#4>,[0],[1],Rautavaara_Etude_op42_no1_Thirds.mxl,,,8,2 1/3
+5/6,<music21.chord.Chord A3>,[0],[9],Rautavaara_Etude_op42_no1_Thirds.mxl,,,8,2 2/3
+1.0,<music21.chord.Chord C#4>,[0],[1],Rautavaara_Etude_op42_no1_Thirds.mxl,,,8,3
+7/6,<music21.chord.Chord E4>,[0],[4],Rautavaara_Etude_op42_no1_Thirds.mxl,,,8,3 1/3
+4/3,<music21.chord.Chord F#4>,[0],[6],Rautavaara_Etude_op42_no1_Thirds.mxl,,,8,3 2/3
+1.5,<music21.chord.Chord B-4>,[0],[10],Rautavaara_Etude_op42_no1_Thirds.mxl,,,8,4
+5/3,<music21.chord.Chord C#5>,[0],[1],Rautavaara_Etude_op42_no1_Thirds.mxl,,,8,4 1/3
+11/6,<music21.chord.Chord B-4>,[0],[10],Rautavaara_Etude_op42_no1_Thirds.mxl,,,8,4 2/3
+2.0,<music21.chord.Chord F#4>,[0],[6],Rautavaara_Etude_op42_no1_Thirds.mxl,,,8,5
+13/6,<music21.chord.Chord E4>,[0],[4],Rautavaara_Etude_op42_no1_Thirds.mxl,,,8,5 1/3
+7/3,<music21.chord.Chord C#4>,[0],[1],Rautavaara_Etude_op42_no1_Thirds.mxl,,,8,5 2/3
+2.5,<music21.chord.Chord A3>,[0],[9],Rautavaara_Etude_op42_no1_Thirds.mxl,,,8,6
+8/3,<music21.chord.Chord C#4>,[0],[1],Rautavaara_Etude_op42_no1_Thirds.mxl,,,8,6 1/3
+17/6,<music21.chord.Chord B-3>,[0],[10],Rautavaara_Etude_op42_no1_Thirds.mxl,,,8,6 2/3
+3.0,<music21.chord.Chord F#3>,[0],[6],Rautavaara_Etude_op42_no1_Thirds.mxl,,,8,7
+19/6,<music21.chord.Chord E3>,[0],[4],Rautavaara_Etude_op42_no1_Thirds.mxl,,,8,7 1/3
+10/3,<music21.chord.Chord C#3>,[0],[1],Rautavaara_Etude_op42_no1_Thirds.mxl,,,8,7 2/3
+0.0,<music21.chord.Chord A2 E4>,"[0, 5]","[4, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,9,1
+1/6,<music21.chord.Chord C#3 E4>,"[0, 3]","[1, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,9,1 1/3
+1/3,<music21.chord.Chord E3 E4>,[0],[4],Rautavaara_Etude_op42_no1_Thirds.mxl,,,9,1 2/3
+0.5,<music21.chord.Chord F#3 E4>,"[0, 2]","[4, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,9,2
+2/3,<music21.chord.Chord B-3 E4>,"[0, 6]","[4, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,9,2 1/3
+5/6,<music21.chord.Chord C#4 E4>,"[0, 3]","[1, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,9,2 2/3
+1.0,<music21.chord.Chord A3 E4>,"[0, 5]","[4, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,9,3
+7/6,<music21.chord.Chord C#4 E4>,"[0, 3]","[1, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,9,3 1/3
+4/3,<music21.chord.Chord E4>,[0],[4],Rautavaara_Etude_op42_no1_Thirds.mxl,,,9,3 2/3
+1.5,<music21.chord.Chord E4 F#4>,"[0, 2]","[4, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,9,4
+5/3,<music21.chord.Chord E4 B-4>,"[0, 6]","[4, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,9,4 1/3
+11/6,<music21.chord.Chord E4 C#5>,"[0, 3]","[1, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,9,4 2/3
+2.0,<music21.chord.Chord E4 B-4>,"[0, 6]","[4, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,9,5
+13/6,<music21.chord.Chord E4 F#4>,"[0, 2]","[4, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,9,5 1/3
+7/3,<music21.chord.Chord E4>,[0],[4],Rautavaara_Etude_op42_no1_Thirds.mxl,,,9,5 2/3
+2.5,<music21.chord.Chord C#4 E4>,"[0, 3]","[1, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,9,6
+8/3,<music21.chord.Chord A3 E4>,"[0, 5]","[4, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,9,6 1/3
+17/6,<music21.chord.Chord C#4 E4>,"[0, 3]","[1, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,9,6 2/3
+3.0,<music21.chord.Chord B-3 E4>,"[0, 6]","[4, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,9,7
+19/6,<music21.chord.Chord F#3 E4>,"[0, 2]","[4, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,9,7 1/3
+10/3,<music21.chord.Chord E3 E4>,[0],[4],Rautavaara_Etude_op42_no1_Thirds.mxl,,,9,7 2/3
+0.0,<music21.chord.Chord A2 G4>,"[0, 2]","[7, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,10,1
+1/6,<music21.chord.Chord C#3 G4>,"[0, 6]","[1, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,10,1 1/3
+1/3,<music21.chord.Chord E3 G4>,"[0, 3]","[4, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,10,1 2/3
+0.5,<music21.chord.Chord F#3 G4>,"[0, 1]","[6, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,10,2
+2/3,<music21.chord.Chord B-3 G4>,"[0, 3]","[7, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,10,2 1/3
+5/6,<music21.chord.Chord C#4 G4>,"[0, 6]","[1, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,10,2 2/3
+1.0,<music21.chord.Chord A3 G4>,"[0, 2]","[7, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,10,3
+7/6,<music21.chord.Chord C#4 G4>,"[0, 6]","[1, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,10,3 1/3
+4/3,<music21.chord.Chord E4 G4>,"[0, 3]","[4, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,10,3 2/3
+1.5,<music21.chord.Chord F#4 G4>,"[0, 1]","[6, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,10,4
+5/3,<music21.chord.Chord G4 B-4>,"[0, 3]","[7, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,10,4 1/3
+11/6,<music21.chord.Chord G4 C#5>,"[0, 6]","[1, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,10,4 2/3
+2.0,<music21.chord.Chord G4 B-4>,"[0, 3]","[7, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,10,5
+13/6,<music21.chord.Chord F#4 G4>,"[0, 1]","[6, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,10,5 1/3
+7/3,<music21.chord.Chord E4 G4>,"[0, 3]","[4, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,10,5 2/3
+2.5,<music21.chord.Chord C#4 G4>,"[0, 6]","[1, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,10,6
+8/3,<music21.chord.Chord A3 G4>,"[0, 2]","[7, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,10,6 1/3
+17/6,<music21.chord.Chord C#4 G4>,"[0, 6]","[1, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,10,6 2/3
+3.0,<music21.chord.Chord B-3 G4>,"[0, 3]","[7, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,10,7
+19/6,<music21.chord.Chord F#3 G4>,"[0, 1]","[6, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,10,7 1/3
+10/3,<music21.chord.Chord E3 G4>,"[0, 3]","[4, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,10,7 2/3
+0.0,<music21.chord.Chord A2 B4>,"[0, 2]","[9, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,11,1
+1/6,<music21.chord.Chord C#3 B4>,"[0, -10]","[11, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,11,1 1/3
+1/3,<music21.chord.Chord E3 B4>,"[0, -7]","[11, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,11,1 2/3
+0.5,<music21.chord.Chord F#3 B4>,"[0, 5]","[6, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,11,2
+2/3,<music21.chord.Chord B-3 B4>,"[0, 1]","[10, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,11,2 1/3
+5/6,<music21.chord.Chord C#4 B4>,"[0, -10]","[11, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,11,2 2/3
+1.0,<music21.chord.Chord A3 B4>,"[0, 2]","[9, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,11,3
+7/6,<music21.chord.Chord C#4 B4>,"[0, -10]","[11, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,11,3 1/3
+4/3,<music21.chord.Chord E4 B4>,"[0, -7]","[11, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,11,3 2/3
+1.5,<music21.chord.Chord F#4 B4>,"[0, 5]","[6, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,11,4
+5/3,<music21.chord.Chord B-4 B4>,"[0, 1]","[10, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,11,4 1/3
+11/6,<music21.chord.Chord B4 C#5>,"[0, -10]","[11, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,11,4 2/3
+2.0,<music21.chord.Chord B-4 B4>,"[0, 1]","[10, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,11,5
+13/6,<music21.chord.Chord F#4 B4>,"[0, 5]","[6, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,11,5 1/3
+7/3,<music21.chord.Chord E4 B4>,"[0, -7]","[11, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,11,5 2/3
+2.5,<music21.chord.Chord C#4 B4>,"[0, -10]","[11, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,11,6
+8/3,<music21.chord.Chord A3 B4>,"[0, 2]","[9, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,11,6 1/3
+17/6,<music21.chord.Chord C#4 B4>,"[0, -10]","[11, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,11,6 2/3
+3.0,<music21.chord.Chord B-3 B4>,"[0, 1]","[10, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,11,7
+19/6,<music21.chord.Chord F#3 B4>,"[0, 5]","[6, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,11,7 1/3
+10/3,<music21.chord.Chord E3 B4>,"[0, -7]","[11, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,11,7 2/3
+0.0,<music21.chord.Chord D2 C4>,"[0, 2]","[0, 2]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,12,1
+0.125,<music21.chord.Chord F#2 C4>,"[0, 6]","[0, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,12,1 1/4
+0.25,<music21.chord.Chord A2 C4>,"[0, -9]","[9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,12,1 1/2
+0.375,<music21.chord.Chord C#3 C4>,"[0, 1]","[0, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,12,1 3/4
+0.5,<music21.chord.Chord F3 C4>,"[0, 5]","[0, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,12,2
+0.625,<music21.chord.Chord A3 C4>,"[0, -9]","[9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,12,2 1/4
+0.75,<music21.chord.Chord C4>,[0],[0],Rautavaara_Etude_op42_no1_Thirds.mxl,,,12,2 1/2
+0.875,<music21.chord.Chord C4 E4>,"[0, 4]","[0, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,12,2 3/4
+1.0,<music21.chord.Chord D3 C4>,"[0, 2]","[0, 2]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,12,3
+1.125,<music21.chord.Chord F#3 C4>,"[0, 6]","[0, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,12,3 1/4
+1.25,<music21.chord.Chord A3 C4>,"[0, -9]","[9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,12,3 1/2
+1.375,<music21.chord.Chord C4 C#4>,"[0, 1]","[0, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,12,3 3/4
+1.5,<music21.chord.Chord C4 F4>,"[0, 5]","[0, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,12,4
+1.625,<music21.chord.Chord C4 A4>,"[0, -9]","[9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,12,4 1/4
+1.75,<music21.chord.Chord C4 C5>,[0],[0],Rautavaara_Etude_op42_no1_Thirds.mxl,,,12,4 1/2
+1.875,<music21.chord.Chord C4 E5>,"[0, 4]","[0, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,12,4 3/4
+2.0,<music21.chord.Chord C4 C5>,[0],[0],Rautavaara_Etude_op42_no1_Thirds.mxl,,,12,5
+2.125,<music21.chord.Chord C4 A4>,"[0, -9]","[9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,12,5 1/4
+2.25,<music21.chord.Chord C4 F4>,"[0, 5]","[0, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,12,5 1/2
+2.375,<music21.chord.Chord C4 C#4>,"[0, 1]","[0, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,12,5 3/4
+2.5,<music21.chord.Chord A3 C4>,"[0, -9]","[9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,12,6
+2.625,<music21.chord.Chord F#3 C4>,"[0, 6]","[0, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,12,6 1/4
+2.75,<music21.chord.Chord D3 C4>,"[0, 2]","[0, 2]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,12,6 1/2
+2.875,<music21.chord.Chord C4 E4>,"[0, 4]","[0, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,12,6 3/4
+3.0,<music21.chord.Chord C4>,[0],[0],Rautavaara_Etude_op42_no1_Thirds.mxl,,,12,7
+3.125,<music21.chord.Chord A3 C4>,"[0, -9]","[9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,12,7 1/4
+3.25,<music21.chord.Chord F3 C4>,"[0, 5]","[0, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,12,7 1/2
+3.375,<music21.chord.Chord C#3 C4>,"[0, 1]","[0, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,12,7 3/4
+0.0,<music21.chord.Chord D2 E4>,"[0, 2]","[2, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,13,1
+0.125,<music21.chord.Chord F#2 E4>,"[0, 2]","[4, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,13,1 1/4
+0.25,<music21.chord.Chord A2 E4>,"[0, 5]","[4, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,13,1 1/2
+0.375,<music21.chord.Chord C#3 E4>,"[0, 3]","[1, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,13,1 3/4
+0.5,<music21.chord.Chord F3 E4>,"[0, 1]","[4, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,13,2
+0.625,<music21.chord.Chord A3 E4>,"[0, 5]","[4, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,13,2 1/4
+0.75,<music21.chord.Chord C4 E4>,"[0, 4]","[0, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,13,2 1/2
+0.875,<music21.chord.Chord E4>,[0],[4],Rautavaara_Etude_op42_no1_Thirds.mxl,,,13,2 3/4
+1.0,<music21.chord.Chord D3 E4>,"[0, 2]","[2, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,13,3
+1.125,<music21.chord.Chord F#3 E4>,"[0, 2]","[4, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,13,3 1/4
+1.25,<music21.chord.Chord A3 E4>,"[0, 5]","[4, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,13,3 1/2
+1.375,<music21.chord.Chord C#4 E4>,"[0, 3]","[1, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,13,3 3/4
+1.5,<music21.chord.Chord E4 F4>,"[0, 1]","[4, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,13,4
+1.625,<music21.chord.Chord E4 A4>,"[0, 5]","[4, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,13,4 1/4
+1.75,<music21.chord.Chord E4 C5>,"[0, 4]","[0, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,13,4 1/2
+1.875,<music21.chord.Chord E4 E5>,[0],[4],Rautavaara_Etude_op42_no1_Thirds.mxl,,,13,4 3/4
+2.0,<music21.chord.Chord E4 C5>,"[0, 4]","[0, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,13,5
+2.125,<music21.chord.Chord E4 A4>,"[0, 5]","[4, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,13,5 1/4
+2.25,<music21.chord.Chord E4 F4>,"[0, 1]","[4, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,13,5 1/2
+2.375,<music21.chord.Chord C#4 E4>,"[0, 3]","[1, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,13,5 3/4
+2.5,<music21.chord.Chord A3 E4>,"[0, 5]","[4, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,13,6
+2.625,<music21.chord.Chord F#3 E4>,"[0, 2]","[4, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,13,6 1/4
+2.75,<music21.chord.Chord D3 E4>,"[0, 2]","[2, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,13,6 1/2
+2.875,<music21.chord.Chord E4>,[0],[4],Rautavaara_Etude_op42_no1_Thirds.mxl,,,13,6 3/4
+3.0,<music21.chord.Chord C4 E4>,"[0, 4]","[0, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,13,7
+3.125,<music21.chord.Chord A3 E4>,"[0, 5]","[4, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,13,7 1/4
+3.25,<music21.chord.Chord F3 E4>,"[0, 1]","[4, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,13,7 1/2
+3.375,<music21.chord.Chord C#3 E4>,"[0, 3]","[1, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,13,7 3/4
+0.0,<music21.chord.Chord D2 F3>,"[0, 3]","[2, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,14,1
+0.125,<music21.chord.Chord F#2 F3>,"[0, 1]","[5, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,14,1 1/4
+0.25,<music21.chord.Chord A2 F3>,"[0, 4]","[5, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,14,1 1/2
+0.375,<music21.chord.Chord C#3 F3>,"[0, 4]","[1, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,14,1 3/4
+0.5,<music21.chord.Chord F3>,[0],[5],Rautavaara_Etude_op42_no1_Thirds.mxl,,,14,2
+0.625,<music21.chord.Chord F3 A3>,"[0, 4]","[5, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,14,2 1/4
+0.75,<music21.chord.Chord F3 C4>,"[0, 5]","[0, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,14,2 1/2
+0.875,<music21.chord.Chord F3 E4>,"[0, 1]","[4, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,14,2 3/4
+1.0,<music21.chord.Chord D3 F3>,"[0, 3]","[2, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,14,3
+1.125,<music21.chord.Chord F3 F#3>,"[0, 1]","[5, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,14,3 1/4
+1.25,<music21.chord.Chord F3 A3>,"[0, 4]","[5, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,14,3 1/2
+1.375,<music21.chord.Chord F3 C#4>,"[0, 4]","[1, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,14,3 3/4
+1.5,<music21.chord.Chord F3 F4>,[0],[5],Rautavaara_Etude_op42_no1_Thirds.mxl,,,14,4
+1.625,<music21.chord.Chord F3 A4>,"[0, 4]","[5, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,14,4 1/4
+1.75,<music21.chord.Chord F3 C5>,"[0, 5]","[0, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,14,4 1/2
+1.875,<music21.chord.Chord F3 E5>,"[0, 1]","[4, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,14,4 3/4
+2.0,<music21.chord.Chord F3 C5>,"[0, 5]","[0, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,14,5
+2.125,<music21.chord.Chord F3 A4>,"[0, 4]","[5, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,14,5 1/4
+2.25,<music21.chord.Chord F3 F4>,[0],[5],Rautavaara_Etude_op42_no1_Thirds.mxl,,,14,5 1/2
+2.375,<music21.chord.Chord F3 C#4>,"[0, 4]","[1, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,14,5 3/4
+2.5,<music21.chord.Chord F3 A3>,"[0, 4]","[5, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,14,6
+2.625,<music21.chord.Chord F3 F#3>,"[0, 1]","[5, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,14,6 1/4
+2.75,<music21.chord.Chord D3 F3>,"[0, 3]","[2, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,14,6 1/2
+2.875,<music21.chord.Chord F3 E4>,"[0, 1]","[4, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,14,6 3/4
+3.0,<music21.chord.Chord F3 C4>,"[0, 5]","[0, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,14,7
+3.125,<music21.chord.Chord F3 A3>,"[0, 4]","[5, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,14,7 1/4
+3.25,<music21.chord.Chord F3>,[0],[5],Rautavaara_Etude_op42_no1_Thirds.mxl,,,14,7 1/2
+3.375,<music21.chord.Chord C#3 F3>,"[0, 4]","[1, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,14,7 3/4
+0.0,<music21.chord.Chord F#2 A3>,"[0, 3]","[6, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,15,1
+0.125,<music21.chord.Chord B-2 A3>,"[0, 1]","[9, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,15,1 1/4
+0.25,<music21.chord.Chord C#3 A3>,"[0, -8]","[9, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,15,1 1/2
+0.375,<music21.chord.Chord F3 A3>,"[0, 4]","[5, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,15,1 3/4
+0.5,<music21.chord.Chord A3>,[0],[9],Rautavaara_Etude_op42_no1_Thirds.mxl,,,15,2
+0.625,<music21.chord.Chord A3 C#4>,"[0, -8]","[9, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,15,2 1/4
+0.75,<music21.chord.Chord A3 E4>,"[0, 5]","[4, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,15,2 1/2
+0.875,<music21.chord.Chord A3 G#4>,"[0, 1]","[8, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,15,2 3/4
+1.0,<music21.chord.Chord F#3 A3>,"[0, 3]","[6, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,15,3
+1.125,<music21.chord.Chord A3 B-3>,"[0, 1]","[9, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,15,3 1/4
+1.25,<music21.chord.Chord A3 C#4>,"[0, -8]","[9, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,15,3 1/2
+1.375,<music21.chord.Chord A3 F4>,"[0, 4]","[5, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,15,3 3/4
+1.5,<music21.chord.Chord A3 A4>,[0],[9],Rautavaara_Etude_op42_no1_Thirds.mxl,,,15,4
+1.625,<music21.chord.Chord A3 C#5>,"[0, -8]","[9, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,15,4 1/4
+1.75,<music21.chord.Chord A3 E5>,"[0, 5]","[4, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,15,4 1/2
+1.875,<music21.chord.Chord A3 G#5>,"[0, 1]","[8, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,15,4 3/4
+2.0,<music21.chord.Chord A3 E5>,"[0, 5]","[4, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,15,5
+2.125,<music21.chord.Chord A3 C#5>,"[0, -8]","[9, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,15,5 1/4
+2.25,<music21.chord.Chord A3 A4>,[0],[9],Rautavaara_Etude_op42_no1_Thirds.mxl,,,15,5 1/2
+2.375,<music21.chord.Chord A3 F4>,"[0, 4]","[5, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,15,5 3/4
+2.5,<music21.chord.Chord A3 C#4>,"[0, -8]","[9, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,15,6
+2.625,<music21.chord.Chord A3 B-3>,"[0, 1]","[9, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,15,6 1/4
+2.75,<music21.chord.Chord F#3 A3>,"[0, 3]","[6, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,15,6 1/2
+2.875,<music21.chord.Chord A3 G#4>,"[0, 1]","[8, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,15,6 3/4
+3.0,<music21.chord.Chord A3 E4>,"[0, 5]","[4, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,15,7
+3.125,<music21.chord.Chord A3 C#4>,"[0, -8]","[9, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,15,7 1/4
+3.25,<music21.chord.Chord A3>,[0],[9],Rautavaara_Etude_op42_no1_Thirds.mxl,,,15,7 1/2
+3.375,<music21.chord.Chord F3 A3>,"[0, 4]","[5, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,15,7 3/4
+0.0,<music21.chord.Chord F#2 C#4>,"[0, 5]","[1, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,16,1
+0.125,<music21.chord.Chord B-2 C#4>,"[0, -9]","[10, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,16,1 1/4
+0.25,<music21.chord.Chord C#3 C#4>,[0],[1],Rautavaara_Etude_op42_no1_Thirds.mxl,,,16,1 1/2
+0.375,<music21.chord.Chord F3 C#4>,"[0, 4]","[1, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,16,1 3/4
+0.5,<music21.chord.Chord A3 C#4>,"[0, -8]","[9, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,16,2
+0.625,<music21.chord.Chord C#4>,[0],[1],Rautavaara_Etude_op42_no1_Thirds.mxl,,,16,2 1/4
+0.75,<music21.chord.Chord C#4 E4>,"[0, 3]","[1, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,16,2 1/2
+0.875,<music21.chord.Chord C#4 G#4>,"[0, -7]","[8, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,16,2 3/4
+1.0,<music21.chord.Chord F#3 C#4>,"[0, 5]","[1, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,16,3
+1.125,<music21.chord.Chord B-3 C#4>,"[0, -9]","[10, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,16,3 1/4
+1.25,<music21.chord.Chord C#4>,[0],[1],Rautavaara_Etude_op42_no1_Thirds.mxl,,,16,3 1/2
+1.375,<music21.chord.Chord C#4 F4>,"[0, 4]","[1, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,16,3 3/4
+1.5,<music21.chord.Chord C#4 A4>,"[0, -8]","[9, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,16,4
+1.625,<music21.chord.Chord C#4 C#5>,[0],[1],Rautavaara_Etude_op42_no1_Thirds.mxl,,,16,4 1/4
+1.75,<music21.chord.Chord C#4 E5>,"[0, 3]","[1, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,16,4 1/2
+1.875,<music21.chord.Chord C#4 G#5>,"[0, -7]","[8, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,16,4 3/4
+2.0,<music21.chord.Chord C#4 E5>,"[0, 3]","[1, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,16,5
+2.125,<music21.chord.Chord C#4 C#5>,[0],[1],Rautavaara_Etude_op42_no1_Thirds.mxl,,,16,5 1/4
+2.25,<music21.chord.Chord C#4 A4>,"[0, -8]","[9, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,16,5 1/2
+2.375,<music21.chord.Chord C#4 F4>,"[0, 4]","[1, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,16,5 3/4
+2.5,<music21.chord.Chord C#4>,[0],[1],Rautavaara_Etude_op42_no1_Thirds.mxl,,,16,6
+2.625,<music21.chord.Chord B-3 C#4>,"[0, -9]","[10, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,16,6 1/4
+2.75,<music21.chord.Chord F#3 C#4>,"[0, 5]","[1, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,16,6 1/2
+2.875,<music21.chord.Chord C#4 G#4>,"[0, -7]","[8, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,16,6 3/4
+3.0,<music21.chord.Chord C#4 E4>,"[0, 3]","[1, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,16,7
+3.125,<music21.chord.Chord C#4>,[0],[1],Rautavaara_Etude_op42_no1_Thirds.mxl,,,16,7 1/4
+3.25,<music21.chord.Chord A3 C#4>,"[0, -8]","[9, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,16,7 1/2
+3.375,<music21.chord.Chord F3 C#4>,"[0, 4]","[1, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,16,7 3/4
+0.0,<music21.chord.Chord F#2 G#4>,"[0, 2]","[6, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,17,1
+0.125,<music21.chord.Chord B-2 G#4>,"[0, 2]","[8, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,17,1 1/4
+0.25,<music21.chord.Chord C#3 G#4>,"[0, -7]","[8, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,17,1 1/2
+0.375,<music21.chord.Chord F3 G#4>,"[0, 3]","[5, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,17,1 3/4
+0.5,<music21.chord.Chord A3 G#4>,"[0, 1]","[8, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,17,2
+0.625,<music21.chord.Chord C#4 G#4>,"[0, -7]","[8, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,17,2 1/4
+0.75,<music21.chord.Chord E4 G#4>,"[0, 4]","[4, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,17,2 1/2
+0.875,<music21.chord.Chord G#4>,[0],[8],Rautavaara_Etude_op42_no1_Thirds.mxl,,,17,2 3/4
+1.0,<music21.chord.Chord F#3 G#4>,"[0, 2]","[6, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,17,3
+1.125,<music21.chord.Chord B-3 G#4>,"[0, 2]","[8, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,17,3 1/4
+1.25,<music21.chord.Chord C#4 G#4>,"[0, -7]","[8, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,17,3 1/2
+1.375,<music21.chord.Chord F4 G#4>,"[0, 3]","[5, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,17,3 3/4
+1.5,<music21.chord.Chord G#4 A4>,"[0, 1]","[8, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,17,4
+1.625,<music21.chord.Chord G#4 C#5>,"[0, -7]","[8, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,17,4 1/4
+1.75,<music21.chord.Chord G#4 E5>,"[0, 4]","[4, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,17,4 1/2
+1.875,<music21.chord.Chord G#4 G#5>,[0],[8],Rautavaara_Etude_op42_no1_Thirds.mxl,,,17,4 3/4
+2.0,<music21.chord.Chord G#4 E5>,"[0, 4]","[4, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,17,5
+2.125,<music21.chord.Chord G#4 C#5>,"[0, -7]","[8, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,17,5 1/4
+2.25,<music21.chord.Chord G#4 A4>,"[0, 1]","[8, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,17,5 1/2
+2.375,<music21.chord.Chord F4 G#4>,"[0, 3]","[5, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,17,5 3/4
+2.5,<music21.chord.Chord C#4 G#4>,"[0, -7]","[8, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,17,6
+2.625,<music21.chord.Chord B-3 G#4>,"[0, 2]","[8, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,17,6 1/4
+2.75,<music21.chord.Chord F#3 G#4>,"[0, 2]","[6, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,17,6 1/2
+2.875,<music21.chord.Chord G#4>,[0],[8],Rautavaara_Etude_op42_no1_Thirds.mxl,,,17,6 3/4
+3.0,<music21.chord.Chord E4 G#4>,"[0, 4]","[4, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,17,7
+3.125,<music21.chord.Chord C#4 G#4>,"[0, -7]","[8, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,17,7 1/4
+3.25,<music21.chord.Chord A3 G#4>,"[0, 1]","[8, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,17,7 1/2
+3.375,<music21.chord.Chord F3 G#4>,"[0, 3]","[5, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,17,7 3/4
+0.0,<music21.chord.Chord F2 A3>,"[0, 4]","[5, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,18,1
+0.125,<music21.chord.Chord A2 A3>,[0],[9],Rautavaara_Etude_op42_no1_Thirds.mxl,,,18,1 1/4
+0.25,<music21.chord.Chord C3 A3>,"[0, -9]","[9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,18,1 1/2
+0.375,<music21.chord.Chord E3 A3>,"[0, 5]","[4, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,18,1 3/4
+0.5,<music21.chord.Chord A3>,[0],[9],Rautavaara_Etude_op42_no1_Thirds.mxl,,,18,2
+0.625,<music21.chord.Chord A3 C#4>,"[0, -8]","[9, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,18,2 1/4
+0.75,<music21.chord.Chord A3 E4>,"[0, 5]","[4, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,18,2 1/2
+0.875,<music21.chord.Chord A3 G#4>,"[0, 1]","[8, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,18,2 3/4
+1.0,<music21.chord.Chord F3 A3>,"[0, 4]","[5, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,18,3
+1.125,<music21.chord.Chord A3>,[0],[9],Rautavaara_Etude_op42_no1_Thirds.mxl,,,18,3 1/4
+1.25,<music21.chord.Chord A3 C4>,"[0, -9]","[9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,18,3 1/2
+1.375,<music21.chord.Chord A3 E4>,"[0, 5]","[4, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,18,3 3/4
+1.5,<music21.chord.Chord A3 A4>,[0],[9],Rautavaara_Etude_op42_no1_Thirds.mxl,,,18,4
+1.625,<music21.chord.Chord A3 C#5>,"[0, -8]","[9, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,18,4 1/4
+1.75,<music21.chord.Chord A3 E5>,"[0, 5]","[4, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,18,4 1/2
+1.875,<music21.chord.Chord A3 G#5>,"[0, 1]","[8, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,18,4 3/4
+2.0,<music21.chord.Chord A3 E5>,"[0, 5]","[4, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,18,5
+2.125,<music21.chord.Chord A3 C#5>,"[0, -8]","[9, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,18,5 1/4
+2.25,<music21.chord.Chord A3 A4>,[0],[9],Rautavaara_Etude_op42_no1_Thirds.mxl,,,18,5 1/2
+2.375,<music21.chord.Chord A3 E4>,"[0, 5]","[4, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,18,5 3/4
+2.5,<music21.chord.Chord A3 C4>,"[0, -9]","[9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,18,6
+2.625,<music21.chord.Chord A3>,[0],[9],Rautavaara_Etude_op42_no1_Thirds.mxl,,,18,6 1/4
+2.75,<music21.chord.Chord F3 A3>,"[0, 4]","[5, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,18,6 1/2
+2.875,<music21.chord.Chord A3 G#4>,"[0, 1]","[8, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,18,6 3/4
+3.0,<music21.chord.Chord A3 E4>,"[0, 5]","[4, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,18,7
+3.125,<music21.chord.Chord A3 C#4>,"[0, -8]","[9, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,18,7 1/4
+3.25,<music21.chord.Chord A3>,[0],[9],Rautavaara_Etude_op42_no1_Thirds.mxl,,,18,7 1/2
+3.375,<music21.chord.Chord E3 A3>,"[0, 5]","[4, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,18,7 3/4
+0.0,<music21.chord.Chord F2 B4>,"[0, 6]","[5, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,19,1
+0.125,<music21.chord.Chord A2 B4>,"[0, 2]","[9, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,19,1 1/4
+0.25,<music21.chord.Chord C3 B4>,"[0, -11]","[11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,19,1 1/2
+0.375,<music21.chord.Chord E3 B4>,"[0, -7]","[11, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,19,1 3/4
+0.5,<music21.chord.Chord A3 B4>,"[0, 2]","[9, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,19,2
+0.625,<music21.chord.Chord C#4 B4>,"[0, -10]","[11, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,19,2 1/4
+0.75,<music21.chord.Chord E4 B4>,"[0, -7]","[11, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,19,2 1/2
+0.875,<music21.chord.Chord G#4 B4>,"[0, 3]","[8, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,19,2 3/4
+1.0,<music21.chord.Chord F3 B4>,"[0, 6]","[5, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,19,3
+1.125,<music21.chord.Chord A3 B4>,"[0, 2]","[9, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,19,3 1/4
+1.25,<music21.chord.Chord C4 B4>,"[0, -11]","[11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,19,3 1/2
+1.375,<music21.chord.Chord E4 B4>,"[0, -7]","[11, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,19,3 3/4
+1.5,<music21.chord.Chord A4 B4>,"[0, 2]","[9, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,19,4
+1.625,<music21.chord.Chord B4 C#5>,"[0, -10]","[11, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,19,4 1/4
+1.75,<music21.chord.Chord B4 E5>,"[0, -7]","[11, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,19,4 1/2
+1.875,<music21.chord.Chord B4 G#5>,"[0, 3]","[8, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,19,4 3/4
+2.0,<music21.chord.Chord B4 E5>,"[0, -7]","[11, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,19,5
+2.125,<music21.chord.Chord B4 C#5>,"[0, -10]","[11, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,19,5 1/4
+2.25,<music21.chord.Chord A4 B4>,"[0, 2]","[9, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,19,5 1/2
+2.375,<music21.chord.Chord E4 B4>,"[0, -7]","[11, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,19,5 3/4
+2.5,<music21.chord.Chord C4 B4>,"[0, -11]","[11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,19,6
+2.625,<music21.chord.Chord A3 B4>,"[0, 2]","[9, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,19,6 1/4
+2.75,<music21.chord.Chord F3 B4>,"[0, 6]","[5, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,19,6 1/2
+2.875,<music21.chord.Chord G#4 B4>,"[0, 3]","[8, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,19,6 3/4
+3.0,<music21.chord.Chord E4 B4>,"[0, -7]","[11, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,19,7
+3.125,<music21.chord.Chord C#4 B4>,"[0, -10]","[11, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,19,7 1/4
+3.25,<music21.chord.Chord A3 B4>,"[0, 2]","[9, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,19,7 1/2
+3.375,<music21.chord.Chord E3 B4>,"[0, -7]","[11, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,19,7 3/4
+0.0,<music21.chord.Chord E-2 G3>,"[0, 4]","[3, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,20,1
+0.125,<music21.chord.Chord G2 G3>,[0],[7],Rautavaara_Etude_op42_no1_Thirds.mxl,,,20,1 1/4
+0.25,<music21.chord.Chord B-2 G3>,"[0, 3]","[7, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,20,1 1/2
+0.375,<music21.chord.Chord D3 G3>,"[0, 5]","[2, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,20,1 3/4
+0.5,<music21.chord.Chord G3>,[0],[7],Rautavaara_Etude_op42_no1_Thirds.mxl,,,20,2
+0.625,<music21.chord.Chord G3 B3>,"[0, 4]","[7, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,20,2 1/4
+0.75,<music21.chord.Chord G3 D4>,"[0, 5]","[2, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,20,2 1/2
+0.875,<music21.chord.Chord G3 F#4>,"[0, 1]","[6, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,20,2 3/4
+1.0,<music21.chord.Chord E-3 G3>,"[0, 4]","[3, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,20,3
+1.125,<music21.chord.Chord G3>,[0],[7],Rautavaara_Etude_op42_no1_Thirds.mxl,,,20,3 1/4
+1.25,<music21.chord.Chord G3 B-3>,"[0, 3]","[7, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,20,3 1/2
+1.375,<music21.chord.Chord G3 D4>,"[0, 5]","[2, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,20,3 3/4
+1.5,<music21.chord.Chord G3 G4>,[0],[7],Rautavaara_Etude_op42_no1_Thirds.mxl,,,20,4
+1.625,<music21.chord.Chord G3 B4>,"[0, 4]","[7, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,20,4 1/4
+1.75,<music21.chord.Chord G3 D5>,"[0, 5]","[2, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,20,4 1/2
+1.875,<music21.chord.Chord G3 F#5>,"[0, 1]","[6, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,20,4 3/4
+2.0,<music21.chord.Chord G3 D5>,"[0, 5]","[2, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,20,5
+2.125,<music21.chord.Chord G3 B4>,"[0, 4]","[7, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,20,5 1/4
+2.25,<music21.chord.Chord G3 G4>,[0],[7],Rautavaara_Etude_op42_no1_Thirds.mxl,,,20,5 1/2
+2.375,<music21.chord.Chord G3 D4>,"[0, 5]","[2, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,20,5 3/4
+2.5,<music21.chord.Chord G3 B-3>,"[0, 3]","[7, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,20,6
+2.625,<music21.chord.Chord G3>,[0],[7],Rautavaara_Etude_op42_no1_Thirds.mxl,,,20,6 1/4
+2.75,<music21.chord.Chord E-3 G3>,"[0, 4]","[3, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,20,6 1/2
+2.875,<music21.chord.Chord G3 F#4>,"[0, 1]","[6, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,20,6 3/4
+3.0,<music21.chord.Chord G3 D4>,"[0, 5]","[2, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,20,7
+3.125,<music21.chord.Chord G3 B3>,"[0, 4]","[7, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,20,7 1/4
+3.25,<music21.chord.Chord G3>,[0],[7],Rautavaara_Etude_op42_no1_Thirds.mxl,,,20,7 1/2
+3.375,<music21.chord.Chord D3 G3>,"[0, 5]","[2, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,20,7 3/4
+0.0,<music21.chord.Chord E-2 F4>,"[0, 2]","[3, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,21,1
+0.125,<music21.chord.Chord G2 F4>,"[0, 2]","[5, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,21,1 1/4
+0.25,<music21.chord.Chord B-2 F4>,"[0, 5]","[5, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,21,1 1/2
+0.375,<music21.chord.Chord D3 F4>,"[0, 3]","[2, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,21,1 3/4
+0.5,<music21.chord.Chord G3 F4>,"[0, 2]","[5, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,21,2
+0.625,<music21.chord.Chord B3 F4>,"[0, 6]","[5, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,21,2 1/4
+0.75,<music21.chord.Chord D4 F4>,"[0, 3]","[2, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,21,2 1/2
+0.875,<music21.chord.Chord F4 F#4>,"[0, 1]","[5, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,21,2 3/4
+1.0,<music21.chord.Chord E-3 F4>,"[0, 2]","[3, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,21,3
+1.125,<music21.chord.Chord G3 F4>,"[0, 2]","[5, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,21,3 1/4
+1.25,<music21.chord.Chord B-3 F4>,"[0, 5]","[5, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,21,3 1/2
+1.375,<music21.chord.Chord D4 F4>,"[0, 3]","[2, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,21,3 3/4
+1.5,<music21.chord.Chord F4 G4>,"[0, 2]","[5, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,21,4
+1.625,<music21.chord.Chord F4 B4>,"[0, 6]","[5, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,21,4 1/4
+1.75,<music21.chord.Chord F4 D5>,"[0, 3]","[2, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,21,4 1/2
+1.875,<music21.chord.Chord F4 F#5>,"[0, 1]","[5, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,21,4 3/4
+2.0,<music21.chord.Chord F4 D5>,"[0, 3]","[2, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,21,5
+2.125,<music21.chord.Chord F4 B4>,"[0, 6]","[5, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,21,5 1/4
+2.25,<music21.chord.Chord F4 G4>,"[0, 2]","[5, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,21,5 1/2
+2.375,<music21.chord.Chord D4 F4>,"[0, 3]","[2, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,21,5 3/4
+2.5,<music21.chord.Chord B-3 F4>,"[0, 5]","[5, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,21,6
+2.625,<music21.chord.Chord G3 F4>,"[0, 2]","[5, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,21,6 1/4
+2.75,<music21.chord.Chord E-3 F4>,"[0, 2]","[3, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,21,6 1/2
+2.875,<music21.chord.Chord F4 F#4>,"[0, 1]","[5, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,21,6 3/4
+3.0,<music21.chord.Chord D4 F4>,"[0, 3]","[2, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,21,7
+3.125,<music21.chord.Chord B3 F4>,"[0, 6]","[5, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,21,7 1/4
+3.25,<music21.chord.Chord G3 F4>,"[0, 2]","[5, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,21,7 1/2
+3.375,<music21.chord.Chord D3 F4>,"[0, 3]","[2, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,21,7 3/4
+0.0,<music21.chord.Chord D2 F#3>,"[0, 4]","[2, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,22,1
+0.125,<music21.chord.Chord F#2 F#3>,[0],[6],Rautavaara_Etude_op42_no1_Thirds.mxl,,,22,1 1/4
+0.25,<music21.chord.Chord A2 F#3>,"[0, 3]","[6, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,22,1 1/2
+0.375,<music21.chord.Chord C#3 F#3>,"[0, 5]","[1, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,22,1 3/4
+0.5,<music21.chord.Chord F#3>,[0],[6],Rautavaara_Etude_op42_no1_Thirds.mxl,,,22,2
+0.625,<music21.chord.Chord F#3 B-3>,"[0, 4]","[6, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,22,2 1/4
+0.75,<music21.chord.Chord F#3 C#4>,"[0, 5]","[1, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,22,2 1/2
+0.875,<music21.chord.Chord F#3 F4>,"[0, 1]","[5, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,22,2 3/4
+1.0,<music21.chord.Chord D3 F#3>,"[0, 4]","[2, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,22,3
+1.125,<music21.chord.Chord F#3>,[0],[6],Rautavaara_Etude_op42_no1_Thirds.mxl,,,22,3 1/4
+1.25,<music21.chord.Chord F#3 A3>,"[0, 3]","[6, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,22,3 1/2
+1.375,<music21.chord.Chord F#3 C#4>,"[0, 5]","[1, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,22,3 3/4
+1.5,<music21.chord.Chord F#3 F#4>,[0],[6],Rautavaara_Etude_op42_no1_Thirds.mxl,,,22,4
+1.625,<music21.chord.Chord F#3 B-4>,"[0, 4]","[6, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,22,4 1/4
+1.75,<music21.chord.Chord F#3 C#5>,"[0, 5]","[1, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,22,4 1/2
+1.875,<music21.chord.Chord F#3 F5>,"[0, 1]","[5, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,22,4 3/4
+2.0,<music21.chord.Chord F#3 C#5>,"[0, 5]","[1, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,22,5
+2.125,<music21.chord.Chord F#3 B-4>,"[0, 4]","[6, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,22,5 1/4
+2.25,<music21.chord.Chord F#3 F#4>,[0],[6],Rautavaara_Etude_op42_no1_Thirds.mxl,,,22,5 1/2
+2.375,<music21.chord.Chord F#3 C#4>,"[0, 5]","[1, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,22,5 3/4
+2.5,<music21.chord.Chord F#3 A3>,"[0, 3]","[6, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,22,6
+2.625,<music21.chord.Chord F#3>,[0],[6],Rautavaara_Etude_op42_no1_Thirds.mxl,,,22,6 1/4
+2.75,<music21.chord.Chord D3 F#3>,"[0, 4]","[2, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,22,6 1/2
+2.875,<music21.chord.Chord F#3 F4>,"[0, 1]","[5, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,22,6 3/4
+3.0,<music21.chord.Chord F#3 C#4>,"[0, 5]","[1, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,22,7
+3.125,<music21.chord.Chord F#3 B-3>,"[0, 4]","[6, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,22,7 1/4
+3.25,<music21.chord.Chord F#3>,[0],[6],Rautavaara_Etude_op42_no1_Thirds.mxl,,,22,7 1/2
+3.375,<music21.chord.Chord C#3 F#3>,"[0, 5]","[1, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,22,7 3/4
+0.0,<music21.chord.Chord B-1 G#3>,"[0, 2]","[8, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,23,1
+0.125,<music21.chord.Chord D2 G#3>,"[0, 6]","[2, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,23,1 1/4
+0.25,<music21.chord.Chord F2 G#3>,"[0, 3]","[5, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,23,1 1/2
+0.375,<music21.chord.Chord A2 G#3>,"[0, 1]","[8, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,23,1 3/4
+0.5,<music21.chord.Chord C#3 G#3>,"[0, -7]","[8, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,23,2
+0.625,<music21.chord.Chord F3 G#3>,"[0, 3]","[5, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,23,2 1/4
+0.75,<music21.chord.Chord G#3>,[0],[8],Rautavaara_Etude_op42_no1_Thirds.mxl,,,23,2 1/2
+0.875,<music21.chord.Chord G#3 C4>,"[0, -8]","[8, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,23,2 3/4
+1.0,<music21.chord.Chord B-2 G#3>,"[0, 2]","[8, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,23,3
+1.125,<music21.chord.Chord D3 G#3>,"[0, 6]","[2, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,23,3 1/4
+1.25,<music21.chord.Chord F3 G#3>,"[0, 3]","[5, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,23,3 1/2
+1.375,<music21.chord.Chord G#3 A3>,"[0, 1]","[8, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,23,3 3/4
+1.5,<music21.chord.Chord G#3 C#4>,"[0, -7]","[8, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,23,4
+1.625,<music21.chord.Chord G#3 F4>,"[0, 3]","[5, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,23,4 1/4
+1.75,<music21.chord.Chord G#3 G#4>,[0],[8],Rautavaara_Etude_op42_no1_Thirds.mxl,,,23,4 1/2
+1.875,<music21.chord.Chord G#3 C5>,"[0, -8]","[8, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,23,4 3/4
+2.0,<music21.chord.Chord G#3 G#4>,[0],[8],Rautavaara_Etude_op42_no1_Thirds.mxl,,,23,5
+2.125,<music21.chord.Chord G#3 F4>,"[0, 3]","[5, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,23,5 1/4
+2.25,<music21.chord.Chord G#3 C#4>,"[0, -7]","[8, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,23,5 1/2
+2.375,<music21.chord.Chord G#3 A3>,"[0, 1]","[8, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,23,5 3/4
+2.5,<music21.chord.Chord F3 G#3>,"[0, 3]","[5, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,23,6
+2.625,<music21.chord.Chord D3 G#3>,"[0, 6]","[2, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,23,6 1/4
+2.75,<music21.chord.Chord B-2 G#3>,"[0, 2]","[8, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,23,6 1/2
+2.875,<music21.chord.Chord G#3 C4>,"[0, -8]","[8, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,23,6 3/4
+3.0,<music21.chord.Chord G#3>,[0],[8],Rautavaara_Etude_op42_no1_Thirds.mxl,,,23,7
+3.125,<music21.chord.Chord F3 G#3>,"[0, 3]","[5, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,23,7 1/4
+3.25,<music21.chord.Chord C#3 G#3>,"[0, -7]","[8, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,23,7 1/2
+3.375,<music21.chord.Chord A2 G#3>,"[0, 1]","[8, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,23,7 3/4
+0.0,<music21.chord.Chord B-1 B3>,"[0, 1]","[10, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,24,1
+0.125,<music21.chord.Chord D2 B3>,"[0, -9]","[11, 2]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,24,1 1/4
+0.25,<music21.chord.Chord F2 B3>,"[0, 6]","[5, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,24,1 1/2
+0.375,<music21.chord.Chord A2 B3>,"[0, 2]","[9, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,24,1 3/4
+0.5,<music21.chord.Chord C#3 B3>,"[0, -10]","[11, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,24,2
+0.625,<music21.chord.Chord F3 B3>,"[0, 6]","[5, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,24,2 1/4
+0.75,<music21.chord.Chord G#3 B3>,"[0, 3]","[8, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,24,2 1/2
+0.875,<music21.chord.Chord B3 C4>,"[0, -11]","[11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,24,2 3/4
+1.0,<music21.chord.Chord B-2 B3>,"[0, 1]","[10, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,24,3
+1.125,<music21.chord.Chord D3 B3>,"[0, -9]","[11, 2]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,24,3 1/4
+1.25,<music21.chord.Chord F3 B3>,"[0, 6]","[5, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,24,3 1/2
+1.375,<music21.chord.Chord A3 B3>,"[0, 2]","[9, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,24,3 3/4
+1.5,<music21.chord.Chord B3 C#4>,"[0, -10]","[11, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,24,4
+1.625,<music21.chord.Chord B3 F4>,"[0, 6]","[5, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,24,4 1/4
+1.75,<music21.chord.Chord B3 G#4>,"[0, 3]","[8, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,24,4 1/2
+1.875,<music21.chord.Chord B3 C5>,"[0, -11]","[11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,24,4 3/4
+2.0,<music21.chord.Chord B3 G#4>,"[0, 3]","[8, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,24,5
+2.125,<music21.chord.Chord B3 F4>,"[0, 6]","[5, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,24,5 1/4
+2.25,<music21.chord.Chord B3 C#4>,"[0, -10]","[11, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,24,5 1/2
+2.375,<music21.chord.Chord A3 B3>,"[0, 2]","[9, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,24,5 3/4
+2.5,<music21.chord.Chord F3 B3>,"[0, 6]","[5, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,24,6
+2.625,<music21.chord.Chord D3 B3>,"[0, -9]","[11, 2]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,24,6 1/4
+2.75,<music21.chord.Chord B-2 B3>,"[0, 1]","[10, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,24,6 1/2
+2.875,<music21.chord.Chord B3 C4>,"[0, -11]","[11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,24,6 3/4
+3.0,<music21.chord.Chord G#3 B3>,"[0, 3]","[8, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,24,7
+3.125,<music21.chord.Chord F3 B3>,"[0, 6]","[5, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,24,7 1/4
+3.25,<music21.chord.Chord C#3 B3>,"[0, -10]","[11, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,24,7 1/2
+3.375,<music21.chord.Chord A2 B3>,"[0, 2]","[9, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,24,7 3/4
+0.0,<music21.chord.Chord A1 C#4>,"[0, -8]","[9, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,25,1
+0.125,<music21.chord.Chord C#2 C#4>,[0],[1],Rautavaara_Etude_op42_no1_Thirds.mxl,,,25,1 1/8
+0.25,<music21.chord.Chord E2 C#4>,"[0, 3]","[1, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,25,1 1/4
+0.375,<music21.chord.Chord G#2 C#4>,"[0, -7]","[8, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,25,1 3/8
+0.5,<music21.chord.Chord D3 C#4>,"[0, 1]","[1, 2]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,25,1 1/2
+0.625,<music21.chord.Chord F#3 C#4>,"[0, 5]","[1, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,25,1 5/8
+0.75,<music21.chord.Chord A3 C#4>,"[0, -8]","[9, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,25,1 3/4
+0.875,<music21.chord.Chord C#4>,[0],[1],Rautavaara_Etude_op42_no1_Thirds.mxl,,,25,1 7/8
+1.0,<music21.chord.Chord A2 C#4>,"[0, -8]","[9, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,25,2
+1.125,<music21.chord.Chord C#3 C#4>,[0],[1],Rautavaara_Etude_op42_no1_Thirds.mxl,,,25,2 1/8
+1.25,<music21.chord.Chord E3 C#4>,"[0, 3]","[1, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,25,2 1/4
+1.375,<music21.chord.Chord G#3 C#4>,"[0, -7]","[8, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,25,2 3/8
+1.5,<music21.chord.Chord C#4 D4>,"[0, 1]","[1, 2]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,25,2 1/2
+1.625,<music21.chord.Chord C#4 F#4>,"[0, 5]","[1, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,25,2 5/8
+1.75,<music21.chord.Chord C#4 A4>,"[0, -8]","[9, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,25,2 3/4
+1.875,<music21.chord.Chord C#4 C#5>,[0],[1],Rautavaara_Etude_op42_no1_Thirds.mxl,,,25,2 7/8
+2.0,<music21.chord.Chord C#4 A4>,"[0, -8]","[9, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,25,3
+2.125,<music21.chord.Chord C#4 F#4>,"[0, 5]","[1, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,25,3 1/8
+2.25,<music21.chord.Chord C#4 D4>,"[0, 1]","[1, 2]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,25,3 1/4
+2.375,<music21.chord.Chord G#3 C#4>,"[0, -7]","[8, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,25,3 3/8
+2.5,<music21.chord.Chord E3 C#4>,"[0, 3]","[1, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,25,3 1/2
+2.625,<music21.chord.Chord C#3 C#4>,[0],[1],Rautavaara_Etude_op42_no1_Thirds.mxl,,,25,3 5/8
+2.75,<music21.chord.Chord A2 C#4>,"[0, -8]","[9, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,25,3 3/4
+2.875,<music21.chord.Chord C#3 C#4>,[0],[1],Rautavaara_Etude_op42_no1_Thirds.mxl,,,25,3 7/8
+3.0,<music21.chord.Chord E3 C#4>,"[0, 3]","[1, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,25,4
+3.125,<music21.chord.Chord G#3 C#4>,"[0, -7]","[8, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,25,4 1/8
+3.25,<music21.chord.Chord C#4 D4>,"[0, 1]","[1, 2]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,25,4 1/4
+3.375,<music21.chord.Chord C#4 F#4>,"[0, 5]","[1, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,25,4 3/8
+3.5,<music21.chord.Chord C#4 A4>,"[0, -8]","[9, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,25,4 1/2
+3.625,<music21.chord.Chord C#4 C#5>,[0],[1],Rautavaara_Etude_op42_no1_Thirds.mxl,,,25,4 5/8
+3.75,<music21.chord.Chord A3 C#4>,"[0, -8]","[9, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,25,4 3/4
+3.875,<music21.chord.Chord C#4>,[0],[1],Rautavaara_Etude_op42_no1_Thirds.mxl,,,25,4 7/8
+4.0,<music21.chord.Chord E4>,[0],[4],Rautavaara_Etude_op42_no1_Thirds.mxl,,,25,5
+4.125,<music21.chord.Chord G#4>,[0],[8],Rautavaara_Etude_op42_no1_Thirds.mxl,,,25,5 1/8
+4.25,<music21.chord.Chord D5>,[0],[2],Rautavaara_Etude_op42_no1_Thirds.mxl,,,25,5 1/4
+4.375,<music21.chord.Chord F#5>,[0],[6],Rautavaara_Etude_op42_no1_Thirds.mxl,,,25,5 3/8
+4.5,<music21.chord.Chord A5>,[0],[9],Rautavaara_Etude_op42_no1_Thirds.mxl,,,25,5 1/2
+4.625,<music21.chord.Chord C#6>,[0],[1],Rautavaara_Etude_op42_no1_Thirds.mxl,,,25,5 5/8
+4.75,<music21.chord.Chord A5>,[0],[9],Rautavaara_Etude_op42_no1_Thirds.mxl,,,25,5 3/4
+4.875,<music21.chord.Chord F#5>,[0],[6],Rautavaara_Etude_op42_no1_Thirds.mxl,,,25,5 7/8
+0.0,<music21.chord.Chord D4 F5>,"[0, 3]","[2, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,26,1
+0.125,<music21.chord.Chord F#4 F5>,"[0, 1]","[5, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,26,1 1/4
+0.25,<music21.chord.Chord A4 F5>,"[0, 4]","[5, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,26,1 1/2
+0.375,<music21.chord.Chord C#5 F5>,"[0, 4]","[1, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,26,1 3/4
+0.5,<music21.chord.Chord F5>,[0],[5],Rautavaara_Etude_op42_no1_Thirds.mxl,,,26,2
+0.625,<music21.chord.Chord F5 A5>,"[0, 4]","[5, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,26,2 1/4
+0.75,<music21.chord.Chord F5 C6>,"[0, 5]","[0, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,26,2 1/2
+0.875,<music21.chord.Chord F5 E6>,"[0, 1]","[4, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,26,2 3/4
+1.0,<music21.chord.Chord D5 F5>,"[0, 3]","[2, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,26,3
+1.125,<music21.chord.Chord F5 F#5>,"[0, 1]","[5, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,26,3 1/4
+1.25,<music21.chord.Chord F5 A5>,"[0, 4]","[5, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,26,3 1/2
+1.375,<music21.chord.Chord F5 C#6>,"[0, 4]","[1, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,26,3 3/4
+1.5,<music21.chord.Chord F5 F6>,[0],[5],Rautavaara_Etude_op42_no1_Thirds.mxl,,,26,4
+1.625,<music21.chord.Chord F5 A6>,"[0, 4]","[5, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,26,4 1/4
+1.75,<music21.chord.Chord F5 C7>,"[0, 5]","[0, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,26,4 1/2
+1.875,<music21.chord.Chord F5 E7>,"[0, 1]","[4, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,26,4 3/4
+2.0,<music21.chord.Chord F5 C7>,"[0, 5]","[0, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,26,5
+2.125,<music21.chord.Chord F5 A6>,"[0, 4]","[5, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,26,5 1/4
+2.25,<music21.chord.Chord F5 F6>,[0],[5],Rautavaara_Etude_op42_no1_Thirds.mxl,,,26,5 1/2
+2.375,<music21.chord.Chord F5 C#6>,"[0, 4]","[1, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,26,5 3/4
+2.5,<music21.chord.Chord F5 A5>,"[0, 4]","[5, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,26,6
+2.625,<music21.chord.Chord F5 F#5>,"[0, 1]","[5, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,26,6 1/4
+2.75,<music21.chord.Chord D5 F5>,"[0, 3]","[2, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,26,6 1/2
+2.875,<music21.chord.Chord F5 E6>,"[0, 1]","[4, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,26,6 3/4
+3.0,<music21.chord.Chord C6>,[0],[0],Rautavaara_Etude_op42_no1_Thirds.mxl,,,26,7
+3.125,<music21.chord.Chord A5>,[0],[9],Rautavaara_Etude_op42_no1_Thirds.mxl,,,26,7 1/4
+3.25,<music21.chord.Chord F5>,[0],[5],Rautavaara_Etude_op42_no1_Thirds.mxl,,,26,7 1/2
+3.375,<music21.chord.Chord C#5>,[0],[1],Rautavaara_Etude_op42_no1_Thirds.mxl,,,26,7 3/4
+0.0,<music21.chord.Chord F4 G#5>,"[0, 3]","[5, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,27,1
+0.125,<music21.chord.Chord A4 G#5>,"[0, 1]","[8, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,27,1 1/4
+0.25,<music21.chord.Chord C5 G#5>,"[0, -8]","[8, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,27,1 1/2
+0.375,<music21.chord.Chord E5 G#5>,"[0, 4]","[4, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,27,1 3/4
+0.5,<music21.chord.Chord G#5>,[0],[8],Rautavaara_Etude_op42_no1_Thirds.mxl,,,27,2
+0.625,<music21.chord.Chord G#5 C6>,"[0, -8]","[8, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,27,2 1/4
+0.75,<music21.chord.Chord G#5 E-6>,"[0, 5]","[3, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,27,2 1/2
+0.875,<music21.chord.Chord G#5 G6>,"[0, 1]","[7, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,27,2 3/4
+1.0,<music21.chord.Chord F5 G#5>,"[0, 3]","[5, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,27,3
+1.125,<music21.chord.Chord G#5 A5>,"[0, 1]","[8, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,27,3 1/4
+1.25,<music21.chord.Chord G#5 C6>,"[0, -8]","[8, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,27,3 1/2
+1.375,<music21.chord.Chord G#5 E6>,"[0, 4]","[4, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,27,3 3/4
+1.5,<music21.chord.Chord G#5 G#6>,[0],[8],Rautavaara_Etude_op42_no1_Thirds.mxl,,,27,4
+1.625,<music21.chord.Chord G#5 C7>,"[0, -8]","[8, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,27,4 1/4
+1.75,<music21.chord.Chord G#5 E-7>,"[0, 5]","[3, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,27,4 1/2
+1.875,<music21.chord.Chord G#5 G7>,"[0, 1]","[7, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,27,4 3/4
+2.0,<music21.chord.Chord G#5 E-7>,"[0, 5]","[3, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,27,5
+2.125,<music21.chord.Chord G#5 C7>,"[0, -8]","[8, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,27,5 1/4
+2.25,<music21.chord.Chord G#5 G#6>,[0],[8],Rautavaara_Etude_op42_no1_Thirds.mxl,,,27,5 1/2
+2.375,<music21.chord.Chord G#5 E6>,"[0, 4]","[4, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,27,5 3/4
+2.5,<music21.chord.Chord G#5 C6>,"[0, -8]","[8, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,27,6
+2.625,<music21.chord.Chord G#5 A5>,"[0, 1]","[8, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,27,6 1/4
+2.75,<music21.chord.Chord F5 G#5>,"[0, 3]","[5, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,27,6 1/2
+2.875,<music21.chord.Chord G#5 G6>,"[0, 1]","[7, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,27,6 3/4
+3.0,<music21.chord.Chord E-6>,[0],[3],Rautavaara_Etude_op42_no1_Thirds.mxl,,,27,7
+3.125,<music21.chord.Chord C6>,[0],[0],Rautavaara_Etude_op42_no1_Thirds.mxl,,,27,7 1/4
+3.25,<music21.chord.Chord G#5>,[0],[8],Rautavaara_Etude_op42_no1_Thirds.mxl,,,27,7 1/2
+3.375,<music21.chord.Chord E5>,[0],[4],Rautavaara_Etude_op42_no1_Thirds.mxl,,,27,7 3/4
+0.0,<music21.chord.Chord B-3 C#5>,"[0, -9]","[10, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,28,1
+0.125,<music21.chord.Chord D4 C#5>,"[0, 1]","[1, 2]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,28,1 1/4
+0.25,<music21.chord.Chord F4 C#5>,"[0, 4]","[1, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,28,1 1/2
+0.375,<music21.chord.Chord A4 C#5>,"[0, -8]","[9, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,28,1 3/4
+0.5,<music21.chord.Chord C#5>,[0],[1],Rautavaara_Etude_op42_no1_Thirds.mxl,,,28,2
+0.625,<music21.chord.Chord C#5 F5>,"[0, 4]","[1, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,28,2 1/4
+0.75,<music21.chord.Chord C#5 G#5>,"[0, -7]","[8, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,28,2 1/2
+0.875,<music21.chord.Chord C#5 C6>,"[0, 1]","[0, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,28,2 3/4
+1.0,<music21.chord.Chord B-4 C#5>,"[0, -9]","[10, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,28,3
+1.125,<music21.chord.Chord C#5 D5>,"[0, 1]","[1, 2]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,28,3 1/4
+1.25,<music21.chord.Chord C#5 F5>,"[0, 4]","[1, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,28,3 1/2
+1.375,<music21.chord.Chord C#5 A5>,"[0, -8]","[9, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,28,3 3/4
+1.5,<music21.chord.Chord C#5 C#6>,[0],[1],Rautavaara_Etude_op42_no1_Thirds.mxl,,,28,4
+1.625,<music21.chord.Chord C#5 F6>,"[0, 4]","[1, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,28,4 1/4
+1.75,<music21.chord.Chord C#5 G#6>,"[0, -7]","[8, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,28,4 1/2
+1.875,<music21.chord.Chord C#5 C7>,"[0, 1]","[0, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,28,4 3/4
+2.0,<music21.chord.Chord C#5 G#6>,"[0, -7]","[8, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,28,5
+2.125,<music21.chord.Chord C#5 F6>,"[0, 4]","[1, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,28,5 1/4
+2.25,<music21.chord.Chord C#5 C#6>,[0],[1],Rautavaara_Etude_op42_no1_Thirds.mxl,,,28,5 1/2
+2.375,<music21.chord.Chord C#5 A5>,"[0, -8]","[9, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,28,5 3/4
+2.5,<music21.chord.Chord C#5 F5>,"[0, 4]","[1, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,28,6
+2.625,<music21.chord.Chord C#5 D5>,"[0, 1]","[1, 2]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,28,6 1/4
+2.75,<music21.chord.Chord B-4 C#5>,"[0, -9]","[10, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,28,6 1/2
+2.875,<music21.chord.Chord C#5 C6>,"[0, 1]","[0, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,28,6 3/4
+3.0,<music21.chord.Chord G#5>,[0],[8],Rautavaara_Etude_op42_no1_Thirds.mxl,,,28,7
+3.125,<music21.chord.Chord F5>,[0],[5],Rautavaara_Etude_op42_no1_Thirds.mxl,,,28,7 1/4
+3.25,<music21.chord.Chord C#5>,[0],[1],Rautavaara_Etude_op42_no1_Thirds.mxl,,,28,7 1/2
+3.375,<music21.chord.Chord A4>,[0],[9],Rautavaara_Etude_op42_no1_Thirds.mxl,,,28,7 3/4
+0.0,<music21.chord.Chord B-3 C6>,"[0, -10]","[10, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,29,1
+0.125,<music21.chord.Chord D4 C6>,"[0, 2]","[0, 2]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,29,1 1/4
+0.25,<music21.chord.Chord F4 C6>,"[0, 5]","[0, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,29,1 1/2
+0.375,<music21.chord.Chord A4 C6>,"[0, -9]","[9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,29,1 3/4
+0.5,<music21.chord.Chord C#5 C6>,"[0, 1]","[0, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,29,2
+0.625,<music21.chord.Chord F5 C6>,"[0, 5]","[0, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,29,2 1/4
+0.75,<music21.chord.Chord G#5 C6>,"[0, -8]","[8, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,29,2 1/2
+0.875,<music21.chord.Chord C6>,[0],[0],Rautavaara_Etude_op42_no1_Thirds.mxl,,,29,2 3/4
+1.0,<music21.chord.Chord B-4 C6>,"[0, -10]","[10, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,29,3
+1.125,<music21.chord.Chord D5 C6>,"[0, 2]","[0, 2]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,29,3 1/4
+1.25,<music21.chord.Chord F5 C6>,"[0, 5]","[0, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,29,3 1/2
+1.375,<music21.chord.Chord A5 C6>,"[0, -9]","[9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,29,3 3/4
+1.5,<music21.chord.Chord C6 C#6>,"[0, 1]","[0, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,29,4
+1.625,<music21.chord.Chord C6 F6>,"[0, 5]","[0, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,29,4 1/4
+1.75,<music21.chord.Chord C6 G#6>,"[0, -8]","[8, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,29,4 1/2
+1.875,<music21.chord.Chord C6 C7>,[0],[0],Rautavaara_Etude_op42_no1_Thirds.mxl,,,29,4 3/4
+2.0,<music21.chord.Chord C6 G#6>,"[0, -8]","[8, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,29,5
+2.125,<music21.chord.Chord C6 F6>,"[0, 5]","[0, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,29,5 1/4
+2.25,<music21.chord.Chord C6 C#6>,"[0, 1]","[0, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,29,5 1/2
+2.375,<music21.chord.Chord A5 C6>,"[0, -9]","[9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,29,5 3/4
+2.5,<music21.chord.Chord F5 C6>,"[0, 5]","[0, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,29,6
+2.625,<music21.chord.Chord D5 C6>,"[0, 2]","[0, 2]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,29,6 1/4
+2.75,<music21.chord.Chord B-4 C6>,"[0, -10]","[10, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,29,6 1/2
+2.875,<music21.chord.Chord C6>,[0],[0],Rautavaara_Etude_op42_no1_Thirds.mxl,,,29,6 3/4
+3.0,<music21.chord.Chord G#5>,[0],[8],Rautavaara_Etude_op42_no1_Thirds.mxl,,,29,7
+3.125,<music21.chord.Chord F5>,[0],[5],Rautavaara_Etude_op42_no1_Thirds.mxl,,,29,7 1/4
+3.25,<music21.chord.Chord C#5>,[0],[1],Rautavaara_Etude_op42_no1_Thirds.mxl,,,29,7 1/2
+3.375,<music21.chord.Chord A4>,[0],[9],Rautavaara_Etude_op42_no1_Thirds.mxl,,,29,7 3/4
+0.0,<music21.chord.Chord F3 C5>,"[0, 5]","[0, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,30,1
+0.125,<music21.chord.Chord A3 C5>,"[0, -9]","[9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,30,1 1/4
+0.25,<music21.chord.Chord C4 C5>,[0],[0],Rautavaara_Etude_op42_no1_Thirds.mxl,,,30,1 1/2
+0.375,<music21.chord.Chord E4 C5>,"[0, 4]","[0, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,30,1 3/4
+0.5,<music21.chord.Chord C5>,[0],[0],Rautavaara_Etude_op42_no1_Thirds.mxl,,,30,2
+0.625,<music21.chord.Chord C5 E5>,"[0, 4]","[0, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,30,2 1/4
+0.75,<music21.chord.Chord C5 G5>,"[0, -7]","[7, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,30,2 1/2
+0.875,<music21.chord.Chord C5 B5>,"[0, -11]","[11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,30,2 3/4
+1.0,<music21.chord.Chord F4 C5>,"[0, 5]","[0, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,30,3
+1.125,<music21.chord.Chord A4 C5>,"[0, -9]","[9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,30,3 1/4
+1.25,<music21.chord.Chord C5>,[0],[0],Rautavaara_Etude_op42_no1_Thirds.mxl,,,30,3 1/2
+1.375,<music21.chord.Chord C5 E5>,"[0, 4]","[0, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,30,3 3/4
+1.5,<music21.chord.Chord C5 C6>,[0],[0],Rautavaara_Etude_op42_no1_Thirds.mxl,,,30,4
+1.625,<music21.chord.Chord C5 E6>,"[0, 4]","[0, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,30,4 1/4
+1.75,<music21.chord.Chord C5 G6>,"[0, -7]","[7, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,30,4 1/2
+1.875,<music21.chord.Chord C5 B6>,"[0, -11]","[11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,30,4 3/4
+2.0,<music21.chord.Chord C5 G6>,"[0, -7]","[7, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,30,5
+2.125,<music21.chord.Chord C5 E6>,"[0, 4]","[0, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,30,5 1/4
+2.25,<music21.chord.Chord C5 C6>,[0],[0],Rautavaara_Etude_op42_no1_Thirds.mxl,,,30,5 1/2
+2.375,<music21.chord.Chord C5 E5>,"[0, 4]","[0, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,30,5 3/4
+2.5,<music21.chord.Chord C5>,[0],[0],Rautavaara_Etude_op42_no1_Thirds.mxl,,,30,6
+2.625,<music21.chord.Chord A4 C5>,"[0, -9]","[9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,30,6 1/4
+2.75,<music21.chord.Chord F4 C5>,"[0, 5]","[0, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,30,6 1/2
+2.875,<music21.chord.Chord C5 B5>,"[0, -11]","[11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,30,6 3/4
+3.0,<music21.chord.Chord G5>,[0],[7],Rautavaara_Etude_op42_no1_Thirds.mxl,,,30,7
+3.125,<music21.chord.Chord E5>,[0],[4],Rautavaara_Etude_op42_no1_Thirds.mxl,,,30,7 1/4
+3.25,<music21.chord.Chord C5>,[0],[0],Rautavaara_Etude_op42_no1_Thirds.mxl,,,30,7 1/2
+3.375,<music21.chord.Chord E4>,[0],[4],Rautavaara_Etude_op42_no1_Thirds.mxl,,,30,7 3/4
+0.0,<music21.chord.Chord F3 B5>,"[0, 6]","[5, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,31,1
+0.125,<music21.chord.Chord A3 B5>,"[0, 2]","[9, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,31,1 1/4
+0.25,<music21.chord.Chord C4 B5>,"[0, -11]","[11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,31,1 1/2
+0.375,<music21.chord.Chord E4 B5>,"[0, -7]","[11, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,31,1 3/4
+0.5,<music21.chord.Chord C5 B5>,"[0, -11]","[11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,31,2
+0.625,<music21.chord.Chord E5 B5>,"[0, -7]","[11, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,31,2 1/4
+0.75,<music21.chord.Chord G5 B5>,"[0, 4]","[7, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,31,2 1/2
+0.875,<music21.chord.Chord B5>,[0],[11],Rautavaara_Etude_op42_no1_Thirds.mxl,,,31,2 3/4
+1.0,<music21.chord.Chord F4 B5>,"[0, 6]","[5, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,31,3
+1.125,<music21.chord.Chord A4 B5>,"[0, 2]","[9, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,31,3 1/4
+1.25,<music21.chord.Chord C5 B5>,"[0, -11]","[11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,31,3 1/2
+1.375,<music21.chord.Chord E5 B5>,"[0, -7]","[11, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,31,3 3/4
+1.5,<music21.chord.Chord B5 C6>,"[0, -11]","[11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,31,4
+1.625,<music21.chord.Chord B5 E6>,"[0, -7]","[11, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,31,4 1/4
+1.75,<music21.chord.Chord B5 G6>,"[0, 4]","[7, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,31,4 1/2
+1.875,<music21.chord.Chord B5 B6>,[0],[11],Rautavaara_Etude_op42_no1_Thirds.mxl,,,31,4 3/4
+2.0,<music21.chord.Chord B5 G6>,"[0, 4]","[7, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,31,5
+2.125,<music21.chord.Chord B5 E6>,"[0, -7]","[11, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,31,5 1/4
+2.25,<music21.chord.Chord B5 C6>,"[0, -11]","[11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,31,5 1/2
+2.375,<music21.chord.Chord E5 B5>,"[0, -7]","[11, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,31,5 3/4
+2.5,<music21.chord.Chord C5 B5>,"[0, -11]","[11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,31,6
+2.625,<music21.chord.Chord A4 B5>,"[0, 2]","[9, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,31,6 1/4
+2.75,<music21.chord.Chord F4 B5>,"[0, 6]","[5, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,31,6 1/2
+2.875,<music21.chord.Chord B5>,[0],[11],Rautavaara_Etude_op42_no1_Thirds.mxl,,,31,6 3/4
+3.0,<music21.chord.Chord G5>,[0],[7],Rautavaara_Etude_op42_no1_Thirds.mxl,,,31,7
+3.125,<music21.chord.Chord E5>,[0],[4],Rautavaara_Etude_op42_no1_Thirds.mxl,,,31,7 1/4
+3.25,<music21.chord.Chord C5>,[0],[0],Rautavaara_Etude_op42_no1_Thirds.mxl,,,31,7 1/2
+3.375,<music21.chord.Chord E4>,[0],[4],Rautavaara_Etude_op42_no1_Thirds.mxl,,,31,7 3/4
+0.0,<music21.chord.Chord D3 A4>,"[0, -7]","[9, 2]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,32,1
+0.125,<music21.chord.Chord F#3 A4>,"[0, 3]","[6, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,32,1 1/4
+0.25,<music21.chord.Chord A3 A4>,[0],[9],Rautavaara_Etude_op42_no1_Thirds.mxl,,,32,1 1/2
+0.375,<music21.chord.Chord C#4 A4>,"[0, -8]","[9, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,32,1 3/4
+0.5,<music21.chord.Chord F4 A4>,"[0, 4]","[5, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,32,2
+0.625,<music21.chord.Chord A4>,[0],[9],Rautavaara_Etude_op42_no1_Thirds.mxl,,,32,2 1/4
+0.75,<music21.chord.Chord A4 C5>,"[0, -9]","[9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,32,2 1/2
+0.875,<music21.chord.Chord A4 E5>,"[0, 5]","[4, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,32,2 3/4
+1.0,<music21.chord.Chord D4 A4>,"[0, -7]","[9, 2]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,32,3
+1.125,<music21.chord.Chord F#4 A4>,"[0, 3]","[6, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,32,3 1/4
+1.25,<music21.chord.Chord A4>,[0],[9],Rautavaara_Etude_op42_no1_Thirds.mxl,,,32,3 1/2
+1.375,<music21.chord.Chord A4 C#5>,"[0, -8]","[9, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,32,3 3/4
+1.5,<music21.chord.Chord A4 F5>,"[0, 4]","[5, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,32,4
+1.625,<music21.chord.Chord A4 A5>,[0],[9],Rautavaara_Etude_op42_no1_Thirds.mxl,,,32,4 1/4
+1.75,<music21.chord.Chord A4 C6>,"[0, -9]","[9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,32,4 1/2
+1.875,<music21.chord.Chord A4 E6>,"[0, 5]","[4, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,32,4 3/4
+2.0,<music21.chord.Chord A4 C6>,"[0, -9]","[9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,32,5
+2.125,<music21.chord.Chord A4 A5>,[0],[9],Rautavaara_Etude_op42_no1_Thirds.mxl,,,32,5 1/4
+2.25,<music21.chord.Chord A4 F5>,"[0, 4]","[5, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,32,5 1/2
+2.375,<music21.chord.Chord A4 C#5>,"[0, -8]","[9, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,32,5 3/4
+2.5,<music21.chord.Chord A4>,[0],[9],Rautavaara_Etude_op42_no1_Thirds.mxl,,,32,6
+2.625,<music21.chord.Chord F#4 A4>,"[0, 3]","[6, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,32,6 1/4
+2.75,<music21.chord.Chord D4 A4>,"[0, -7]","[9, 2]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,32,6 1/2
+2.875,<music21.chord.Chord A4 E5>,"[0, 5]","[4, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,32,6 3/4
+3.0,<music21.chord.Chord C5>,[0],[0],Rautavaara_Etude_op42_no1_Thirds.mxl,,,32,7
+3.125,<music21.chord.Chord A4>,[0],[9],Rautavaara_Etude_op42_no1_Thirds.mxl,,,32,7 1/4
+3.25,<music21.chord.Chord F4>,[0],[5],Rautavaara_Etude_op42_no1_Thirds.mxl,,,32,7 1/2
+3.375,<music21.chord.Chord C#4>,[0],[1],Rautavaara_Etude_op42_no1_Thirds.mxl,,,32,7 3/4
+0.0,<music21.chord.Chord D3 E5>,"[0, 2]","[2, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,33,1
+0.125,<music21.chord.Chord F#3 E5>,"[0, 2]","[4, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,33,1 1/4
+0.25,<music21.chord.Chord A3 E5>,"[0, 5]","[4, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,33,1 1/2
+0.375,<music21.chord.Chord C#4 E5>,"[0, 3]","[1, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,33,1 3/4
+0.5,<music21.chord.Chord F4 E5>,"[0, 1]","[4, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,33,2
+0.625,<music21.chord.Chord A4 E5>,"[0, 5]","[4, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,33,2 1/4
+0.75,<music21.chord.Chord C5 E5>,"[0, 4]","[0, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,33,2 1/2
+0.875,<music21.chord.Chord E5>,[0],[4],Rautavaara_Etude_op42_no1_Thirds.mxl,,,33,2 3/4
+1.0,<music21.chord.Chord D4 E5>,"[0, 2]","[2, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,33,3
+1.125,<music21.chord.Chord F#4 E5>,"[0, 2]","[4, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,33,3 1/4
+1.25,<music21.chord.Chord A4 E5>,"[0, 5]","[4, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,33,3 1/2
+1.375,<music21.chord.Chord C#5 E5>,"[0, 3]","[1, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,33,3 3/4
+1.5,<music21.chord.Chord E5 F5>,"[0, 1]","[4, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,33,4
+1.625,<music21.chord.Chord E5 A5>,"[0, 5]","[4, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,33,4 1/4
+1.75,<music21.chord.Chord E5 C6>,"[0, 4]","[0, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,33,4 1/2
+1.875,<music21.chord.Chord E5 E6>,[0],[4],Rautavaara_Etude_op42_no1_Thirds.mxl,,,33,4 3/4
+2.0,<music21.chord.Chord E5 C6>,"[0, 4]","[0, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,33,5
+2.125,<music21.chord.Chord E5 A5>,"[0, 5]","[4, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,33,5 1/4
+2.25,<music21.chord.Chord E5 F5>,"[0, 1]","[4, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,33,5 1/2
+2.375,<music21.chord.Chord C#5 E5>,"[0, 3]","[1, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,33,5 3/4
+2.5,<music21.chord.Chord A4 E5>,"[0, 5]","[4, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,33,6
+2.625,<music21.chord.Chord F#4 E5>,"[0, 2]","[4, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,33,6 1/4
+2.75,<music21.chord.Chord D4 E5>,"[0, 2]","[2, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,33,6 1/2
+2.875,<music21.chord.Chord E5>,[0],[4],Rautavaara_Etude_op42_no1_Thirds.mxl,,,33,6 3/4
+3.0,<music21.chord.Chord C5>,[0],[0],Rautavaara_Etude_op42_no1_Thirds.mxl,,,33,7
+3.125,<music21.chord.Chord A4>,[0],[9],Rautavaara_Etude_op42_no1_Thirds.mxl,,,33,7 1/4
+3.25,<music21.chord.Chord F4>,[0],[5],Rautavaara_Etude_op42_no1_Thirds.mxl,,,33,7 1/2
+3.375,<music21.chord.Chord C#4>,[0],[1],Rautavaara_Etude_op42_no1_Thirds.mxl,,,33,7 3/4
+0.0,<music21.chord.Chord B-2 C#4>,"[0, -9]","[10, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,34,1
+0.125,<music21.chord.Chord D3 C#4>,"[0, 1]","[1, 2]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,34,1 1/4
+0.25,<music21.chord.Chord F3 C#4>,"[0, 4]","[1, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,34,1 1/2
+0.375,<music21.chord.Chord A3 C#4>,"[0, -8]","[9, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,34,1 3/4
+0.5,<music21.chord.Chord C#4>,[0],[1],Rautavaara_Etude_op42_no1_Thirds.mxl,,,34,2
+0.625,<music21.chord.Chord C#4 F4>,"[0, 4]","[1, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,34,2 1/4
+0.75,<music21.chord.Chord C#4 G#4>,"[0, -7]","[8, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,34,2 1/2
+0.875,<music21.chord.Chord C#4 C5>,"[0, 1]","[0, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,34,2 3/4
+1.0,<music21.chord.Chord B-3 C#4>,"[0, -9]","[10, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,34,3
+1.125,<music21.chord.Chord C#4 D4>,"[0, 1]","[1, 2]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,34,3 1/4
+1.25,<music21.chord.Chord C#4 F4>,"[0, 4]","[1, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,34,3 1/2
+1.375,<music21.chord.Chord C#4 A4>,"[0, -8]","[9, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,34,3 3/4
+1.5,<music21.chord.Chord C#4 C#5>,[0],[1],Rautavaara_Etude_op42_no1_Thirds.mxl,,,34,4
+1.625,<music21.chord.Chord C#4 F5>,"[0, 4]","[1, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,34,4 1/4
+1.75,<music21.chord.Chord C#4 G#5>,"[0, -7]","[8, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,34,4 1/2
+1.875,<music21.chord.Chord C#4 C6>,"[0, 1]","[0, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,34,4 3/4
+2.0,<music21.chord.Chord C#4 G#5>,"[0, -7]","[8, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,34,5
+2.125,<music21.chord.Chord C#4 F5>,"[0, 4]","[1, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,34,5 1/4
+2.25,<music21.chord.Chord C#4 C#5>,[0],[1],Rautavaara_Etude_op42_no1_Thirds.mxl,,,34,5 1/2
+2.375,<music21.chord.Chord C#4 A4>,"[0, -8]","[9, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,34,5 3/4
+2.5,<music21.chord.Chord C#4 F4>,"[0, 4]","[1, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,34,6
+2.625,<music21.chord.Chord C#4 D4>,"[0, 1]","[1, 2]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,34,6 1/4
+2.75,<music21.chord.Chord B-3 C#4>,"[0, -9]","[10, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,34,6 1/2
+2.875,<music21.chord.Chord C#4 C5>,"[0, 1]","[0, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,34,6 3/4
+3.0,<music21.chord.Chord G#4>,[0],[8],Rautavaara_Etude_op42_no1_Thirds.mxl,,,34,7
+3.125,<music21.chord.Chord F4>,[0],[5],Rautavaara_Etude_op42_no1_Thirds.mxl,,,34,7 1/4
+3.25,<music21.chord.Chord C#4>,[0],[1],Rautavaara_Etude_op42_no1_Thirds.mxl,,,34,7 1/2
+3.375,<music21.chord.Chord A3>,[0],[9],Rautavaara_Etude_op42_no1_Thirds.mxl,,,34,7 3/4
+0.0,<music21.chord.Chord B-2 C5>,"[0, -10]","[10, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,35,1
+0.125,<music21.chord.Chord D3 C5>,"[0, 2]","[0, 2]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,35,1 1/4
+0.25,<music21.chord.Chord F3 C5>,"[0, 5]","[0, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,35,1 1/2
+0.375,<music21.chord.Chord A3 C5>,"[0, -9]","[9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,35,1 3/4
+0.5,<music21.chord.Chord C#4 C5>,"[0, 1]","[0, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,35,2
+0.625,<music21.chord.Chord F4 C5>,"[0, 5]","[0, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,35,2 1/4
+0.75,<music21.chord.Chord G#4 C5>,"[0, -8]","[8, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,35,2 1/2
+0.875,<music21.chord.Chord C5>,[0],[0],Rautavaara_Etude_op42_no1_Thirds.mxl,,,35,2 3/4
+1.0,<music21.chord.Chord B-3 C5>,"[0, -10]","[10, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,35,3
+1.125,<music21.chord.Chord D4 C5>,"[0, 2]","[0, 2]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,35,3 1/4
+1.25,<music21.chord.Chord F4 C5>,"[0, 5]","[0, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,35,3 1/2
+1.375,<music21.chord.Chord A4 C5>,"[0, -9]","[9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,35,3 3/4
+1.5,<music21.chord.Chord C5 C#5>,"[0, 1]","[0, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,35,4
+1.625,<music21.chord.Chord C5 F5>,"[0, 5]","[0, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,35,4 1/4
+1.75,<music21.chord.Chord C5 G#5>,"[0, -8]","[8, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,35,4 1/2
+1.875,<music21.chord.Chord C5 C6>,[0],[0],Rautavaara_Etude_op42_no1_Thirds.mxl,,,35,4 3/4
+2.0,<music21.chord.Chord C5 G#5>,"[0, -8]","[8, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,35,5
+2.125,<music21.chord.Chord C5 F5>,"[0, 5]","[0, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,35,5 1/4
+2.25,<music21.chord.Chord C5 C#5>,"[0, 1]","[0, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,35,5 1/2
+2.375,<music21.chord.Chord A4 C5>,"[0, -9]","[9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,35,5 3/4
+2.5,<music21.chord.Chord F4 C5>,"[0, 5]","[0, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,35,6
+2.625,<music21.chord.Chord D4 C5>,"[0, 2]","[0, 2]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,35,6 1/4
+2.75,<music21.chord.Chord B-3 C5>,"[0, -10]","[10, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,35,6 1/2
+2.875,<music21.chord.Chord C5>,[0],[0],Rautavaara_Etude_op42_no1_Thirds.mxl,,,35,6 3/4
+3.0,<music21.chord.Chord G#4>,[0],[8],Rautavaara_Etude_op42_no1_Thirds.mxl,,,35,7
+3.125,<music21.chord.Chord F4>,[0],[5],Rautavaara_Etude_op42_no1_Thirds.mxl,,,35,7 1/4
+3.25,<music21.chord.Chord C#4>,[0],[1],Rautavaara_Etude_op42_no1_Thirds.mxl,,,35,7 1/2
+3.375,<music21.chord.Chord A3>,[0],[9],Rautavaara_Etude_op42_no1_Thirds.mxl,,,35,7 3/4
+0.0,<music21.chord.Chord D2 C4>,"[0, 2]","[0, 2]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,36,1
+0.125,<music21.chord.Chord F#2 C4>,"[0, 6]","[0, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,36,1 1/4
+0.25,<music21.chord.Chord A2 C4>,"[0, -9]","[9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,36,1 1/2
+0.375,<music21.chord.Chord C#3 C4>,"[0, 1]","[0, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,36,1 3/4
+0.5,<music21.chord.Chord F3 C4>,"[0, 5]","[0, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,36,2
+0.625,<music21.chord.Chord A3 C4>,"[0, -9]","[9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,36,2 1/4
+0.75,<music21.chord.Chord C4>,[0],[0],Rautavaara_Etude_op42_no1_Thirds.mxl,,,36,2 1/2
+0.875,<music21.chord.Chord C4 E4>,"[0, 4]","[0, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,36,2 3/4
+1.0,<music21.chord.Chord D3 C4>,"[0, 2]","[0, 2]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,36,3
+1.125,<music21.chord.Chord F#3 C4>,"[0, 6]","[0, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,36,3 1/4
+1.25,<music21.chord.Chord A3 C4>,"[0, -9]","[9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,36,3 1/2
+1.375,<music21.chord.Chord C4 C#4>,"[0, 1]","[0, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,36,3 3/4
+1.5,<music21.chord.Chord C4 F4>,"[0, 5]","[0, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,36,4
+1.625,<music21.chord.Chord C4 A4>,"[0, -9]","[9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,36,4 1/4
+1.75,<music21.chord.Chord C4 C5>,[0],[0],Rautavaara_Etude_op42_no1_Thirds.mxl,,,36,4 1/2
+1.875,<music21.chord.Chord C4 E5>,"[0, 4]","[0, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,36,4 3/4
+2.0,<music21.chord.Chord C4 C5>,[0],[0],Rautavaara_Etude_op42_no1_Thirds.mxl,,,36,5
+2.125,<music21.chord.Chord C4 A4>,"[0, -9]","[9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,36,5 1/4
+2.25,<music21.chord.Chord C4 F4>,"[0, 5]","[0, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,36,5 1/2
+2.375,<music21.chord.Chord C4 C#4>,"[0, 1]","[0, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,36,5 3/4
+2.5,<music21.chord.Chord A3 C4>,"[0, -9]","[9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,36,6
+2.625,<music21.chord.Chord F#3 C4>,"[0, 6]","[0, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,36,6 1/4
+2.75,<music21.chord.Chord D3 C4>,"[0, 2]","[0, 2]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,36,6 1/2
+2.875,<music21.chord.Chord C4 E4>,"[0, 4]","[0, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,36,6 3/4
+3.0,<music21.chord.Chord C4>,[0],[0],Rautavaara_Etude_op42_no1_Thirds.mxl,,,36,7
+3.125,<music21.chord.Chord A3>,[0],[9],Rautavaara_Etude_op42_no1_Thirds.mxl,,,36,7 1/4
+3.25,<music21.chord.Chord F3>,[0],[5],Rautavaara_Etude_op42_no1_Thirds.mxl,,,36,7 1/2
+3.375,<music21.chord.Chord C#3>,[0],[1],Rautavaara_Etude_op42_no1_Thirds.mxl,,,36,7 3/4
+0.0,<music21.chord.Chord D2 E4>,"[0, 2]","[2, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,37,1
+0.125,<music21.chord.Chord F#2 E4>,"[0, 2]","[4, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,37,1 1/4
+0.25,<music21.chord.Chord A2 E4>,"[0, 5]","[4, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,37,1 1/2
+0.375,<music21.chord.Chord C#3 E4>,"[0, 3]","[1, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,37,1 3/4
+0.5,<music21.chord.Chord F3 E4>,"[0, 1]","[4, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,37,2
+0.625,<music21.chord.Chord A3 E4>,"[0, 5]","[4, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,37,2 1/4
+0.75,<music21.chord.Chord C4 E4>,"[0, 4]","[0, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,37,2 1/2
+0.875,<music21.chord.Chord E4>,[0],[4],Rautavaara_Etude_op42_no1_Thirds.mxl,,,37,2 3/4
+1.0,<music21.chord.Chord D3 E4>,"[0, 2]","[2, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,37,3
+1.125,<music21.chord.Chord F#3 E4>,"[0, 2]","[4, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,37,3 1/4
+1.25,<music21.chord.Chord A3 E4>,"[0, 5]","[4, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,37,3 1/2
+1.375,<music21.chord.Chord C#4 E4>,"[0, 3]","[1, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,37,3 3/4
+1.5,<music21.chord.Chord E4 F4>,"[0, 1]","[4, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,37,4
+1.625,<music21.chord.Chord E4 A4>,"[0, 5]","[4, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,37,4 1/4
+1.75,<music21.chord.Chord E4 C5>,"[0, 4]","[0, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,37,4 1/2
+1.875,<music21.chord.Chord E4 E5>,[0],[4],Rautavaara_Etude_op42_no1_Thirds.mxl,,,37,4 3/4
+2.0,<music21.chord.Chord E4 C5>,"[0, 4]","[0, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,37,5
+2.125,<music21.chord.Chord E4 A4>,"[0, 5]","[4, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,37,5 1/4
+2.25,<music21.chord.Chord E4 F4>,"[0, 1]","[4, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,37,5 1/2
+2.375,<music21.chord.Chord C#4 E4>,"[0, 3]","[1, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,37,5 3/4
+2.5,<music21.chord.Chord A3 E4>,"[0, 5]","[4, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,37,6
+2.625,<music21.chord.Chord F#3 E4>,"[0, 2]","[4, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,37,6 1/4
+2.75,<music21.chord.Chord D3 E4>,"[0, 2]","[2, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,37,6 1/2
+2.875,<music21.chord.Chord E4>,[0],[4],Rautavaara_Etude_op42_no1_Thirds.mxl,,,37,6 3/4
+3.0,<music21.chord.Chord C4>,[0],[0],Rautavaara_Etude_op42_no1_Thirds.mxl,,,37,7
+3.125,<music21.chord.Chord A3>,[0],[9],Rautavaara_Etude_op42_no1_Thirds.mxl,,,37,7 1/4
+3.25,<music21.chord.Chord F3>,[0],[5],Rautavaara_Etude_op42_no1_Thirds.mxl,,,37,7 1/2
+3.375,<music21.chord.Chord C#3>,[0],[1],Rautavaara_Etude_op42_no1_Thirds.mxl,,,37,7 3/4
+0.0,<music21.chord.Chord F#2 A3>,"[0, 3]","[6, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,38,1
+0.125,<music21.chord.Chord B-2 A3>,"[0, 1]","[9, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,38,1 1/4
+0.25,<music21.chord.Chord C#3 A3>,"[0, -8]","[9, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,38,1 1/2
+0.375,<music21.chord.Chord F3 A3>,"[0, 4]","[5, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,38,1 3/4
+0.5,<music21.chord.Chord A3>,[0],[9],Rautavaara_Etude_op42_no1_Thirds.mxl,,,38,2
+0.625,<music21.chord.Chord A3 C#4>,"[0, -8]","[9, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,38,2 1/4
+0.75,<music21.chord.Chord A3 E4>,"[0, 5]","[4, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,38,2 1/2
+0.875,<music21.chord.Chord A3 G#4>,"[0, 1]","[8, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,38,2 3/4
+1.0,<music21.chord.Chord F#3 A3>,"[0, 3]","[6, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,38,3
+1.125,<music21.chord.Chord A3 B-3>,"[0, 1]","[9, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,38,3 1/4
+1.25,<music21.chord.Chord A3 C#4>,"[0, -8]","[9, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,38,3 1/2
+1.375,<music21.chord.Chord A3 F4>,"[0, 4]","[5, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,38,3 3/4
+1.5,<music21.chord.Chord A3 A4>,[0],[9],Rautavaara_Etude_op42_no1_Thirds.mxl,,,38,4
+1.625,<music21.chord.Chord A3 C#5>,"[0, -8]","[9, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,38,4 1/4
+1.75,<music21.chord.Chord A3 E5>,"[0, 5]","[4, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,38,4 1/2
+1.875,<music21.chord.Chord A3 G#5>,"[0, 1]","[8, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,38,4 3/4
+2.0,<music21.chord.Chord A3 E5>,"[0, 5]","[4, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,38,5
+2.125,<music21.chord.Chord A3 C#5>,"[0, -8]","[9, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,38,5 1/4
+2.25,<music21.chord.Chord A3 A4>,[0],[9],Rautavaara_Etude_op42_no1_Thirds.mxl,,,38,5 1/2
+2.375,<music21.chord.Chord A3 F4>,"[0, 4]","[5, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,38,5 3/4
+2.5,<music21.chord.Chord A3 C#4>,"[0, -8]","[9, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,38,6
+2.625,<music21.chord.Chord A3 B-3>,"[0, 1]","[9, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,38,6 1/4
+2.75,<music21.chord.Chord F#3 A3>,"[0, 3]","[6, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,38,6 1/2
+2.875,<music21.chord.Chord A3 G#4>,"[0, 1]","[8, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,38,6 3/4
+3.0,<music21.chord.Chord E4>,[0],[4],Rautavaara_Etude_op42_no1_Thirds.mxl,,,38,7
+3.125,<music21.chord.Chord C#4>,[0],[1],Rautavaara_Etude_op42_no1_Thirds.mxl,,,38,7 1/4
+3.25,<music21.chord.Chord A3>,[0],[9],Rautavaara_Etude_op42_no1_Thirds.mxl,,,38,7 1/2
+3.375,<music21.chord.Chord F3>,[0],[5],Rautavaara_Etude_op42_no1_Thirds.mxl,,,38,7 3/4
+0.0,<music21.chord.Chord F#2 G#4>,"[0, 2]","[6, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,39,1
+0.125,<music21.chord.Chord B-2 G#4>,"[0, 2]","[8, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,39,1 1/4
+0.25,<music21.chord.Chord C#3 G#4>,"[0, -7]","[8, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,39,1 1/2
+0.375,<music21.chord.Chord F3 G#4>,"[0, 3]","[5, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,39,1 3/4
+0.5,<music21.chord.Chord A3 G#4>,"[0, 1]","[8, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,39,2
+0.625,<music21.chord.Chord C#4 G#4>,"[0, -7]","[8, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,39,2 1/4
+0.75,<music21.chord.Chord E4 G#4>,"[0, 4]","[4, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,39,2 1/2
+0.875,<music21.chord.Chord G#4>,[0],[8],Rautavaara_Etude_op42_no1_Thirds.mxl,,,39,2 3/4
+1.0,<music21.chord.Chord F#3 G#4>,"[0, 2]","[6, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,39,3
+1.125,<music21.chord.Chord B-3 G#4>,"[0, 2]","[8, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,39,3 1/4
+1.25,<music21.chord.Chord C#4 G#4>,"[0, -7]","[8, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,39,3 1/2
+1.375,<music21.chord.Chord F4 G#4>,"[0, 3]","[5, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,39,3 3/4
+1.5,<music21.chord.Chord G#4 A4>,"[0, 1]","[8, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,39,4
+1.625,<music21.chord.Chord G#4 C#5>,"[0, -7]","[8, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,39,4 1/4
+1.75,<music21.chord.Chord G#4 E5>,"[0, 4]","[4, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,39,4 1/2
+1.875,<music21.chord.Chord G#4 G#5>,[0],[8],Rautavaara_Etude_op42_no1_Thirds.mxl,,,39,4 3/4
+2.0,<music21.chord.Chord G#4 E5>,"[0, 4]","[4, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,39,5
+2.125,<music21.chord.Chord G#4 C#5>,"[0, -7]","[8, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,39,5 1/4
+2.25,<music21.chord.Chord G#4 A4>,"[0, 1]","[8, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,39,5 1/2
+2.375,<music21.chord.Chord F4 G#4>,"[0, 3]","[5, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,39,5 3/4
+2.5,<music21.chord.Chord C#4 G#4>,"[0, -7]","[8, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,39,6
+2.625,<music21.chord.Chord B-3 G#4>,"[0, 2]","[8, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,39,6 1/4
+2.75,<music21.chord.Chord F#3 G#4>,"[0, 2]","[6, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,39,6 1/2
+2.875,<music21.chord.Chord G#4>,[0],[8],Rautavaara_Etude_op42_no1_Thirds.mxl,,,39,6 3/4
+3.0,<music21.chord.Chord E4>,[0],[4],Rautavaara_Etude_op42_no1_Thirds.mxl,,,39,7
+3.125,<music21.chord.Chord C#4>,[0],[1],Rautavaara_Etude_op42_no1_Thirds.mxl,,,39,7 1/4
+3.25,<music21.chord.Chord A3>,[0],[9],Rautavaara_Etude_op42_no1_Thirds.mxl,,,39,7 1/2
+3.375,<music21.chord.Chord F3>,[0],[5],Rautavaara_Etude_op42_no1_Thirds.mxl,,,39,7 3/4
+0.0,<music21.chord.Chord F2 A3>,"[0, 4]","[5, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,40,1
+0.125,<music21.chord.Chord A2 A3>,[0],[9],Rautavaara_Etude_op42_no1_Thirds.mxl,,,40,1 1/4
+0.25,<music21.chord.Chord C3 A3>,"[0, -9]","[9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,40,1 1/2
+0.375,<music21.chord.Chord E3 A3>,"[0, 5]","[4, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,40,1 3/4
+0.5,<music21.chord.Chord A3>,[0],[9],Rautavaara_Etude_op42_no1_Thirds.mxl,,,40,2
+0.625,<music21.chord.Chord A3 C#4>,"[0, -8]","[9, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,40,2 1/4
+0.75,<music21.chord.Chord A3 E4>,"[0, 5]","[4, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,40,2 1/2
+0.875,<music21.chord.Chord A3 G#4>,"[0, 1]","[8, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,40,2 3/4
+1.0,<music21.chord.Chord F3 A3>,"[0, 4]","[5, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,40,3
+1.125,<music21.chord.Chord A3>,[0],[9],Rautavaara_Etude_op42_no1_Thirds.mxl,,,40,3 1/4
+1.25,<music21.chord.Chord A3 C4>,"[0, -9]","[9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,40,3 1/2
+1.375,<music21.chord.Chord A3 E4>,"[0, 5]","[4, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,40,3 3/4
+1.5,<music21.chord.Chord A3 A4>,[0],[9],Rautavaara_Etude_op42_no1_Thirds.mxl,,,40,4
+1.625,<music21.chord.Chord A3 C#5>,"[0, -8]","[9, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,40,4 1/4
+1.75,<music21.chord.Chord A3 E5>,"[0, 5]","[4, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,40,4 1/2
+1.875,<music21.chord.Chord A3 G#5>,"[0, 1]","[8, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,40,4 3/4
+2.0,<music21.chord.Chord A3 E5>,"[0, 5]","[4, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,40,5
+2.125,<music21.chord.Chord A3 C#5>,"[0, -8]","[9, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,40,5 1/4
+2.25,<music21.chord.Chord A3 A4>,[0],[9],Rautavaara_Etude_op42_no1_Thirds.mxl,,,40,5 1/2
+2.375,<music21.chord.Chord A3 E4>,"[0, 5]","[4, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,40,5 3/4
+2.5,<music21.chord.Chord A3 C4>,"[0, -9]","[9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,40,6
+2.625,<music21.chord.Chord A3>,[0],[9],Rautavaara_Etude_op42_no1_Thirds.mxl,,,40,6 1/4
+2.75,<music21.chord.Chord F3 A3>,"[0, 4]","[5, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,40,6 1/2
+2.875,<music21.chord.Chord A3 G#4>,"[0, 1]","[8, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,40,6 3/4
+3.0,<music21.chord.Chord E4>,[0],[4],Rautavaara_Etude_op42_no1_Thirds.mxl,,,40,7
+3.125,<music21.chord.Chord C#4>,[0],[1],Rautavaara_Etude_op42_no1_Thirds.mxl,,,40,7 1/4
+3.25,<music21.chord.Chord A3>,[0],[9],Rautavaara_Etude_op42_no1_Thirds.mxl,,,40,7 1/2
+3.375,<music21.chord.Chord E3>,[0],[4],Rautavaara_Etude_op42_no1_Thirds.mxl,,,40,7 3/4
+0.0,<music21.chord.Chord F2 B4>,"[0, 6]","[5, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,41,1
+0.125,<music21.chord.Chord A2 B4>,"[0, 2]","[9, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,41,1 1/4
+0.25,<music21.chord.Chord C3 B4>,"[0, -11]","[11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,41,1 1/2
+0.375,<music21.chord.Chord E3 B4>,"[0, -7]","[11, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,41,1 3/4
+0.5,<music21.chord.Chord A3 B4>,"[0, 2]","[9, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,41,2
+0.625,<music21.chord.Chord C#4 B4>,"[0, -10]","[11, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,41,2 1/4
+0.75,<music21.chord.Chord E4 B4>,"[0, -7]","[11, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,41,2 1/2
+0.875,<music21.chord.Chord G#4 B4>,"[0, 3]","[8, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,41,2 3/4
+1.0,<music21.chord.Chord F3 B4>,"[0, 6]","[5, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,41,3
+1.125,<music21.chord.Chord A3 B4>,"[0, 2]","[9, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,41,3 1/4
+1.25,<music21.chord.Chord C4 B4>,"[0, -11]","[11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,41,3 1/2
+1.375,<music21.chord.Chord E4 B4>,"[0, -7]","[11, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,41,3 3/4
+1.5,<music21.chord.Chord A4 B4>,"[0, 2]","[9, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,41,4
+1.625,<music21.chord.Chord B4 C#5>,"[0, -10]","[11, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,41,4 1/4
+1.75,<music21.chord.Chord B4 E5>,"[0, -7]","[11, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,41,4 1/2
+1.875,<music21.chord.Chord B4 G#5>,"[0, 3]","[8, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,41,4 3/4
+2.0,<music21.chord.Chord B4 E5>,"[0, -7]","[11, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,41,5
+2.125,<music21.chord.Chord B4 C#5>,"[0, -10]","[11, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,41,5 1/4
+2.25,<music21.chord.Chord A4 B4>,"[0, 2]","[9, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,41,5 1/2
+2.375,<music21.chord.Chord E4 B4>,"[0, -7]","[11, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,41,5 3/4
+2.5,<music21.chord.Chord C4 B4>,"[0, -11]","[11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,41,6
+2.625,<music21.chord.Chord A3 B4>,"[0, 2]","[9, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,41,6 1/4
+2.75,<music21.chord.Chord F3 B4>,"[0, 6]","[5, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,41,6 1/2
+2.875,<music21.chord.Chord G#4 B4>,"[0, 3]","[8, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,41,6 3/4
+3.0,<music21.chord.Chord E4>,[0],[4],Rautavaara_Etude_op42_no1_Thirds.mxl,,,41,7
+3.125,<music21.chord.Chord C#4>,[0],[1],Rautavaara_Etude_op42_no1_Thirds.mxl,,,41,7 1/4
+3.25,<music21.chord.Chord A3>,[0],[9],Rautavaara_Etude_op42_no1_Thirds.mxl,,,41,7 1/2
+3.375,<music21.chord.Chord E3>,[0],[4],Rautavaara_Etude_op42_no1_Thirds.mxl,,,41,7 3/4
+0.0,<music21.chord.Chord E-2 G3>,"[0, 4]","[3, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,42,1
+0.125,<music21.chord.Chord G2 G3>,[0],[7],Rautavaara_Etude_op42_no1_Thirds.mxl,,,42,1 1/4
+0.25,<music21.chord.Chord B-2 G3>,"[0, 3]","[7, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,42,1 1/2
+0.375,<music21.chord.Chord D3 G3>,"[0, 5]","[2, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,42,1 3/4
+0.5,<music21.chord.Chord G3>,[0],[7],Rautavaara_Etude_op42_no1_Thirds.mxl,,,42,2
+0.625,<music21.chord.Chord G3 B3>,"[0, 4]","[7, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,42,2 1/4
+0.75,<music21.chord.Chord G3 D4>,"[0, 5]","[2, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,42,2 1/2
+0.875,<music21.chord.Chord G3 F#4>,"[0, 1]","[6, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,42,2 3/4
+1.0,<music21.chord.Chord E-3 G3>,"[0, 4]","[3, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,42,3
+1.125,<music21.chord.Chord G3>,[0],[7],Rautavaara_Etude_op42_no1_Thirds.mxl,,,42,3 1/4
+1.25,<music21.chord.Chord G3 B-3>,"[0, 3]","[7, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,42,3 1/2
+1.375,<music21.chord.Chord G3 D4>,"[0, 5]","[2, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,42,3 3/4
+1.5,<music21.chord.Chord G3 G4>,[0],[7],Rautavaara_Etude_op42_no1_Thirds.mxl,,,42,4
+1.625,<music21.chord.Chord G3 B4>,"[0, 4]","[7, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,42,4 1/4
+1.75,<music21.chord.Chord G3 D5>,"[0, 5]","[2, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,42,4 1/2
+1.875,<music21.chord.Chord G3 F#5>,"[0, 1]","[6, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,42,4 3/4
+2.0,<music21.chord.Chord G3 D5>,"[0, 5]","[2, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,42,5
+2.125,<music21.chord.Chord G3 B4>,"[0, 4]","[7, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,42,5 1/4
+2.25,<music21.chord.Chord G3 G4>,[0],[7],Rautavaara_Etude_op42_no1_Thirds.mxl,,,42,5 1/2
+2.375,<music21.chord.Chord G3 D4>,"[0, 5]","[2, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,42,5 3/4
+2.5,<music21.chord.Chord G3 B-3>,"[0, 3]","[7, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,42,6
+2.625,<music21.chord.Chord G3>,[0],[7],Rautavaara_Etude_op42_no1_Thirds.mxl,,,42,6 1/4
+2.75,<music21.chord.Chord E-3 G3>,"[0, 4]","[3, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,42,6 1/2
+2.875,<music21.chord.Chord G3 F#4>,"[0, 1]","[6, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,42,6 3/4
+3.0,<music21.chord.Chord D4>,[0],[2],Rautavaara_Etude_op42_no1_Thirds.mxl,,,42,7
+3.125,<music21.chord.Chord B3>,[0],[11],Rautavaara_Etude_op42_no1_Thirds.mxl,,,42,7 1/4
+3.25,<music21.chord.Chord G3>,[0],[7],Rautavaara_Etude_op42_no1_Thirds.mxl,,,42,7 1/2
+3.375,<music21.chord.Chord D3>,[0],[2],Rautavaara_Etude_op42_no1_Thirds.mxl,,,42,7 3/4
+0.0,<music21.chord.Chord E-2 F4>,"[0, 2]","[3, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,43,1
+0.125,<music21.chord.Chord G2 F4>,"[0, 2]","[5, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,43,1 1/4
+0.25,<music21.chord.Chord B-2 F4>,"[0, 5]","[5, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,43,1 1/2
+0.375,<music21.chord.Chord D3 F4>,"[0, 3]","[2, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,43,1 3/4
+0.5,<music21.chord.Chord G3 F4>,"[0, 2]","[5, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,43,2
+0.625,<music21.chord.Chord B3 F4>,"[0, 6]","[5, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,43,2 1/4
+0.75,<music21.chord.Chord D4 F4>,"[0, 3]","[2, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,43,2 1/2
+0.875,<music21.chord.Chord F4 F#4>,"[0, 1]","[5, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,43,2 3/4
+1.0,<music21.chord.Chord E-3 F4>,"[0, 2]","[3, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,43,3
+1.125,<music21.chord.Chord G3 F4>,"[0, 2]","[5, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,43,3 1/4
+1.25,<music21.chord.Chord B-3 F4>,"[0, 5]","[5, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,43,3 1/2
+1.375,<music21.chord.Chord D4 F4>,"[0, 3]","[2, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,43,3 3/4
+1.5,<music21.chord.Chord F4 G4>,"[0, 2]","[5, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,43,4
+1.625,<music21.chord.Chord F4 B4>,"[0, 6]","[5, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,43,4 1/4
+1.75,<music21.chord.Chord F4 D5>,"[0, 3]","[2, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,43,4 1/2
+1.875,<music21.chord.Chord F4 F#5>,"[0, 1]","[5, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,43,4 3/4
+2.0,<music21.chord.Chord F4 D5>,"[0, 3]","[2, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,43,5
+2.125,<music21.chord.Chord F4 B4>,"[0, 6]","[5, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,43,5 1/4
+2.25,<music21.chord.Chord F4 G4>,"[0, 2]","[5, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,43,5 1/2
+2.375,<music21.chord.Chord D4 F4>,"[0, 3]","[2, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,43,5 3/4
+2.5,<music21.chord.Chord B-3 F4>,"[0, 5]","[5, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,43,6
+2.625,<music21.chord.Chord G3 F4>,"[0, 2]","[5, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,43,6 1/4
+2.75,<music21.chord.Chord E-3 F4>,"[0, 2]","[3, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,43,6 1/2
+2.875,<music21.chord.Chord F4 F#4>,"[0, 1]","[5, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,43,6 3/4
+3.0,<music21.chord.Chord D4>,[0],[2],Rautavaara_Etude_op42_no1_Thirds.mxl,,,43,7
+3.125,<music21.chord.Chord B3>,[0],[11],Rautavaara_Etude_op42_no1_Thirds.mxl,,,43,7 1/4
+3.25,<music21.chord.Chord G3>,[0],[7],Rautavaara_Etude_op42_no1_Thirds.mxl,,,43,7 1/2
+3.375,<music21.chord.Chord D3>,[0],[2],Rautavaara_Etude_op42_no1_Thirds.mxl,,,43,7 3/4
+0.0,<music21.chord.Chord D2 F#3>,"[0, 4]","[2, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,44,1
+0.125,<music21.chord.Chord F#2 F#3>,[0],[6],Rautavaara_Etude_op42_no1_Thirds.mxl,,,44,1 1/4
+0.25,<music21.chord.Chord A2 F#3>,"[0, 3]","[6, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,44,1 1/2
+0.375,<music21.chord.Chord C#3 F#3>,"[0, 5]","[1, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,44,1 3/4
+0.5,<music21.chord.Chord F#3>,[0],[6],Rautavaara_Etude_op42_no1_Thirds.mxl,,,44,2
+0.625,<music21.chord.Chord F#3 B-3>,"[0, 4]","[6, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,44,2 1/4
+0.75,<music21.chord.Chord F#3 C#4>,"[0, 5]","[1, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,44,2 1/2
+0.875,<music21.chord.Chord F#3 F4>,"[0, 1]","[5, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,44,2 3/4
+1.0,<music21.chord.Chord D3 F#3>,"[0, 4]","[2, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,44,3
+1.125,<music21.chord.Chord F#3>,[0],[6],Rautavaara_Etude_op42_no1_Thirds.mxl,,,44,3 1/4
+1.25,<music21.chord.Chord F#3 A3>,"[0, 3]","[6, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,44,3 1/2
+1.375,<music21.chord.Chord F#3 C#4>,"[0, 5]","[1, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,44,3 3/4
+1.5,<music21.chord.Chord F#3 F#4>,[0],[6],Rautavaara_Etude_op42_no1_Thirds.mxl,,,44,4
+1.625,<music21.chord.Chord F#3 B-4>,"[0, 4]","[6, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,44,4 1/4
+1.75,<music21.chord.Chord F#3 C#5>,"[0, 5]","[1, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,44,4 1/2
+1.875,<music21.chord.Chord F#3 F5>,"[0, 1]","[5, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,44,4 3/4
+2.0,<music21.chord.Chord F#3 C#5>,"[0, 5]","[1, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,44,5
+2.125,<music21.chord.Chord F#3 B-4>,"[0, 4]","[6, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,44,5 1/4
+2.25,<music21.chord.Chord F#3 F#4>,[0],[6],Rautavaara_Etude_op42_no1_Thirds.mxl,,,44,5 1/2
+2.375,<music21.chord.Chord F#3 C#4>,"[0, 5]","[1, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,44,5 3/4
+2.5,<music21.chord.Chord F#3 A3>,"[0, 3]","[6, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,44,6
+2.625,<music21.chord.Chord F#3>,[0],[6],Rautavaara_Etude_op42_no1_Thirds.mxl,,,44,6 1/4
+2.75,<music21.chord.Chord D3 F#3>,"[0, 4]","[2, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,44,6 1/2
+2.875,<music21.chord.Chord F#3 F4>,"[0, 1]","[5, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,44,6 3/4
+3.0,<music21.chord.Chord C#4>,[0],[1],Rautavaara_Etude_op42_no1_Thirds.mxl,,,44,7
+3.125,<music21.chord.Chord B-3>,[0],[10],Rautavaara_Etude_op42_no1_Thirds.mxl,,,44,7 1/4
+3.25,<music21.chord.Chord F#3>,[0],[6],Rautavaara_Etude_op42_no1_Thirds.mxl,,,44,7 1/2
+3.375,<music21.chord.Chord C#3>,[0],[1],Rautavaara_Etude_op42_no1_Thirds.mxl,,,44,7 3/4
+0.0,<music21.chord.Chord B-1 G#3>,"[0, 2]","[8, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,45,1
+0.125,<music21.chord.Chord D2 G#3>,"[0, 6]","[2, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,45,1 1/4
+0.25,<music21.chord.Chord F2 G#3>,"[0, 3]","[5, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,45,1 1/2
+0.375,<music21.chord.Chord A2 G#3>,"[0, 1]","[8, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,45,1 3/4
+0.5,<music21.chord.Chord C#3 G#3>,"[0, -7]","[8, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,45,2
+0.625,<music21.chord.Chord F3 G#3>,"[0, 3]","[5, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,45,2 1/4
+0.75,<music21.chord.Chord G#3>,[0],[8],Rautavaara_Etude_op42_no1_Thirds.mxl,,,45,2 1/2
+0.875,<music21.chord.Chord G#3 C4>,"[0, -8]","[8, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,45,2 3/4
+1.0,<music21.chord.Chord B-2 G#3>,"[0, 2]","[8, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,45,3
+1.125,<music21.chord.Chord D3 G#3>,"[0, 6]","[2, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,45,3 1/4
+1.25,<music21.chord.Chord F3 G#3>,"[0, 3]","[5, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,45,3 1/2
+1.375,<music21.chord.Chord G#3 A3>,"[0, 1]","[8, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,45,3 3/4
+1.5,<music21.chord.Chord G#3 C#4>,"[0, -7]","[8, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,45,4
+1.625,<music21.chord.Chord G#3 F4>,"[0, 3]","[5, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,45,4 1/4
+1.75,<music21.chord.Chord G#3 G#4>,[0],[8],Rautavaara_Etude_op42_no1_Thirds.mxl,,,45,4 1/2
+1.875,<music21.chord.Chord G#3 C5>,"[0, -8]","[8, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,45,4 3/4
+2.0,<music21.chord.Chord G#3 G#4>,[0],[8],Rautavaara_Etude_op42_no1_Thirds.mxl,,,45,5
+2.125,<music21.chord.Chord G#3 F4>,"[0, 3]","[5, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,45,5 1/4
+2.25,<music21.chord.Chord G#3 C#4>,"[0, -7]","[8, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,45,5 1/2
+2.375,<music21.chord.Chord G#3 A3>,"[0, 1]","[8, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,45,5 3/4
+2.5,<music21.chord.Chord F3 G#3>,"[0, 3]","[5, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,45,6
+2.625,<music21.chord.Chord D3 G#3>,"[0, 6]","[2, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,45,6 1/4
+2.75,<music21.chord.Chord B-2 G#3>,"[0, 2]","[8, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,45,6 1/2
+2.875,<music21.chord.Chord G#3 C4>,"[0, -8]","[8, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,45,6 3/4
+3.0,<music21.chord.Chord G#3>,[0],[8],Rautavaara_Etude_op42_no1_Thirds.mxl,,,45,7
+3.125,<music21.chord.Chord F3>,[0],[5],Rautavaara_Etude_op42_no1_Thirds.mxl,,,45,7 1/4
+3.25,<music21.chord.Chord C#3>,[0],[1],Rautavaara_Etude_op42_no1_Thirds.mxl,,,45,7 1/2
+3.375,<music21.chord.Chord A2>,[0],[9],Rautavaara_Etude_op42_no1_Thirds.mxl,,,45,7 3/4
+0.0,<music21.chord.Chord B-3 B3>,"[0, 1]","[10, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,46,1
+0.125,<music21.chord.Chord B3 D4>,"[0, -9]","[11, 2]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,46,1 1/4
+0.25,<music21.chord.Chord B3 F4>,"[0, 6]","[5, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,46,1 1/2
+0.375,<music21.chord.Chord B3 A4>,"[0, 2]","[9, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,46,1 3/4
+0.5,<music21.chord.Chord B3 C#5>,"[0, -10]","[11, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,46,2
+0.625,<music21.chord.Chord B3 F5>,"[0, 6]","[5, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,46,2 1/4
+0.75,<music21.chord.Chord B3 G#5>,"[0, 3]","[8, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,46,2 1/2
+0.875,<music21.chord.Chord B3 C6>,"[0, -11]","[11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,46,2 3/4
+1.0,<music21.chord.Chord B3 B-4>,"[0, 1]","[10, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,46,3
+1.125,<music21.chord.Chord B3 D5>,"[0, -9]","[11, 2]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,46,3 1/4
+1.25,<music21.chord.Chord B3 F5>,"[0, 6]","[5, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,46,3 1/2
+1.375,<music21.chord.Chord B3 A5>,"[0, 2]","[9, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,46,3 3/4
+1.5,<music21.chord.Chord B3 C#6>,"[0, -10]","[11, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,46,4
+1.625,<music21.chord.Chord B3 F6>,"[0, 6]","[5, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,46,4 1/4
+1.75,<music21.chord.Chord B3 G#6>,"[0, 3]","[8, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,46,4 1/2
+1.875,<music21.chord.Chord B3 C7>,"[0, -11]","[11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,46,4 3/4
+2.0,<music21.chord.Chord B3 G#6>,"[0, 3]","[8, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,46,5
+2.125,<music21.chord.Chord B3 F6>,"[0, 6]","[5, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,46,5 1/4
+2.25,<music21.chord.Chord B3 C#6>,"[0, -10]","[11, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,46,5 1/2
+2.375,<music21.chord.Chord B3 A5>,"[0, 2]","[9, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,46,5 3/4
+2.5,<music21.chord.Chord B3 F5>,"[0, 6]","[5, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,46,6
+2.625,<music21.chord.Chord B3 D5>,"[0, -9]","[11, 2]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,46,6 1/4
+2.75,<music21.chord.Chord B3 B-4>,"[0, 1]","[10, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,46,6 1/2
+2.875,<music21.chord.Chord B3 C6>,"[0, -11]","[11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,46,6 3/4
+3.0,<music21.chord.Chord G#5>,[0],[8],Rautavaara_Etude_op42_no1_Thirds.mxl,,,46,7
+3.125,<music21.chord.Chord F5>,[0],[5],Rautavaara_Etude_op42_no1_Thirds.mxl,,,46,7 1/4
+3.25,<music21.chord.Chord C#5>,[0],[1],Rautavaara_Etude_op42_no1_Thirds.mxl,,,46,7 1/2
+3.375,<music21.chord.Chord A4>,[0],[9],Rautavaara_Etude_op42_no1_Thirds.mxl,,,46,7 3/4
+0.0,<music21.chord.Chord B-3 B3>,"[0, 1]","[10, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,47,1
+0.125,<music21.chord.Chord B3 D4>,"[0, -9]","[11, 2]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,47,1 1/4
+0.25,<music21.chord.Chord B3 F4>,"[0, 6]","[5, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,47,1 1/2
+0.375,<music21.chord.Chord B3 A4>,"[0, 2]","[9, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,47,1 3/4
+0.5,<music21.chord.Chord B3 C#5>,"[0, -10]","[11, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,47,2
+0.625,<music21.chord.Chord B3 F5>,"[0, 6]","[5, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,47,2 1/4
+0.75,<music21.chord.Chord B3 G#5>,"[0, 3]","[8, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,47,2 1/2
+0.875,<music21.chord.Chord B3 C6>,"[0, -11]","[11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,47,2 3/4
+1.0,<music21.chord.Chord B3 B-4>,"[0, 1]","[10, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,47,3
+1.125,<music21.chord.Chord B3 D5>,"[0, -9]","[11, 2]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,47,3 1/4
+1.25,<music21.chord.Chord B3 F5>,"[0, 6]","[5, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,47,3 1/2
+1.375,<music21.chord.Chord B3 A5>,"[0, 2]","[9, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,47,3 3/4
+1.5,<music21.chord.Chord B3 C#6>,"[0, -10]","[11, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,47,4
+1.625,<music21.chord.Chord B3 F6>,"[0, 6]","[5, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,47,4 1/4
+1.75,<music21.chord.Chord B3 G#6>,"[0, 3]","[8, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,47,4 1/2
+1.875,<music21.chord.Chord B3 C7>,"[0, -11]","[11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,47,4 3/4
+2.0,<music21.chord.Chord B3 G#6>,"[0, 3]","[8, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,47,5
+2.125,<music21.chord.Chord B3 F6>,"[0, 6]","[5, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,47,5 1/4
+2.25,<music21.chord.Chord B3 C#6>,"[0, -10]","[11, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,47,5 1/2
+2.375,<music21.chord.Chord B3 A5>,"[0, 2]","[9, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,47,5 3/4
+2.5,<music21.chord.Chord B3 F5>,"[0, 6]","[5, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,47,6
+2.625,<music21.chord.Chord B3 D5>,"[0, -9]","[11, 2]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,47,6 1/4
+2.75,<music21.chord.Chord B3 B-4>,"[0, 1]","[10, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,47,6 1/2
+2.875,<music21.chord.Chord B3 C6>,"[0, -11]","[11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,47,6 3/4
+3.0,<music21.chord.Chord G#5>,[0],[8],Rautavaara_Etude_op42_no1_Thirds.mxl,,,47,7
+3.125,<music21.chord.Chord F5>,[0],[5],Rautavaara_Etude_op42_no1_Thirds.mxl,,,47,7 1/4
+3.25,<music21.chord.Chord C#5>,[0],[1],Rautavaara_Etude_op42_no1_Thirds.mxl,,,47,7 1/2
+3.375,<music21.chord.Chord A4>,[0],[9],Rautavaara_Etude_op42_no1_Thirds.mxl,,,47,7 3/4
+0.0,<music21.chord.Chord B-3 B3>,"[0, 1]","[10, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,48,1
+0.125,<music21.chord.Chord B3 D4>,"[0, -9]","[11, 2]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,48,1 1/4
+0.25,<music21.chord.Chord B3 F4>,"[0, 6]","[5, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,48,1 1/2
+0.375,<music21.chord.Chord B3 A4>,"[0, 2]","[9, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,48,1 3/4
+0.5,<music21.chord.Chord B3 C#5>,"[0, -10]","[11, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,48,2
+0.625,<music21.chord.Chord B3 F5>,"[0, 6]","[5, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,48,2 1/4
+0.75,<music21.chord.Chord B3 G#5>,"[0, 3]","[8, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,48,2 1/2
+0.875,<music21.chord.Chord B3 C6>,"[0, -11]","[11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,48,2 3/4
+1.0,<music21.chord.Chord B3 D4 F4 A4 D-5>,"[0, 2, -8, -7, -4]","[9, 11, 1, 2, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,48,3
+2.0,<music21.chord.Chord B3 D4 F4 A4 D-5>,"[0, 2, -8, -7, -4]","[9, 11, 1, 2, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,48,5
+0.0,<music21.chord.Chord C#2 F2 G#2 F3 G#3 C4>,"[0, 1, 5, 8]","[0, 1, 5, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,49,1
+1.5,<music21.chord.Chord C#2 F2 G#2 F3 G#3 C4>,"[0, 1, 5, 8]","[0, 1, 5, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,49,2 1/2
+2.0,<music21.chord.Chord C2 E-2 G2 G3 B-3 D4>,"[0, 3, -7, -5, -4]","[7, 10, 0, 2, 3]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,49,3
+3.0,<music21.chord.Chord C2 E-2 G2 G3 B-3 D4 A4 C#5 E5 C6 E-6 G6>,"[0, 2, 3, -7, -6, -5, -4, -3]","[7, 9, 10, 0, 1, 2, 3, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,49,4
+6.0,<music21.chord.Chord C2 E-2 G2 G3 B-3 D4 A4 C#5 E5 C6 E-6 G6>,"[0, 2, 3, -7, -6, -5, -4, -3]","[7, 9, 10, 0, 1, 2, 3, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,49,7
+0.0,<music21.chord.Chord C#2 F2 G#2 F3 G#3 C4>,"[0, 1, 5, 8]","[0, 1, 5, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,50,1
+1.5,<music21.chord.Chord C#2 F2 G#2 F3 G#3 C4>,"[0, 1, 5, 8]","[0, 1, 5, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,50,2 1/2
+2.0,<music21.chord.Chord C2 E-2 G2 G3 B-3 D4>,"[0, 3, -7, -5, -4]","[7, 10, 0, 2, 3]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,50,3
+3.0,<music21.chord.Chord C2 E-2 G2 G3 B-3 D4 A4 C#5 E5 C6 E-6 G6>,"[0, 2, 3, -7, -6, -5, -4, -3]","[7, 9, 10, 0, 1, 2, 3, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,50,4
+6.0,<music21.chord.Chord C#2 F2 G#2 F3 G#3 C4>,"[0, 1, 5, 8]","[0, 1, 5, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,50,7
+0.0,<music21.chord.Chord C2 E-2 G2 G3 B-3 D4>,"[0, 3, -7, -5, -4]","[7, 10, 0, 2, 3]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,51,1
+1.0,<music21.chord.Chord B-1 C#2 F2 B-3 C#4 F4>,"[0, -9, -5]","[10, 1, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,51,2
+2.0,<music21.chord.Chord G#1 C2 E-2 C4 E-4 G4>,"[0, 1, -7, -4]","[7, 8, 0, 3]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,51,3
+3.0,<music21.chord.Chord F#1 B-1 C#2 E-4 F#4 B-4>,"[0, -9, -7, -4]","[10, 1, 3, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,51,4
+4.0,<music21.chord.Chord G#1 C2 E-2 C4 E-4 G4>,"[0, 1, -7, -4]","[7, 8, 0, 3]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,51,5
+5.0,<music21.chord.Chord C2 E-2 G2 G3 B-3 D4>,"[0, 3, -7, -5, -4]","[7, 10, 0, 2, 3]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,51,6
+6.0,<music21.chord.Chord C#2 F2 G#2 F3 G#3 C4>,"[0, 1, 5, 8]","[0, 1, 5, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,51,7
+0.0,<music21.chord.Chord F#1 B-1 C#2 E-4 F#4 B-4>,"[0, -9, -7, -4]","[10, 1, 3, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,52,1
+1.0,<music21.chord.Chord B-1 C#2 F2 B-3 C#4 F4>,"[0, -9, -5]","[10, 1, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,52,2
+2.0,<music21.chord.Chord B1 E-2 F#2 F#3 B-3 C#4>,"[0, 1, -9, -7, -4]","[10, 11, 1, 3, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,52,3
+3.0,<music21.chord.Chord C#2 F2 G#2 F3 G#3 C4>,"[0, 1, 5, 8]","[0, 1, 5, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,52,4
+4.0,<music21.chord.Chord F2 A2 C3 C#3 F3 G#3>,"[0, 3, 4, -5, -4]","[5, 8, 9, 0, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,52,5
+5.0,<music21.chord.Chord B-1 A#3>,[0],[10],Rautavaara_Etude_op42_no1_Thirds.mxl,,,52,6
+5.125,<music21.chord.Chord D2 A#3>,"[0, -8]","[10, 2]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,52,6 1/8
+5.25,<music21.chord.Chord F2 A#3>,"[0, 5]","[5, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,52,6 1/4
+5.375,<music21.chord.Chord A2 A#3>,"[0, 1]","[9, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,52,6 3/8
+5.5,<music21.chord.Chord B2 A#3>,"[0, 1]","[10, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,52,6 1/2
+5.625,<music21.chord.Chord E-3 A#3>,"[0, -7]","[10, 3]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,52,6 5/8
+5.75,<music21.chord.Chord F#3 A#3>,"[0, 4]","[6, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,52,6 3/4
+5.875,<music21.chord.Chord A#3 B-3>,[0],[10],Rautavaara_Etude_op42_no1_Thirds.mxl,,,52,6 7/8
+6.0,<music21.chord.Chord B-2 A#3>,[0],[10],Rautavaara_Etude_op42_no1_Thirds.mxl,,,52,7
+6.125,<music21.chord.Chord D3 A#3>,"[0, -8]","[10, 2]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,52,7 1/8
+6.25,<music21.chord.Chord F3 A#3>,"[0, 5]","[5, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,52,7 1/4
+6.375,<music21.chord.Chord A3 A#3>,"[0, 1]","[9, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,52,7 3/8
+6.5,<music21.chord.Chord A#3 B3>,"[0, 1]","[10, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,52,7 1/2
+6.625,<music21.chord.Chord A#3 E-4>,"[0, -7]","[10, 3]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,52,7 5/8
+6.75,<music21.chord.Chord A#3 F#4>,"[0, 4]","[6, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,52,7 3/4
+6.875,<music21.chord.Chord A#3 B-4>,[0],[10],Rautavaara_Etude_op42_no1_Thirds.mxl,,,52,7 7/8
+0.0,<music21.chord.Chord F#4>,[0],[6],Rautavaara_Etude_op42_no1_Thirds.mxl,,,53,1
+0.125,<music21.chord.Chord E-4>,[0],[3],Rautavaara_Etude_op42_no1_Thirds.mxl,,,53,1 1/4
+0.25,<music21.chord.Chord B3>,[0],[11],Rautavaara_Etude_op42_no1_Thirds.mxl,,,53,1 1/2
+0.375,<music21.chord.Chord A3>,[0],[9],Rautavaara_Etude_op42_no1_Thirds.mxl,,,53,1 3/4
+0.5,<music21.chord.Chord F3>,[0],[5],Rautavaara_Etude_op42_no1_Thirds.mxl,,,53,2
+0.625,<music21.chord.Chord D3>,[0],[2],Rautavaara_Etude_op42_no1_Thirds.mxl,,,53,2 1/4
+0.75,<music21.chord.Chord B-2>,[0],[10],Rautavaara_Etude_op42_no1_Thirds.mxl,,,53,2 1/2
+0.875,<music21.chord.Chord D3>,[0],[2],Rautavaara_Etude_op42_no1_Thirds.mxl,,,53,2 3/4
+1.0,<music21.chord.Chord F3>,[0],[5],Rautavaara_Etude_op42_no1_Thirds.mxl,,,53,3
+1.125,<music21.chord.Chord A3>,[0],[9],Rautavaara_Etude_op42_no1_Thirds.mxl,,,53,3 1/4
+1.25,<music21.chord.Chord B3>,[0],[11],Rautavaara_Etude_op42_no1_Thirds.mxl,,,53,3 1/2
+1.375,<music21.chord.Chord E-4>,[0],[3],Rautavaara_Etude_op42_no1_Thirds.mxl,,,53,3 3/4
+1.5,<music21.chord.Chord F#3>,[0],[6],Rautavaara_Etude_op42_no1_Thirds.mxl,,,53,4
+1.625,<music21.chord.Chord B-3>,[0],[10],Rautavaara_Etude_op42_no1_Thirds.mxl,,,53,4 1/4
+1.75,<music21.chord.Chord B-3>,[0],[10],Rautavaara_Etude_op42_no1_Thirds.mxl,,,53,4 1/2
+1.875,<music21.chord.Chord D4>,[0],[2],Rautavaara_Etude_op42_no1_Thirds.mxl,,,53,4 3/4
+2.0,<music21.chord.Chord F4>,[0],[5],Rautavaara_Etude_op42_no1_Thirds.mxl,,,53,5
+2.125,<music21.chord.Chord A4>,[0],[9],Rautavaara_Etude_op42_no1_Thirds.mxl,,,53,5 1/4
+2.25,<music21.chord.Chord B4>,[0],[11],Rautavaara_Etude_op42_no1_Thirds.mxl,,,53,5 1/2
+2.375,<music21.chord.Chord E-5>,[0],[3],Rautavaara_Etude_op42_no1_Thirds.mxl,,,53,5 3/4
+2.5,<music21.chord.Chord F#5>,[0],[6],Rautavaara_Etude_op42_no1_Thirds.mxl,,,53,6
+2.625,<music21.chord.Chord B-5>,[0],[10],Rautavaara_Etude_op42_no1_Thirds.mxl,,,53,6 1/4
+2.75,<music21.chord.Chord F#5>,[0],[6],Rautavaara_Etude_op42_no1_Thirds.mxl,,,53,6 1/2
+2.875,<music21.chord.Chord E-5>,[0],[3],Rautavaara_Etude_op42_no1_Thirds.mxl,,,53,6 3/4
+3.0,<music21.chord.Chord B4>,[0],[11],Rautavaara_Etude_op42_no1_Thirds.mxl,,,53,7
+3.125,<music21.chord.Chord A4>,[0],[9],Rautavaara_Etude_op42_no1_Thirds.mxl,,,53,7 1/4
+3.25,<music21.chord.Chord F4>,[0],[5],Rautavaara_Etude_op42_no1_Thirds.mxl,,,53,7 1/2
+3.375,<music21.chord.Chord D4>,[0],[2],Rautavaara_Etude_op42_no1_Thirds.mxl,,,53,7 3/4
+0.0,<music21.chord.Chord A3>,[0],[9],Rautavaara_Etude_op42_no1_Thirds.mxl,,,54,1
+0.125,<music21.chord.Chord A3 C#4>,"[0, -8]","[9, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,54,1 1/2
+0.25,<music21.chord.Chord A3 E4>,"[0, 5]","[4, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,54,2
+0.375,<music21.chord.Chord A3 G#4>,"[0, 1]","[8, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,54,2 1/2
+0.5,<music21.chord.Chord A3 B4>,"[0, 2]","[9, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,54,3
+0.625,<music21.chord.Chord A3 E-5>,"[0, 6]","[3, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,54,3 1/2
+0.75,<music21.chord.Chord A3 F#5>,"[0, 3]","[6, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,54,4
+0.875,<music21.chord.Chord A3 B-5>,"[0, 1]","[9, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,54,4 1/2
+1.0,<music21.chord.Chord A3 F#5>,"[0, 3]","[6, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,54,5
+1.125,<music21.chord.Chord A3 E-5>,"[0, 6]","[3, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,54,5 1/2
+1.25,<music21.chord.Chord A3 B4>,"[0, 2]","[9, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,54,6
+1.375,<music21.chord.Chord A3 G#4>,"[0, 1]","[8, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,54,6 1/2
+1.5,<music21.chord.Chord A3 E4>,"[0, 5]","[4, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,54,7
+1.625,<music21.chord.Chord A3 C#4>,"[0, -8]","[9, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,54,7 1/2
+0.0,<music21.chord.Chord F3 G3>,"[0, 2]","[5, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,55,1
+0.125,<music21.chord.Chord F3 B3>,"[0, 6]","[5, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,55,1 1/2
+0.25,<music21.chord.Chord F3 D4>,"[0, 3]","[2, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,55,2
+0.375,<music21.chord.Chord F3 F#4>,"[0, 1]","[5, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,55,2 1/2
+0.5,<music21.chord.Chord F3 B4>,"[0, 6]","[5, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,55,3
+0.625,<music21.chord.Chord F3 E-5>,"[0, 2]","[3, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,55,3 1/2
+0.75,<music21.chord.Chord F3 F#5>,"[0, 1]","[5, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,55,4
+0.875,<music21.chord.Chord F3 B-5>,"[0, 5]","[5, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,55,4 1/2
+1.0,<music21.chord.Chord F3 F#5>,"[0, 1]","[5, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,55,5
+1.125,<music21.chord.Chord F3 E-5>,"[0, 2]","[3, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,55,5 1/2
+1.25,<music21.chord.Chord F3 B4>,"[0, 6]","[5, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,55,6
+1.375,<music21.chord.Chord F3 F#4>,"[0, 1]","[5, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,55,6 1/2
+1.5,<music21.chord.Chord F3 D4>,"[0, 3]","[2, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,55,7
+1.625,<music21.chord.Chord F3 B3>,"[0, 6]","[5, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,55,7 1/2
+0.0,<music21.chord.Chord D3 F#3>,"[0, 4]","[2, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,56,1
+0.125,<music21.chord.Chord D3 B-3>,"[0, -8]","[10, 2]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,56,1 1/2
+0.25,<music21.chord.Chord D3 C#4>,"[0, 1]","[1, 2]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,56,2
+0.375,<music21.chord.Chord D3 F4>,"[0, 3]","[2, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,56,2 1/2
+0.5,<music21.chord.Chord D3 B4>,"[0, -9]","[11, 2]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,56,3
+0.625,<music21.chord.Chord D3 E-5>,"[0, 1]","[2, 3]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,56,3 1/2
+0.75,<music21.chord.Chord D3 F#5>,"[0, 4]","[2, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,56,4
+0.875,<music21.chord.Chord D3 B-5>,"[0, -8]","[10, 2]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,56,4 1/2
+1.0,<music21.chord.Chord D3 F#5>,"[0, 4]","[2, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,56,5
+1.125,<music21.chord.Chord D3 E-5>,"[0, 1]","[2, 3]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,56,5 1/2
+1.25,<music21.chord.Chord D3 B4>,"[0, -9]","[11, 2]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,56,6
+1.375,<music21.chord.Chord D3 F4>,"[0, 3]","[2, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,56,6 1/2
+1.5,<music21.chord.Chord D3 C#4>,"[0, 1]","[1, 2]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,56,7
+1.625,<music21.chord.Chord D3 B-3>,"[0, -8]","[10, 2]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,56,7 1/2
+0.0,<music21.chord.Chord B2 F#3>,"[0, 5]","[6, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,57,1
+0.125,<music21.chord.Chord B2 B-3>,"[0, 1]","[10, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,57,1 1/2
+0.25,<music21.chord.Chord B2 C#4>,"[0, -10]","[11, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,57,2
+0.375,<music21.chord.Chord B2 F4>,"[0, 6]","[5, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,57,2 1/2
+0.5,<music21.chord.Chord B2 B4>,[0],[11],Rautavaara_Etude_op42_no1_Thirds.mxl,,,57,3
+0.625,<music21.chord.Chord B2 E-5>,"[0, -8]","[11, 3]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,57,3 1/2
+0.75,<music21.chord.Chord B2 F#5>,"[0, 5]","[6, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,57,4
+0.875,<music21.chord.Chord B2 B-5>,"[0, 1]","[10, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,57,4 1/2
+1.0,<music21.chord.Chord B2 F#5>,"[0, 5]","[6, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,57,5
+1.125,<music21.chord.Chord B2 E-5>,"[0, -8]","[11, 3]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,57,5 1/2
+1.25,<music21.chord.Chord B2 B4>,[0],[11],Rautavaara_Etude_op42_no1_Thirds.mxl,,,57,6
+1.375,<music21.chord.Chord B2 F4>,"[0, 6]","[5, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,57,6 1/2
+1.5,<music21.chord.Chord B2 C#4>,"[0, -10]","[11, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,57,7
+1.625,<music21.chord.Chord B2 B-3>,"[0, 1]","[10, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,57,7 1/2
+0.0,<music21.chord.Chord A2 F#3>,"[0, 3]","[6, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,58,1
+0.125,<music21.chord.Chord A2 B-3>,"[0, 1]","[9, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,58,1 1/2
+0.25,<music21.chord.Chord A2 C#4>,"[0, -8]","[9, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,58,2
+0.375,<music21.chord.Chord A2 F4>,"[0, 4]","[5, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,58,2 1/2
+0.5,<music21.chord.Chord A2 B4>,"[0, 2]","[9, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,58,3
+0.625,<music21.chord.Chord A2 E-5>,"[0, 6]","[3, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,58,3 1/2
+0.75,<music21.chord.Chord A2 F#5>,"[0, 3]","[6, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,58,4
+0.875,<music21.chord.Chord A2 B-5>,"[0, 1]","[9, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,58,4 1/2
+1.0,<music21.chord.Chord A2 F#5>,"[0, 3]","[6, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,58,5
+1.125,<music21.chord.Chord A2 E-5>,"[0, 6]","[3, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,58,5 1/2
+1.25,<music21.chord.Chord A2 B4>,"[0, 2]","[9, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,58,6
+1.375,<music21.chord.Chord A2 F4>,"[0, 4]","[5, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,58,6 1/2
+1.5,<music21.chord.Chord A2 C#4>,"[0, -8]","[9, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,58,7
+1.625,<music21.chord.Chord A2 B-3>,"[0, 1]","[9, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,58,7 1/2
+0.0,<music21.chord.Chord F2 F#3>,"[0, 1]","[5, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,59,1
+0.125,<music21.chord.Chord F2 B-3>,"[0, 5]","[5, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,59,1 1/2
+0.25,<music21.chord.Chord F2 C#4>,"[0, 4]","[1, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,59,2
+0.375,<music21.chord.Chord F2 F4>,[0],[5],Rautavaara_Etude_op42_no1_Thirds.mxl,,,59,2 1/2
+0.5,<music21.chord.Chord F2 B4>,"[0, 6]","[5, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,59,3
+0.625,<music21.chord.Chord F2 E-5>,"[0, 2]","[3, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,59,3 1/2
+0.75,<music21.chord.Chord F2 F#5>,"[0, 1]","[5, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,59,4
+0.875,<music21.chord.Chord F2 B-5>,"[0, 5]","[5, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,59,4 1/2
+1.0,<music21.chord.Chord F2 F#5>,"[0, 1]","[5, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,59,5
+1.125,<music21.chord.Chord F2 E-5>,"[0, 2]","[3, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,59,5 1/2
+1.25,<music21.chord.Chord F2 B4>,"[0, 6]","[5, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,59,6
+1.375,<music21.chord.Chord F2 F4>,[0],[5],Rautavaara_Etude_op42_no1_Thirds.mxl,,,59,6 1/2
+1.5,<music21.chord.Chord D2 C#4>,"[0, 1]","[1, 2]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,59,7
+1.625,<music21.chord.Chord D2 B-3>,"[0, -8]","[10, 2]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,59,7 1/2
+0.0,<music21.chord.Chord B1 F#3>,"[0, 5]","[6, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,60,1
+0.125,<music21.chord.Chord B1 B-3>,"[0, 1]","[10, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,60,1 1/2
+0.25,<music21.chord.Chord B1 C#4>,"[0, -10]","[11, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,60,2
+0.375,<music21.chord.Chord B1 F4>,"[0, 6]","[5, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,60,2 1/2
+0.5,<music21.chord.Chord B1 B4>,[0],[11],Rautavaara_Etude_op42_no1_Thirds.mxl,,,60,3
+0.625,<music21.chord.Chord B1 E-5>,"[0, -8]","[11, 3]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,60,3 1/2
+0.75,<music21.chord.Chord B1 F#5>,"[0, 5]","[6, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,60,4
+0.875,<music21.chord.Chord B1 B-5>,"[0, 1]","[10, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,60,4 1/2
+1.0,<music21.chord.Chord B1 F#5>,"[0, 5]","[6, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,60,5
+1.125,<music21.chord.Chord B1 E-5>,"[0, -8]","[11, 3]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,60,5 1/2
+1.25,<music21.chord.Chord B1 B4>,[0],[11],Rautavaara_Etude_op42_no1_Thirds.mxl,,,60,6
+1.375,<music21.chord.Chord B1 F4>,"[0, 6]","[5, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,60,6 1/2
+1.5,<music21.chord.Chord B1 C#4>,"[0, -10]","[11, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,60,7
+1.625,<music21.chord.Chord B1 B-3>,"[0, 1]","[10, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,60,7 1/2
+0.0,<music21.chord.Chord G1 F#3>,"[0, 1]","[6, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,61,1
+0.125,<music21.chord.Chord G1 B-3>,"[0, 3]","[7, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,61,1 1/2
+0.25,<music21.chord.Chord G1 C#4>,"[0, 6]","[1, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,61,2
+0.375,<music21.chord.Chord G1 F4>,"[0, 2]","[5, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,61,2 1/2
+0.5,<music21.chord.Chord G1 B4>,"[0, 4]","[7, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,61,3
+0.625,<music21.chord.Chord G1 E-5>,"[0, 4]","[3, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,61,3 1/2
+0.75,<music21.chord.Chord G1 F#5>,"[0, 1]","[6, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,61,4
+0.875,<music21.chord.Chord G1 B-5>,"[0, 3]","[7, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,61,4 1/2
+1.0,<music21.chord.Chord G1 F#5>,"[0, 1]","[6, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,61,5
+1.125,<music21.chord.Chord G1 E-5>,"[0, 4]","[3, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,61,5 1/2
+1.25,<music21.chord.Chord G1 B4>,"[0, 4]","[7, 11]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,61,6
+1.375,<music21.chord.Chord G1 F4>,"[0, 2]","[5, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,61,6 1/2
+1.5,<music21.chord.Chord E1 C#4>,"[0, 3]","[1, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,61,7
+1.625,<music21.chord.Chord E1 B-3>,"[0, 6]","[4, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,61,7 1/2
+0.0,<music21.chord.Chord D1 F#1 A1 F3 A3 C4 E4>,"[0, -9, -7, -5, -4, -3]","[9, 0, 2, 4, 5, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,62,1
+1.5,<music21.chord.Chord D1 F#1 A1 F3 A3 C4 E4>,"[0, -9, -7, -5, -4, -3]","[9, 0, 2, 4, 5, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,62,2 1/2
+2.0,<music21.chord.Chord E1 G#1 B1 E3 G3 B3 D4>,"[0, -9, -7, -4, -3]","[11, 2, 4, 7, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,62,3
+0.0,<music21.chord.Chord B0 B1 C2 C3>,"[0, -11]","[11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,63,1
+0.125,<music21.chord.Chord D1 C2 C3>,"[0, 2]","[0, 2]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,63,1 1/12
+0.25,<music21.chord.Chord F1 C2 C3>,"[0, 5]","[0, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,63,1 1/6
+0.375,<music21.chord.Chord A1 C2 C3>,"[0, -9]","[9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,63,1 1/4
+0.5,<music21.chord.Chord C2 C3>,[0],[0],Rautavaara_Etude_op42_no1_Thirds.mxl,,,63,1 1/3
+0.625,<music21.chord.Chord C2 E2 C3>,"[0, 4]","[0, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,63,1 5/12
+0.75,<music21.chord.Chord C2 G2 C3>,"[0, -7]","[7, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,63,1 1/2
+0.875,<music21.chord.Chord C2 B2 C3>,"[0, -11]","[11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,63,1 7/12
+1.0,<music21.chord.Chord C2 C3>,[0],[0],Rautavaara_Etude_op42_no1_Thirds.mxl,,,63,1 2/3
+1.125,<music21.chord.Chord C2 E2 C3>,"[0, 4]","[0, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,63,1 3/4
+1.25,<music21.chord.Chord C2 G2 C3>,"[0, -7]","[7, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,63,1 5/6
+1.375,<music21.chord.Chord C2 B2 C3>,"[0, -11]","[11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,63,1 11/12
+1.5,<music21.chord.Chord C2 C3>,[0],[0],Rautavaara_Etude_op42_no1_Thirds.mxl,,,63,2
+1.625,<music21.chord.Chord C2 C3 E3>,"[0, 4]","[0, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,63,2 1/12
+1.75,<music21.chord.Chord C2 C3 G3>,"[0, -7]","[7, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,63,2 1/6
+1.875,<music21.chord.Chord C2 C3 B3>,"[0, -11]","[11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,63,2 1/4
+2.0,<music21.chord.Chord C2 C3>,[0],[0],Rautavaara_Etude_op42_no1_Thirds.mxl,,,63,2 1/3
+2.125,<music21.chord.Chord C2 C3 E3>,"[0, 4]","[0, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,63,2 5/12
+2.25,<music21.chord.Chord C2 C3 G3>,"[0, -7]","[7, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,63,2 1/2
+2.375,<music21.chord.Chord C2 C3 B3>,"[0, -11]","[11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,63,2 7/12
+2.5,<music21.chord.Chord C2 C3 C4>,[0],[0],Rautavaara_Etude_op42_no1_Thirds.mxl,,,63,2 2/3
+2.625,<music21.chord.Chord C2 C3 E4>,"[0, 4]","[0, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,63,2 3/4
+2.75,<music21.chord.Chord C2 C3 G4>,"[0, -7]","[7, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,63,2 5/6
+2.875,<music21.chord.Chord C2 C3 B4>,"[0, -11]","[11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,63,2 11/12
+3.0,<music21.chord.Chord C2 C3 C4>,[0],[0],Rautavaara_Etude_op42_no1_Thirds.mxl,,,63,3
+3.125,<music21.chord.Chord C2 C3 E4>,"[0, 4]","[0, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,63,3 1/12
+3.25,<music21.chord.Chord C2 C3 G4>,"[0, -7]","[7, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,63,3 1/6
+3.375,<music21.chord.Chord C2 C3 B4>,"[0, -11]","[11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,63,3 1/4
+3.5,<music21.chord.Chord C2 C3 C5>,[0],[0],Rautavaara_Etude_op42_no1_Thirds.mxl,,,63,3 1/3
+3.625,<music21.chord.Chord C2 C3 E5>,"[0, 4]","[0, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,63,3 5/12
+3.75,<music21.chord.Chord C2 C3 G5>,"[0, -7]","[7, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,63,3 1/2
+3.875,<music21.chord.Chord C2 C3 B5>,"[0, -11]","[11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,63,3 7/12
+0.0,<music21.chord.Chord D1 F#1 A1 F3 A3 C4 E4>,"[0, -9, -7, -5, -4, -3]","[9, 0, 2, 4, 5, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,64,1
+1.5,<music21.chord.Chord D1 F#1 A1 F3 A3 C4 E4>,"[0, -9, -7, -5, -4, -3]","[9, 0, 2, 4, 5, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,64,2 1/2
+2.0,<music21.chord.Chord E1 G#1 B1 E3 G3 B3 D4>,"[0, -9, -7, -4, -3]","[11, 2, 4, 7, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,64,3
+0.0,<music21.chord.Chord B0 B1 C2 C3>,"[0, -11]","[11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,65,1
+0.125,<music21.chord.Chord D1 C2 C3>,"[0, 2]","[0, 2]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,65,1 1/12
+0.25,<music21.chord.Chord F1 C2 C3>,"[0, 5]","[0, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,65,1 1/6
+0.375,<music21.chord.Chord A1 C2 C3>,"[0, -9]","[9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,65,1 1/4
+0.5,<music21.chord.Chord C2 C3>,[0],[0],Rautavaara_Etude_op42_no1_Thirds.mxl,,,65,1 1/3
+0.625,<music21.chord.Chord C2 E2 C3>,"[0, 4]","[0, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,65,1 5/12
+0.75,<music21.chord.Chord C2 G2 C3>,"[0, -7]","[7, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,65,1 1/2
+0.875,<music21.chord.Chord C2 B2 C3>,"[0, -11]","[11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,65,1 7/12
+1.0,<music21.chord.Chord C2 C3>,[0],[0],Rautavaara_Etude_op42_no1_Thirds.mxl,,,65,1 2/3
+1.125,<music21.chord.Chord C2 E2 C3>,"[0, 4]","[0, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,65,1 3/4
+1.25,<music21.chord.Chord C2 G2 C3>,"[0, -7]","[7, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,65,1 5/6
+1.375,<music21.chord.Chord C2 B2 C3>,"[0, -11]","[11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,65,1 11/12
+1.5,<music21.chord.Chord C2 C3>,[0],[0],Rautavaara_Etude_op42_no1_Thirds.mxl,,,65,2
+1.625,<music21.chord.Chord C2 C3 E3>,"[0, 4]","[0, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,65,2 1/12
+1.75,<music21.chord.Chord C2 C3 G3>,"[0, -7]","[7, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,65,2 1/6
+1.875,<music21.chord.Chord C2 C3 B3>,"[0, -11]","[11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,65,2 1/4
+2.0,<music21.chord.Chord C2 C3>,[0],[0],Rautavaara_Etude_op42_no1_Thirds.mxl,,,65,2 1/3
+2.125,<music21.chord.Chord C2 C3 E3>,"[0, 4]","[0, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,65,2 5/12
+2.25,<music21.chord.Chord C2 C3 G3>,"[0, -7]","[7, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,65,2 1/2
+2.375,<music21.chord.Chord C2 C3 B3>,"[0, -11]","[11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,65,2 7/12
+2.5,<music21.chord.Chord C2 C3 C4>,[0],[0],Rautavaara_Etude_op42_no1_Thirds.mxl,,,65,2 2/3
+2.625,<music21.chord.Chord C2 C3 E4>,"[0, 4]","[0, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,65,2 3/4
+2.75,<music21.chord.Chord C2 C3 G4>,"[0, -7]","[7, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,65,2 5/6
+2.875,<music21.chord.Chord C2 C3 B4>,"[0, -11]","[11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,65,2 11/12
+3.0,<music21.chord.Chord C2 C3 C4>,[0],[0],Rautavaara_Etude_op42_no1_Thirds.mxl,,,65,3
+3.125,<music21.chord.Chord C2 C3 E4>,"[0, 4]","[0, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,65,3 1/12
+3.25,<music21.chord.Chord C2 C3 G4>,"[0, -7]","[7, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,65,3 1/6
+3.375,<music21.chord.Chord C2 C3 B4>,"[0, -11]","[11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,65,3 1/4
+3.5,<music21.chord.Chord C2 C3 C5>,[0],[0],Rautavaara_Etude_op42_no1_Thirds.mxl,,,65,3 1/3
+3.625,<music21.chord.Chord C2 C3 E5>,"[0, 4]","[0, 4]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,65,3 5/12
+3.75,<music21.chord.Chord C2 C3 G5>,"[0, -7]","[7, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,65,3 1/2
+3.875,<music21.chord.Chord C2 C3 B5>,"[0, -11]","[11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,65,3 7/12
+0.0,<music21.chord.Chord D2 F#2 A2 F3 A3 C4 E4>,"[0, -9, -7, -5, -4, -3]","[9, 0, 2, 4, 5, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,66,1
+1.5,<music21.chord.Chord D2 F#2 A2 F3 A3 C4 E4>,"[0, -9, -7, -5, -4, -3]","[9, 0, 2, 4, 5, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,66,2 1/2
+2.0,<music21.chord.Chord E2 G#2 B2 E3 G3 B3 D4>,"[0, -9, -7, -4, -3]","[11, 2, 4, 7, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,66,3
+3.0,<music21.chord.Chord F2 A2 C3 F3 A3 C4 E4>,"[0, 1, 5, -4]","[4, 5, 9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,66,4
+4.0,<music21.chord.Chord A1 C#2 E2 A3 C#4 E4 G4>,"[0, 3, 6, 8]","[1, 4, 7, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,66,5
+5.0,<music21.chord.Chord G1 B1 D2 B3 E-4 F#4 A4>,"[0, 1, 3, 5, -4, -3]","[6, 7, 9, 11, 2, 3]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,66,6
+6.0,<music21.chord.Chord F1 A1 C2 C4 E4 G4 B4>,"[0, 1, 3, 5, 7, -4]","[4, 5, 7, 9, 11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,66,7
+0.0,<music21.chord.Chord D2 F#2 A2 F3 A3 C4 E4>,"[0, -9, -7, -5, -4, -3]","[9, 0, 2, 4, 5, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,67,1
+0.125,<music21.chord.Chord F#2 F3 A3 C4 E4>,"[0, 1, 2, 5, -4]","[4, 5, 6, 9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,67,1 1/8
+0.25,<music21.chord.Chord A2 F3 A3 C4 E4>,"[0, 1, 5, -4]","[4, 5, 9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,67,1 1/4
+0.375,<music21.chord.Chord C#3 F3 A3 C4 E4>,"[0, -9, -8, -5, -4]","[9, 0, 1, 4, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,67,1 3/8
+0.5,<music21.chord.Chord F3 A3 C4 E4>,"[0, 1, 5, -4]","[4, 5, 9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,67,1 1/2
+0.625,<music21.chord.Chord F3 A3 C4 E4>,"[0, 1, 5, -4]","[4, 5, 9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,67,1 5/8
+0.75,<music21.chord.Chord F3 A3 C4 E4>,"[0, 1, 5, -4]","[4, 5, 9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,67,1 3/4
+0.875,<music21.chord.Chord F3 A3 C4 E4>,"[0, 1, 5, -4]","[4, 5, 9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,67,1 7/8
+1.0,<music21.chord.Chord D3 F3 A3 C4 E4>,"[0, -9, -7, -5, -4]","[9, 0, 2, 4, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,67,2
+1.125,<music21.chord.Chord F3 F#3 A3 C4 E4>,"[0, 1, 2, 5, -4]","[4, 5, 6, 9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,67,2 1/8
+1.25,<music21.chord.Chord F3 A3 C4 E4>,"[0, 1, 5, -4]","[4, 5, 9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,67,2 1/4
+1.375,<music21.chord.Chord F3 A3 C4 C#4 E4>,"[0, -9, -8, -5, -4]","[9, 0, 1, 4, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,67,2 3/8
+1.5,<music21.chord.Chord F3 A3 C4 E4 F4>,"[0, 1, 5, -4]","[4, 5, 9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,67,2 1/2
+1.625,<music21.chord.Chord F3 A3 C4 E4 A4>,"[0, 1, 5, -4]","[4, 5, 9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,67,2 5/8
+1.75,<music21.chord.Chord F3 A3 C4 E4 C5>,"[0, 1, 5, -4]","[4, 5, 9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,67,2 3/4
+1.875,<music21.chord.Chord F3 A3 C4 E4 E5>,"[0, 1, 5, -4]","[4, 5, 9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,67,2 7/8
+2.0,<music21.chord.Chord F3 A3 C4 D4 E4>,"[0, -9, -7, -5, -4]","[9, 0, 2, 4, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,67,3
+2.125,<music21.chord.Chord F3 A3 C4 E4 F#4>,"[0, 1, 2, 5, -4]","[4, 5, 6, 9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,67,3 1/8
+2.25,<music21.chord.Chord F3 A3 C4 E4 A4>,"[0, 1, 5, -4]","[4, 5, 9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,67,3 1/4
+2.375,<music21.chord.Chord F3 A3 C4 E4 C#5>,"[0, -9, -8, -5, -4]","[9, 0, 1, 4, 5]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,67,3 3/8
+2.5,<music21.chord.Chord F3 A3 C4 E4 F5>,"[0, 1, 5, -4]","[4, 5, 9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,67,3 1/2
+2.625,<music21.chord.Chord F3 A3 C4 E4 A5>,"[0, 1, 5, -4]","[4, 5, 9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,67,3 5/8
+2.75,<music21.chord.Chord F3 A3 C4 E4 C6>,"[0, 1, 5, -4]","[4, 5, 9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,67,3 3/4
+2.875,<music21.chord.Chord F3 A3 C4 E4 E6>,"[0, 1, 5, -4]","[4, 5, 9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,67,3 7/8
+3.0,<music21.chord.Chord F3 A3 C4 E4>,"[0, 1, 5, -4]","[4, 5, 9, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,67,4
+0.0,<music21.chord.Chord D1 F#1 A1 F4 A4 C5 E5>,"[0, -9, -7, -5, -4, -3]","[9, 0, 2, 4, 5, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,68,1
+2.0,<music21.chord.Chord E1 G#1 B1 E4 G4 B4 D5>,"[0, -9, -7, -4, -3]","[11, 2, 4, 7, 8]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,68,2
+4.0,<music21.chord.Chord F1 A1 C2 D4 F#4 A4 C5>,"[0, -9, -7, -4, -3]","[9, 0, 2, 5, 6]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,68,3
+6.0,<music21.chord.Chord G1 B1 D2 C4 E4 G4 B4>,"[0, -11, -9, -7, -4]","[11, 0, 2, 4, 7]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,68,4
+0.0,<music21.chord.Chord C#2 F2 G#2 F4 A4 C5 E5>,"[0, 1, 4, 5, 8, 9]","[0, 1, 4, 5, 8, 9]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,69,1
+2.0,<music21.chord.Chord E-2 G2 B-2 E-4 G4 B-4 D5>,"[0, 1, 5, 8]","[2, 3, 7, 10]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,69,2
+4.0,<music21.chord.Chord F2 A2 C3 C#4 F4 G#4 C5>,"[0, 3, 4, -5, -4]","[5, 8, 9, 0, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,69,3
+6.0,<music21.chord.Chord G#2 C3 E-3 B3 E-4 F#4 B-4>,"[0, 3, 5, 7, 8, -3]","[3, 6, 8, 10, 11, 0]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,69,4
+0.0,<music21.chord.Chord F#2 B-2 C#3 C4 E4 G4 C5>,"[0, 2, 3, 6, -4, -3]","[4, 6, 7, 10, 0, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,70,1
+2.0,<music21.chord.Chord F#2 B-2 C#3 C4 E4 G4 B-4 C5 C#5 F#5 G5 C6 E6>,"[0, 2, 3, 6, -4, -3]","[4, 6, 7, 10, 0, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,70,2
+6.0,<music21.chord.Chord B-4 C#5 F#5 G5 C6 E6>,"[0, 2, 3, 6, -4, -3]","[4, 6, 7, 10, 0, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,70,4
+0.0,<music21.chord.Chord F#1 B-1 C#2 C3 E3 G3 C4>,"[0, 2, 3, 6, -4, -3]","[4, 6, 7, 10, 0, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,71,1
+2.0,<music21.chord.Chord F#1 B-1 C#2 C3 E3 G3 C4 C5 E5 G5 B-5 C#6 F#6>,"[0, 2, 3, 6, -4, -3]","[4, 6, 7, 10, 0, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,71,2
+0.0,<music21.chord.Chord C5 E5 G5 B-5 C#6 F#6>,"[0, 2, 3, 6, -4, -3]","[4, 6, 7, 10, 0, 1]",Rautavaara_Etude_op42_no1_Thirds.mxl,,,72,1

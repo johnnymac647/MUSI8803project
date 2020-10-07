@@ -1,0 +1,250 @@
+offset,Chord,NormalForm,PCsinNormalForm,file,Phrase Boundary,Song Count,Measure Number,Measure Count
+0.0,<music21.chord.Chord G#3>,[0],[8],Poulenc_Les_chemins_de_lamour.mxl,,,1,1
+1.0,<music21.chord.Chord G#3 C#5 F#5 B-5 D#6>,"[0, 2, 4, -5, -3]","[6, 8, 10, 1, 3]",Poulenc_Les_chemins_de_lamour.mxl,,,1,2
+2.0,<music21.chord.Chord G#3 C5 G#5 C6 F6>,"[0, 3, -5]","[5, 8, 0]",Poulenc_Les_chemins_de_lamour.mxl,,,1,3
+0.0,<music21.chord.Chord G#3 B4 F5 A-5 C#6>,"[0, 3, 6, -4]","[5, 8, 11, 1]",Poulenc_Les_chemins_de_lamour.mxl,,,2,1
+1.0,<music21.chord.Chord G#3 B-4 G5 B-5 D#6>,"[0, 4, 5, 7]","[3, 7, 8, 10]",Poulenc_Les_chemins_de_lamour.mxl,,,2,2
+2.0,<music21.chord.Chord G#3 A4 D5 F#5 B5>,"[0, 2, 3, 5, -4]","[6, 8, 9, 11, 2]",Poulenc_Les_chemins_de_lamour.mxl,,,2,3
+0.0,<music21.chord.Chord G#3 G#4 C#5 F5 C6>,"[0, 1, 5, 8]","[0, 1, 5, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,3,1
+1.0,<music21.chord.Chord G#3 G4 C#5 E5 A-5>,"[0, 3, 6, 7]","[1, 4, 7, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,3,2
+2.0,<music21.chord.Chord G#3 F#4 B4 D#5 A5>,"[0, 3, 5, 6, 8]","[3, 6, 8, 9, 11]",Poulenc_Les_chemins_de_lamour.mxl,,,3,3
+0.0,<music21.chord.Chord D#3 C#4 G4 B4 D#5>,"[0, -10, -8, -4]","[11, 1, 3, 7]",Poulenc_Les_chemins_de_lamour.mxl,,,4,1
+0.0,<music21.chord.Chord G#2 F#3 C4 E4 G#4>,"[0, 2, 4, -4]","[4, 6, 8, 0]",Poulenc_Les_chemins_de_lamour.mxl,,,5,1
+0.0,<music21.chord.Chord G#2 F#3 C4 E-4 G#4>,"[0, 3, 6, 8]","[0, 3, 6, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,6,1
+2.0,<music21.chord.Chord G#2 F#3 G#4>,"[0, 2]","[6, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,6,3
+0.0,<music21.chord.Chord C#2 G#4>,"[0, -7]","[8, 1]",Poulenc_Les_chemins_de_lamour.mxl,,,7,1
+1.0,<music21.chord.Chord C#2 G#2 E3 C#4 E4 A4>,"[0, 1, -7, -4]","[8, 9, 1, 4]",Poulenc_Les_chemins_de_lamour.mxl,,,7,2
+2.5,<music21.chord.Chord C#2 G#2 E3 C#4 G#4>,"[0, 3, 7]","[1, 4, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,7,3 1/2
+0.0,<music21.chord.Chord G#1 C#4>,"[0, -7]","[8, 1]",Poulenc_Les_chemins_de_lamour.mxl,,,8,1
+1.0,<music21.chord.Chord G#1 G#2 E3 G#3 C#4 D#4>,"[0, 2, 3, 7]","[1, 3, 4, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,8,2
+2.5,<music21.chord.Chord G#1 C#4 E4>,"[0, 3, 7]","[1, 4, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,8,3 1/2
+0.0,<music21.chord.Chord D#2 G#4>,"[0, 5]","[3, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,9,1
+1.0,<music21.chord.Chord D#2 G#2 F#3 C#4 F#4 G#4>,"[0, 2, 5, 7]","[1, 3, 6, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,9,2
+2.0,<music21.chord.Chord D#2 G#2 F#3 C#4 F#4 G#4>,"[0, 2, 5, 7]","[1, 3, 6, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,9,3
+0.0,<music21.chord.Chord G#1 C4 G#4>,"[0, -8]","[8, 0]",Poulenc_Les_chemins_de_lamour.mxl,,,10,1
+1.0,<music21.chord.Chord G#1 G#2 F#3 C4>,"[0, 2, -6]","[6, 8, 0]",Poulenc_Les_chemins_de_lamour.mxl,,,10,2
+2.0,<music21.chord.Chord G#1 G#2 F#3 C4 G#4>,"[0, 2, -6]","[6, 8, 0]",Poulenc_Les_chemins_de_lamour.mxl,,,10,3
+0.0,<music21.chord.Chord C#2 G#4>,"[0, -7]","[8, 1]",Poulenc_Les_chemins_de_lamour.mxl,,,11,1
+1.0,<music21.chord.Chord C#2 G#2 E3 E4 A4 B4>,"[0, 1, 3, -7, -4]","[8, 9, 11, 1, 4]",Poulenc_Les_chemins_de_lamour.mxl,,,11,2
+2.0,<music21.chord.Chord C#2 G#2 E3 E4 A4>,"[0, 1, -7, -4]","[8, 9, 1, 4]",Poulenc_Les_chemins_de_lamour.mxl,,,11,3
+2.5,<music21.chord.Chord C#2 G#2 E3 E4 G#4>,"[0, 3, 7]","[1, 4, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,11,3 1/2
+0.0,<music21.chord.Chord G#1 D#4>,"[0, 5]","[3, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,12,1
+1.0,<music21.chord.Chord G#1 G#2 E3 C#4 E4 F#4>,"[0, 3, 5, 7]","[1, 4, 6, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,12,2
+2.5,<music21.chord.Chord G#1 G#2 E3 C#4>,"[0, 3, 7]","[1, 4, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,12,3 1/2
+0.0,<music21.chord.Chord D#2 G#4>,"[0, 5]","[3, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,13,1
+1.0,<music21.chord.Chord D#2 G#2 F#3 C#4 F#4 G#4>,"[0, 2, 5, 7]","[1, 3, 6, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,13,2
+2.0,<music21.chord.Chord D#2 G#2 F#3 C#4 F#4 G#4>,"[0, 2, 5, 7]","[1, 3, 6, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,13,3
+0.0,<music21.chord.Chord G#1 C4 G#4>,"[0, -8]","[8, 0]",Poulenc_Les_chemins_de_lamour.mxl,,,14,1
+1.0,<music21.chord.Chord G#1 G#2 F#3 C4>,"[0, 2, -6]","[6, 8, 0]",Poulenc_Les_chemins_de_lamour.mxl,,,14,2
+2.0,<music21.chord.Chord G#1 G#2 F#3 G#4>,"[0, 2]","[6, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,14,3
+0.0,<music21.chord.Chord C#2 G#4>,"[0, -7]","[8, 1]",Poulenc_Les_chemins_de_lamour.mxl,,,15,1
+1.0,<music21.chord.Chord C#2 G#3 B3 F4 A4>,"[0, 3, 4, 6, -4]","[5, 8, 9, 11, 1]",Poulenc_Les_chemins_de_lamour.mxl,,,15,2
+2.0,<music21.chord.Chord C#2 C#3 B3 F4 B4>,"[0, -10, -6]","[11, 1, 5]",Poulenc_Les_chemins_de_lamour.mxl,,,15,3
+0.0,<music21.chord.Chord C#3 B3 F4 A-4 D5>,"[0, 3, 6, -4, -3]","[5, 8, 11, 1, 2]",Poulenc_Les_chemins_de_lamour.mxl,,,16,1
+1.0,<music21.chord.Chord C#3 C#4 F4 A-4 C#5>,"[0, 4, 7]","[1, 5, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,16,2
+2.0,<music21.chord.Chord C#3 D4 F4 A-4 B4>,"[0, 3, 6, -4, -3]","[5, 8, 11, 1, 2]",Poulenc_Les_chemins_de_lamour.mxl,,,16,3
+0.0,<music21.chord.Chord F#2 A3 C#4 F#4 B4>,"[0, 3, 5, -5]","[6, 9, 11, 1]",Poulenc_Les_chemins_de_lamour.mxl,,,17,1
+1.0,<music21.chord.Chord G#2 A3 C#4 F#4 A4>,"[0, 2, 3, -5]","[6, 8, 9, 1]",Poulenc_Les_chemins_de_lamour.mxl,,,17,2
+2.0,<music21.chord.Chord A2 A3 C#4 F#4 G#4>,"[0, 2, 3, -5]","[6, 8, 9, 1]",Poulenc_Les_chemins_de_lamour.mxl,,,17,3
+0.0,<music21.chord.Chord A2 B3 C#4 G#4>,"[0, 1, 3, -7]","[8, 9, 11, 1]",Poulenc_Les_chemins_de_lamour.mxl,,,18,1
+1.0,<music21.chord.Chord B2 A3 C#4 F#4>,"[0, 3, 5, -5]","[6, 9, 11, 1]",Poulenc_Les_chemins_de_lamour.mxl,,,18,2
+2.0,<music21.chord.Chord C#3 G#3 C#4 E4>,"[0, 3, 7]","[1, 4, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,18,3
+0.0,<music21.chord.Chord D#2 C#3 G3 B-3 E4>,"[0, 3, -6, -4, -3]","[7, 10, 1, 3, 4]",Poulenc_Les_chemins_de_lamour.mxl,,,19,1
+1.0,<music21.chord.Chord D#2 C#3 G3 B-3 E4>,"[0, 3, -6, -4, -3]","[7, 10, 1, 3, 4]",Poulenc_Les_chemins_de_lamour.mxl,,,19,2
+2.0,<music21.chord.Chord D#2 D#3 G3 C#4 D#4>,"[0, 2, 6]","[1, 3, 7]",Poulenc_Les_chemins_de_lamour.mxl,,,19,3
+0.0,<music21.chord.Chord D#2 D#3 G3 B-3 E4>,"[0, 1, 4, 7]","[3, 4, 7, 10]",Poulenc_Les_chemins_de_lamour.mxl,,,20,1
+1.0,<music21.chord.Chord D#2 D#3 G3 B-3 E4>,"[0, 1, 4, 7]","[3, 4, 7, 10]",Poulenc_Les_chemins_de_lamour.mxl,,,20,2
+2.0,<music21.chord.Chord D#3 G3 C#4 D#4>,"[0, 2, 6]","[1, 3, 7]",Poulenc_Les_chemins_de_lamour.mxl,,,20,3
+0.0,<music21.chord.Chord G#2 F#3 C#4 D#4 G#4>,"[0, 2, 5, 7]","[1, 3, 6, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,21,1
+1.0,<music21.chord.Chord G#2 F#3 C#4 D#4 G#4>,"[0, 2, 5, 7]","[1, 3, 6, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,21,2
+2.0,<music21.chord.Chord G#2 F#3 C#4 D#4 G#4>,"[0, 2, 5, 7]","[1, 3, 6, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,21,3
+0.0,<music21.chord.Chord G#3 B#3 D#4 G#4>,"[0, -8, -5]","[8, 0, 3]",Poulenc_Les_chemins_de_lamour.mxl,,,22,1
+2.0,<music21.chord.Chord G#3 B#3 D#4 G#4>,"[0, -8, -5]","[8, 0, 3]",Poulenc_Les_chemins_de_lamour.mxl,,,22,3
+0.0,<music21.chord.Chord C#2 C#3 E4 E5>,"[0, 3]","[1, 4]",Poulenc_Les_chemins_de_lamour.mxl,,,23,1
+1.0,<music21.chord.Chord C#2 C#3 G#3 C#4 E4 E5>,"[0, 3, 7]","[1, 4, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,23,2
+2.0,<music21.chord.Chord C#2 C#3 G#3 C#4 E4 G#4>,"[0, 3, 7]","[1, 4, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,23,3
+0.0,<music21.chord.Chord F#2 A4>,"[0, 3]","[6, 9]",Poulenc_Les_chemins_de_lamour.mxl,,,24,1
+1.0,<music21.chord.Chord F#2 F#3 C#4 E4 B4>,"[0, -10, -7, -5]","[11, 1, 4, 6]",Poulenc_Les_chemins_de_lamour.mxl,,,24,2
+2.5,<music21.chord.Chord F#2 F#3 C#4 E4 C#5>,"[0, 3, 5]","[1, 4, 6]",Poulenc_Les_chemins_de_lamour.mxl,,,24,3 1/2
+0.0,<music21.chord.Chord B1 D#5>,"[0, -8]","[11, 3]",Poulenc_Les_chemins_de_lamour.mxl,,,25,1
+1.0,<music21.chord.Chord B1 B2 D#4 G#4 B4 D#5>,"[0, 3, -5]","[8, 11, 3]",Poulenc_Les_chemins_de_lamour.mxl,,,25,2
+2.0,<music21.chord.Chord B1 A3 D#4 G#4 B4 D#5>,"[0, 1, 3, -5]","[8, 9, 11, 3]",Poulenc_Les_chemins_de_lamour.mxl,,,25,3
+0.0,<music21.chord.Chord B1 B3 D#5>,"[0, -8]","[11, 3]",Poulenc_Les_chemins_de_lamour.mxl,,,26,1
+0.5,<music21.chord.Chord B1 B3>,[0],[11],Poulenc_Les_chemins_de_lamour.mxl,,,26,1 1/2
+1.0,<music21.chord.Chord B1 B3 G#4 A4 B4>,"[0, 1, 3]","[8, 9, 11]",Poulenc_Les_chemins_de_lamour.mxl,,,26,2
+2.5,<music21.chord.Chord B1 B3 G#4>,"[0, 3]","[8, 11]",Poulenc_Les_chemins_de_lamour.mxl,,,26,3 1/2
+0.0,<music21.chord.Chord C#2 E4 E5>,"[0, 3]","[1, 4]",Poulenc_Les_chemins_de_lamour.mxl,,,27,1
+1.0,<music21.chord.Chord C#2 G#3 C#4 E4 E5>,"[0, 3, 7]","[1, 4, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,27,2
+2.0,<music21.chord.Chord C#2 G#3 C#4 E4 G#4>,"[0, 3, 7]","[1, 4, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,27,3
+0.0,<music21.chord.Chord F#2 A3 C#4 E4 A4>,"[0, 3, 5, 8]","[1, 4, 6, 9]",Poulenc_Les_chemins_de_lamour.mxl,,,28,1
+1.0,<music21.chord.Chord F#2 G#3 A3 C#4 E4 G#4>,"[0, 3, 5, 7, 8]","[1, 4, 6, 8, 9]",Poulenc_Les_chemins_de_lamour.mxl,,,28,2
+1.5,<music21.chord.Chord F#2 G#3 A3 C#4 E4 A4>,"[0, 3, 5, 7, 8]","[1, 4, 6, 8, 9]",Poulenc_Les_chemins_de_lamour.mxl,,,28,2 1/2
+2.0,<music21.chord.Chord F#2 G#3 A3 C#4 E4 B4>,"[0, 2, 4, 5, 7, -3]","[4, 6, 8, 9, 11, 1]",Poulenc_Les_chemins_de_lamour.mxl,,,28,3
+2.5,<music21.chord.Chord F#2 G#3 A3 C#4 E4 C#5>,"[0, 3, 5, 7, 8]","[1, 4, 6, 8, 9]",Poulenc_Les_chemins_de_lamour.mxl,,,28,3 1/2
+0.0,<music21.chord.Chord B1 D#5>,"[0, -8]","[11, 3]",Poulenc_Les_chemins_de_lamour.mxl,,,29,1
+1.0,<music21.chord.Chord B1 F#3 D#5>,"[0, -8, -5]","[11, 3, 6]",Poulenc_Les_chemins_de_lamour.mxl,,,29,2
+2.0,<music21.chord.Chord B1 A3 D#5>,"[0, 2, -6]","[9, 11, 3]",Poulenc_Les_chemins_de_lamour.mxl,,,29,3
+0.0,<music21.chord.Chord B1 B3 D#5>,"[0, -8]","[11, 3]",Poulenc_Les_chemins_de_lamour.mxl,,,30,1
+1.0,<music21.chord.Chord B1 B3>,[0],[11],Poulenc_Les_chemins_de_lamour.mxl,,,30,2
+2.0,<music21.chord.Chord B1 B3 G#4>,"[0, 3]","[8, 11]",Poulenc_Les_chemins_de_lamour.mxl,,,30,3
+0.0,<music21.chord.Chord A1 A2 C#5>,"[0, -8]","[9, 1]",Poulenc_Les_chemins_de_lamour.mxl,,,31,1
+1.0,<music21.chord.Chord A1 A2 D#3 C#4 E4 C#5>,"[0, -8, -6, -5]","[9, 1, 3, 4]",Poulenc_Les_chemins_de_lamour.mxl,,,31,2
+2.0,<music21.chord.Chord A1 A2 E3 C#4 E4 B4>,"[0, 2, -8, -5]","[9, 11, 1, 4]",Poulenc_Les_chemins_de_lamour.mxl,,,31,3
+0.0,<music21.chord.Chord A1 A2 F#3 A4>,"[0, 3]","[6, 9]",Poulenc_Les_chemins_de_lamour.mxl,,,32,1
+1.0,<music21.chord.Chord A1 A2 G#3 G#4>,"[0, 1]","[8, 9]",Poulenc_Les_chemins_de_lamour.mxl,,,32,2
+2.0,<music21.chord.Chord A1 A2 A3 F#4>,"[0, 3]","[6, 9]",Poulenc_Les_chemins_de_lamour.mxl,,,32,3
+0.0,<music21.chord.Chord D#2 G3 B-3 E4>,"[0, 1, 4, 7]","[3, 4, 7, 10]",Poulenc_Les_chemins_de_lamour.mxl,,,33,1
+1.0,<music21.chord.Chord D#2 G3 B-3 E4>,"[0, 1, 4, 7]","[3, 4, 7, 10]",Poulenc_Les_chemins_de_lamour.mxl,,,33,2
+2.0,<music21.chord.Chord D#2 A#2 G3 C#4 D#4>,"[0, 3, -6, -4]","[7, 10, 1, 3]",Poulenc_Les_chemins_de_lamour.mxl,,,33,3
+0.0,<music21.chord.Chord D#2 D#3 G3 A3 E4>,"[0, 1, 4, 6]","[3, 4, 7, 9]",Poulenc_Les_chemins_de_lamour.mxl,,,34,1
+1.0,<music21.chord.Chord D#2 D#3 G3 A3 E4>,"[0, 1, 4, 6]","[3, 4, 7, 9]",Poulenc_Les_chemins_de_lamour.mxl,,,34,2
+2.0,<music21.chord.Chord D#2 A#2 G3 C#4 D#4>,"[0, 3, -6, -4]","[7, 10, 1, 3]",Poulenc_Les_chemins_de_lamour.mxl,,,34,3
+0.0,<music21.chord.Chord G#1 G#2 C#4 G#4>,"[0, -7]","[8, 1]",Poulenc_Les_chemins_de_lamour.mxl,,,35,1
+1.0,<music21.chord.Chord G#1 G#2 C#3 F#3 A#3 C#4 G#4>,"[0, 2, 4, -5]","[6, 8, 10, 1]",Poulenc_Les_chemins_de_lamour.mxl,,,35,2
+2.0,<music21.chord.Chord G#1 G#2 F#3 A#3 C#4 G#4>,"[0, 2, 4, -5]","[6, 8, 10, 1]",Poulenc_Les_chemins_de_lamour.mxl,,,35,3
+0.0,<music21.chord.Chord A#3 C#4 F#4 G#4>,"[0, 2, 4, -5]","[6, 8, 10, 1]",Poulenc_Les_chemins_de_lamour.mxl,,,36,1
+1.0,<music21.chord.Chord C#4 F#4 A#4>,"[0, 4, -5]","[6, 10, 1]",Poulenc_Les_chemins_de_lamour.mxl,,,36,2
+2.0,<music21.chord.Chord C4 F#4 G#4>,"[0, 2, -6]","[6, 8, 0]",Poulenc_Les_chemins_de_lamour.mxl,,,36,3
+0.0,<music21.chord.Chord D-2 A-2 F5>,"[0, 4, 7]","[1, 5, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,37,1
+1.0,<music21.chord.Chord D-2 A-2 A-3 D-4 F5>,"[0, 4, 7]","[1, 5, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,37,2
+2.0,<music21.chord.Chord D-2 A-2 A-3 D-4 F4 A-4>,"[0, 4, 7]","[1, 5, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,37,3
+0.0,<music21.chord.Chord A-1 E-5>,"[0, 5]","[3, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,38,1
+1.0,<music21.chord.Chord A-1 A-3 D-4 E-5>,"[0, 2, 7]","[1, 3, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,38,2
+2.0,<music21.chord.Chord A-1 A-3 D-4 F4 A-4>,"[0, 4, 7]","[1, 5, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,38,3
+0.0,<music21.chord.Chord A-2 E-5>,"[0, 5]","[3, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,39,1
+1.0,<music21.chord.Chord A-2 A-3 D-4 F4 A-4 E-5>,"[0, 2, 4, 7]","[1, 3, 5, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,39,2
+2.0,<music21.chord.Chord A-2 A-3 D-4 F4 A-4 E-5>,"[0, 2, 4, 7]","[1, 3, 5, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,39,3
+0.0,<music21.chord.Chord A-2 E-5>,"[0, 5]","[3, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,40,1
+1.0,<music21.chord.Chord A-2 A-3 D-4>,"[0, -7]","[8, 1]",Poulenc_Les_chemins_de_lamour.mxl,,,40,2
+2.0,<music21.chord.Chord A-2 A-3 D-4 A-4>,"[0, -7]","[8, 1]",Poulenc_Les_chemins_de_lamour.mxl,,,40,3
+0.0,<music21.chord.Chord F2 D-5>,"[0, 4]","[1, 5]",Poulenc_Les_chemins_de_lamour.mxl,,,41,1
+1.0,<music21.chord.Chord F2 D-3 A-3 D-5>,"[0, 4, 7]","[1, 5, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,41,2
+2.0,<music21.chord.Chord F2 D-3 A-3 F4 A-4>,"[0, 4, 7]","[1, 5, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,41,3
+0.0,<music21.chord.Chord E2 E4 G4 D-5>,"[0, 3, 6]","[1, 4, 7]",Poulenc_Les_chemins_de_lamour.mxl,,,42,1
+1.0,<music21.chord.Chord E2 D-3 G3 E4 G4 D-5>,"[0, 3, 6]","[1, 4, 7]",Poulenc_Les_chemins_de_lamour.mxl,,,42,2
+2.0,<music21.chord.Chord E2 D-3 G3 E4 G4 C5>,"[0, 1, 4, 7]","[0, 1, 4, 7]",Poulenc_Les_chemins_de_lamour.mxl,,,42,3
+0.0,<music21.chord.Chord A-2 D-4 G-4 A-4>,"[0, 2, -5]","[6, 8, 1]",Poulenc_Les_chemins_de_lamour.mxl,,,43,1
+1.0,<music21.chord.Chord A-2 G-3 B-3 D-4 G-4 A-4>,"[0, 2, 4, -5]","[6, 8, 10, 1]",Poulenc_Les_chemins_de_lamour.mxl,,,43,2
+2.0,<music21.chord.Chord A-2 G-3 B-3 D-4 G-4 A-4>,"[0, 2, 4, -5]","[6, 8, 10, 1]",Poulenc_Les_chemins_de_lamour.mxl,,,43,3
+0.0,<music21.chord.Chord A-1 A-2 C4 E-4 A-4>,"[0, -8, -5]","[8, 0, 3]",Poulenc_Les_chemins_de_lamour.mxl,,,44,1
+2.0,<music21.chord.Chord A-1 A-2 D4>,"[0, 6]","[2, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,44,3
+0.0,<music21.chord.Chord A-2 D4 G-4 B-4>,"[0, 2, 4, -4]","[6, 8, 10, 2]",Poulenc_Les_chemins_de_lamour.mxl,,,45,1
+1.0,<music21.chord.Chord A-2 G-3 B-3>,"[0, 2, 4]","[6, 8, 10]",Poulenc_Les_chemins_de_lamour.mxl,,,45,2
+1.5,<music21.chord.Chord A-2 G-3 B-3 D4 G-4 B-4>,"[0, 2, 4, -4]","[6, 8, 10, 2]",Poulenc_Les_chemins_de_lamour.mxl,,,45,2 1/2
+2.0,<music21.chord.Chord A-2 G-3 B-3 D4 G-4 B-4>,"[0, 2, 4, -4]","[6, 8, 10, 2]",Poulenc_Les_chemins_de_lamour.mxl,,,45,3
+0.0,<music21.chord.Chord A-2 D4 G-4 B-4>,"[0, 2, 4, -4]","[6, 8, 10, 2]",Poulenc_Les_chemins_de_lamour.mxl,,,46,1
+0.5,<music21.chord.Chord A-2>,[0],[8],Poulenc_Les_chemins_de_lamour.mxl,,,46,1 1/2
+1.0,<music21.chord.Chord A-2 G-3 B-3>,"[0, 2, 4]","[6, 8, 10]",Poulenc_Les_chemins_de_lamour.mxl,,,46,2
+2.0,<music21.chord.Chord A-2 G-3 B-3 D4>,"[0, 2, 4, -4]","[6, 8, 10, 2]",Poulenc_Les_chemins_de_lamour.mxl,,,46,3
+0.0,<music21.chord.Chord A-2 D-4 G-4 B-4>,"[0, 2, 4, -5]","[6, 8, 10, 1]",Poulenc_Les_chemins_de_lamour.mxl,,,47,1
+1.0,<music21.chord.Chord A-2 G-3 B-3>,"[0, 2, 4]","[6, 8, 10]",Poulenc_Les_chemins_de_lamour.mxl,,,47,2
+2.0,<music21.chord.Chord A-2 G-3 B-3 D-4 G-4 B-4>,"[0, 2, 4, -5]","[6, 8, 10, 1]",Poulenc_Les_chemins_de_lamour.mxl,,,47,3
+0.0,<music21.chord.Chord A-2 D-4 G-4 B-4>,"[0, 2, 4, -5]","[6, 8, 10, 1]",Poulenc_Les_chemins_de_lamour.mxl,,,48,1
+1.0,<music21.chord.Chord A-2 G-3 B-3 D-4 G-4 B-4>,"[0, 2, 4, -5]","[6, 8, 10, 1]",Poulenc_Les_chemins_de_lamour.mxl,,,48,2
+2.0,<music21.chord.Chord A-2 G-3 B-3 D-4 G-4 B-4>,"[0, 2, 4, -5]","[6, 8, 10, 1]",Poulenc_Les_chemins_de_lamour.mxl,,,48,3
+0.0,<music21.chord.Chord A-2 G-4 B-4 D-5>,"[0, 2, 4, -5]","[6, 8, 10, 1]",Poulenc_Les_chemins_de_lamour.mxl,,,49,1
+1.0,<music21.chord.Chord A-2 G-3 B-3 D-4 G-4 B-4 D-5>,"[0, 2, 4, -5]","[6, 8, 10, 1]",Poulenc_Les_chemins_de_lamour.mxl,,,49,2
+2.0,<music21.chord.Chord A-2 G-3 B-3 D-4 E4 A-4 C5>,"[0, 2, 4, 6, -4, -3]","[4, 6, 8, 10, 0, 1]",Poulenc_Les_chemins_de_lamour.mxl,,,49,3
+0.0,<music21.chord.Chord A-1 A-2 C4 E4>,"[0, 4, 8]","[0, 4, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,50,1
+1.0,<music21.chord.Chord A-1 A-2 G-3 C4 E4>,"[0, 2, 4, -4]","[4, 6, 8, 0]",Poulenc_Les_chemins_de_lamour.mxl,,,50,2
+2.0,<music21.chord.Chord A-1 A-2 G-3 C4 F4 A-4 C5>,"[0, 1, 3, -5]","[5, 6, 8, 0]",Poulenc_Les_chemins_de_lamour.mxl,,,50,3
+0.0,<music21.chord.Chord D-1 D-2 A-3 D-4 F4>,"[0, 4, 7]","[1, 5, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,51,1
+1.5,<music21.chord.Chord D-1 D-2 F3 A-3 D-4 F4>,"[0, 4, 7]","[1, 5, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,51,2 1/2
+5/3,<music21.chord.Chord D-1 D-2 A-3 D-4 F4>,"[0, 4, 7]","[1, 5, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,51,2 2/3
+11/6,<music21.chord.Chord D-1 D-2 A-3 D-4 F4>,"[0, 4, 7]","[1, 5, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,51,2 5/6
+2.0,<music21.chord.Chord D-1 D-2 F4>,"[0, 4]","[1, 5]",Poulenc_Les_chemins_de_lamour.mxl,,,51,3
+13/6,<music21.chord.Chord D-1 D-2 A-4>,"[0, -7]","[8, 1]",Poulenc_Les_chemins_de_lamour.mxl,,,51,3 1/6
+7/3,<music21.chord.Chord D-1 D-2 D-5>,[0],[1],Poulenc_Les_chemins_de_lamour.mxl,,,51,3 1/3
+2.5,<music21.chord.Chord D-1 D-2 F5>,"[0, 4]","[1, 5]",Poulenc_Les_chemins_de_lamour.mxl,,,51,3 1/2
+8/3,<music21.chord.Chord D-1 D-2 A-5>,"[0, -7]","[8, 1]",Poulenc_Les_chemins_de_lamour.mxl,,,51,3 2/3
+17/6,<music21.chord.Chord D-1 D-2 D-6>,[0],[1],Poulenc_Les_chemins_de_lamour.mxl,,,51,3 5/6
+0.0,<music21.chord.Chord D-2 F6>,"[0, 4]","[1, 5]",Poulenc_Les_chemins_de_lamour.mxl,,,52,1
+2.0,<music21.chord.Chord F4 A-4>,"[0, 3]","[5, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,52,3
+0.0,<music21.chord.Chord D-2 D-5 F5>,"[0, 4]","[1, 5]",Poulenc_Les_chemins_de_lamour.mxl,,,53,1
+1.0,<music21.chord.Chord D-2 A-3 D-4 D-5 F5>,"[0, 4, 7]","[1, 5, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,53,2
+2.0,<music21.chord.Chord D-2 A-3 D-4 F4 A-4>,"[0, 4, 7]","[1, 5, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,53,3
+0.0,<music21.chord.Chord A-1 C5 E-5>,"[0, -8, -5]","[8, 0, 3]",Poulenc_Les_chemins_de_lamour.mxl,,,54,1
+1.0,<music21.chord.Chord A-1 A-3 C4 C5 E-5>,"[0, -8, -5]","[8, 0, 3]",Poulenc_Les_chemins_de_lamour.mxl,,,54,2
+2.0,<music21.chord.Chord A-1 A-3 C4 F4 A-4>,"[0, 3, -5]","[5, 8, 0]",Poulenc_Les_chemins_de_lamour.mxl,,,54,3
+0.0,<music21.chord.Chord D-2 C5 E-5>,"[0, 1, 3]","[0, 1, 3]",Poulenc_Les_chemins_de_lamour.mxl,,,55,1
+1.0,<music21.chord.Chord D-2 A-3 D-4 C5 E-5>,"[0, -8, -7, -5]","[8, 0, 1, 3]",Poulenc_Les_chemins_de_lamour.mxl,,,55,2
+0.0,<music21.chord.Chord A-2 C5 E-5>,"[0, -8, -5]","[8, 0, 3]",Poulenc_Les_chemins_de_lamour.mxl,,,56,1
+1.0,<music21.chord.Chord A-2 A-3 D-4>,"[0, -7]","[8, 1]",Poulenc_Les_chemins_de_lamour.mxl,,,56,2
+2.0,<music21.chord.Chord A-2 A-3 D-4 F4 A-4>,"[0, 4, 7]","[1, 5, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,56,3
+0.0,<music21.chord.Chord D-2 B-4 D-5>,"[0, -9]","[10, 1]",Poulenc_Les_chemins_de_lamour.mxl,,,57,1
+1.0,<music21.chord.Chord D-2 B3 E-4 B-4 D-5>,"[0, 1, -9, -7]","[10, 11, 1, 3]",Poulenc_Les_chemins_de_lamour.mxl,,,57,2
+2.0,<music21.chord.Chord D-2 B3 E-4 B-4>,"[0, 1, -9, -7]","[10, 11, 1, 3]",Poulenc_Les_chemins_de_lamour.mxl,,,57,3
+0.0,<music21.chord.Chord D-3 D-5>,[0],[1],Poulenc_Les_chemins_de_lamour.mxl,,,58,1
+1.0,<music21.chord.Chord D-3 B3 F4 D-5>,"[0, -10, -6]","[11, 1, 5]",Poulenc_Les_chemins_de_lamour.mxl,,,58,2
+2.0,<music21.chord.Chord D-3 B3 F4 B-4>,"[0, 1, -9, -5]","[10, 11, 1, 5]",Poulenc_Les_chemins_de_lamour.mxl,,,58,3
+0.0,<music21.chord.Chord G-2 F4>,"[0, 1]","[5, 6]",Poulenc_Les_chemins_de_lamour.mxl,,,59,1
+1.0,<music21.chord.Chord G-2 F3 B-3 D-4 F4>,"[0, 1, 5, -4]","[5, 6, 10, 1]",Poulenc_Les_chemins_de_lamour.mxl,,,59,2
+2.0,<music21.chord.Chord D-3 F3 B-3 D-4 F4>,"[0, -9, -5]","[10, 1, 5]",Poulenc_Les_chemins_de_lamour.mxl,,,59,3
+0.0,<music21.chord.Chord B-3 F4>,"[0, 5]","[5, 10]",Poulenc_Les_chemins_de_lamour.mxl,,,60,1
+1.0,<music21.chord.Chord B-3>,[0],[10],Poulenc_Les_chemins_de_lamour.mxl,,,60,2
+2.0,<music21.chord.Chord B-3 D-5>,"[0, -9]","[10, 1]",Poulenc_Les_chemins_de_lamour.mxl,,,60,3
+0.0,<music21.chord.Chord B-2 E-5>,"[0, -7]","[10, 3]",Poulenc_Les_chemins_de_lamour.mxl,,,61,1
+1.0,<music21.chord.Chord B-2 G3 D-4 F4 G4 E-5>,"[0, 2, 4, 6, 9]","[1, 3, 5, 7, 10]",Poulenc_Les_chemins_de_lamour.mxl,,,61,2
+2.0,<music21.chord.Chord B-2 G3 D-4 F4 G4 D-5>,"[0, 2, 5, -4]","[5, 7, 10, 1]",Poulenc_Les_chemins_de_lamour.mxl,,,61,3
+0.0,<music21.chord.Chord E-3 G4>,"[0, 4]","[3, 7]",Poulenc_Les_chemins_de_lamour.mxl,,,62,1
+1.0,<music21.chord.Chord E-3 G3 C4 E-4 G4>,"[0, 3, 7]","[0, 3, 7]",Poulenc_Les_chemins_de_lamour.mxl,,,62,2
+2.0,<music21.chord.Chord E-3 G3 C4 E-4 B-4>,"[0, 3, -7, -4]","[7, 10, 0, 3]",Poulenc_Les_chemins_de_lamour.mxl,,,62,3
+0.0,<music21.chord.Chord B-2 F5>,"[0, 5]","[5, 10]",Poulenc_Les_chemins_de_lamour.mxl,,,63,1
+1.0,<music21.chord.Chord B-2 G-3 D-4 G-4 B-4 F5>,"[0, 1, 5, -4]","[5, 6, 10, 1]",Poulenc_Les_chemins_de_lamour.mxl,,,63,2
+0.0,<music21.chord.Chord B-2 G-3 D-4 F4 F5>,"[0, 1, 5, -4]","[5, 6, 10, 1]",Poulenc_Les_chemins_de_lamour.mxl,,,64,1
+1.0,<music21.chord.Chord B-2 G-3 D-4 F4>,"[0, 1, 5, -4]","[5, 6, 10, 1]",Poulenc_Les_chemins_de_lamour.mxl,,,64,2
+2.0,<music21.chord.Chord B-2 G-3 D-4 G-5>,"[0, 4, -5]","[6, 10, 1]",Poulenc_Les_chemins_de_lamour.mxl,,,64,3
+0.0,<music21.chord.Chord A-2 B-4>,"[0, 2]","[8, 10]",Poulenc_Les_chemins_de_lamour.mxl,,,65,1
+1.0,<music21.chord.Chord A-2 E-3 A-3 G-4 B-4>,"[0, 3, 5, 7]","[3, 6, 8, 10]",Poulenc_Les_chemins_de_lamour.mxl,,,65,2
+2.0,<music21.chord.Chord A-2 E-3 A-3 G-4 F5>,"[0, 2, 3, 5]","[3, 5, 6, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,65,3
+0.0,<music21.chord.Chord A-2 A4>,"[0, 1]","[8, 9]",Poulenc_Les_chemins_de_lamour.mxl,,,66,1
+1.0,<music21.chord.Chord A-2 G-3 C4 G-4 A4>,"[0, 2, 3, -6]","[6, 8, 9, 0]",Poulenc_Les_chemins_de_lamour.mxl,,,66,2
+2.0,<music21.chord.Chord A-2 G-3 C4 G-4 F5>,"[0, 1, 3, -5]","[5, 6, 8, 0]",Poulenc_Les_chemins_de_lamour.mxl,,,66,3
+0.0,<music21.chord.Chord D-2 D-3 D-5>,[0],[1],Poulenc_Les_chemins_de_lamour.mxl,,,67,1
+1.0,<music21.chord.Chord D-2 D-3 A-3 F4 D-5>,"[0, 4, 7]","[1, 5, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,67,2
+2.0,<music21.chord.Chord D-2 D-3 D-4 A-4 D-5>,"[0, -7]","[8, 1]",Poulenc_Les_chemins_de_lamour.mxl,,,67,3
+0.0,<music21.chord.Chord D-2 D-3 F4 F5 D-6>,"[0, 4]","[1, 5]",Poulenc_Les_chemins_de_lamour.mxl,,,68,1
+2.0,<music21.chord.Chord D-2 D-3 F4 A-4>,"[0, 4, 7]","[1, 5, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,68,3
+0.0,<music21.chord.Chord A-2 A4>,"[0, 1]","[8, 9]",Poulenc_Les_chemins_de_lamour.mxl,,,69,1
+1.0,<music21.chord.Chord A-2 G-3 C4 A4>,"[0, 2, 3, -6]","[6, 8, 9, 0]",Poulenc_Les_chemins_de_lamour.mxl,,,69,2
+2.0,<music21.chord.Chord A-2 G-3 C4 A-4>,"[0, 2, -6]","[6, 8, 0]",Poulenc_Les_chemins_de_lamour.mxl,,,69,3
+0.0,<music21.chord.Chord D-2 D-5>,[0],[1],Poulenc_Les_chemins_de_lamour.mxl,,,70,1
+1.0,<music21.chord.Chord D-2 A-3 D-4 F4 A-4 D-5>,"[0, 4, 7]","[1, 5, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,70,2
+2.0,<music21.chord.Chord D-2 A-3 D-4 F4 A-4 D-5>,"[0, 4, 7]","[1, 5, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,70,3
+0.0,<music21.chord.Chord D-2 B5>,"[0, -10]","[11, 1]",Poulenc_Les_chemins_de_lamour.mxl,,,71,1
+1.0,<music21.chord.Chord D-2 A-3 D4 F4 B4 B5>,"[0, 3, 6, -4, -3]","[5, 8, 11, 1, 2]",Poulenc_Les_chemins_de_lamour.mxl,,,71,2
+2.0,<music21.chord.Chord D-2 A-3 D4 F4 D5 B5>,"[0, 3, 6, -4, -3]","[5, 8, 11, 1, 2]",Poulenc_Les_chemins_de_lamour.mxl,,,71,3
+0.0,<music21.chord.Chord D-3 B-5>,"[0, -9]","[10, 1]",Poulenc_Les_chemins_de_lamour.mxl,,,72,1
+1.0,<music21.chord.Chord D-3 B-3 E-4 G-4 B-4 B-5>,"[0, -9, -7, -4]","[10, 1, 3, 6]",Poulenc_Les_chemins_de_lamour.mxl,,,72,2
+2.0,<music21.chord.Chord D-3 B-3 E-4 G-4 E-5 B-5>,"[0, -9, -7, -4]","[10, 1, 3, 6]",Poulenc_Les_chemins_de_lamour.mxl,,,72,3
+0.0,<music21.chord.Chord D-3 E-6>,"[0, 2]","[1, 3]",Poulenc_Les_chemins_de_lamour.mxl,,,73,1
+1.0,<music21.chord.Chord D-3 A3 E-4 E-5 E-6>,"[0, -8, -6]","[9, 1, 3]",Poulenc_Les_chemins_de_lamour.mxl,,,73,2
+2.0,<music21.chord.Chord D-3 A3 E-4 G-5 E-6>,"[0, 2, 5, 8]","[1, 3, 6, 9]",Poulenc_Les_chemins_de_lamour.mxl,,,73,3
+0.0,<music21.chord.Chord D-3 G-5>,"[0, 5]","[1, 6]",Poulenc_Les_chemins_de_lamour.mxl,,,74,1
+1.0,<music21.chord.Chord D-3 A-3 D-4 A-4 G-5>,"[0, 2, -5]","[6, 8, 1]",Poulenc_Les_chemins_de_lamour.mxl,,,74,2
+2.0,<music21.chord.Chord D-3 A-3 D-4 D-5 G-5>,"[0, 2, -5]","[6, 8, 1]",Poulenc_Les_chemins_de_lamour.mxl,,,74,3
+0.0,<music21.chord.Chord D-3 B4>,"[0, -10]","[11, 1]",Poulenc_Les_chemins_de_lamour.mxl,,,75,1
+1.0,<music21.chord.Chord D-3 B3 D4 F4 B4>,"[0, -10, -9, -6]","[11, 1, 2, 5]",Poulenc_Les_chemins_de_lamour.mxl,,,75,2
+2.0,<music21.chord.Chord D-3 B3 D4 A-4 B4>,"[0, 3, -7, -6]","[8, 11, 1, 2]",Poulenc_Les_chemins_de_lamour.mxl,,,75,3
+0.0,<music21.chord.Chord D-3 B-4>,"[0, -9]","[10, 1]",Poulenc_Les_chemins_de_lamour.mxl,,,76,1
+1.0,<music21.chord.Chord D-3 B-3 D-4 E-4 B-4>,"[0, -9, -7]","[10, 1, 3]",Poulenc_Les_chemins_de_lamour.mxl,,,76,2
+2.0,<music21.chord.Chord D-3 B-3 D-4 G-4 B-4>,"[0, 4, -5]","[6, 10, 1]",Poulenc_Les_chemins_de_lamour.mxl,,,76,3
+0.0,<music21.chord.Chord D-3 A3 C4 A4 G-5>,"[0, 3, -6, -5]","[6, 9, 0, 1]",Poulenc_Les_chemins_de_lamour.mxl,,,77,1
+1.0,<music21.chord.Chord D-3 A3 C4 A4 G-5 A5 G-6>,"[0, 3, -6, -5]","[6, 9, 0, 1]",Poulenc_Les_chemins_de_lamour.mxl,,,77,2
+2.0,<music21.chord.Chord D-3 A3 C4 A4 G-5 E-6>,"[0, 1, 3, 6, 9]","[0, 1, 3, 6, 9]",Poulenc_Les_chemins_de_lamour.mxl,,,77,3
+0.0,<music21.chord.Chord G-4 E-5 C6>,"[0, 3, 6]","[0, 3, 6]",Poulenc_Les_chemins_de_lamour.mxl,,,78,1
+1.0,<music21.chord.Chord E-4 C5 A5>,"[0, -9, -6]","[9, 0, 3]",Poulenc_Les_chemins_de_lamour.mxl,,,78,2
+2.0,<music21.chord.Chord C4 A4 G-5>,"[0, 3, -6]","[6, 9, 0]",Poulenc_Les_chemins_de_lamour.mxl,,,78,3
+0.0,<music21.chord.Chord A3 G-4 E-5>,"[0, 3, 6]","[3, 6, 9]",Poulenc_Les_chemins_de_lamour.mxl,,,79,1
+1.0,<music21.chord.Chord G-3 E-4 C5>,"[0, 3, 6]","[0, 3, 6]",Poulenc_Les_chemins_de_lamour.mxl,,,79,2
+2.0,<music21.chord.Chord B-3 G-4 E-5>,"[0, 3, 7]","[3, 6, 10]",Poulenc_Les_chemins_de_lamour.mxl,,,79,3
+0.0,<music21.chord.Chord C4 A4 G-5>,"[0, 3, -6]","[6, 9, 0]",Poulenc_Les_chemins_de_lamour.mxl,,,80,1
+1.0,<music21.chord.Chord E-4 C5 A5>,"[0, -9, -6]","[9, 0, 3]",Poulenc_Les_chemins_de_lamour.mxl,,,80,2
+2.0,<music21.chord.Chord G-4 E-5 C6>,"[0, 3, 6]","[0, 3, 6]",Poulenc_Les_chemins_de_lamour.mxl,,,80,3
+0.0,<music21.chord.Chord D-4 F5 D-6>,"[0, 4]","[1, 5]",Poulenc_Les_chemins_de_lamour.mxl,,,81,1
+0.0,<music21.chord.Chord D-2 A-2 D-3 A-3 D-4 F4>,"[0, 4, 7]","[1, 5, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,82,1
+0.0,<music21.chord.Chord D-3 A-3 D-4 F4 A-4 D-5 F5>,"[0, 4, 7]","[1, 5, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,83,1
+0.0,<music21.chord.Chord D-4 A-4 D-5 F5 A-5 D-6 F6>,"[0, 4, 7]","[1, 5, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,84,1
+0.0,<music21.chord.Chord D-2 A-2 D-3 F3 A-3 D-4 F4>,"[0, 4, 7]","[1, 5, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,85,1
+0.0,<music21.chord.Chord D-2 A-2 D-3 F3 A-3 D-4 F4>,"[0, 4, 7]","[1, 5, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,86,1
+0.0,<music21.chord.Chord D-2 A-2 D-3 F3 A-3 D-4 F4>,"[0, 4, 7]","[1, 5, 8]",Poulenc_Les_chemins_de_lamour.mxl,,,87,1

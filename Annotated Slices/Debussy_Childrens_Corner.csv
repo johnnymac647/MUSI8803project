@@ -1,0 +1,739 @@
+Offset,Chord,Normal Form,PCsinNormalForm,file,Phrase Boundary,Song Count,Measure Number,Measure Count
+0.0,<music21.chord.Chord B-5 B-4>,[0],[10],Children's Corner 113 6 Eb Major.mid,1,1,1,1
+0.25,<music21.chord.Chord G#5 G#4>,[0],[8],Children's Corner 113 6 Eb Major.mid,,1,1,1
+0.75,<music21.chord.Chord B-5 B-4>,[0],[10],Children's Corner 113 6 Eb Major.mid,,1,1,1
+1.0,<music21.chord.Chord F5 F4>,[0],[5],Children's Corner 113 6 Eb Major.mid,,2,1,2
+1.5,<music21.chord.Chord B-5 B-4>,[0],[10],Children's Corner 113 6 Eb Major.mid,,2,1,2
+2.0,<music21.chord.Chord G#5 G#4>,[0],[8],Children's Corner 113 6 Eb Major.mid,,3,2,1
+2.25,<music21.chord.Chord F5 F4>,[0],[5],Children's Corner 113 6 Eb Major.mid,,3,2,1
+2.75,<music21.chord.Chord E-5 E-4>,[0],[3],Children's Corner 113 6 Eb Major.mid,,3,2,1
+3.0,<music21.chord.Chord B4 B3>,[0],[11],Children's Corner 113 6 Eb Major.mid,,4,2,2
+4.25,<music21.chord.Chord G#4 G#3>,[0],[8],Children's Corner 113 6 Eb Major.mid,,5,3,1
+4.5,<music21.chord.Chord F4 F3>,[0],[5],Children's Corner 113 6 Eb Major.mid,,5,3,1
+4.75,<music21.chord.Chord E-4 E-3>,[0],[3],Children's Corner 113 6 Eb Major.mid,,5,3,1
+5.0,<music21.chord.Chord B3 B2>,[0],[11],Children's Corner 113 6 Eb Major.mid,,6,3,2
+6.25,<music21.chord.Chord G#3 G#2>,[0],[8],Children's Corner 113 6 Eb Major.mid,,7,4,1
+6.5,<music21.chord.Chord F3 F2>,[0],[5],Children's Corner 113 6 Eb Major.mid,,7,4,1
+6.75,<music21.chord.Chord E-3 E-2>,[0],[3],Children's Corner 113 6 Eb Major.mid,,7,4,1
+7.0,<music21.chord.Chord B2 B1>,[0],[11],Children's Corner 113 6 Eb Major.mid,,8,4,2
+7.5,<music21.chord.Chord D3 G3 B-1 B-2>,"[0, 3, 7]","[7, 10, 2]",Children's Corner 113 6 Eb Major.mid,2,8,4,2
+10.0,<music21.chord.Chord E-2 B-2>,"[0, 5]","[10, 3]",Children's Corner 113 6 Eb Major.mid,1,11,6,1
+10.5,<music21.chord.Chord E-3 B-3 F3 G3>,"[0, 2, 4, 7]","[3, 5, 7, 10]",Children's Corner 113 6 Eb Major.mid,,11,6,1
+11.0,<music21.chord.Chord E-2 B-2>,"[0, 5]","[10, 3]",Children's Corner 113 6 Eb Major.mid,,12,6,2
+11.5,<music21.chord.Chord E-3 B-3 F3 G3>,"[0, 2, 4, 7]","[3, 5, 7, 10]",Children's Corner 113 6 Eb Major.mid,,12,6,2
+11.75,<music21.chord.Chord E-3 B-3>,"[0, 5]","[10, 3]",Children's Corner 113 6 Eb Major.mid,,12,6,2
+12.0,<music21.chord.Chord E-2 B-2>,"[0, 5]","[10, 3]",Children's Corner 113 6 Eb Major.mid,,13,7,1
+12.5,<music21.chord.Chord E-3 B-3 F3 G3>,"[0, 2, 4, 7]","[3, 5, 7, 10]",Children's Corner 113 6 Eb Major.mid,,13,7,1
+13.0,<music21.chord.Chord E-2 B-2>,"[0, 5]","[10, 3]",Children's Corner 113 6 Eb Major.mid,,14,7,2
+13.5,<music21.chord.Chord E-3 B-3 F3 G3>,"[0, 2, 4, 7]","[3, 5, 7, 10]",Children's Corner 113 6 Eb Major.mid,,14,7,2
+14.0,<music21.chord.Chord E-2 B-2>,"[0, 5]","[10, 3]",Children's Corner 113 6 Eb Major.mid,,15,8,1
+14.5,<music21.chord.Chord E-3 B-3 F3 G3>,"[0, 2, 4, 7]","[3, 5, 7, 10]",Children's Corner 113 6 Eb Major.mid,,15,8,1
+14.75,<music21.chord.Chord E-3 B-3>,"[0, 5]","[10, 3]",Children's Corner 113 6 Eb Major.mid,,15,8,1
+15.0,<music21.chord.Chord E-2 B-2>,"[0, 5]","[10, 3]",Children's Corner 113 6 Eb Major.mid,,16,8,2
+15.5,<music21.chord.Chord E-3 B-3 F3 G3>,"[0, 2, 4, 7]","[3, 5, 7, 10]",Children's Corner 113 6 Eb Major.mid,,16,8,2
+16.0,<music21.chord.Chord E-2 B-2>,"[0, 5]","[10, 3]",Children's Corner 113 6 Eb Major.mid,,17,9,1
+16.5,<music21.chord.Chord E-3 B-3 F3 G3>,"[0, 2, 4, 7]","[3, 5, 7, 10]",Children's Corner 113 6 Eb Major.mid,,17,9,1
+17.0,<music21.chord.Chord E-2 B-2>,"[0, 5]","[10, 3]",Children's Corner 113 6 Eb Major.mid,,18,9,2
+17.5,<music21.chord.Chord E-3 B-3 F3 G3>,"[0, 2, 4, 7]","[3, 5, 7, 10]",Children's Corner 113 6 Eb Major.mid,,18,9,2
+18.0,<music21.chord.Chord B-4 E-2 B-2>,"[0, 5]","[10, 3]",Children's Corner 113 6 Eb Major.mid,,19,10,1
+18.125,<music21.chord.Chord B-4>,[0],[10],Children's Corner 113 6 Eb Major.mid,,19,10,1
+18.25,<music21.chord.Chord G#4>,[0],[8],Children's Corner 113 6 Eb Major.mid,,19,10,1
+18.5,<music21.chord.Chord B3 E-4 G#4 F3 G#3>,"[0, 2, 5, 8]","[3, 5, 8, 11]",Children's Corner 113 6 Eb Major.mid,,19,10,1
+18.625,<music21.chord.Chord G#4 B3 E-4>,"[0, 3, 7]","[8, 11, 3]",Children's Corner 113 6 Eb Major.mid,,19,10,1
+18.75,<music21.chord.Chord B-4 B3 E-4>,"[0, 1, 5]","[10, 11, 3]",Children's Corner 113 6 Eb Major.mid,,19,10,1
+19.0,<music21.chord.Chord F4 E-2 B-2>,"[0, 2, 7]","[3, 5, 10]",Children's Corner 113 6 Eb Major.mid,,20,10,2
+19.5,<music21.chord.Chord B-4 B3 E-4 F3 G#3>,"[0, 2, 5, 7, 8]","[3, 5, 8, 10, 11]",Children's Corner 113 6 Eb Major.mid,,20,10,2
+19.625,<music21.chord.Chord B3 E-4>,"[0, 4]","[11, 3]",Children's Corner 113 6 Eb Major.mid,,20,10,2
+20.0,<music21.chord.Chord G#4 E-2 B-2>,"[0, 2, 7]","[8, 10, 3]",Children's Corner 113 6 Eb Major.mid,,21,11,1
+20.125,<music21.chord.Chord G#4>,[0],[8],Children's Corner 113 6 Eb Major.mid,,21,11,1
+20.25,<music21.chord.Chord F4>,[0],[5],Children's Corner 113 6 Eb Major.mid,,21,11,1
+20.5,<music21.chord.Chord B3 F4 F3 G#3>,"[0, 3, 6]","[5, 8, 11]",Children's Corner 113 6 Eb Major.mid,,21,11,1
+20.625,<music21.chord.Chord F4 B3>,"[0, 6]","[5, 11]",Children's Corner 113 6 Eb Major.mid,,21,11,1
+20.75,<music21.chord.Chord E-4 B3>,"[0, 4]","[11, 3]",Children's Corner 113 6 Eb Major.mid,,21,11,1
+21.0,<music21.chord.Chord B3 E-2 B-2>,"[0, 1, 5]","[10, 11, 3]",Children's Corner 113 6 Eb Major.mid,,22,11,2
+21.5,<music21.chord.Chord E-4 B3 F3 G#3>,"[0, 2, 5, 8]","[3, 5, 8, 11]",Children's Corner 113 6 Eb Major.mid,,22,11,2
+21.625,<music21.chord.Chord B3>,[0],[11],Children's Corner 113 6 Eb Major.mid,,22,11,2
+22.0,<music21.chord.Chord B-3 E-2 B-2>,"[0, 5]","[10, 3]",Children's Corner 113 6 Eb Major.mid,,23,12,1
+22.125,<music21.chord.Chord B-3>,[0],[10],Children's Corner 113 6 Eb Major.mid,,23,12,1
+22.25,<music21.chord.Chord B-3>,[0],[10],Children's Corner 113 6 Eb Major.mid,,23,12,1
+22.5,<music21.chord.Chord F3 G3>,"[0, 2]","[5, 7]",Children's Corner 113 6 Eb Major.mid,,23,12,1
+22.75,<music21.chord.Chord C4>,[0],[0],Children's Corner 113 6 Eb Major.mid,,23,12,1
+23.0,<music21.chord.Chord B-3 E-2 B-2>,"[0, 5]","[10, 3]",Children's Corner 113 6 Eb Major.mid,,24,12,2
+23.125,<music21.chord.Chord B-3>,[0],[10],Children's Corner 113 6 Eb Major.mid,,24,12,2
+23.5,<music21.chord.Chord E-4 B-4 F3 G3>,"[0, 2, 4, 7]","[3, 5, 7, 10]",Children's Corner 113 6 Eb Major.mid,,24,12,2
+24.0,<music21.chord.Chord B-3 E-2 B-2>,"[0, 5]","[10, 3]",Children's Corner 113 6 Eb Major.mid,,25,13,1
+24.125,<music21.chord.Chord B-3>,[0],[10],Children's Corner 113 6 Eb Major.mid,,25,13,1
+24.5,<music21.chord.Chord B-3 F3 G3>,"[0, 2, 5]","[5, 7, 10]",Children's Corner 113 6 Eb Major.mid,,25,13,1
+24.625,<music21.chord.Chord B-3>,[0],[10],Children's Corner 113 6 Eb Major.mid,,25,13,1
+25.0,<music21.chord.Chord B-3 E-2 B-2>,"[0, 5]","[10, 3]",Children's Corner 113 6 Eb Major.mid,,26,13,2
+25.125,<music21.chord.Chord B-3>,[0],[10],Children's Corner 113 6 Eb Major.mid,,26,13,2
+25.5,<music21.chord.Chord B-3 F3 G3>,"[0, 2, 5]","[5, 7, 10]",Children's Corner 113 6 Eb Major.mid,,26,13,2
+25.625,<music21.chord.Chord B-3>,[0],[10],Children's Corner 113 6 Eb Major.mid,,26,13,2
+26.0,<music21.chord.Chord B-3 E-2 B-2>,"[0, 5]","[10, 3]",Children's Corner 113 6 Eb Major.mid,,27,14,1
+26.125,<music21.chord.Chord B-3>,[0],[10],Children's Corner 113 6 Eb Major.mid,,27,14,1
+26.25,<music21.chord.Chord G#3>,[0],[8],Children's Corner 113 6 Eb Major.mid,,27,14,1
+26.5,<music21.chord.Chord G#3 E-3 F3>,"[0, 2, 5]","[3, 5, 8]",Children's Corner 113 6 Eb Major.mid,,27,14,1
+26.625,<music21.chord.Chord G#3>,[0],[8],Children's Corner 113 6 Eb Major.mid,,27,14,1
+26.75,<music21.chord.Chord B-3>,[0],[10],Children's Corner 113 6 Eb Major.mid,,27,14,1
+27.0,<music21.chord.Chord C4 E-2 B-2>,"[0, 2, 5]","[10, 0, 3]",Children's Corner 113 6 Eb Major.mid,,28,14,2
+27.5,<music21.chord.Chord G#3 E-3 F3>,"[0, 2, 5]","[3, 5, 8]",Children's Corner 113 6 Eb Major.mid,,28,14,2
+28.0,<music21.chord.Chord B-3 E-2 B-2>,"[0, 5]","[10, 3]",Children's Corner 113 6 Eb Major.mid,,29,15,1
+28.125,<music21.chord.Chord B-3>,[0],[10],Children's Corner 113 6 Eb Major.mid,,29,15,1
+28.25,<music21.chord.Chord G#3>,[0],[8],Children's Corner 113 6 Eb Major.mid,,29,15,1
+28.5,<music21.chord.Chord G#3 E-3 F3>,"[0, 2, 5]","[3, 5, 8]",Children's Corner 113 6 Eb Major.mid,,29,15,1
+28.625,<music21.chord.Chord G#3>,[0],[8],Children's Corner 113 6 Eb Major.mid,,29,15,1
+28.75,<music21.chord.Chord B-3>,[0],[10],Children's Corner 113 6 Eb Major.mid,,29,15,1
+29.0,<music21.chord.Chord B3 E-2 B-2>,"[0, 1, 5]","[10, 11, 3]",Children's Corner 113 6 Eb Major.mid,,30,15,2
+29.5,<music21.chord.Chord G#3 E-3 F3>,"[0, 2, 5]","[3, 5, 8]",Children's Corner 113 6 Eb Major.mid,,30,15,2
+30.0,<music21.chord.Chord B-3 B-2>,[0],[10],Children's Corner 113 6 Eb Major.mid,,31,16,1
+30.25,<music21.chord.Chord G3 G2>,[0],[7],Children's Corner 113 6 Eb Major.mid,,31,16,1
+30.75,<music21.chord.Chord F3 F2>,[0],[5],Children's Corner 113 6 Eb Major.mid,,31,16,1
+31.0,<music21.chord.Chord E-3 E-2>,[0],[3],Children's Corner 113 6 Eb Major.mid,,32,16,2
+31.5,<music21.chord.Chord D3 D2>,[0],[2],Children's Corner 113 6 Eb Major.mid,,32,16,2
+32.0,<music21.chord.Chord C3 C2>,[0],[0],Children's Corner 113 6 Eb Major.mid,,33,17,1
+32.5,<music21.chord.Chord G2 G1>,[0],[7],Children's Corner 113 6 Eb Major.mid,,33,17,1
+33.0,<music21.chord.Chord C3 C2>,[0],[0],Children's Corner 113 6 Eb Major.mid,,34,17,2
+33.5,<music21.chord.Chord D3 D2>,[0],[2],Children's Corner 113 6 Eb Major.mid,2,34,17,2
+34.0,<music21.chord.Chord B-4 E-2 B-2>,"[0, 5]","[10, 3]",Children's Corner 113 6 Eb Major.mid,1,35,18,1
+34.125,<music21.chord.Chord B-4>,[0],[10],Children's Corner 113 6 Eb Major.mid,,35,18,1
+34.25,<music21.chord.Chord G#4>,[0],[8],Children's Corner 113 6 Eb Major.mid,,35,18,1
+34.5,<music21.chord.Chord B3 E-4 G#4 F3 G#3>,"[0, 2, 5, 8]","[3, 5, 8, 11]",Children's Corner 113 6 Eb Major.mid,,35,18,1
+34.625,<music21.chord.Chord G#4 B3 E-4>,"[0, 3, 7]","[8, 11, 3]",Children's Corner 113 6 Eb Major.mid,,35,18,1
+34.75,<music21.chord.Chord B-4 B3 E-4>,"[0, 1, 5]","[10, 11, 3]",Children's Corner 113 6 Eb Major.mid,,35,18,1
+35.0,<music21.chord.Chord F4 E-2 B-2>,"[0, 2, 7]","[3, 5, 10]",Children's Corner 113 6 Eb Major.mid,,36,18,2
+35.5,<music21.chord.Chord B-4 B3 E-4 F3 G#3>,"[0, 2, 5, 7, 8]","[3, 5, 8, 10, 11]",Children's Corner 113 6 Eb Major.mid,,36,18,2
+35.625,<music21.chord.Chord B3 E-4>,"[0, 4]","[11, 3]",Children's Corner 113 6 Eb Major.mid,,36,18,2
+36.0,<music21.chord.Chord G#4 E-2 B-2>,"[0, 2, 7]","[8, 10, 3]",Children's Corner 113 6 Eb Major.mid,,37,19,1
+36.125,<music21.chord.Chord G#4>,[0],[8],Children's Corner 113 6 Eb Major.mid,,37,19,1
+36.25,<music21.chord.Chord F4>,[0],[5],Children's Corner 113 6 Eb Major.mid,,37,19,1
+36.5,<music21.chord.Chord B3 F4 F3 G#3>,"[0, 3, 6]","[5, 8, 11]",Children's Corner 113 6 Eb Major.mid,,37,19,1
+36.625,<music21.chord.Chord F4 B3>,"[0, 6]","[5, 11]",Children's Corner 113 6 Eb Major.mid,,37,19,1
+36.75,<music21.chord.Chord E-4 B3>,"[0, 4]","[11, 3]",Children's Corner 113 6 Eb Major.mid,,37,19,1
+37.0,<music21.chord.Chord B3 E-2 B-2>,"[0, 1, 5]","[10, 11, 3]",Children's Corner 113 6 Eb Major.mid,,38,19,2
+37.5,<music21.chord.Chord E-4 B3 F3 G#3>,"[0, 2, 5, 8]","[3, 5, 8, 11]",Children's Corner 113 6 Eb Major.mid,,38,19,2
+37.625,<music21.chord.Chord B3>,[0],[11],Children's Corner 113 6 Eb Major.mid,,38,19,2
+38.0,<music21.chord.Chord B-3 E-2 B-2>,"[0, 5]","[10, 3]",Children's Corner 113 6 Eb Major.mid,,39,20,1
+38.125,<music21.chord.Chord B-3>,[0],[10],Children's Corner 113 6 Eb Major.mid,,39,20,1
+38.25,<music21.chord.Chord B-3>,[0],[10],Children's Corner 113 6 Eb Major.mid,,39,20,1
+38.5,<music21.chord.Chord F3 G3>,"[0, 2]","[5, 7]",Children's Corner 113 6 Eb Major.mid,,39,20,1
+38.75,<music21.chord.Chord C4>,[0],[0],Children's Corner 113 6 Eb Major.mid,,39,20,1
+39.0,<music21.chord.Chord B-3 E-2 B-2>,"[0, 5]","[10, 3]",Children's Corner 113 6 Eb Major.mid,,40,20,2
+39.125,<music21.chord.Chord B-3>,[0],[10],Children's Corner 113 6 Eb Major.mid,,40,20,2
+39.5,<music21.chord.Chord E-4 B-4 F3 G3>,"[0, 2, 4, 7]","[3, 5, 7, 10]",Children's Corner 113 6 Eb Major.mid,,40,20,2
+40.0,<music21.chord.Chord B-3 E-2 B-2>,"[0, 5]","[10, 3]",Children's Corner 113 6 Eb Major.mid,,41,21,1
+40.125,<music21.chord.Chord B-3>,[0],[10],Children's Corner 113 6 Eb Major.mid,,41,21,1
+40.5,<music21.chord.Chord B-3 F3 G3>,"[0, 2, 5]","[5, 7, 10]",Children's Corner 113 6 Eb Major.mid,,41,21,1
+40.625,<music21.chord.Chord B-3>,[0],[10],Children's Corner 113 6 Eb Major.mid,,41,21,1
+41.0,<music21.chord.Chord B-3 E-2 B-2>,"[0, 5]","[10, 3]",Children's Corner 113 6 Eb Major.mid,,42,21,2
+41.125,<music21.chord.Chord B-3>,[0],[10],Children's Corner 113 6 Eb Major.mid,,42,21,2
+41.5,<music21.chord.Chord B-3 F3 G3>,"[0, 2, 5]","[5, 7, 10]",Children's Corner 113 6 Eb Major.mid,,42,21,2
+41.625,<music21.chord.Chord B-3>,[0],[10],Children's Corner 113 6 Eb Major.mid,,42,21,2
+42.0,<music21.chord.Chord B-3 F#2 C#3>,"[0, 4, 7]","[6, 10, 1]",Children's Corner 113 6 Eb Major.mid,,43,22,1
+42.125,<music21.chord.Chord B-3>,[0],[10],Children's Corner 113 6 Eb Major.mid,,43,22,1
+42.25,<music21.chord.Chord B-3>,[0],[10],Children's Corner 113 6 Eb Major.mid,,43,22,1
+42.5,<music21.chord.Chord C#3 F#3 G#3>,"[0, 2, 7]","[6, 8, 1]",Children's Corner 113 6 Eb Major.mid,,43,22,1
+42.75,<music21.chord.Chord C4>,[0],[0],Children's Corner 113 6 Eb Major.mid,,43,22,1
+43.0,<music21.chord.Chord B-3 F#2 C#3>,"[0, 4, 7]","[6, 10, 1]",Children's Corner 113 6 Eb Major.mid,,44,22,2
+43.5,<music21.chord.Chord C#4 C#3 F#3 A3>,"[0, 3, 7]","[6, 9, 1]",Children's Corner 113 6 Eb Major.mid,,44,22,2
+44.0,<music21.chord.Chord E-4 F#2 C#3>,"[0, 2, 5]","[1, 3, 6]",Children's Corner 113 6 Eb Major.mid,,45,23,1
+44.5,<music21.chord.Chord F4 C#3 F#3 B-3>,"[0, 1, 5, 8]","[5, 6, 10, 1]",Children's Corner 113 6 Eb Major.mid,,45,23,1
+45.0,<music21.chord.Chord E-4 F#2 C#3>,"[0, 2, 5]","[1, 3, 6]",Children's Corner 113 6 Eb Major.mid,,46,23,2
+45.5,<music21.chord.Chord F#4 C#3 F#3 B3>,"[0, 2, 7]","[11, 1, 6]",Children's Corner 113 6 Eb Major.mid,,46,23,2
+46.0,<music21.chord.Chord F4>,[0],[5],Children's Corner 113 6 Eb Major.mid,,47,24,1
+46.25,<music21.chord.Chord F4>,[0],[5],Children's Corner 113 6 Eb Major.mid,,47,24,1
+46.5,<music21.chord.Chord C#4 E4>,"[0, 3]","[1, 4]",Children's Corner 113 6 Eb Major.mid,,47,24,1
+46.75,<music21.chord.Chord G4 C#4 E4>,"[0, 3, 6]","[1, 4, 7]",Children's Corner 113 6 Eb Major.mid,,47,24,1
+47.0,<music21.chord.Chord F4 C4 E-4>,"[0, 3, 5]","[0, 3, 5]",Children's Corner 113 6 Eb Major.mid,,48,24,2
+47.5,<music21.chord.Chord G4 D5 F3 A3 E-4>,"[0, 1, 3, 5, 7]","[2, 3, 5, 7, 9]",Children's Corner 113 6 Eb Major.mid,,48,24,2
+48.0,<music21.chord.Chord D4 B-4 B-2 F3 B-3>,"[0, 4, 7]","[10, 2, 5]",Children's Corner 113 6 Eb Major.mid,,49,25,1
+49.0,<music21.chord.Chord B-5 B-6 B-1 B-2>,[0],[10],Children's Corner 113 6 Eb Major.mid,2,50,25,2
+50.0,<music21.chord.Chord C4 E-4 G#3 B-3>,"[0, 2, 4, 7]","[8, 10, 0, 3]",Children's Corner 113 6 Eb Major.mid,1,51,26,1
+50.125,<music21.chord.Chord C4 E-4>,"[0, 3]","[0, 3]",Children's Corner 113 6 Eb Major.mid,,51,26,1
+50.25,<music21.chord.Chord D4 F4>,"[0, 3]","[2, 5]",Children's Corner 113 6 Eb Major.mid,,51,26,1
+50.5,<music21.chord.Chord D4 F4 G#4 B-4>,"[0, 3, 6, 8]","[2, 5, 8, 10]",Children's Corner 113 6 Eb Major.mid,,51,26,1
+50.625,<music21.chord.Chord D4 F4>,"[0, 3]","[2, 5]",Children's Corner 113 6 Eb Major.mid,,51,26,1
+50.75,<music21.chord.Chord E-4 G4>,"[0, 4]","[3, 7]",Children's Corner 113 6 Eb Major.mid,,51,26,1
+51.0,<music21.chord.Chord D4 F4 G#3 B-3>,"[0, 3, 6, 8]","[2, 5, 8, 10]",Children's Corner 113 6 Eb Major.mid,,52,26,2
+51.5,<music21.chord.Chord C4 E-4 G#4 B-4>,"[0, 2, 4, 7]","[8, 10, 0, 3]",Children's Corner 113 6 Eb Major.mid,,52,26,2
+52.0,<music21.chord.Chord D4 F4 G#3 B-3>,"[0, 3, 6, 8]","[2, 5, 8, 10]",Children's Corner 113 6 Eb Major.mid,,53,27,1
+52.125,<music21.chord.Chord D4 F4>,"[0, 3]","[2, 5]",Children's Corner 113 6 Eb Major.mid,,53,27,1
+52.5,<music21.chord.Chord D4 F4 G#4 B-4>,"[0, 3, 6, 8]","[2, 5, 8, 10]",Children's Corner 113 6 Eb Major.mid,,53,27,1
+52.625,<music21.chord.Chord D4 F4>,"[0, 3]","[2, 5]",Children's Corner 113 6 Eb Major.mid,,53,27,1
+53.0,<music21.chord.Chord B-6 B-5 D4 F4 G#3 B-3>,"[0, 3, 6, 8]","[2, 5, 8, 10]",Children's Corner 113 6 Eb Major.mid,,54,27,2
+53.125,<music21.chord.Chord D4 F4 B-6 B-5>,"[0, 4, 7]","[10, 2, 5]",Children's Corner 113 6 Eb Major.mid,,54,27,2
+53.5,<music21.chord.Chord D4 F4 G#4 B-4>,"[0, 3, 6, 8]","[2, 5, 8, 10]",Children's Corner 113 6 Eb Major.mid,,54,27,2
+53.625,<music21.chord.Chord D4 F4>,"[0, 3]","[2, 5]",Children's Corner 113 6 Eb Major.mid,,54,27,2
+54.0,<music21.chord.Chord C4 E-4 G3 B-3>,"[0, 3, 5, 8]","[7, 10, 0, 3]",Children's Corner 113 6 Eb Major.mid,,55,28,1
+54.125,<music21.chord.Chord C4 E-4>,"[0, 3]","[0, 3]",Children's Corner 113 6 Eb Major.mid,,55,28,1
+54.25,<music21.chord.Chord D4 F4>,"[0, 3]","[2, 5]",Children's Corner 113 6 Eb Major.mid,,55,28,1
+54.5,<music21.chord.Chord D4 F4 G4 B-4>,"[0, 3, 5, 8]","[2, 5, 7, 10]",Children's Corner 113 6 Eb Major.mid,,55,28,1
+54.625,<music21.chord.Chord D4 F4>,"[0, 3]","[2, 5]",Children's Corner 113 6 Eb Major.mid,,55,28,1
+54.75,<music21.chord.Chord E-4 G4>,"[0, 4]","[3, 7]",Children's Corner 113 6 Eb Major.mid,,55,28,1
+55.0,<music21.chord.Chord D4 F4 G3 B-3>,"[0, 3, 5, 8]","[2, 5, 7, 10]",Children's Corner 113 6 Eb Major.mid,,56,28,2
+55.5,<music21.chord.Chord C4 E-4 G4 B-4>,"[0, 3, 5, 8]","[7, 10, 0, 3]",Children's Corner 113 6 Eb Major.mid,,56,28,2
+56.0,<music21.chord.Chord D4 F4 G3 B-3>,"[0, 3, 5, 8]","[2, 5, 7, 10]",Children's Corner 113 6 Eb Major.mid,,57,29,1
+56.5,<music21.chord.Chord C4 E-4 G4 B-4>,"[0, 3, 5, 8]","[7, 10, 0, 3]",Children's Corner 113 6 Eb Major.mid,,57,29,1
+56.625,<music21.chord.Chord C4 E-4>,"[0, 3]","[0, 3]",Children's Corner 113 6 Eb Major.mid,,57,29,1
+57.0,<music21.chord.Chord D4 F4 G3 B-3>,"[0, 3, 5, 8]","[2, 5, 7, 10]",Children's Corner 113 6 Eb Major.mid,,58,29,2
+57.5,<music21.chord.Chord G4 B-4 C5 E-4>,"[0, 3, 5, 8]","[7, 10, 0, 3]",Children's Corner 113 6 Eb Major.mid,,58,29,2
+58.0,<music21.chord.Chord G#3 C4 E-4 B-2>,"[0, 2, 4, 7]","[8, 10, 0, 3]",Children's Corner 113 6 Eb Major.mid,,59,30,1
+58.25,<music21.chord.Chord G#3 C4 E-4 C3>,"[0, 4, 7]","[8, 0, 3]",Children's Corner 113 6 Eb Major.mid,,59,30,1
+58.75,<music21.chord.Chord G#3 C4 E-4 D3>,"[0, 4, 6, 7]","[8, 0, 2, 3]",Children's Corner 113 6 Eb Major.mid,,59,30,1
+59.0,<music21.chord.Chord G#3 C4 E-4 C3>,"[0, 4, 7]","[8, 0, 3]",Children's Corner 113 6 Eb Major.mid,,60,30,2
+59.125,<music21.chord.Chord G#3 C4 E-4>,"[0, 4, 7]","[8, 0, 3]",Children's Corner 113 6 Eb Major.mid,,60,30,2
+59.5,<music21.chord.Chord G#3 C4 E-4 B-2>,"[0, 2, 4, 7]","[8, 10, 0, 3]",Children's Corner 113 6 Eb Major.mid,,60,30,2
+59.625,<music21.chord.Chord G#3 C4 E-4>,"[0, 4, 7]","[8, 0, 3]",Children's Corner 113 6 Eb Major.mid,,60,30,2
+60.0,<music21.chord.Chord G#3 C4 E-4 B-2>,"[0, 2, 4, 7]","[8, 10, 0, 3]",Children's Corner 113 6 Eb Major.mid,,61,31,1
+60.25,<music21.chord.Chord G#3 C4 E-4 C3>,"[0, 4, 7]","[8, 0, 3]",Children's Corner 113 6 Eb Major.mid,,61,31,1
+60.75,<music21.chord.Chord G#3 C4 E-4 D3>,"[0, 4, 6, 7]","[8, 0, 2, 3]",Children's Corner 113 6 Eb Major.mid,,61,31,1
+61.0,<music21.chord.Chord G#3 C4 E-4 C3>,"[0, 4, 7]","[8, 0, 3]",Children's Corner 113 6 Eb Major.mid,,62,31,2
+61.125,<music21.chord.Chord G#3 C4 E-4>,"[0, 4, 7]","[8, 0, 3]",Children's Corner 113 6 Eb Major.mid,,62,31,2
+61.5,<music21.chord.Chord G#3 C4 E-4 B-2>,"[0, 2, 4, 7]","[8, 10, 0, 3]",Children's Corner 113 6 Eb Major.mid,,62,31,2
+61.625,<music21.chord.Chord G#3 C4 E-4>,"[0, 4, 7]","[8, 0, 3]",Children's Corner 113 6 Eb Major.mid,,62,31,2
+62.0,<music21.chord.Chord G3 C4 E-4 B-2>,"[0, 3, 5, 8]","[7, 10, 0, 3]",Children's Corner 113 6 Eb Major.mid,,63,32,1
+62.25,<music21.chord.Chord G3 C4 E-4 C3>,"[0, 3, 7]","[0, 3, 7]",Children's Corner 113 6 Eb Major.mid,,63,32,1
+62.75,<music21.chord.Chord G3 C4 E-4 D3>,"[0, 2, 3, 7]","[0, 2, 3, 7]",Children's Corner 113 6 Eb Major.mid,,63,32,1
+63.0,<music21.chord.Chord G3 C4 E-4 C3>,"[0, 3, 7]","[0, 3, 7]",Children's Corner 113 6 Eb Major.mid,,64,32,2
+63.125,<music21.chord.Chord G3 C4 E-4>,"[0, 3, 7]","[0, 3, 7]",Children's Corner 113 6 Eb Major.mid,,64,32,2
+63.5,<music21.chord.Chord G3 C4 E-4 B-2>,"[0, 3, 5, 8]","[7, 10, 0, 3]",Children's Corner 113 6 Eb Major.mid,,64,32,2
+63.625,<music21.chord.Chord G3 C4 E-4>,"[0, 3, 7]","[0, 3, 7]",Children's Corner 113 6 Eb Major.mid,,64,32,2
+64.25,<music21.chord.Chord B-2 B-1>,[0],[10],Children's Corner 113 6 Eb Major.mid,,65,33,1
+64.5,<music21.chord.Chord C3 C2>,[0],[0],Children's Corner 113 6 Eb Major.mid,,65,33,1
+64.75,<music21.chord.Chord D3 D2>,[0],[2],Children's Corner 113 6 Eb Major.mid,,65,33,1
+65.0,<music21.chord.Chord C3 C2>,[0],[0],Children's Corner 113 6 Eb Major.mid,,66,33,2
+65.5,<music21.chord.Chord B-2 B-0 B-1>,[0],[10],Children's Corner 113 6 Eb Major.mid,2,66,33,2
+66.0,<music21.chord.Chord C4 E-4 G#3 B-3>,"[0, 2, 4, 7]","[8, 10, 0, 3]",Children's Corner 113 6 Eb Major.mid,1,67,34,1
+66.125,<music21.chord.Chord C4 E-4>,"[0, 3]","[0, 3]",Children's Corner 113 6 Eb Major.mid,,67,34,1
+66.25,<music21.chord.Chord D4 F4>,"[0, 3]","[2, 5]",Children's Corner 113 6 Eb Major.mid,,67,34,1
+66.5,<music21.chord.Chord D4 F4 G#4 B-4>,"[0, 3, 6, 8]","[2, 5, 8, 10]",Children's Corner 113 6 Eb Major.mid,,67,34,1
+66.625,<music21.chord.Chord D4 F4>,"[0, 3]","[2, 5]",Children's Corner 113 6 Eb Major.mid,,67,34,1
+66.75,<music21.chord.Chord E-4 G4>,"[0, 4]","[3, 7]",Children's Corner 113 6 Eb Major.mid,,67,34,1
+67.0,<music21.chord.Chord D4 F4 G#3 B-3>,"[0, 3, 6, 8]","[2, 5, 8, 10]",Children's Corner 113 6 Eb Major.mid,,68,34,2
+67.5,<music21.chord.Chord C4 E-4 G#4 B-4>,"[0, 2, 4, 7]","[8, 10, 0, 3]",Children's Corner 113 6 Eb Major.mid,,68,34,2
+68.0,<music21.chord.Chord D4 F4 G#3 B-3>,"[0, 3, 6, 8]","[2, 5, 8, 10]",Children's Corner 113 6 Eb Major.mid,,69,35,1
+68.125,<music21.chord.Chord D4 F4>,"[0, 3]","[2, 5]",Children's Corner 113 6 Eb Major.mid,,69,35,1
+68.5,<music21.chord.Chord D4 F4 G#4 B-4>,"[0, 3, 6, 8]","[2, 5, 8, 10]",Children's Corner 113 6 Eb Major.mid,,69,35,1
+68.625,<music21.chord.Chord D4 F4>,"[0, 3]","[2, 5]",Children's Corner 113 6 Eb Major.mid,,69,35,1
+69.0,<music21.chord.Chord B-6 B-5 D4 F4 G#3 B-3>,"[0, 3, 6, 8]","[2, 5, 8, 10]",Children's Corner 113 6 Eb Major.mid,,70,35,2
+69.125,<music21.chord.Chord D4 F4 B-6 B-5>,"[0, 4, 7]","[10, 2, 5]",Children's Corner 113 6 Eb Major.mid,,70,35,2
+69.5,<music21.chord.Chord D4 F4 G#4 B-4>,"[0, 3, 6, 8]","[2, 5, 8, 10]",Children's Corner 113 6 Eb Major.mid,,70,35,2
+69.625,<music21.chord.Chord D4 F4>,"[0, 3]","[2, 5]",Children's Corner 113 6 Eb Major.mid,,70,35,2
+70.0,<music21.chord.Chord C4 E-4 G3 B-3>,"[0, 3, 5, 8]","[7, 10, 0, 3]",Children's Corner 113 6 Eb Major.mid,,71,36,1
+70.125,<music21.chord.Chord C4 E-4>,"[0, 3]","[0, 3]",Children's Corner 113 6 Eb Major.mid,,71,36,1
+70.25,<music21.chord.Chord D4 F4>,"[0, 3]","[2, 5]",Children's Corner 113 6 Eb Major.mid,,71,36,1
+70.5,<music21.chord.Chord D4 F4 G4 B-4>,"[0, 3, 5, 8]","[2, 5, 7, 10]",Children's Corner 113 6 Eb Major.mid,,71,36,1
+70.625,<music21.chord.Chord D4 F4>,"[0, 3]","[2, 5]",Children's Corner 113 6 Eb Major.mid,,71,36,1
+70.75,<music21.chord.Chord E-4 G4>,"[0, 4]","[3, 7]",Children's Corner 113 6 Eb Major.mid,,71,36,1
+71.0,<music21.chord.Chord D4 F4 G3 B-3>,"[0, 3, 5, 8]","[2, 5, 7, 10]",Children's Corner 113 6 Eb Major.mid,,72,36,2
+71.5,<music21.chord.Chord C4 E-4 G4 B-4>,"[0, 3, 5, 8]","[7, 10, 0, 3]",Children's Corner 113 6 Eb Major.mid,,72,36,2
+72.0,<music21.chord.Chord D4 F4 G3 B-3>,"[0, 3, 5, 8]","[2, 5, 7, 10]",Children's Corner 113 6 Eb Major.mid,,73,37,1
+72.5,<music21.chord.Chord C4 E-4 G4 B-4>,"[0, 3, 5, 8]","[7, 10, 0, 3]",Children's Corner 113 6 Eb Major.mid,,73,37,1
+72.625,<music21.chord.Chord C4 E-4>,"[0, 3]","[0, 3]",Children's Corner 113 6 Eb Major.mid,,73,37,1
+73.0,<music21.chord.Chord D4 F4 G3 B-3>,"[0, 3, 5, 8]","[2, 5, 7, 10]",Children's Corner 113 6 Eb Major.mid,,74,37,2
+73.5,<music21.chord.Chord G4 B-4 C5 E-4>,"[0, 3, 5, 8]","[7, 10, 0, 3]",Children's Corner 113 6 Eb Major.mid,,74,37,2
+74.0,<music21.chord.Chord B-5 B4 E-5 B-4 B3 E-4>,"[0, 1, 5]","[10, 11, 3]",Children's Corner 113 6 Eb Major.mid,,75,38,1
+74.25,<music21.chord.Chord G#5 B4 E-5 G#4 B3 E-4>,"[0, 3, 7]","[8, 11, 3]",Children's Corner 113 6 Eb Major.mid,,75,38,1
+74.75,<music21.chord.Chord B-5 B4 E-5 B-4 B3 E-4>,"[0, 1, 5]","[10, 11, 3]",Children's Corner 113 6 Eb Major.mid,,75,38,1
+75.0,<music21.chord.Chord F5 B4 E-5 F4 B3 E-4>,"[0, 4, 6]","[11, 3, 5]",Children's Corner 113 6 Eb Major.mid,,76,38,2
+75.5,<music21.chord.Chord B-5 B4 E-5 B-4 B3 E-4>,"[0, 1, 5]","[10, 11, 3]",Children's Corner 113 6 Eb Major.mid,,76,38,2
+76.0,<music21.chord.Chord G#5 B4 E-5 G#4 B3 E-4>,"[0, 3, 7]","[8, 11, 3]",Children's Corner 113 6 Eb Major.mid,,77,39,1
+76.25,<music21.chord.Chord F5 B4 E-5 F4 B3 E-4>,"[0, 4, 6]","[11, 3, 5]",Children's Corner 113 6 Eb Major.mid,,77,39,1
+76.75,<music21.chord.Chord E-5 B4 E-4 B3>,"[0, 4]","[11, 3]",Children's Corner 113 6 Eb Major.mid,,77,39,1
+77.0,<music21.chord.Chord B4 B3>,[0],[11],Children's Corner 113 6 Eb Major.mid,,78,39,2
+78.25,<music21.chord.Chord G#4 G#3>,[0],[8],Children's Corner 113 6 Eb Major.mid,,79,40,1
+78.5,<music21.chord.Chord F4 F3>,[0],[5],Children's Corner 113 6 Eb Major.mid,,79,40,1
+78.75,<music21.chord.Chord E-4 E-3>,[0],[3],Children's Corner 113 6 Eb Major.mid,,79,40,1
+79.0,<music21.chord.Chord B3 B2>,[0],[11],Children's Corner 113 6 Eb Major.mid,,80,40,2
+79.5,<music21.chord.Chord D3 G3 B-1 B-2>,"[0, 3, 7]","[7, 10, 2]",Children's Corner 113 6 Eb Major.mid,2,80,40,2
+80.5,<music21.chord.Chord E-3 B-3 F3 G3>,"[0, 2, 4, 7]","[3, 5, 7, 10]",Children's Corner 113 6 Eb Major.mid,1,81,41,1
+81.0,<music21.chord.Chord E-2 B-2>,"[0, 5]","[10, 3]",Children's Corner 113 6 Eb Major.mid,,82,41,2
+81.5,<music21.chord.Chord E-3 B-3 F3 G3>,"[0, 2, 4, 7]","[3, 5, 7, 10]",Children's Corner 113 6 Eb Major.mid,,82,41,2
+82.0,<music21.chord.Chord E-2 B-2>,"[0, 5]","[10, 3]",Children's Corner 113 6 Eb Major.mid,,83,42,1
+84.5,<music21.chord.Chord E-3 B-3 F3 G3>,"[0, 2, 4, 7]","[3, 5, 7, 10]",Children's Corner 113 6 Eb Major.mid,,85,43,1
+85.0,<music21.chord.Chord E-2 B-2>,"[0, 5]","[10, 3]",Children's Corner 113 6 Eb Major.mid,,86,43,2
+85.5,<music21.chord.Chord E-3 B-3 F3 G3>,"[0, 2, 4, 7]","[3, 5, 7, 10]",Children's Corner 113 6 Eb Major.mid,,86,43,2
+86.0,<music21.chord.Chord E-2 B-2>,"[0, 5]","[10, 3]",Children's Corner 113 6 Eb Major.mid,,87,44,1
+88.5,<music21.chord.Chord E-3 B-3 F3 G3>,"[0, 2, 4, 7]","[3, 5, 7, 10]",Children's Corner 113 6 Eb Major.mid,,89,45,1
+89.0,<music21.chord.Chord E-2 B-2>,"[0, 5]","[10, 3]",Children's Corner 113 6 Eb Major.mid,,90,45,2
+89.5,<music21.chord.Chord E-3 B-3 F3 G3>,"[0, 2, 4, 7]","[3, 5, 7, 10]",Children's Corner 113 6 Eb Major.mid,,90,45,2
+90.0,<music21.chord.Chord E-2>,[0],[3],Children's Corner 113 6 Eb Major.mid,,91,46,1
+91.0,<music21.chord.Chord F2>,[0],[5],Children's Corner 113 6 Eb Major.mid,2,92,46,2
+92.0,<music21.chord.Chord C#3 F#2>,"[0, 5]","[1, 6]",Children's Corner 113 6 Eb Major.mid,1,93,47,1
+92.125,<music21.chord.Chord C#3>,[0],[1],Children's Corner 113 6 Eb Major.mid,,93,47,1
+92.375,<music21.chord.Chord A3 C#3>,"[0, 4]","[9, 1]",Children's Corner 113 6 Eb Major.mid,,93,47,1
+92.5,<music21.chord.Chord B-3 C#4 C#3>,"[0, 3]","[10, 1]",Children's Corner 113 6 Eb Major.mid,,93,47,1
+92.625,<music21.chord.Chord C#3>,[0],[1],Children's Corner 113 6 Eb Major.mid,,93,47,1
+93.0,<music21.chord.Chord F#2 C#3>,"[0, 5]","[1, 6]",Children's Corner 113 6 Eb Major.mid,,94,47,2
+93.125,<music21.chord.Chord C#3>,[0],[1],Children's Corner 113 6 Eb Major.mid,,94,47,2
+93.375,<music21.chord.Chord A3 C#3>,"[0, 4]","[9, 1]",Children's Corner 113 6 Eb Major.mid,,94,47,2
+93.5,<music21.chord.Chord B-3 C#4 C#3>,"[0, 3]","[10, 1]",Children's Corner 113 6 Eb Major.mid,,94,47,2
+93.625,<music21.chord.Chord C#3>,[0],[1],Children's Corner 113 6 Eb Major.mid,,94,47,2
+94.0,<music21.chord.Chord F#2 C#3>,"[0, 5]","[1, 6]",Children's Corner 113 6 Eb Major.mid,,95,48,1
+94.125,<music21.chord.Chord C#3>,[0],[1],Children's Corner 113 6 Eb Major.mid,,95,48,1
+94.375,<music21.chord.Chord G3 C#3>,"[0, 6]","[1, 7]",Children's Corner 113 6 Eb Major.mid,,95,48,1
+94.5,<music21.chord.Chord G#3 B3 C#3>,"[0, 3, 5]","[8, 11, 1]",Children's Corner 113 6 Eb Major.mid,,95,48,1
+94.625,<music21.chord.Chord C#3>,[0],[1],Children's Corner 113 6 Eb Major.mid,,95,48,1
+95.0,<music21.chord.Chord F#2 C#3>,"[0, 5]","[1, 6]",Children's Corner 113 6 Eb Major.mid,,96,48,2
+95.125,<music21.chord.Chord C#3>,[0],[1],Children's Corner 113 6 Eb Major.mid,,96,48,2
+95.375,<music21.chord.Chord G#3 C#3>,"[0, 5]","[8, 1]",Children's Corner 113 6 Eb Major.mid,,96,48,2
+95.5,<music21.chord.Chord A3 C4 F4 C#3>,"[0, 4, 7, 8]","[5, 9, 0, 1]",Children's Corner 113 6 Eb Major.mid,,96,48,2
+95.625,<music21.chord.Chord C#3>,[0],[1],Children's Corner 113 6 Eb Major.mid,,96,48,2
+95.875,<music21.chord.Chord E-3 C#3>,"[0, 2]","[1, 3]",Children's Corner 113 6 Eb Major.mid,,96,48,2
+96.0,<music21.chord.Chord C#3 F#2>,"[0, 5]","[1, 6]",Children's Corner 113 6 Eb Major.mid,,97,49,1
+96.125,<music21.chord.Chord C#3>,[0],[1],Children's Corner 113 6 Eb Major.mid,,97,49,1
+96.375,<music21.chord.Chord A3 C#3>,"[0, 4]","[9, 1]",Children's Corner 113 6 Eb Major.mid,,97,49,1
+96.5,<music21.chord.Chord B-3 C#4 C#3>,"[0, 3]","[10, 1]",Children's Corner 113 6 Eb Major.mid,,97,49,1
+96.625,<music21.chord.Chord C#3>,[0],[1],Children's Corner 113 6 Eb Major.mid,,97,49,1
+97.0,<music21.chord.Chord F#2 C#3>,"[0, 5]","[1, 6]",Children's Corner 113 6 Eb Major.mid,,98,49,2
+97.125,<music21.chord.Chord C#3>,[0],[1],Children's Corner 113 6 Eb Major.mid,,98,49,2
+97.375,<music21.chord.Chord A3 C#3>,"[0, 4]","[9, 1]",Children's Corner 113 6 Eb Major.mid,,98,49,2
+97.5,<music21.chord.Chord B-3 C#4 C#3>,"[0, 3]","[10, 1]",Children's Corner 113 6 Eb Major.mid,,98,49,2
+97.625,<music21.chord.Chord C#3>,[0],[1],Children's Corner 113 6 Eb Major.mid,,98,49,2
+98.0,<music21.chord.Chord F#2 C#3>,"[0, 5]","[1, 6]",Children's Corner 113 6 Eb Major.mid,,99,50,1
+98.125,<music21.chord.Chord C#3>,[0],[1],Children's Corner 113 6 Eb Major.mid,,99,50,1
+98.375,<music21.chord.Chord G3 C#3>,"[0, 6]","[1, 7]",Children's Corner 113 6 Eb Major.mid,,99,50,1
+98.5,<music21.chord.Chord G#3 B3 C#3>,"[0, 3, 5]","[8, 11, 1]",Children's Corner 113 6 Eb Major.mid,,99,50,1
+98.625,<music21.chord.Chord C#3>,[0],[1],Children's Corner 113 6 Eb Major.mid,,99,50,1
+99.0,<music21.chord.Chord F#2 C#3>,"[0, 5]","[1, 6]",Children's Corner 113 6 Eb Major.mid,,100,50,2
+99.125,<music21.chord.Chord C#3>,[0],[1],Children's Corner 113 6 Eb Major.mid,,100,50,2
+99.375,<music21.chord.Chord G#3 C#3>,"[0, 5]","[8, 1]",Children's Corner 113 6 Eb Major.mid,,100,50,2
+99.5,<music21.chord.Chord A3 C4 F4 C#3>,"[0, 4, 7, 8]","[5, 9, 0, 1]",Children's Corner 113 6 Eb Major.mid,,100,50,2
+99.625,<music21.chord.Chord C#3>,[0],[1],Children's Corner 113 6 Eb Major.mid,,100,50,2
+100.0,<music21.chord.Chord C#3>,[0],[1],Children's Corner 113 6 Eb Major.mid,,101,51,1
+100.375,<music21.chord.Chord A3 C#3>,"[0, 4]","[9, 1]",Children's Corner 113 6 Eb Major.mid,,101,51,1
+100.5,<music21.chord.Chord B-3 C#4 F#2 C#3>,"[0, 4, 7]","[6, 10, 1]",Children's Corner 113 6 Eb Major.mid,,101,51,1
+100.625,<music21.chord.Chord C#3>,[0],[1],Children's Corner 113 6 Eb Major.mid,,101,51,1
+101.0,<music21.chord.Chord F2 C#3>,"[0, 4]","[1, 5]",Children's Corner 113 6 Eb Major.mid,,102,51,2
+101.125,<music21.chord.Chord C#3>,[0],[1],Children's Corner 113 6 Eb Major.mid,,102,51,2
+101.5,<music21.chord.Chord E-2 C#3>,"[0, 2]","[1, 3]",Children's Corner 113 6 Eb Major.mid,,102,51,2
+101.625,<music21.chord.Chord C#3>,[0],[1],Children's Corner 113 6 Eb Major.mid,,102,51,2
+102.0,<music21.chord.Chord C#2 C#3>,[0],[1],Children's Corner 113 6 Eb Major.mid,,103,52,1
+102.125,<music21.chord.Chord C#3>,[0],[1],Children's Corner 113 6 Eb Major.mid,,103,52,1
+102.875,<music21.chord.Chord A3 C#3>,"[0, 4]","[9, 1]",Children's Corner 113 6 Eb Major.mid,,103,52,1
+103.0,<music21.chord.Chord B-3 C#4 C#3>,"[0, 3]","[10, 1]",Children's Corner 113 6 Eb Major.mid,,104,52,2
+103.125,<music21.chord.Chord C#3>,[0],[1],Children's Corner 113 6 Eb Major.mid,,104,52,2
+104.5,<music21.chord.Chord F#2>,[0],[6],Children's Corner 113 6 Eb Major.mid,,105,53,1
+105.0,<music21.chord.Chord F2>,[0],[5],Children's Corner 113 6 Eb Major.mid,,106,53,2
+105.5,<music21.chord.Chord E-2>,[0],[3],Children's Corner 113 6 Eb Major.mid,,106,53,2
+106.0,<music21.chord.Chord C#2>,[0],[1],Children's Corner 113 6 Eb Major.mid,,107,54,1
+106.5,<music21.chord.Chord B1>,[0],[11],Children's Corner 113 6 Eb Major.mid,,107,54,1
+106.875,<music21.chord.Chord C3>,[0],[0],Children's Corner 113 6 Eb Major.mid,,107,54,1
+107.0,<music21.chord.Chord B2 C#3 B-1>,"[0, 1, 3]","[10, 11, 1]",Children's Corner 113 6 Eb Major.mid,,108,54,2
+107.5,<music21.chord.Chord G#1>,[0],[8],Children's Corner 113 6 Eb Major.mid,2,108,54,2
+108.0,<music21.chord.Chord C#3 F#2>,"[0, 5]","[1, 6]",Children's Corner 113 6 Eb Major.mid,1,109,55,1
+108.125,<music21.chord.Chord C#3>,[0],[1],Children's Corner 113 6 Eb Major.mid,,109,55,1
+108.375,<music21.chord.Chord A3 C#3>,"[0, 4]","[9, 1]",Children's Corner 113 6 Eb Major.mid,,109,55,1
+108.5,<music21.chord.Chord B-3 C#4 C#3>,"[0, 3]","[10, 1]",Children's Corner 113 6 Eb Major.mid,,109,55,1
+108.625,<music21.chord.Chord C#3>,[0],[1],Children's Corner 113 6 Eb Major.mid,,109,55,1
+109.0,<music21.chord.Chord F#2 C#3>,"[0, 5]","[1, 6]",Children's Corner 113 6 Eb Major.mid,,110,55,2
+109.125,<music21.chord.Chord C#3>,[0],[1],Children's Corner 113 6 Eb Major.mid,,110,55,2
+109.375,<music21.chord.Chord A3 C#3>,"[0, 4]","[9, 1]",Children's Corner 113 6 Eb Major.mid,,110,55,2
+109.5,<music21.chord.Chord B-3 C#4 C#3>,"[0, 3]","[10, 1]",Children's Corner 113 6 Eb Major.mid,,110,55,2
+109.625,<music21.chord.Chord C#3>,[0],[1],Children's Corner 113 6 Eb Major.mid,,110,55,2
+110.0,<music21.chord.Chord F#2 C#3>,"[0, 5]","[1, 6]",Children's Corner 113 6 Eb Major.mid,,111,56,1
+110.125,<music21.chord.Chord C#3>,[0],[1],Children's Corner 113 6 Eb Major.mid,,111,56,1
+110.375,<music21.chord.Chord G3 C#3>,"[0, 6]","[1, 7]",Children's Corner 113 6 Eb Major.mid,,111,56,1
+110.5,<music21.chord.Chord G#3 B3 C#3>,"[0, 3, 5]","[8, 11, 1]",Children's Corner 113 6 Eb Major.mid,,111,56,1
+110.625,<music21.chord.Chord C#3>,[0],[1],Children's Corner 113 6 Eb Major.mid,,111,56,1
+111.0,<music21.chord.Chord F#2 C#3>,"[0, 5]","[1, 6]",Children's Corner 113 6 Eb Major.mid,,112,56,2
+111.125,<music21.chord.Chord C#3>,[0],[1],Children's Corner 113 6 Eb Major.mid,,112,56,2
+111.375,<music21.chord.Chord G#3 C#3>,"[0, 5]","[8, 1]",Children's Corner 113 6 Eb Major.mid,,112,56,2
+111.5,<music21.chord.Chord A3 C4 F4 C#3>,"[0, 4, 7, 8]","[5, 9, 0, 1]",Children's Corner 113 6 Eb Major.mid,,112,56,2
+111.625,<music21.chord.Chord C#3>,[0],[1],Children's Corner 113 6 Eb Major.mid,,112,56,2
+111.875,<music21.chord.Chord E-3 C#3>,"[0, 2]","[1, 3]",Children's Corner 113 6 Eb Major.mid,,112,56,2
+112.0,<music21.chord.Chord C#3 F#2>,"[0, 5]","[1, 6]",Children's Corner 113 6 Eb Major.mid,,113,57,1
+112.125,<music21.chord.Chord C#3>,[0],[1],Children's Corner 113 6 Eb Major.mid,,113,57,1
+112.375,<music21.chord.Chord A3 C#3>,"[0, 4]","[9, 1]",Children's Corner 113 6 Eb Major.mid,,113,57,1
+112.5,<music21.chord.Chord B-3 C#4 C#3>,"[0, 3]","[10, 1]",Children's Corner 113 6 Eb Major.mid,,113,57,1
+112.625,<music21.chord.Chord C#3>,[0],[1],Children's Corner 113 6 Eb Major.mid,,113,57,1
+113.0,<music21.chord.Chord F#2 C#3>,"[0, 5]","[1, 6]",Children's Corner 113 6 Eb Major.mid,,114,57,2
+113.125,<music21.chord.Chord C#3>,[0],[1],Children's Corner 113 6 Eb Major.mid,,114,57,2
+113.375,<music21.chord.Chord A3 C#3>,"[0, 4]","[9, 1]",Children's Corner 113 6 Eb Major.mid,,114,57,2
+113.5,<music21.chord.Chord B-3 C#4 C#3>,"[0, 3]","[10, 1]",Children's Corner 113 6 Eb Major.mid,,114,57,2
+113.625,<music21.chord.Chord C#3>,[0],[1],Children's Corner 113 6 Eb Major.mid,,114,57,2
+114.0,<music21.chord.Chord F#2 C#3>,"[0, 5]","[1, 6]",Children's Corner 113 6 Eb Major.mid,,115,58,1
+114.125,<music21.chord.Chord C#3>,[0],[1],Children's Corner 113 6 Eb Major.mid,,115,58,1
+114.375,<music21.chord.Chord G3 C#3>,"[0, 6]","[1, 7]",Children's Corner 113 6 Eb Major.mid,,115,58,1
+114.5,<music21.chord.Chord G#3 B3 C#3>,"[0, 3, 5]","[8, 11, 1]",Children's Corner 113 6 Eb Major.mid,,115,58,1
+114.625,<music21.chord.Chord C#3>,[0],[1],Children's Corner 113 6 Eb Major.mid,,115,58,1
+115.0,<music21.chord.Chord F#2 C#3>,"[0, 5]","[1, 6]",Children's Corner 113 6 Eb Major.mid,,116,58,2
+115.125,<music21.chord.Chord C#3>,[0],[1],Children's Corner 113 6 Eb Major.mid,,116,58,2
+115.375,<music21.chord.Chord G#3 C#3>,"[0, 5]","[8, 1]",Children's Corner 113 6 Eb Major.mid,,116,58,2
+115.5,<music21.chord.Chord A3 C4 F4 C#3>,"[0, 4, 7, 8]","[5, 9, 0, 1]",Children's Corner 113 6 Eb Major.mid,,116,58,2
+115.625,<music21.chord.Chord C#3>,[0],[1],Children's Corner 113 6 Eb Major.mid,,116,58,2
+116.0,<music21.chord.Chord C#3>,[0],[1],Children's Corner 113 6 Eb Major.mid,,117,59,1
+116.375,<music21.chord.Chord A3 C#3>,"[0, 4]","[9, 1]",Children's Corner 113 6 Eb Major.mid,,117,59,1
+116.5,<music21.chord.Chord B-3 C#4 F#2 C#3>,"[0, 4, 7]","[6, 10, 1]",Children's Corner 113 6 Eb Major.mid,,117,59,1
+116.625,<music21.chord.Chord C#3>,[0],[1],Children's Corner 113 6 Eb Major.mid,,117,59,1
+117.0,<music21.chord.Chord F2 C#3>,"[0, 4]","[1, 5]",Children's Corner 113 6 Eb Major.mid,,118,59,2
+117.125,<music21.chord.Chord C#3>,[0],[1],Children's Corner 113 6 Eb Major.mid,,118,59,2
+117.5,<music21.chord.Chord E-2 C#3>,"[0, 2]","[1, 3]",Children's Corner 113 6 Eb Major.mid,,118,59,2
+117.625,<music21.chord.Chord C#3>,[0],[1],Children's Corner 113 6 Eb Major.mid,,118,59,2
+118.0,<music21.chord.Chord C#2 C#3>,[0],[1],Children's Corner 113 6 Eb Major.mid,,119,60,1
+118.125,<music21.chord.Chord C#3>,[0],[1],Children's Corner 113 6 Eb Major.mid,2,119,60,1
+120.5,<music21.chord.Chord E-2>,[0],[3],Children's Corner 113 6 Eb Major.mid,1,121,61,1
+121.0,<music21.chord.Chord A3 F2>,"[0, 4]","[5, 9]",Children's Corner 113 6 Eb Major.mid,,122,61,2
+121.5,<music21.chord.Chord A3 F#2>,"[0, 3]","[6, 9]",Children's Corner 113 6 Eb Major.mid,,122,61,2
+122.0,<music21.chord.Chord F4 A3 A2>,"[0, 4]","[5, 9]",Children's Corner 113 6 Eb Major.mid,,123,62,1
+122.5,<music21.chord.Chord A3 F4 B-2>,"[0, 4, 5]","[5, 9, 10]",Children's Corner 113 6 Eb Major.mid,,123,62,1
+123.0,<music21.chord.Chord A3 F4 B2>,"[0, 4, 6]","[5, 9, 11]",Children's Corner 113 6 Eb Major.mid,,124,62,2
+123.5,<music21.chord.Chord B-3 E4 C3>,"[0, 2, 6]","[10, 0, 4]",Children's Corner 113 6 Eb Major.mid,,124,62,2
+124.0,<music21.chord.Chord B3 E-4 G#2 C#3>,"[0, 3, 5, 7]","[8, 11, 1, 3]",Children's Corner 113 6 Eb Major.mid,,125,63,1
+124.375,<music21.chord.Chord D5 B3 E-4 G#2 C#3>,"[0, 3, 5, 6, 7]","[8, 11, 1, 2, 3]",Children's Corner 113 6 Eb Major.mid,,125,63,1
+124.5,<music21.chord.Chord B4 E-5 B3 E-4 G#3 F4 G#2 C#3>,"[0, 2, 4, 6, 9]","[11, 1, 3, 5, 8]",Children's Corner 113 6 Eb Major.mid,,125,63,1
+124.625,<music21.chord.Chord B3 E-4 G#2 C#3>,"[0, 3, 5, 7]","[8, 11, 1, 3]",Children's Corner 113 6 Eb Major.mid,,125,63,1
+124.875,<music21.chord.Chord C5 B3 E-4 G#2 C#3>,"[0, 3, 4, 5, 7]","[8, 11, 0, 1, 3]",Children's Corner 113 6 Eb Major.mid,,125,63,1
+125.0,<music21.chord.Chord B4 C#5 B3 E-4 G#3 F4 G#2 C#3>,"[0, 2, 4, 6, 9]","[11, 1, 3, 5, 8]",Children's Corner 113 6 Eb Major.mid,,126,63,2
+125.125,<music21.chord.Chord B3 E-4 G#2 C#3>,"[0, 3, 5, 7]","[8, 11, 1, 3]",Children's Corner 113 6 Eb Major.mid,,126,63,2
+125.375,<music21.chord.Chord D5 B3 E-4 G#2 C#3>,"[0, 3, 5, 6, 7]","[8, 11, 1, 2, 3]",Children's Corner 113 6 Eb Major.mid,,126,63,2
+125.5,<music21.chord.Chord B4 E-5 B3 E-4 G#3 F4 G#2 C#3>,"[0, 2, 4, 6, 9]","[11, 1, 3, 5, 8]",Children's Corner 113 6 Eb Major.mid,,126,63,2
+125.625,<music21.chord.Chord B3 E-4 G#2 C#3>,"[0, 3, 5, 7]","[8, 11, 1, 3]",Children's Corner 113 6 Eb Major.mid,,126,63,2
+126.375,<music21.chord.Chord D5>,[0],[2],Children's Corner 113 6 Eb Major.mid,,127,64,1
+126.5,<music21.chord.Chord B4 E-5 G#3 B3 F4>,"[0, 2, 5, 8]","[3, 5, 8, 11]",Children's Corner 113 6 Eb Major.mid,,127,64,1
+126.875,<music21.chord.Chord C5>,[0],[0],Children's Corner 113 6 Eb Major.mid,,127,64,1
+127.0,<music21.chord.Chord B4 C#5 G#3 B3 F4>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Children's Corner 113 6 Eb Major.mid,,128,64,2
+127.375,<music21.chord.Chord D5>,[0],[2],Children's Corner 113 6 Eb Major.mid,,128,64,2
+127.5,<music21.chord.Chord B4 E-5 G#3 B3 F4>,"[0, 2, 5, 8]","[3, 5, 8, 11]",Children's Corner 113 6 Eb Major.mid,,128,64,2
+129.0,<music21.chord.Chord A3>,[0],[9],Children's Corner 113 6 Eb Major.mid,,130,65,2
+130.0,<music21.chord.Chord F4 A3 C#3>,"[0, 4, 8]","[1, 5, 9]",Children's Corner 113 6 Eb Major.mid,,131,66,1
+131.5,<music21.chord.Chord E4 A3 C#3>,"[0, 4, 7]","[9, 1, 4]",Children's Corner 113 6 Eb Major.mid,,132,66,2
+132.0,<music21.chord.Chord B-3 E-4 F#2 C#3>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Children's Corner 113 6 Eb Major.mid,,133,67,1
+132.375,<music21.chord.Chord D5 B-3 E-4 C#3 F#2>,"[0, 3, 4, 5, 8]","[10, 1, 2, 3, 6]",Children's Corner 113 6 Eb Major.mid,,133,67,1
+132.5,<music21.chord.Chord B-4 E-5 B-3 E-4 C#4 F#4 C#3 F#2>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Children's Corner 113 6 Eb Major.mid,,133,67,1
+132.625,<music21.chord.Chord B-3 E-4 C#3 F#2>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Children's Corner 113 6 Eb Major.mid,,133,67,1
+132.875,<music21.chord.Chord C5 B-3 E-4 C#3 F#2>,"[0, 2, 3, 5, 8]","[10, 0, 1, 3, 6]",Children's Corner 113 6 Eb Major.mid,,133,67,1
+133.0,<music21.chord.Chord B-4 C#5 B-3 E-4 C#4 F#4 C#3 F#2>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Children's Corner 113 6 Eb Major.mid,,134,67,2
+133.125,<music21.chord.Chord B-3 E-4 C#3 F#2>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Children's Corner 113 6 Eb Major.mid,,134,67,2
+133.375,<music21.chord.Chord D5 B-3 E-4 C#3 F#2>,"[0, 3, 4, 5, 8]","[10, 1, 2, 3, 6]",Children's Corner 113 6 Eb Major.mid,,134,67,2
+133.5,<music21.chord.Chord B-4 E-5 B-3 E-4 C#4 F#4 C#3 F#2>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Children's Corner 113 6 Eb Major.mid,,134,67,2
+133.625,<music21.chord.Chord B-3 E-4 C#3 F#2>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Children's Corner 113 6 Eb Major.mid,,134,67,2
+134.375,<music21.chord.Chord D5>,[0],[2],Children's Corner 113 6 Eb Major.mid,,135,68,1
+134.5,<music21.chord.Chord B-4 E-5 B-3 C#4 F#4>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Children's Corner 113 6 Eb Major.mid,,135,68,1
+134.875,<music21.chord.Chord C5>,[0],[0],Children's Corner 113 6 Eb Major.mid,,135,68,1
+135.0,<music21.chord.Chord B-4 C#5 B-3 C#4 F#4>,"[0, 4, 7]","[6, 10, 1]",Children's Corner 113 6 Eb Major.mid,,136,68,2
+135.375,<music21.chord.Chord D5>,[0],[2],Children's Corner 113 6 Eb Major.mid,,136,68,2
+135.5,<music21.chord.Chord B-4 E-5 B-3 C#4 F#4>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Children's Corner 113 6 Eb Major.mid,2,136,68,2
+137.0,<music21.chord.Chord A4 A3>,[0],[9],Children's Corner 113 6 Eb Major.mid,1,138,69,2
+138.0,<music21.chord.Chord F5 F4>,[0],[5],Children's Corner 113 6 Eb Major.mid,,139,70,1
+138.5,<music21.chord.Chord G#5 G#4>,[0],[8],Children's Corner 113 6 Eb Major.mid,,139,70,1
+139.5,<music21.chord.Chord F#5 F#4>,[0],[6],Children's Corner 113 6 Eb Major.mid,,140,70,2
+140.0,<music21.chord.Chord E-5 B-4 C#3>,"[0, 3, 5]","[10, 1, 3]",Children's Corner 113 6 Eb Major.mid,,141,71,1
+140.25,<music21.chord.Chord F#5 B-4 C#3>,"[0, 4, 7]","[6, 10, 1]",Children's Corner 113 6 Eb Major.mid,,141,71,1
+140.5,<music21.chord.Chord G#4 F#5 F4 G#3 B3 C#3>,"[0, 1, 3, 6, 8]","[5, 6, 8, 11, 1]",Children's Corner 113 6 Eb Major.mid,,141,71,1
+140.75,<music21.chord.Chord F5 G#4 C#3 F4 G#3 B3>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Children's Corner 113 6 Eb Major.mid,,141,71,1
+141.0,<music21.chord.Chord C#5 F#4 E-4 C#3 G#3 B3>,"[0, 2, 4, 7, 9]","[11, 1, 3, 6, 8]",Children's Corner 113 6 Eb Major.mid,,142,71,2
+141.5,<music21.chord.Chord F4 C#5 C#4 C#3 G#3 B3>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Children's Corner 113 6 Eb Major.mid,,142,71,2
+142.0,<music21.chord.Chord G#4 E-4 B3 F#3>,"[0, 3, 5, 8]","[3, 6, 8, 11]",Children's Corner 113 6 Eb Major.mid,,143,72,1
+142.25,<music21.chord.Chord B4 E-4 B3 F#3>,"[0, 4, 7]","[11, 3, 6]",Children's Corner 113 6 Eb Major.mid,,143,72,1
+142.5,<music21.chord.Chord C#4 B4 F3 B3>,"[0, 2, 6]","[11, 1, 5]",Children's Corner 113 6 Eb Major.mid,,143,72,1
+142.75,<music21.chord.Chord B-4 C#4 B3 F3>,"[0, 1, 3, 7]","[10, 11, 1, 5]",Children's Corner 113 6 Eb Major.mid,,143,72,1
+143.0,<music21.chord.Chord B3 C#4 E-3>,"[0, 2, 4]","[11, 1, 3]",Children's Corner 113 6 Eb Major.mid,,144,72,2
+143.5,<music21.chord.Chord B-3 C#4 C#3>,"[0, 3]","[10, 1]",Children's Corner 113 6 Eb Major.mid,,144,72,2
+144.0,<music21.chord.Chord B-3 C#4 F#2 C#3>,"[0, 4, 7]","[6, 10, 1]",Children's Corner 113 6 Eb Major.mid,,145,73,1
+144.5,<music21.chord.Chord C#4 C#3 F#2>,"[0, 5]","[1, 6]",Children's Corner 113 6 Eb Major.mid,,145,73,1
+145.0,<music21.chord.Chord A3 C#4 C#3 F#2>,"[0, 3, 7]","[6, 9, 1]",Children's Corner 113 6 Eb Major.mid,,146,73,2
+145.5,<music21.chord.Chord A3 C#4 C#3 F#2>,"[0, 3, 7]","[6, 9, 1]",Children's Corner 113 6 Eb Major.mid,,146,73,2
+146.0,<music21.chord.Chord F4 A3 G2 C#3>,"[0, 2, 4, 8]","[5, 7, 9, 1]",Children's Corner 113 6 Eb Major.mid,,147,74,1
+146.5,<music21.chord.Chord A3 F4 C#3 G2>,"[0, 2, 4, 8]","[5, 7, 9, 1]",Children's Corner 113 6 Eb Major.mid,,147,74,1
+147.0,<music21.chord.Chord B-3 F4 C#3 G2>,"[0, 2, 5, 8]","[5, 7, 10, 1]",Children's Corner 113 6 Eb Major.mid,,148,74,2
+147.5,<music21.chord.Chord E4 B-3 C#3 G2>,"[0, 3, 6, 9]","[1, 4, 7, 10]",Children's Corner 113 6 Eb Major.mid,,148,74,2
+148.0,<music21.chord.Chord B3 E-4 G#2 C#3>,"[0, 3, 5, 7]","[8, 11, 1, 3]",Children's Corner 113 6 Eb Major.mid,,149,75,1
+148.375,<music21.chord.Chord D5 B3 E-4 G#2 C#3>,"[0, 3, 5, 6, 7]","[8, 11, 1, 2, 3]",Children's Corner 113 6 Eb Major.mid,,149,75,1
+148.5,<music21.chord.Chord B4 E-5 B3 E-4 G#3 F4 G#2 C#3>,"[0, 2, 4, 6, 9]","[11, 1, 3, 5, 8]",Children's Corner 113 6 Eb Major.mid,,149,75,1
+148.625,<music21.chord.Chord B3 E-4 G#2 C#3>,"[0, 3, 5, 7]","[8, 11, 1, 3]",Children's Corner 113 6 Eb Major.mid,,149,75,1
+148.875,<music21.chord.Chord C5 B3 E-4 G#2 C#3>,"[0, 3, 4, 5, 7]","[8, 11, 0, 1, 3]",Children's Corner 113 6 Eb Major.mid,,149,75,1
+149.0,<music21.chord.Chord B4 C#5 B3 E-4 G#3 F4 G#2 C#3>,"[0, 2, 4, 6, 9]","[11, 1, 3, 5, 8]",Children's Corner 113 6 Eb Major.mid,,150,75,2
+149.125,<music21.chord.Chord B3 E-4 G#2 C#3>,"[0, 3, 5, 7]","[8, 11, 1, 3]",Children's Corner 113 6 Eb Major.mid,,150,75,2
+149.375,<music21.chord.Chord D5 B3 E-4 G#2 C#3>,"[0, 3, 5, 6, 7]","[8, 11, 1, 2, 3]",Children's Corner 113 6 Eb Major.mid,,150,75,2
+149.5,<music21.chord.Chord B4 E-5 B3 E-4 G#3 G#2 C#3>,"[0, 3, 5, 7]","[8, 11, 1, 3]",Children's Corner 113 6 Eb Major.mid,,150,75,2
+149.625,<music21.chord.Chord B3 E-4 G#2 C#3>,"[0, 3, 5, 7]","[8, 11, 1, 3]",Children's Corner 113 6 Eb Major.mid,,150,75,2
+150.5,<music21.chord.Chord F#3>,[0],[6],Children's Corner 113 6 Eb Major.mid,,151,76,1
+151.0,<music21.chord.Chord A3 F3>,"[0, 4]","[5, 9]",Children's Corner 113 6 Eb Major.mid,,152,76,2
+151.5,<music21.chord.Chord A3 E-3>,"[0, 6]","[3, 9]",Children's Corner 113 6 Eb Major.mid,,152,76,2
+152.0,<music21.chord.Chord F4 A3 E-3>,"[0, 2, 6]","[3, 5, 9]",Children's Corner 113 6 Eb Major.mid,,153,77,1
+153.0,<music21.chord.Chord A3 F4 C3>,"[0, 4, 7]","[5, 9, 0]",Children's Corner 113 6 Eb Major.mid,,154,77,2
+153.5,<music21.chord.Chord E4 A3 C3>,"[0, 3, 7]","[9, 0, 4]",Children's Corner 113 6 Eb Major.mid,,154,77,2
+154.0,<music21.chord.Chord B-3 E-4 F#2 C#3>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Children's Corner 113 6 Eb Major.mid,,155,78,1
+154.375,<music21.chord.Chord D5 B-3 E-4 F#2 C#3>,"[0, 3, 4, 5, 8]","[10, 1, 2, 3, 6]",Children's Corner 113 6 Eb Major.mid,,155,78,1
+154.5,<music21.chord.Chord B-4 E-5 B-3 E-4 C#4 F#4 F#2 C#3>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Children's Corner 113 6 Eb Major.mid,,155,78,1
+154.625,<music21.chord.Chord B-3 E-4 F#2 C#3>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Children's Corner 113 6 Eb Major.mid,,155,78,1
+154.875,<music21.chord.Chord C5 B-3 E-4 F#2 C#3>,"[0, 2, 3, 5, 8]","[10, 0, 1, 3, 6]",Children's Corner 113 6 Eb Major.mid,,155,78,1
+155.0,<music21.chord.Chord B-4 C#5 B-3 E-4 C#4 F4 F#2 C#3>,"[0, 3, 5, 7, 8]","[10, 1, 3, 5, 6]",Children's Corner 113 6 Eb Major.mid,,156,78,2
+155.125,<music21.chord.Chord B-3 E-4 F#2 C#3>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Children's Corner 113 6 Eb Major.mid,,156,78,2
+155.375,<music21.chord.Chord D5 B-3 E-4 F#2 C#3>,"[0, 3, 4, 5, 8]","[10, 1, 2, 3, 6]",Children's Corner 113 6 Eb Major.mid,,156,78,2
+155.5,<music21.chord.Chord B-4 E-5 B-3 E-4 C#4 F#2 C#3>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Children's Corner 113 6 Eb Major.mid,,156,78,2
+155.625,<music21.chord.Chord B-3 E-4 F#2 C#3>,"[0, 3, 5, 8]","[10, 1, 3, 6]",Children's Corner 113 6 Eb Major.mid,2,156,78,2
+157.0,<music21.chord.Chord C#5 C#4>,[0],[1],Children's Corner 113 6 Eb Major.mid,1,158,79,2
+158.0,<music21.chord.Chord A5 A4>,[0],[9],Children's Corner 113 6 Eb Major.mid,,159,80,1
+158.5,<music21.chord.Chord B5 B4>,[0],[11],Children's Corner 113 6 Eb Major.mid,,159,80,1
+159.5,<music21.chord.Chord B-5 B-4>,[0],[10],Children's Corner 113 6 Eb Major.mid,,160,80,2
+160.0,<music21.chord.Chord F5 B-4 B2>,"[0, 5, 6]","[5, 10, 11]",Children's Corner 113 6 Eb Major.mid,,161,81,1
+160.25,<music21.chord.Chord G#5 B-4 B2>,"[0, 2, 3]","[8, 10, 11]",Children's Corner 113 6 Eb Major.mid,,161,81,1
+160.5,<music21.chord.Chord G#4 G#5 F#3 G#3 B3 E-4 B2>,"[0, 3, 5, 8]","[3, 6, 8, 11]",Children's Corner 113 6 Eb Major.mid,,161,81,1
+160.75,<music21.chord.Chord F#5 G#4 B2 F#3 G#3 B3 E-4>,"[0, 3, 5, 8]","[3, 6, 8, 11]",Children's Corner 113 6 Eb Major.mid,,161,81,1
+161.0,<music21.chord.Chord E-5 F#4 B2 F#3 G#3 B3 E-4>,"[0, 3, 5, 8]","[3, 6, 8, 11]",Children's Corner 113 6 Eb Major.mid,,162,81,2
+161.5,<music21.chord.Chord F4 E-5 B2 F#3 G#3 B3 E-4>,"[0, 2, 3, 5, 8]","[3, 5, 6, 8, 11]",Children's Corner 113 6 Eb Major.mid,,162,81,2
+162.0,<music21.chord.Chord B-4 E-4>,"[0, 5]","[10, 3]",Children's Corner 113 6 Eb Major.mid,,163,82,1
+162.25,<music21.chord.Chord C#5 E-4>,"[0, 2]","[1, 3]",Children's Corner 113 6 Eb Major.mid,,163,82,1
+162.5,<music21.chord.Chord C#5 C#4>,[0],[1],Children's Corner 113 6 Eb Major.mid,,163,82,1
+162.75,<music21.chord.Chord B4 C#4>,"[0, 2]","[11, 1]",Children's Corner 113 6 Eb Major.mid,,163,82,1
+163.0,<music21.chord.Chord F4 B3>,"[0, 6]","[5, 11]",Children's Corner 113 6 Eb Major.mid,,164,82,2
+163.375,<music21.chord.Chord F4 B-3>,"[0, 5]","[5, 10]",Children's Corner 113 6 Eb Major.mid,,164,82,2
+163.625,<music21.chord.Chord F4 G#3 B-3>,"[0, 3, 5]","[5, 8, 10]",Children's Corner 113 6 Eb Major.mid,,164,82,2
+163.75,<music21.chord.Chord F#4 G#3>,"[0, 2]","[6, 8]",Children's Corner 113 6 Eb Major.mid,,164,82,2
+164.0,<music21.chord.Chord F#3 B3 E-4 B-2>,"[0, 1, 5, 8]","[10, 11, 3, 6]",Children's Corner 113 6 Eb Major.mid,,165,83,1
+164.25,<music21.chord.Chord F#3 B3 E-4 C#3>,"[0, 2, 4, 7]","[11, 1, 3, 6]",Children's Corner 113 6 Eb Major.mid,,165,83,1
+164.75,<music21.chord.Chord F#3 B3 E-4 B2>,"[0, 4, 7]","[11, 3, 6]",Children's Corner 113 6 Eb Major.mid,,165,83,1
+165.0,<music21.chord.Chord F#3 B3 E-4 C#2>,"[0, 2, 4, 7]","[11, 1, 3, 6]",Children's Corner 113 6 Eb Major.mid,,166,83,2
+166.25,<music21.chord.Chord F#3 B3 E-4 E-2>,"[0, 4, 7]","[11, 3, 6]",Children's Corner 113 6 Eb Major.mid,,167,84,1
+166.75,<music21.chord.Chord F#3 B3 E-4 F2>,"[0, 4, 6, 7]","[11, 3, 5, 6]",Children's Corner 113 6 Eb Major.mid,,167,84,1
+167.0,<music21.chord.Chord F#3 B3 E-4 E-2>,"[0, 4, 7]","[11, 3, 6]",Children's Corner 113 6 Eb Major.mid,,168,84,2
+167.5,<music21.chord.Chord F#3 B3 E-4 C#2>,"[0, 2, 4, 7]","[11, 1, 3, 6]",Children's Corner 113 6 Eb Major.mid,,168,84,2
+168.75,<music21.chord.Chord B-4 F#3 B3 E-4 C#2>,"[0, 1, 3, 5, 8]","[10, 11, 1, 3, 6]",Children's Corner 113 6 Eb Major.mid,,169,85,1
+169.0,<music21.chord.Chord G#4 F#3 B3 E-4 C#2>,"[0, 2, 4, 7, 9]","[11, 1, 3, 6, 8]",Children's Corner 113 6 Eb Major.mid,,170,85,2
+169.125,<music21.chord.Chord F#3 B3 E-4 C#2>,"[0, 2, 4, 7]","[11, 1, 3, 6]",Children's Corner 113 6 Eb Major.mid,,170,85,2
+169.5,<music21.chord.Chord B-4 F#3 B3 E-4 C#2>,"[0, 1, 3, 5, 8]","[10, 11, 1, 3, 6]",Children's Corner 113 6 Eb Major.mid,,170,85,2
+169.625,<music21.chord.Chord F#3 B3 E-4 C#2>,"[0, 2, 4, 7]","[11, 1, 3, 6]",Children's Corner 113 6 Eb Major.mid,,170,85,2
+170.75,<music21.chord.Chord B-4 F#3 B3 E-4 C#2>,"[0, 1, 3, 5, 8]","[10, 11, 1, 3, 6]",Children's Corner 113 6 Eb Major.mid,,171,86,1
+171.0,<music21.chord.Chord G#4 F#3 B3 E-4 C#2>,"[0, 2, 4, 7, 9]","[11, 1, 3, 6, 8]",Children's Corner 113 6 Eb Major.mid,,172,86,2
+171.125,<music21.chord.Chord F#3 B3 E-4 C#2>,"[0, 2, 4, 7]","[11, 1, 3, 6]",Children's Corner 113 6 Eb Major.mid,,172,86,2
+171.5,<music21.chord.Chord B-4 F#3 B3 E-4 C#2>,"[0, 1, 3, 5, 8]","[10, 11, 1, 3, 6]",Children's Corner 113 6 Eb Major.mid,,172,86,2
+171.625,<music21.chord.Chord F#3 B3 E-4 C#2>,"[0, 2, 4, 7]","[11, 1, 3, 6]",Children's Corner 113 6 Eb Major.mid,,172,86,2
+172.0,<music21.chord.Chord B3 C#4 F#3 B-2>,"[0, 4, 5, 7]","[6, 10, 11, 1]",Children's Corner 113 6 Eb Major.mid,,173,87,1
+172.25,<music21.chord.Chord B3 C#4 F#3 C#3>,"[0, 2, 7]","[11, 1, 6]",Children's Corner 113 6 Eb Major.mid,,173,87,1
+172.75,<music21.chord.Chord B3 C#4 F#3 B-2>,"[0, 4, 5, 7]","[6, 10, 11, 1]",Children's Corner 113 6 Eb Major.mid,,173,87,1
+173.0,<music21.chord.Chord B3 C#4 F#3 C#2>,"[0, 2, 7]","[11, 1, 6]",Children's Corner 113 6 Eb Major.mid,,174,87,2
+173.25,<music21.chord.Chord B3 C#4 F#3 E-2>,"[0, 2, 4, 7]","[11, 1, 3, 6]",Children's Corner 113 6 Eb Major.mid,,174,87,2
+173.75,<music21.chord.Chord B3 C#4 F#3 F2>,"[0, 2, 6, 7]","[11, 1, 5, 6]",Children's Corner 113 6 Eb Major.mid,,174,87,2
+174.0,<music21.chord.Chord F3 B3 C#4 E-2>,"[0, 2, 4, 6]","[11, 1, 3, 5]",Children's Corner 113 6 Eb Major.mid,,175,88,1
+174.5,<music21.chord.Chord B3 C#4 F3 C#2>,"[0, 2, 6]","[11, 1, 5]",Children's Corner 113 6 Eb Major.mid,,175,88,1
+174.75,<music21.chord.Chord B-4 B3 C#4 F3 C#2>,"[0, 1, 3, 7]","[10, 11, 1, 5]",Children's Corner 113 6 Eb Major.mid,,175,88,1
+175.0,<music21.chord.Chord G#4 B3 C#4 F3 C#2>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Children's Corner 113 6 Eb Major.mid,,176,88,2
+175.5,<music21.chord.Chord B-4 B3 C#4 F3 C#2>,"[0, 1, 3, 7]","[10, 11, 1, 5]",Children's Corner 113 6 Eb Major.mid,,176,88,2
+176.0,<music21.chord.Chord B3 C#4 F3 C#2>,"[0, 2, 6]","[11, 1, 5]",Children's Corner 113 6 Eb Major.mid,,177,89,1
+176.75,<music21.chord.Chord B-4 B3 C#4 F3 C#2>,"[0, 1, 3, 7]","[10, 11, 1, 5]",Children's Corner 113 6 Eb Major.mid,,177,89,1
+177.0,<music21.chord.Chord G#4 B3 C#4 F3 C#2>,"[0, 3, 6, 8]","[5, 8, 11, 1]",Children's Corner 113 6 Eb Major.mid,,178,89,2
+177.5,<music21.chord.Chord B-4 B3 C#4 F3 C#2>,"[0, 1, 3, 7]","[10, 11, 1, 5]",Children's Corner 113 6 Eb Major.mid,2,178,89,2
+178.0,<music21.chord.Chord B-4>,[0],[10],Children's Corner 113 6 Eb Major.mid,1,179,90,1
+178.25,<music21.chord.Chord G#4>,[0],[8],Children's Corner 113 6 Eb Major.mid,,179,90,1
+178.75,<music21.chord.Chord B-4>,[0],[10],Children's Corner 113 6 Eb Major.mid,,179,90,1
+179.0,<music21.chord.Chord F4>,[0],[5],Children's Corner 113 6 Eb Major.mid,,180,90,2
+179.5,<music21.chord.Chord B-4>,[0],[10],Children's Corner 113 6 Eb Major.mid,,180,90,2
+180.0,<music21.chord.Chord G#4>,[0],[8],Children's Corner 113 6 Eb Major.mid,,181,91,1
+180.25,<music21.chord.Chord F4>,[0],[5],Children's Corner 113 6 Eb Major.mid,,181,91,1
+180.75,<music21.chord.Chord E-4>,[0],[3],Children's Corner 113 6 Eb Major.mid,,181,91,1
+181.0,<music21.chord.Chord B3>,[0],[11],Children's Corner 113 6 Eb Major.mid,,182,91,2
+181.5,<music21.chord.Chord E-4>,[0],[3],Children's Corner 113 6 Eb Major.mid,,182,91,2
+182.0,<music21.chord.Chord B-3 E-2 B-2>,"[0, 5]","[10, 3]",Children's Corner 113 6 Eb Major.mid,,183,92,1
+182.125,<music21.chord.Chord B-3>,[0],[10],Children's Corner 113 6 Eb Major.mid,,183,92,1
+182.25,<music21.chord.Chord B-3>,[0],[10],Children's Corner 113 6 Eb Major.mid,,183,92,1
+182.5,<music21.chord.Chord F3 G3>,"[0, 2]","[5, 7]",Children's Corner 113 6 Eb Major.mid,,183,92,1
+182.75,<music21.chord.Chord C4>,[0],[0],Children's Corner 113 6 Eb Major.mid,,183,92,1
+183.0,<music21.chord.Chord B-3 E-2 B-2>,"[0, 5]","[10, 3]",Children's Corner 113 6 Eb Major.mid,,184,92,2
+183.125,<music21.chord.Chord B-3>,[0],[10],Children's Corner 113 6 Eb Major.mid,,184,92,2
+183.5,<music21.chord.Chord E-4 B-4 F3 G3>,"[0, 2, 4, 7]","[3, 5, 7, 10]",Children's Corner 113 6 Eb Major.mid,,184,92,2
+184.0,<music21.chord.Chord B-3 E-2 B-2>,"[0, 5]","[10, 3]",Children's Corner 113 6 Eb Major.mid,,185,93,1
+184.125,<music21.chord.Chord B-3>,[0],[10],Children's Corner 113 6 Eb Major.mid,,185,93,1
+184.5,<music21.chord.Chord B-3 F3 G3>,"[0, 2, 5]","[5, 7, 10]",Children's Corner 113 6 Eb Major.mid,,185,93,1
+184.625,<music21.chord.Chord B-3>,[0],[10],Children's Corner 113 6 Eb Major.mid,,185,93,1
+185.0,<music21.chord.Chord B-3 E-2 B-2>,"[0, 5]","[10, 3]",Children's Corner 113 6 Eb Major.mid,,186,93,2
+185.125,<music21.chord.Chord B-3>,[0],[10],Children's Corner 113 6 Eb Major.mid,,186,93,2
+185.5,<music21.chord.Chord B-3 F3 G3>,"[0, 2, 5]","[5, 7, 10]",Children's Corner 113 6 Eb Major.mid,,186,93,2
+185.625,<music21.chord.Chord B-3>,[0],[10],Children's Corner 113 6 Eb Major.mid,,186,93,2
+186.0,<music21.chord.Chord B-3 E-2 B-2>,"[0, 5]","[10, 3]",Children's Corner 113 6 Eb Major.mid,,187,94,1
+186.125,<music21.chord.Chord B-3>,[0],[10],Children's Corner 113 6 Eb Major.mid,,187,94,1
+186.25,<music21.chord.Chord G#3>,[0],[8],Children's Corner 113 6 Eb Major.mid,,187,94,1
+186.5,<music21.chord.Chord G#3 E-3 F3>,"[0, 2, 5]","[3, 5, 8]",Children's Corner 113 6 Eb Major.mid,,187,94,1
+186.625,<music21.chord.Chord G#3>,[0],[8],Children's Corner 113 6 Eb Major.mid,,187,94,1
+186.75,<music21.chord.Chord B-3>,[0],[10],Children's Corner 113 6 Eb Major.mid,,187,94,1
+187.0,<music21.chord.Chord C4 E-2 B-2>,"[0, 2, 5]","[10, 0, 3]",Children's Corner 113 6 Eb Major.mid,,188,94,2
+187.5,<music21.chord.Chord G#3 E-3 F3>,"[0, 2, 5]","[3, 5, 8]",Children's Corner 113 6 Eb Major.mid,,188,94,2
+188.0,<music21.chord.Chord B-3 E-2 B-2>,"[0, 5]","[10, 3]",Children's Corner 113 6 Eb Major.mid,,189,95,1
+188.125,<music21.chord.Chord B-3>,[0],[10],Children's Corner 113 6 Eb Major.mid,,189,95,1
+188.25,<music21.chord.Chord G#3>,[0],[8],Children's Corner 113 6 Eb Major.mid,,189,95,1
+188.5,<music21.chord.Chord G#3 E-3 F3>,"[0, 2, 5]","[3, 5, 8]",Children's Corner 113 6 Eb Major.mid,,189,95,1
+188.625,<music21.chord.Chord G#3>,[0],[8],Children's Corner 113 6 Eb Major.mid,,189,95,1
+188.75,<music21.chord.Chord B-3>,[0],[10],Children's Corner 113 6 Eb Major.mid,,189,95,1
+189.0,<music21.chord.Chord B3 E-2 B-2>,"[0, 1, 5]","[10, 11, 3]",Children's Corner 113 6 Eb Major.mid,,190,95,2
+189.5,<music21.chord.Chord G#3 E-3 F3>,"[0, 2, 5]","[3, 5, 8]",Children's Corner 113 6 Eb Major.mid,,190,95,2
+190.0,<music21.chord.Chord B-3 B-2>,[0],[10],Children's Corner 113 6 Eb Major.mid,,191,96,1
+190.25,<music21.chord.Chord G3 G2>,[0],[7],Children's Corner 113 6 Eb Major.mid,,191,96,1
+190.75,<music21.chord.Chord F3 F2>,[0],[5],Children's Corner 113 6 Eb Major.mid,,191,96,1
+191.0,<music21.chord.Chord E-3 E-2>,[0],[3],Children's Corner 113 6 Eb Major.mid,,192,96,2
+191.5,<music21.chord.Chord D3 D2>,[0],[2],Children's Corner 113 6 Eb Major.mid,,192,96,2
+192.0,<music21.chord.Chord C3 C2>,[0],[0],Children's Corner 113 6 Eb Major.mid,,193,97,1
+192.5,<music21.chord.Chord G2 G1>,[0],[7],Children's Corner 113 6 Eb Major.mid,,193,97,1
+193.0,<music21.chord.Chord C3 C2>,[0],[0],Children's Corner 113 6 Eb Major.mid,,194,97,2
+193.5,<music21.chord.Chord D3 D2>,[0],[2],Children's Corner 113 6 Eb Major.mid,2,194,97,2
+194.0,<music21.chord.Chord B-4 E-2 B-2>,"[0, 5]","[10, 3]",Children's Corner 113 6 Eb Major.mid,1,195,98,1
+194.125,<music21.chord.Chord B-4>,[0],[10],Children's Corner 113 6 Eb Major.mid,,195,98,1
+194.25,<music21.chord.Chord G#4>,[0],[8],Children's Corner 113 6 Eb Major.mid,,195,98,1
+194.5,<music21.chord.Chord B3 E-4 G#4 F3 G#3>,"[0, 2, 5, 8]","[3, 5, 8, 11]",Children's Corner 113 6 Eb Major.mid,,195,98,1
+194.625,<music21.chord.Chord G#4 B3 E-4>,"[0, 3, 7]","[8, 11, 3]",Children's Corner 113 6 Eb Major.mid,,195,98,1
+194.75,<music21.chord.Chord B-4 B3 E-4>,"[0, 1, 5]","[10, 11, 3]",Children's Corner 113 6 Eb Major.mid,,195,98,1
+195.0,<music21.chord.Chord F4 E-2 B-2>,"[0, 2, 7]","[3, 5, 10]",Children's Corner 113 6 Eb Major.mid,,196,98,2
+195.5,<music21.chord.Chord B-4 B3 E-4 F3 G#3>,"[0, 2, 5, 7, 8]","[3, 5, 8, 10, 11]",Children's Corner 113 6 Eb Major.mid,,196,98,2
+195.625,<music21.chord.Chord B3 E-4>,"[0, 4]","[11, 3]",Children's Corner 113 6 Eb Major.mid,,196,98,2
+196.0,<music21.chord.Chord G#4 E-2 B-2>,"[0, 2, 7]","[8, 10, 3]",Children's Corner 113 6 Eb Major.mid,,197,99,1
+196.125,<music21.chord.Chord G#4>,[0],[8],Children's Corner 113 6 Eb Major.mid,,197,99,1
+196.25,<music21.chord.Chord F4>,[0],[5],Children's Corner 113 6 Eb Major.mid,,197,99,1
+196.5,<music21.chord.Chord B3 F4 F3 G#3>,"[0, 3, 6]","[5, 8, 11]",Children's Corner 113 6 Eb Major.mid,,197,99,1
+196.625,<music21.chord.Chord F4 B3>,"[0, 6]","[5, 11]",Children's Corner 113 6 Eb Major.mid,,197,99,1
+196.75,<music21.chord.Chord E-4 B3>,"[0, 4]","[11, 3]",Children's Corner 113 6 Eb Major.mid,,197,99,1
+197.0,<music21.chord.Chord B3 E-2 B-2>,"[0, 1, 5]","[10, 11, 3]",Children's Corner 113 6 Eb Major.mid,,198,99,2
+197.5,<music21.chord.Chord E-4 B3 F3 G#3>,"[0, 2, 5, 8]","[3, 5, 8, 11]",Children's Corner 113 6 Eb Major.mid,,198,99,2
+197.625,<music21.chord.Chord B3>,[0],[11],Children's Corner 113 6 Eb Major.mid,,198,99,2
+198.0,<music21.chord.Chord B-3 E-2 B-2>,"[0, 5]","[10, 3]",Children's Corner 113 6 Eb Major.mid,,199,100,1
+198.125,<music21.chord.Chord B-3>,[0],[10],Children's Corner 113 6 Eb Major.mid,,199,100,1
+198.25,<music21.chord.Chord B-3>,[0],[10],Children's Corner 113 6 Eb Major.mid,,199,100,1
+198.5,<music21.chord.Chord F3 G3>,"[0, 2]","[5, 7]",Children's Corner 113 6 Eb Major.mid,,199,100,1
+198.75,<music21.chord.Chord C4>,[0],[0],Children's Corner 113 6 Eb Major.mid,,199,100,1
+199.0,<music21.chord.Chord B-3 E-2 B-2>,"[0, 5]","[10, 3]",Children's Corner 113 6 Eb Major.mid,,200,100,2
+199.125,<music21.chord.Chord B-3>,[0],[10],Children's Corner 113 6 Eb Major.mid,,200,100,2
+199.5,<music21.chord.Chord E-4 B-4 F3 G3>,"[0, 2, 4, 7]","[3, 5, 7, 10]",Children's Corner 113 6 Eb Major.mid,,200,100,2
+200.0,<music21.chord.Chord B-3 E-2 B-2>,"[0, 5]","[10, 3]",Children's Corner 113 6 Eb Major.mid,,201,101,1
+200.125,<music21.chord.Chord B-3>,[0],[10],Children's Corner 113 6 Eb Major.mid,,201,101,1
+200.5,<music21.chord.Chord B-3 F3 G3>,"[0, 2, 5]","[5, 7, 10]",Children's Corner 113 6 Eb Major.mid,,201,101,1
+200.625,<music21.chord.Chord B-3>,[0],[10],Children's Corner 113 6 Eb Major.mid,,201,101,1
+201.0,<music21.chord.Chord B-3 E-2 B-2>,"[0, 5]","[10, 3]",Children's Corner 113 6 Eb Major.mid,,202,101,2
+201.125,<music21.chord.Chord B-3>,[0],[10],Children's Corner 113 6 Eb Major.mid,,202,101,2
+201.5,<music21.chord.Chord B-3 F3 G3>,"[0, 2, 5]","[5, 7, 10]",Children's Corner 113 6 Eb Major.mid,,202,101,2
+201.625,<music21.chord.Chord B-3>,[0],[10],Children's Corner 113 6 Eb Major.mid,,202,101,2
+202.0,<music21.chord.Chord B-3 F#2 C#3>,"[0, 4, 7]","[6, 10, 1]",Children's Corner 113 6 Eb Major.mid,,203,102,1
+202.125,<music21.chord.Chord B-3>,[0],[10],Children's Corner 113 6 Eb Major.mid,,203,102,1
+202.25,<music21.chord.Chord B-3>,[0],[10],Children's Corner 113 6 Eb Major.mid,,203,102,1
+202.5,<music21.chord.Chord C#3 F#3 G#3>,"[0, 2, 7]","[6, 8, 1]",Children's Corner 113 6 Eb Major.mid,,203,102,1
+202.75,<music21.chord.Chord C4>,[0],[0],Children's Corner 113 6 Eb Major.mid,,203,102,1
+203.0,<music21.chord.Chord B-3 F#2 C#3>,"[0, 4, 7]","[6, 10, 1]",Children's Corner 113 6 Eb Major.mid,,204,102,2
+203.5,<music21.chord.Chord C#4 C#3 F#3 A3>,"[0, 3, 7]","[6, 9, 1]",Children's Corner 113 6 Eb Major.mid,,204,102,2
+204.0,<music21.chord.Chord E-4 F#2 C#3>,"[0, 2, 5]","[1, 3, 6]",Children's Corner 113 6 Eb Major.mid,,205,103,1
+204.5,<music21.chord.Chord F4 C#3 F#3 B-3>,"[0, 1, 5, 8]","[5, 6, 10, 1]",Children's Corner 113 6 Eb Major.mid,,205,103,1
+205.0,<music21.chord.Chord E-4 F#2 C#3>,"[0, 2, 5]","[1, 3, 6]",Children's Corner 113 6 Eb Major.mid,,206,103,2
+205.5,<music21.chord.Chord F#4 C#3 F#3 B3>,"[0, 2, 7]","[11, 1, 6]",Children's Corner 113 6 Eb Major.mid,,206,103,2
+206.0,<music21.chord.Chord F4>,[0],[5],Children's Corner 113 6 Eb Major.mid,,207,104,1
+206.25,<music21.chord.Chord F4>,[0],[5],Children's Corner 113 6 Eb Major.mid,,207,104,1
+206.5,<music21.chord.Chord C#4 E4>,"[0, 3]","[1, 4]",Children's Corner 113 6 Eb Major.mid,,207,104,1
+206.75,<music21.chord.Chord G4 C#4 E4>,"[0, 3, 6]","[1, 4, 7]",Children's Corner 113 6 Eb Major.mid,,207,104,1
+207.0,<music21.chord.Chord F4 C4 E-4>,"[0, 3, 5]","[0, 3, 5]",Children's Corner 113 6 Eb Major.mid,,208,104,2
+207.5,<music21.chord.Chord G4 D5 F3 A3 E-4>,"[0, 1, 3, 5, 7]","[2, 3, 5, 7, 9]",Children's Corner 113 6 Eb Major.mid,,208,104,2
+208.0,<music21.chord.Chord D4 B-4 B-2 F3 B-3>,"[0, 4, 7]","[10, 2, 5]",Children's Corner 113 6 Eb Major.mid,,209,105,1
+209.0,<music21.chord.Chord B-5 B-6 B-1 B-2>,[0],[10],Children's Corner 113 6 Eb Major.mid,,210,105,2
+210.0,<music21.chord.Chord C4 E-4 G#3 B-3>,"[0, 2, 4, 7]","[8, 10, 0, 3]",Children's Corner 113 6 Eb Major.mid,,211,106,1
+210.125,<music21.chord.Chord C4 E-4>,"[0, 3]","[0, 3]",Children's Corner 113 6 Eb Major.mid,,211,106,1
+210.25,<music21.chord.Chord D4 F4>,"[0, 3]","[2, 5]",Children's Corner 113 6 Eb Major.mid,,211,106,1
+210.5,<music21.chord.Chord D4 F4 G#4 B-4>,"[0, 3, 6, 8]","[2, 5, 8, 10]",Children's Corner 113 6 Eb Major.mid,,211,106,1
+210.625,<music21.chord.Chord D4 F4>,"[0, 3]","[2, 5]",Children's Corner 113 6 Eb Major.mid,,211,106,1
+210.75,<music21.chord.Chord E-4 G4>,"[0, 4]","[3, 7]",Children's Corner 113 6 Eb Major.mid,,211,106,1
+211.0,<music21.chord.Chord D4 F4 G#3 B-3>,"[0, 3, 6, 8]","[2, 5, 8, 10]",Children's Corner 113 6 Eb Major.mid,,212,106,2
+211.5,<music21.chord.Chord C4 E-4 G#4 B-4>,"[0, 2, 4, 7]","[8, 10, 0, 3]",Children's Corner 113 6 Eb Major.mid,2,212,106,2
+212.0,<music21.chord.Chord D4 F4 G#3 B-3>,"[0, 3, 6, 8]","[2, 5, 8, 10]",Children's Corner 113 6 Eb Major.mid,1,213,107,1
+212.125,<music21.chord.Chord D4 F4>,"[0, 3]","[2, 5]",Children's Corner 113 6 Eb Major.mid,,213,107,1
+212.5,<music21.chord.Chord D4 F4 G#4 B-4>,"[0, 3, 6, 8]","[2, 5, 8, 10]",Children's Corner 113 6 Eb Major.mid,,213,107,1
+212.625,<music21.chord.Chord D4 F4>,"[0, 3]","[2, 5]",Children's Corner 113 6 Eb Major.mid,,213,107,1
+213.0,<music21.chord.Chord B-6 B-5 D4 F4 G#3 B-3>,"[0, 3, 6, 8]","[2, 5, 8, 10]",Children's Corner 113 6 Eb Major.mid,,214,107,2
+213.125,<music21.chord.Chord D4 F4 B-6 B-5>,"[0, 4, 7]","[10, 2, 5]",Children's Corner 113 6 Eb Major.mid,,214,107,2
+213.5,<music21.chord.Chord D4 F4 G#4 B-4>,"[0, 3, 6, 8]","[2, 5, 8, 10]",Children's Corner 113 6 Eb Major.mid,,214,107,2
+213.625,<music21.chord.Chord D4 F4>,"[0, 3]","[2, 5]",Children's Corner 113 6 Eb Major.mid,,214,107,2
+214.0,<music21.chord.Chord C4 E-4 G3 B-3>,"[0, 3, 5, 8]","[7, 10, 0, 3]",Children's Corner 113 6 Eb Major.mid,,215,108,1
+214.125,<music21.chord.Chord C4 E-4>,"[0, 3]","[0, 3]",Children's Corner 113 6 Eb Major.mid,,215,108,1
+214.25,<music21.chord.Chord D4 F4>,"[0, 3]","[2, 5]",Children's Corner 113 6 Eb Major.mid,,215,108,1
+214.5,<music21.chord.Chord D4 F4 G4 B-4>,"[0, 3, 5, 8]","[2, 5, 7, 10]",Children's Corner 113 6 Eb Major.mid,,215,108,1
+214.625,<music21.chord.Chord D4 F4>,"[0, 3]","[2, 5]",Children's Corner 113 6 Eb Major.mid,,215,108,1
+214.75,<music21.chord.Chord E-4 G4>,"[0, 4]","[3, 7]",Children's Corner 113 6 Eb Major.mid,,215,108,1
+215.0,<music21.chord.Chord D4 F4 G3 B-3>,"[0, 3, 5, 8]","[2, 5, 7, 10]",Children's Corner 113 6 Eb Major.mid,,216,108,2
+215.5,<music21.chord.Chord C4 E-4 G4 B-4>,"[0, 3, 5, 8]","[7, 10, 0, 3]",Children's Corner 113 6 Eb Major.mid,,216,108,2
+216.0,<music21.chord.Chord D4 F4 G3 B-3>,"[0, 3, 5, 8]","[2, 5, 7, 10]",Children's Corner 113 6 Eb Major.mid,,217,109,1
+216.5,<music21.chord.Chord C4 E-4 G4 B-4>,"[0, 3, 5, 8]","[7, 10, 0, 3]",Children's Corner 113 6 Eb Major.mid,,217,109,1
+216.625,<music21.chord.Chord C4 E-4>,"[0, 3]","[0, 3]",Children's Corner 113 6 Eb Major.mid,,217,109,1
+217.0,<music21.chord.Chord D4 F4 G3 B-3>,"[0, 3, 5, 8]","[2, 5, 7, 10]",Children's Corner 113 6 Eb Major.mid,,218,109,2
+217.5,<music21.chord.Chord G4 B-4 C5 E-4>,"[0, 3, 5, 8]","[7, 10, 0, 3]",Children's Corner 113 6 Eb Major.mid,,218,109,2
+218.0,<music21.chord.Chord A3 C#4 E4 B2>,"[0, 2, 4, 7]","[9, 11, 1, 4]",Children's Corner 113 6 Eb Major.mid,,219,110,1
+218.25,<music21.chord.Chord A3 C#4 E4 C#3>,"[0, 4, 7]","[9, 1, 4]",Children's Corner 113 6 Eb Major.mid,,219,110,1
+218.75,<music21.chord.Chord A3 C#4 E4 E-3>,"[0, 4, 6, 7]","[9, 1, 3, 4]",Children's Corner 113 6 Eb Major.mid,,219,110,1
+219.0,<music21.chord.Chord A3 C#4 E4 C#3>,"[0, 4, 7]","[9, 1, 4]",Children's Corner 113 6 Eb Major.mid,,220,110,2
+219.125,<music21.chord.Chord A3 C#4 E4>,"[0, 4, 7]","[9, 1, 4]",Children's Corner 113 6 Eb Major.mid,,220,110,2
+219.5,<music21.chord.Chord A3 C#4 E4 B2>,"[0, 2, 4, 7]","[9, 11, 1, 4]",Children's Corner 113 6 Eb Major.mid,,220,110,2
+219.625,<music21.chord.Chord A3 C#4 E4>,"[0, 4, 7]","[9, 1, 4]",Children's Corner 113 6 Eb Major.mid,,220,110,2
+220.0,<music21.chord.Chord G#3 C4 F4 B-2>,"[0, 3, 5, 7]","[5, 8, 10, 0]",Children's Corner 113 6 Eb Major.mid,,221,111,1
+220.25,<music21.chord.Chord G#3 C4 F4 C3>,"[0, 3, 7]","[5, 8, 0]",Children's Corner 113 6 Eb Major.mid,,221,111,1
+220.75,<music21.chord.Chord G#3 C4 F4 D3>,"[0, 2, 5, 8]","[0, 2, 5, 8]",Children's Corner 113 6 Eb Major.mid,,221,111,1
+221.0,<music21.chord.Chord G#3 C4 F4 C3>,"[0, 3, 7]","[5, 8, 0]",Children's Corner 113 6 Eb Major.mid,,222,111,2
+221.125,<music21.chord.Chord G#3 C4 F4>,"[0, 3, 7]","[5, 8, 0]",Children's Corner 113 6 Eb Major.mid,,222,111,2
+221.5,<music21.chord.Chord G#3 C4 F4 B-2>,"[0, 3, 5, 7]","[5, 8, 10, 0]",Children's Corner 113 6 Eb Major.mid,,222,111,2
+221.625,<music21.chord.Chord G#3 C4 F4>,"[0, 3, 7]","[5, 8, 0]",Children's Corner 113 6 Eb Major.mid,,222,111,2
+222.0,<music21.chord.Chord G3 B-3 F3 B-2>,"[0, 2, 5]","[5, 7, 10]",Children's Corner 113 6 Eb Major.mid,,223,112,1
+222.25,<music21.chord.Chord G3 B-3 F3 C3>,"[0, 2, 5, 7]","[5, 7, 10, 0]",Children's Corner 113 6 Eb Major.mid,,223,112,1
+222.75,<music21.chord.Chord G3 B-3 F3 D3>,"[0, 3, 5, 8]","[2, 5, 7, 10]",Children's Corner 113 6 Eb Major.mid,,223,112,1
+223.0,<music21.chord.Chord G3 B-3 F3 C3>,"[0, 2, 5, 7]","[5, 7, 10, 0]",Children's Corner 113 6 Eb Major.mid,,224,112,2
+223.125,<music21.chord.Chord G3 B-3 F3>,"[0, 2, 5]","[5, 7, 10]",Children's Corner 113 6 Eb Major.mid,,224,112,2
+223.5,<music21.chord.Chord G3 B-3 F3 B-2>,"[0, 2, 5]","[5, 7, 10]",Children's Corner 113 6 Eb Major.mid,,224,112,2
+223.625,<music21.chord.Chord G3 B-3 F3>,"[0, 2, 5]","[5, 7, 10]",Children's Corner 113 6 Eb Major.mid,,224,112,2
+224.0,<music21.chord.Chord E-3 G3 B-3>,"[0, 4, 7]","[3, 7, 10]",Children's Corner 113 6 Eb Major.mid,,225,113,1
+224.25,<music21.chord.Chord G3 B-3 E-3 B-1 B-2>,"[0, 4, 7]","[3, 7, 10]",Children's Corner 113 6 Eb Major.mid,,225,113,1
+224.5,<music21.chord.Chord C3 G3 B-3 E-3 C2>,"[0, 3, 5, 8]","[7, 10, 0, 3]",Children's Corner 113 6 Eb Major.mid,,225,113,1
+224.75,<music21.chord.Chord D3 G3 B-3 E-3 D2>,"[0, 1, 5, 8]","[2, 3, 7, 10]",Children's Corner 113 6 Eb Major.mid,,225,113,1
+225.0,<music21.chord.Chord C3 G3 B-3 E-3 C2>,"[0, 3, 5, 8]","[7, 10, 0, 3]",Children's Corner 113 6 Eb Major.mid,,226,113,2
+225.125,<music21.chord.Chord G3 B-3 E-3>,"[0, 4, 7]","[3, 7, 10]",Children's Corner 113 6 Eb Major.mid,,226,113,2
+225.5,<music21.chord.Chord G3 B-3 E-3 B-0 B-1>,"[0, 4, 7]","[3, 7, 10]",Children's Corner 113 6 Eb Major.mid,,226,113,2
+225.625,<music21.chord.Chord G3 B-3 E-3>,"[0, 4, 7]","[3, 7, 10]",Children's Corner 113 6 Eb Major.mid,2,226,113,2
+226.0,<music21.chord.Chord C4 E-4 G#3 B-3>,"[0, 2, 4, 7]","[8, 10, 0, 3]",Children's Corner 113 6 Eb Major.mid,1,227,114,1
+226.125,<music21.chord.Chord C4 E-4>,"[0, 3]","[0, 3]",Children's Corner 113 6 Eb Major.mid,,227,114,1
+226.25,<music21.chord.Chord D4 F4>,"[0, 3]","[2, 5]",Children's Corner 113 6 Eb Major.mid,,227,114,1
+226.5,<music21.chord.Chord D4 F4 G#4 B-4>,"[0, 3, 6, 8]","[2, 5, 8, 10]",Children's Corner 113 6 Eb Major.mid,,227,114,1
+226.625,<music21.chord.Chord D4 F4>,"[0, 3]","[2, 5]",Children's Corner 113 6 Eb Major.mid,,227,114,1
+226.75,<music21.chord.Chord E-4 G4>,"[0, 4]","[3, 7]",Children's Corner 113 6 Eb Major.mid,,227,114,1
+227.0,<music21.chord.Chord D4 F4 G#3 B-3>,"[0, 3, 6, 8]","[2, 5, 8, 10]",Children's Corner 113 6 Eb Major.mid,,228,114,2
+227.5,<music21.chord.Chord C4 E-4 G#4 B-4>,"[0, 2, 4, 7]","[8, 10, 0, 3]",Children's Corner 113 6 Eb Major.mid,,228,114,2
+228.0,<music21.chord.Chord D4 F4 G#3 B-3>,"[0, 3, 6, 8]","[2, 5, 8, 10]",Children's Corner 113 6 Eb Major.mid,,229,115,1
+228.125,<music21.chord.Chord D4 F4>,"[0, 3]","[2, 5]",Children's Corner 113 6 Eb Major.mid,,229,115,1
+228.5,<music21.chord.Chord D4 F4 G#4 B-4>,"[0, 3, 6, 8]","[2, 5, 8, 10]",Children's Corner 113 6 Eb Major.mid,,229,115,1
+228.625,<music21.chord.Chord D4 F4>,"[0, 3]","[2, 5]",Children's Corner 113 6 Eb Major.mid,,229,115,1
+229.0,<music21.chord.Chord B-6 B-5 D4 F4 G#3 B-3>,"[0, 3, 6, 8]","[2, 5, 8, 10]",Children's Corner 113 6 Eb Major.mid,,230,115,2
+229.125,<music21.chord.Chord D4 F4 B-6 B-5>,"[0, 4, 7]","[10, 2, 5]",Children's Corner 113 6 Eb Major.mid,,230,115,2
+229.5,<music21.chord.Chord D4 F4 G#4 B-4>,"[0, 3, 6, 8]","[2, 5, 8, 10]",Children's Corner 113 6 Eb Major.mid,,230,115,2
+229.625,<music21.chord.Chord D4 F4>,"[0, 3]","[2, 5]",Children's Corner 113 6 Eb Major.mid,,230,115,2
+230.0,<music21.chord.Chord C4 E-4 G3 B-3>,"[0, 3, 5, 8]","[7, 10, 0, 3]",Children's Corner 113 6 Eb Major.mid,,231,116,1
+230.125,<music21.chord.Chord C4 E-4>,"[0, 3]","[0, 3]",Children's Corner 113 6 Eb Major.mid,,231,116,1
+230.25,<music21.chord.Chord D4 F4>,"[0, 3]","[2, 5]",Children's Corner 113 6 Eb Major.mid,,231,116,1
+230.5,<music21.chord.Chord D4 F4 G4 B-4>,"[0, 3, 5, 8]","[2, 5, 7, 10]",Children's Corner 113 6 Eb Major.mid,,231,116,1
+230.625,<music21.chord.Chord D4 F4>,"[0, 3]","[2, 5]",Children's Corner 113 6 Eb Major.mid,,231,116,1
+230.75,<music21.chord.Chord E-4 G4>,"[0, 4]","[3, 7]",Children's Corner 113 6 Eb Major.mid,,231,116,1
+231.0,<music21.chord.Chord D4 F4 G3 B-3>,"[0, 3, 5, 8]","[2, 5, 7, 10]",Children's Corner 113 6 Eb Major.mid,,232,116,2
+231.5,<music21.chord.Chord C4 E-4 G4 B-4>,"[0, 3, 5, 8]","[7, 10, 0, 3]",Children's Corner 113 6 Eb Major.mid,,232,116,2
+232.0,<music21.chord.Chord D4 F4 G3 B-3>,"[0, 3, 5, 8]","[2, 5, 7, 10]",Children's Corner 113 6 Eb Major.mid,,233,117,1
+232.5,<music21.chord.Chord C4 E-4 G4 B-4>,"[0, 3, 5, 8]","[7, 10, 0, 3]",Children's Corner 113 6 Eb Major.mid,,233,117,1
+232.625,<music21.chord.Chord C4 E-4>,"[0, 3]","[0, 3]",Children's Corner 113 6 Eb Major.mid,,233,117,1
+233.0,<music21.chord.Chord D4 F4 G3 B-3>,"[0, 3, 5, 8]","[2, 5, 7, 10]",Children's Corner 113 6 Eb Major.mid,,234,117,2
+233.5,<music21.chord.Chord G4 B-4 C5 E-4>,"[0, 3, 5, 8]","[7, 10, 0, 3]",Children's Corner 113 6 Eb Major.mid,,234,117,2
+234.0,<music21.chord.Chord B-5 B4 E-5 B-4 B3 E-4>,"[0, 1, 5]","[10, 11, 3]",Children's Corner 113 6 Eb Major.mid,,235,118,1
+234.25,<music21.chord.Chord G#5 B4 E-5 G#4 B3 E-4>,"[0, 3, 7]","[8, 11, 3]",Children's Corner 113 6 Eb Major.mid,,235,118,1
+234.75,<music21.chord.Chord B-5 B4 E-5 B-4 B3 E-4>,"[0, 1, 5]","[10, 11, 3]",Children's Corner 113 6 Eb Major.mid,,235,118,1
+235.0,<music21.chord.Chord F5 B4 E-5 F4 B3 E-4>,"[0, 4, 6]","[11, 3, 5]",Children's Corner 113 6 Eb Major.mid,,236,118,2
+235.5,<music21.chord.Chord B-5 B4 E-5 B-4 B3 E-4>,"[0, 1, 5]","[10, 11, 3]",Children's Corner 113 6 Eb Major.mid,,236,118,2
+236.0,<music21.chord.Chord G#5 B4 E-5 G#4 B3 E-4>,"[0, 3, 7]","[8, 11, 3]",Children's Corner 113 6 Eb Major.mid,,237,119,1
+236.25,<music21.chord.Chord F5 B4 E-5 F4 B3 E-4>,"[0, 4, 6]","[11, 3, 5]",Children's Corner 113 6 Eb Major.mid,,237,119,1
+236.75,<music21.chord.Chord E-5 B4 E-4 B3>,"[0, 4]","[11, 3]",Children's Corner 113 6 Eb Major.mid,,237,119,1
+237.0,<music21.chord.Chord B4 B3>,[0],[11],Children's Corner 113 6 Eb Major.mid,,238,119,2
+238.25,<music21.chord.Chord G#4 G#3>,[0],[8],Children's Corner 113 6 Eb Major.mid,,239,120,1
+238.5,<music21.chord.Chord F4 F3>,[0],[5],Children's Corner 113 6 Eb Major.mid,,239,120,1
+238.75,<music21.chord.Chord E-4 E-3>,[0],[3],Children's Corner 113 6 Eb Major.mid,,239,120,1
+239.0,<music21.chord.Chord B3 B2>,[0],[11],Children's Corner 113 6 Eb Major.mid,,240,120,2
+239.5,<music21.chord.Chord D3 G3 B-1 B-2>,"[0, 3, 7]","[7, 10, 2]",Children's Corner 113 6 Eb Major.mid,2,240,120,2
+240.5,<music21.chord.Chord E-3 B-3 F3 G3>,"[0, 2, 4, 7]","[3, 5, 7, 10]",Children's Corner 113 6 Eb Major.mid,1,241,121,1
+241.0,<music21.chord.Chord E-2 B-2>,"[0, 5]","[10, 3]",Children's Corner 113 6 Eb Major.mid,,242,121,2
+241.5,<music21.chord.Chord E-3 B-3 F3 G3>,"[0, 2, 4, 7]","[3, 5, 7, 10]",Children's Corner 113 6 Eb Major.mid,,242,121,2
+242.0,<music21.chord.Chord E-2 B-2>,"[0, 5]","[10, 3]",Children's Corner 113 6 Eb Major.mid,,243,122,1
+244.5,<music21.chord.Chord E-3 B-3 F3 G3>,"[0, 2, 4, 7]","[3, 5, 7, 10]",Children's Corner 113 6 Eb Major.mid,,245,123,1
+245.0,<music21.chord.Chord E-2 B-2>,"[0, 5]","[10, 3]",Children's Corner 113 6 Eb Major.mid,,246,123,2
+245.5,<music21.chord.Chord E-3 B-3 F3 G3>,"[0, 2, 4, 7]","[3, 5, 7, 10]",Children's Corner 113 6 Eb Major.mid,,246,123,2
+246.0,<music21.chord.Chord E-2 B-2>,"[0, 5]","[10, 3]",Children's Corner 113 6 Eb Major.mid,,247,124,1
+248.5,<music21.chord.Chord E-3 B-3 F3 G3>,"[0, 2, 4, 7]","[3, 5, 7, 10]",Children's Corner 113 6 Eb Major.mid,,249,125,1
+249.0,<music21.chord.Chord E-2 B-2>,"[0, 5]","[10, 3]",Children's Corner 113 6 Eb Major.mid,,250,125,2
+249.5,<music21.chord.Chord E-3 B-3 F3 G3>,"[0, 2, 4, 7]","[3, 5, 7, 10]",Children's Corner 113 6 Eb Major.mid,,250,125,2
+251.0,<music21.chord.Chord B2 B1>,[0],[11],Children's Corner 113 6 Eb Major.mid,,252,126,2
+251.5,<music21.chord.Chord B-2 B-1>,[0],[10],Children's Corner 113 6 Eb Major.mid,,252,126,2
+251.625,<music21.chord.Chord G#2 G#1>,[0],[8],Children's Corner 113 6 Eb Major.mid,,252,126,2
+251.75,<music21.chord.Chord G2 G1>,[0],[7],Children's Corner 113 6 Eb Major.mid,,252,126,2
+251.875,<music21.chord.Chord F2 F1>,[0],[5],Children's Corner 113 6 Eb Major.mid,,252,126,2
+252.0,<music21.chord.Chord E-3 E-1 E-2>,[0],[3],Children's Corner 113 6 Eb Major.mid,,253,127,1
+254.0,<music21.chord.Chord E-3 E-1 E-2>,[0],[3],Children's Corner 113 6 Eb Major.mid,2,255,128,1

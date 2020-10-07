@@ -1,0 +1,1943 @@
+offset,Chord,NormalForm,PCsinNormalForm,file,Phrase Boundary,Measure Number,Measure Count
+0.0,<music21.chord.Chord F#5 F#6>,[0],[6],Pianoflage in C major.mid,,0,2
+0.25,<music21.chord.Chord G5 G6>,[0],[7],Pianoflage in C major.mid,,0,2
+1.0,<music21.chord.Chord G#5 G#6>,[0],[8],Pianoflage in C major.mid,,1,1
+1.25,<music21.chord.Chord A5 C6 E6 A6 E4 G4 C5>,"[0, 3, 5, 8]","[4, 7, 9, 0]",Pianoflage in C major.mid,,1,1
+1.75,<music21.chord.Chord A5 C6 E6 A6 E4 G4 C5>,"[0, 3, 5, 8]","[4, 7, 9, 0]",Pianoflage in C major.mid,,1,1
+2.75,<music21.chord.Chord A5 C6 E6 A6 E4 G4 C5>,"[0, 3, 5, 8]","[4, 7, 9, 0]",Pianoflage in C major.mid,,1,2
+3.75,<music21.chord.Chord E4 G4 C5>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,2,1
+4.0,<music21.chord.Chord B6 B5 E4 G4 C5>,"[0, 1, 5, 8]","[11, 0, 4, 7]",Pianoflage in C major.mid,,2,2
+4.083333333333330,<music21.chord.Chord B6 B5>,[0],[11],Pianoflage in C major.mid,,2,2
+4.25,<music21.chord.Chord A5 A6 E-4 F#4 C5>,"[0, 3, 6, 9]","[0, 3, 6, 9]",Pianoflage in C major.mid,,2,2
+5.25,<music21.chord.Chord G5 G6 D4 F4 B4>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Pianoflage in C major.mid,,3,1
+5.625,<music21.chord.Chord D4 F4 B4>,"[0, 3, 6]","[11, 2, 5]",Pianoflage in C major.mid,,3,1
+5.75,<music21.chord.Chord C#6 B-5 D4 F4 B4>,"[0, 1, 3, 4, 7]","[10, 11, 1, 2, 5]",Pianoflage in C major.mid,,3,1
+6.125,<music21.chord.Chord D4 F4 B4>,"[0, 3, 6]","[11, 2, 5]",Pianoflage in C major.mid,,3,2
+6.25,<music21.chord.Chord D6 B5 D4 F4 B4>,"[0, 3, 6]","[11, 2, 5]",Pianoflage in C major.mid,,3,2
+6.625,<music21.chord.Chord D4 F4 B4>,"[0, 3, 6]","[11, 2, 5]",Pianoflage in C major.mid,,3,2
+6.75,<music21.chord.Chord G6 G5 D4 F4 B4>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Pianoflage in C major.mid,,3,2
+7.125,<music21.chord.Chord D4 F4 B4>,"[0, 3, 6]","[11, 2, 5]",Pianoflage in C major.mid,,4,1
+7.25,<music21.chord.Chord C#6 B-5 D4 F4 B4>,"[0, 1, 3, 4, 7]","[10, 11, 1, 2, 5]",Pianoflage in C major.mid,,4,1
+7.625,<music21.chord.Chord D4 F4 B4>,"[0, 3, 6]","[11, 2, 5]",Pianoflage in C major.mid,,4,1
+7.75,<music21.chord.Chord B5 D6 D4 F4 B4>,"[0, 3, 6]","[11, 2, 5]",Pianoflage in C major.mid,,4,1
+8.125,<music21.chord.Chord D4 F4 B4>,"[0, 3, 6]","[11, 2, 5]",Pianoflage in C major.mid,,4,2
+8.25,<music21.chord.Chord G6 G5 D4 F4 B4>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Pianoflage in C major.mid,,4,2
+8.5,<music21.chord.Chord G6 G5>,[0],[7],Pianoflage in C major.mid,,4,2
+9.25,<music21.chord.Chord A4 C5 E5 A5 E3 G3 C4>,"[0, 3, 5, 8]","[4, 7, 9, 0]",Pianoflage in C major.mid,,5,1
+9.75,<music21.chord.Chord A4 C5 E5 A5 E3 G3 C4>,"[0, 3, 5, 8]","[4, 7, 9, 0]",Pianoflage in C major.mid,,5,1
+10.75,<music21.chord.Chord A4 C5 E5 A5 E3 G3 C4>,"[0, 3, 5, 8]","[4, 7, 9, 0]",Pianoflage in C major.mid,,5,2
+11.75,<music21.chord.Chord E3 G3 C4>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,6,1
+12.0,<music21.chord.Chord B5 B4 E3 G3 C4>,"[0, 1, 5, 8]","[11, 0, 4, 7]",Pianoflage in C major.mid,,6,2
+12.083333333333300,<music21.chord.Chord B5 B4>,[0],[11],Pianoflage in C major.mid,,6,2
+12.25,<music21.chord.Chord A4 A5 E-3 F#3 C4>,"[0, 3, 6, 9]","[0, 3, 6, 9]",Pianoflage in C major.mid,,6,2
+13.25,<music21.chord.Chord G4 G5 D3 F3 B3>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Pianoflage in C major.mid,,7,1
+13.625,<music21.chord.Chord D3 F3 B3>,"[0, 3, 6]","[11, 2, 5]",Pianoflage in C major.mid,,7,1
+13.75,<music21.chord.Chord F#5 F#4 D3 F3 B3>,"[0, 3, 6, 7]","[11, 2, 5, 6]",Pianoflage in C major.mid,,7,1
+14.125,<music21.chord.Chord D3 F3 B3>,"[0, 3, 6]","[11, 2, 5]",Pianoflage in C major.mid,,7,2
+14.25,<music21.chord.Chord G5 G4 D3 F3 B3>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Pianoflage in C major.mid,,7,2
+14.625,<music21.chord.Chord D3 F3 B3>,"[0, 3, 6]","[11, 2, 5]",Pianoflage in C major.mid,,7,2
+14.75,<music21.chord.Chord A5 A4 D3 F3 B3>,"[0, 2, 5, 8]","[9, 11, 2, 5]",Pianoflage in C major.mid,,7,2
+15.125,<music21.chord.Chord D3 F3 B3>,"[0, 3, 6]","[11, 2, 5]",Pianoflage in C major.mid,,8,1
+15.25,<music21.chord.Chord B-5 B-4 D3 F3 B3>,"[0, 1, 4, 7]","[10, 11, 2, 5]",Pianoflage in C major.mid,,8,1
+15.625,<music21.chord.Chord D3 F3 B3>,"[0, 3, 6]","[11, 2, 5]",Pianoflage in C major.mid,,8,1
+15.75,<music21.chord.Chord B4 B5 D3 F3 B3>,"[0, 3, 6]","[11, 2, 5]",Pianoflage in C major.mid,,8,1
+16.125,<music21.chord.Chord D3 F3 B3>,"[0, 3, 6]","[11, 2, 5]",Pianoflage in C major.mid,,8,2
+16.25,<music21.chord.Chord C6 C5 D3 F3 B3>,"[0, 1, 3, 6]","[11, 0, 2, 5]",Pianoflage in C major.mid,,8,2
+16.5,<music21.chord.Chord C6 C5>,[0],[0],Pianoflage in C major.mid,,8,2
+16.75,<music21.chord.Chord C#6 C#5>,[0],[1],Pianoflage in C major.mid,,8,2
+17.25,<music21.chord.Chord D5 B5 D6 D3>,"[0, 3]","[11, 2]",Pianoflage in C major.mid,,9,1
+17.625,<music21.chord.Chord D3>,[0],[2],Pianoflage in C major.mid,,9,1
+18.0,<music21.chord.Chord B4>,[0],[11],Pianoflage in C major.mid,,9,2
+18.25,<music21.chord.Chord G5 B5 F3 G3 B3>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,9,2
+18.625,<music21.chord.Chord F3 G3 B3>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,9,2
+19.0,<music21.chord.Chord F#5>,[0],[6],Pianoflage in C major.mid,,10,1
+19.25,<music21.chord.Chord G5 B5 G2>,"[0, 4]","[7, 11]",Pianoflage in C major.mid,,10,1
+19.625,<music21.chord.Chord G2>,[0],[7],Pianoflage in C major.mid,,10,1
+20.0,<music21.chord.Chord A4>,[0],[9],Pianoflage in C major.mid,,10,2
+20.25,<music21.chord.Chord F5 A5 F3 G3 B3>,"[0, 2, 4, 6]","[5, 7, 9, 11]",Pianoflage in C major.mid,,10,2
+20.625,<music21.chord.Chord F3 G3 B3>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,10,2
+21.0,<music21.chord.Chord E5>,[0],[4],Pianoflage in C major.mid,,11,1
+21.25,<music21.chord.Chord F5 A5 D3>,"[0, 3, 7]","[2, 5, 9]",Pianoflage in C major.mid,,11,1
+21.625,<music21.chord.Chord D3>,[0],[2],Pianoflage in C major.mid,,11,1
+22.0,<music21.chord.Chord G4>,[0],[7],Pianoflage in C major.mid,,11,2
+22.25,<music21.chord.Chord D5 G5 F3 G3 B3>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Pianoflage in C major.mid,,11,2
+22.625,<music21.chord.Chord F3 G3 B3>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,11,2
+23.0,<music21.chord.Chord F#5>,[0],[6],Pianoflage in C major.mid,,12,1
+23.25,<music21.chord.Chord D5 G5 G2>,"[0, 5]","[2, 7]",Pianoflage in C major.mid,,12,1
+23.625,<music21.chord.Chord G2>,[0],[7],Pianoflage in C major.mid,,12,1
+24.0,<music21.chord.Chord B4 E-5 A5>,"[0, 2, 6]","[9, 11, 3]",Pianoflage in C major.mid,,12,2
+24.25,<music21.chord.Chord F3 G3 B3 B4 E-5 A5>,"[0, 2, 4, 6, 8]","[3, 5, 7, 9, 11]",Pianoflage in C major.mid,,12,2
+24.666666666666700,<music21.chord.Chord F3 G3 B3>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,12,2
+25.0,<music21.chord.Chord G5>,[0],[7],Pianoflage in C major.mid,,13,1
+25.25,<music21.chord.Chord C5 E5 A5 C3>,"[0, 3, 7]","[9, 0, 4]",Pianoflage in C major.mid,,13,1
+26.25,<music21.chord.Chord C5 E5 A5 G3 C4 E4>,"[0, 3, 5, 8]","[4, 7, 9, 0]",Pianoflage in C major.mid,,13,2
+26.625,<music21.chord.Chord G3 C4 E4>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,13,2
+27.0,<music21.chord.Chord G5>,[0],[7],Pianoflage in C major.mid,,14,1
+27.25,<music21.chord.Chord C5 E5 A5 G2>,"[0, 3, 5, 8]","[4, 7, 9, 0]",Pianoflage in C major.mid,,14,1
+27.625,<music21.chord.Chord G2>,[0],[7],Pianoflage in C major.mid,,14,1
+28.0,<music21.chord.Chord C5 E5 C6>,"[0, 4]","[0, 4]",Pianoflage in C major.mid,,14,2
+28.25,<music21.chord.Chord G3 C4 E4 C5 E5 C6>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,14,2
+28.666666666666700,<music21.chord.Chord G3 C4 E4>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,14,2
+29.0,<music21.chord.Chord A4>,[0],[9],Pianoflage in C major.mid,,15,1
+29.25,<music21.chord.Chord C3 E5 G5 A5>,"[0, 3, 5, 8]","[4, 7, 9, 0]",Pianoflage in C major.mid,,15,1
+29.625,<music21.chord.Chord C3>,[0],[0],Pianoflage in C major.mid,,15,1
+29.75,<music21.chord.Chord C5 C3>,[0],[0],Pianoflage in C major.mid,,15,1
+30.125,<music21.chord.Chord C3>,[0],[0],Pianoflage in C major.mid,,15,2
+30.25,<music21.chord.Chord A4 C3>,"[0, 3]","[9, 0]",Pianoflage in C major.mid,,15,2
+30.5,<music21.chord.Chord A4>,[0],[9],Pianoflage in C major.mid,,15,2
+30.75,<music21.chord.Chord E5 G5 A5 G3 C4 E4>,"[0, 3, 5, 8]","[4, 7, 9, 0]",Pianoflage in C major.mid,,15,2
+31.125,<music21.chord.Chord G3 C4 E4>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,16,1
+31.25,<music21.chord.Chord C5 G3 C4 E4>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,16,1
+31.625,<music21.chord.Chord G3 C4 E4>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,16,1
+31.75,<music21.chord.Chord A4 G3 C4 E4>,"[0, 3, 5, 8]","[4, 7, 9, 0]",Pianoflage in C major.mid,,16,1
+32.083333333333300,<music21.chord.Chord A4>,[0],[9],Pianoflage in C major.mid,,16,2
+32.25,<music21.chord.Chord C5 E5 A5 E2 E3>,"[0, 3, 7]","[9, 0, 4]",Pianoflage in C major.mid,,16,2
+32.625,<music21.chord.Chord E2 E3>,[0],[4],Pianoflage in C major.mid,,16,2
+33.0,<music21.chord.Chord G#5>,[0],[8],Pianoflage in C major.mid,,17,1
+33.25,<music21.chord.Chord B4 F5 A5 D2 D3>,"[0, 2, 5, 8]","[9, 11, 2, 5]",Pianoflage in C major.mid,,17,1
+34.25,<music21.chord.Chord B4 F5 A5 F3 G3 B3>,"[0, 2, 4, 6]","[5, 7, 9, 11]",Pianoflage in C major.mid,,17,2
+34.625,<music21.chord.Chord F3 G3 B3>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,17,2
+35.0,<music21.chord.Chord E5>,[0],[4],Pianoflage in C major.mid,,18,1
+35.25,<music21.chord.Chord B4 F5 A5 G2>,"[0, 2, 4, 6]","[5, 7, 9, 11]",Pianoflage in C major.mid,,18,1
+35.625,<music21.chord.Chord G2>,[0],[7],Pianoflage in C major.mid,,18,1
+36.0,<music21.chord.Chord D5 B5 D6>,"[0, 3]","[11, 2]",Pianoflage in C major.mid,,18,2
+36.25,<music21.chord.Chord F3 G3 B3 D5 B5 D6>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Pianoflage in C major.mid,,18,2
+36.666666666666700,<music21.chord.Chord F3 G3 B3>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,18,2
+37.0,<music21.chord.Chord A4 B3>,"[0, 2]","[9, 11]",Pianoflage in C major.mid,,19,1
+37.25,<music21.chord.Chord D3 E5 F5 A5>,"[0, 2, 3, 7]","[2, 4, 5, 9]",Pianoflage in C major.mid,,19,1
+37.625,<music21.chord.Chord D3>,[0],[2],Pianoflage in C major.mid,,19,1
+37.75,<music21.chord.Chord D5 D3>,[0],[2],Pianoflage in C major.mid,,19,1
+38.125,<music21.chord.Chord D3>,[0],[2],Pianoflage in C major.mid,,19,2
+38.25,<music21.chord.Chord A4 D3>,"[0, 5]","[9, 2]",Pianoflage in C major.mid,,19,2
+38.5,<music21.chord.Chord A4>,[0],[9],Pianoflage in C major.mid,,19,2
+38.75,<music21.chord.Chord E5 F5 A5 G3 B3 F4>,"[0, 1, 3, 5, 7]","[4, 5, 7, 9, 11]",Pianoflage in C major.mid,,19,2
+39.125,<music21.chord.Chord G3 B3 F4>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,20,1
+39.25,<music21.chord.Chord D5 G3 B3 F4>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Pianoflage in C major.mid,,20,1
+39.625,<music21.chord.Chord G3 B3 F4>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,20,1
+39.75,<music21.chord.Chord A4 G3 B3 F4>,"[0, 2, 4, 6]","[5, 7, 9, 11]",Pianoflage in C major.mid,,20,1
+40.083333333333300,<music21.chord.Chord A4>,[0],[9],Pianoflage in C major.mid,,20,2
+40.25,<music21.chord.Chord E-5 A5 G3 B3 F4>,"[0, 2, 4, 6, 8]","[3, 5, 7, 9, 11]",Pianoflage in C major.mid,,20,2
+41.25,<music21.chord.Chord C5 E5 A5 C3>,"[0, 3, 7]","[9, 0, 4]",Pianoflage in C major.mid,,21,1
+41.625,<music21.chord.Chord C3>,[0],[0],Pianoflage in C major.mid,,21,1
+42.0,<music21.chord.Chord G5>,[0],[7],Pianoflage in C major.mid,,21,2
+42.25,<music21.chord.Chord C5 E5 A5 G3 C4 E4>,"[0, 3, 5, 8]","[4, 7, 9, 0]",Pianoflage in C major.mid,,21,2
+42.625,<music21.chord.Chord G3 C4 E4>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,21,2
+43.0,<music21.chord.Chord G5>,[0],[7],Pianoflage in C major.mid,,22,1
+43.25,<music21.chord.Chord C5 E5 A5 G2>,"[0, 3, 5, 8]","[4, 7, 9, 0]",Pianoflage in C major.mid,,22,1
+43.625,<music21.chord.Chord G2>,[0],[7],Pianoflage in C major.mid,,22,1
+44.0,<music21.chord.Chord C5 E5 C6>,"[0, 4]","[0, 4]",Pianoflage in C major.mid,,22,2
+44.25,<music21.chord.Chord G3 C4 E4 C5 E5 C6>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,22,2
+44.666666666666700,<music21.chord.Chord G3 C4 E4>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,22,2
+45.0,<music21.chord.Chord E-5>,[0],[3],Pianoflage in C major.mid,,23,1
+45.25,<music21.chord.Chord F#4 C5 E5 D3>,"[0, 2, 4, 6]","[0, 2, 4, 6]",Pianoflage in C major.mid,,23,1
+45.625,<music21.chord.Chord D3>,[0],[2],Pianoflage in C major.mid,,23,1
+46.0,<music21.chord.Chord E-5>,[0],[3],Pianoflage in C major.mid,,23,2
+46.25,<music21.chord.Chord F#4 C5 E5 F#3 A3 C4>,"[0, 2, 5, 8]","[4, 6, 9, 0]",Pianoflage in C major.mid,,23,2
+46.625,<music21.chord.Chord F#3 A3 C4>,"[0, 3, 6]","[6, 9, 0]",Pianoflage in C major.mid,,23,2
+47.0,<music21.chord.Chord F4 B4 D5>,"[0, 3, 6]","[11, 2, 5]",Pianoflage in C major.mid,,24,1
+47.25,<music21.chord.Chord G2 F4 B4 D5>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Pianoflage in C major.mid,,24,1
+47.666666666666700,<music21.chord.Chord G2>,[0],[7],Pianoflage in C major.mid,,24,1
+48.0,<music21.chord.Chord B5 B4>,[0],[11],Pianoflage in C major.mid,,24,2
+48.25,<music21.chord.Chord C5 C6 F3 G3 B3>,"[0, 2, 6, 7]","[5, 7, 11, 0]",Pianoflage in C major.mid,,24,2
+48.625,<music21.chord.Chord F3 G3 B3>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,24,2
+49.0,<music21.chord.Chord C#6 C#5>,[0],[1],Pianoflage in C major.mid,,25,1
+49.25,<music21.chord.Chord D5 B5 D6 D3>,"[0, 3]","[11, 2]",Pianoflage in C major.mid,,25,1
+49.625,<music21.chord.Chord D3>,[0],[2],Pianoflage in C major.mid,,25,1
+50.0,<music21.chord.Chord B4>,[0],[11],Pianoflage in C major.mid,,25,2
+50.25,<music21.chord.Chord G5 B5 F3 G3 B3>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,25,2
+50.625,<music21.chord.Chord F3 G3 B3>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,25,2
+51.0,<music21.chord.Chord F#5>,[0],[6],Pianoflage in C major.mid,,26,1
+51.25,<music21.chord.Chord G5 B5 G2>,"[0, 4]","[7, 11]",Pianoflage in C major.mid,,26,1
+51.625,<music21.chord.Chord G2>,[0],[7],Pianoflage in C major.mid,,26,1
+52.0,<music21.chord.Chord A4>,[0],[9],Pianoflage in C major.mid,,26,2
+52.25,<music21.chord.Chord F5 A5 F3 G3 B3>,"[0, 2, 4, 6]","[5, 7, 9, 11]",Pianoflage in C major.mid,,26,2
+52.625,<music21.chord.Chord F3 G3 B3>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,26,2
+53.0,<music21.chord.Chord E5>,[0],[4],Pianoflage in C major.mid,,27,1
+53.25,<music21.chord.Chord F5 A5 D3>,"[0, 3, 7]","[2, 5, 9]",Pianoflage in C major.mid,,27,1
+53.625,<music21.chord.Chord D3>,[0],[2],Pianoflage in C major.mid,,27,1
+54.0,<music21.chord.Chord G4>,[0],[7],Pianoflage in C major.mid,,27,2
+54.25,<music21.chord.Chord D5 G5 F3 G3 B3>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Pianoflage in C major.mid,,27,2
+54.625,<music21.chord.Chord F3 G3 B3>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,27,2
+55.0,<music21.chord.Chord F#5>,[0],[6],Pianoflage in C major.mid,,28,1
+55.25,<music21.chord.Chord D5 G5 G2>,"[0, 5]","[2, 7]",Pianoflage in C major.mid,,28,1
+55.625,<music21.chord.Chord G2>,[0],[7],Pianoflage in C major.mid,,28,1
+56.0,<music21.chord.Chord B4 E-5 A5>,"[0, 2, 6]","[9, 11, 3]",Pianoflage in C major.mid,,28,2
+56.25,<music21.chord.Chord F3 G3 B3 B4 E-5 A5>,"[0, 2, 4, 6, 8]","[3, 5, 7, 9, 11]",Pianoflage in C major.mid,,28,2
+56.666666666666700,<music21.chord.Chord F3 G3 B3>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,28,2
+57.0,<music21.chord.Chord G5>,[0],[7],Pianoflage in C major.mid,,29,1
+57.25,<music21.chord.Chord C5 E5 A5 C3>,"[0, 3, 7]","[9, 0, 4]",Pianoflage in C major.mid,,29,1
+58.25,<music21.chord.Chord C5 E5 A5 G3 C4 E4>,"[0, 3, 5, 8]","[4, 7, 9, 0]",Pianoflage in C major.mid,,29,2
+58.625,<music21.chord.Chord G3 C4 E4>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,29,2
+59.0,<music21.chord.Chord G5>,[0],[7],Pianoflage in C major.mid,,30,1
+59.25,<music21.chord.Chord C5 E5 A5 G2>,"[0, 3, 5, 8]","[4, 7, 9, 0]",Pianoflage in C major.mid,,30,1
+59.625,<music21.chord.Chord G2>,[0],[7],Pianoflage in C major.mid,,30,1
+60.0,<music21.chord.Chord C5 E5 C6>,"[0, 4]","[0, 4]",Pianoflage in C major.mid,,30,2
+60.25,<music21.chord.Chord G3 C4 E4 C5 E5 C6>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,30,2
+60.666666666666700,<music21.chord.Chord G3 C4 E4>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,30,2
+61.0,<music21.chord.Chord A4>,[0],[9],Pianoflage in C major.mid,,31,1
+61.25,<music21.chord.Chord E5 G5 A5 C3>,"[0, 3, 5, 8]","[4, 7, 9, 0]",Pianoflage in C major.mid,,31,1
+61.625,<music21.chord.Chord C3>,[0],[0],Pianoflage in C major.mid,,31,1
+61.75,<music21.chord.Chord C5 C3>,[0],[0],Pianoflage in C major.mid,,31,1
+62.125,<music21.chord.Chord C3>,[0],[0],Pianoflage in C major.mid,,31,2
+62.25,<music21.chord.Chord A4 C3>,"[0, 3]","[9, 0]",Pianoflage in C major.mid,,31,2
+62.5,<music21.chord.Chord A4>,[0],[9],Pianoflage in C major.mid,,31,2
+62.75,<music21.chord.Chord G3 C4 E4 E5 G5 A5>,"[0, 3, 5, 8]","[4, 7, 9, 0]",Pianoflage in C major.mid,,31,2
+63.125,<music21.chord.Chord G3 C4 E4>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,32,1
+63.25,<music21.chord.Chord C5 G3 C4 E4>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,32,1
+63.625,<music21.chord.Chord G3 C4 E4>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,32,1
+64.0,<music21.chord.Chord G#5 G#4 G3 C4 E4>,"[0, 4, 7, 8]","[0, 4, 7, 8]",Pianoflage in C major.mid,,32,2
+64.08333333333330,<music21.chord.Chord G#5 G#4>,[0],[8],Pianoflage in C major.mid,,32,2
+64.25,<music21.chord.Chord A4 A5 G3 C4 E4>,"[0, 3, 5, 8]","[4, 7, 9, 0]",Pianoflage in C major.mid,,32,2
+64.625,<music21.chord.Chord G3 C4 E4>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,32,2
+65.0,<music21.chord.Chord B-5 B-4>,[0],[10],Pianoflage in C major.mid,,33,1
+65.25,<music21.chord.Chord B4 E5 G5 B5 E2 B2 G3>,"[0, 3, 7]","[4, 7, 11]",Pianoflage in C major.mid,,33,1
+67.0,<music21.chord.Chord E-4 F#3>,"[0, 3]","[3, 6]",Pianoflage in C major.mid,,34,1
+67.25,<music21.chord.Chord E4 G3>,"[0, 3]","[4, 7]",Pianoflage in C major.mid,,34,1
+68.0,<music21.chord.Chord F#4 B-3>,"[0, 4]","[6, 10]",Pianoflage in C major.mid,,34,2
+68.25,<music21.chord.Chord G4 B3>,"[0, 4]","[7, 11]",Pianoflage in C major.mid,,34,2
+69.0,<music21.chord.Chord B-4 E-4>,"[0, 5]","[10, 3]",Pianoflage in C major.mid,,35,1
+69.25,<music21.chord.Chord E4 B4>,"[0, 5]","[11, 4]",Pianoflage in C major.mid,,35,1
+70.0,<music21.chord.Chord F#4 E-5>,"[0, 3]","[3, 6]",Pianoflage in C major.mid,,35,2
+70.25,<music21.chord.Chord G4 E5>,"[0, 3]","[4, 7]",Pianoflage in C major.mid,,35,2
+71.0,<music21.chord.Chord B-4 F#5>,"[0, 4]","[6, 10]",Pianoflage in C major.mid,,36,1
+71.25,<music21.chord.Chord B4 G5>,"[0, 4]","[7, 11]",Pianoflage in C major.mid,,36,1
+72.0,<music21.chord.Chord E-5 B-5>,"[0, 5]","[10, 3]",Pianoflage in C major.mid,,36,2
+72.25,<music21.chord.Chord E5 B5>,"[0, 5]","[11, 4]",Pianoflage in C major.mid,,36,2
+73.25,<music21.chord.Chord C5 E5 A5 F#2 F#3>,"[0, 2, 5, 8]","[4, 6, 9, 0]",Pianoflage in C major.mid,,37,1
+73.875,<music21.chord.Chord F#2 F#3>,[0],[6],Pianoflage in C major.mid,,37,1
+74.0,<music21.chord.Chord B5 F#2 F#3>,"[0, 5]","[6, 11]",Pianoflage in C major.mid,,37,2
+74.25,<music21.chord.Chord C5 E5 A5 F#2 F#3>,"[0, 2, 5, 8]","[4, 6, 9, 0]",Pianoflage in C major.mid,,37,2
+75.0,<music21.chord.Chord B5>,[0],[11],Pianoflage in C major.mid,,38,1
+75.25,<music21.chord.Chord B4 E-5 G5 B2 B3>,"[0, 4, 8]","[3, 7, 11]",Pianoflage in C major.mid,,38,1
+76.25,<music21.chord.Chord A4 E-5 F#5 B2 B3>,"[0, 3, 6, 8]","[3, 6, 9, 11]",Pianoflage in C major.mid,,38,2
+77.25,<music21.chord.Chord G4 B4 E5 E3 E4>,"[0, 3, 7]","[4, 7, 11]",Pianoflage in C major.mid,,39,1
+77.875,<music21.chord.Chord E3 E4>,[0],[4],Pianoflage in C major.mid,,39,1
+78.0,<music21.chord.Chord B4>,[0],[11],Pianoflage in C major.mid,,39,2
+78.25,<music21.chord.Chord E5 A5 C#3 C#4>,"[0, 4, 7]","[9, 1, 4]",Pianoflage in C major.mid,,39,2
+78.75,<music21.chord.Chord C#3 C#4>,[0],[1],Pianoflage in C major.mid,,39,2
+79.0,<music21.chord.Chord B-4>,[0],[10],Pianoflage in C major.mid,,40,1
+79.25,<music21.chord.Chord B4 G5 D3 D4>,"[0, 4, 7]","[7, 11, 2]",Pianoflage in C major.mid,,40,1
+79.75,<music21.chord.Chord D3 D4>,[0],[2],Pianoflage in C major.mid,,40,1
+80.0,<music21.chord.Chord D5>,[0],[2],Pianoflage in C major.mid,,40,2
+80.25,<music21.chord.Chord B5 D6>,"[0, 3]","[11, 2]",Pianoflage in C major.mid,,40,2
+81.0,<music21.chord.Chord C#6>,[0],[1],Pianoflage in C major.mid,,41,1
+81.25,<music21.chord.Chord D5 B5 D6 D3>,"[0, 3]","[11, 2]",Pianoflage in C major.mid,,41,1
+81.625,<music21.chord.Chord D3>,[0],[2],Pianoflage in C major.mid,,41,1
+82.0,<music21.chord.Chord B4>,[0],[11],Pianoflage in C major.mid,,41,2
+82.25,<music21.chord.Chord G5 B5 F3 G3 B3>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,41,2
+82.625,<music21.chord.Chord F3 G3 B3>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,41,2
+83.0,<music21.chord.Chord F#5>,[0],[6],Pianoflage in C major.mid,,42,1
+83.25,<music21.chord.Chord G5 B5 G2>,"[0, 4]","[7, 11]",Pianoflage in C major.mid,,42,1
+83.625,<music21.chord.Chord G2>,[0],[7],Pianoflage in C major.mid,,42,1
+84.0,<music21.chord.Chord A4>,[0],[9],Pianoflage in C major.mid,,42,2
+84.25,<music21.chord.Chord F5 A5 F3 G3 B3>,"[0, 2, 4, 6]","[5, 7, 9, 11]",Pianoflage in C major.mid,,42,2
+84.625,<music21.chord.Chord F3 G3 B3>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,42,2
+85.0,<music21.chord.Chord E5>,[0],[4],Pianoflage in C major.mid,,43,1
+85.25,<music21.chord.Chord F5 A5 D3>,"[0, 3, 7]","[2, 5, 9]",Pianoflage in C major.mid,,43,1
+85.625,<music21.chord.Chord D3>,[0],[2],Pianoflage in C major.mid,,43,1
+86.0,<music21.chord.Chord G4>,[0],[7],Pianoflage in C major.mid,,43,2
+86.25,<music21.chord.Chord D5 G5 F3 G3 B3>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Pianoflage in C major.mid,,43,2
+86.625,<music21.chord.Chord F3 G3 B3>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,43,2
+87.0,<music21.chord.Chord F#5>,[0],[6],Pianoflage in C major.mid,,44,1
+87.25,<music21.chord.Chord D5 G5 G2>,"[0, 5]","[2, 7]",Pianoflage in C major.mid,,44,1
+87.625,<music21.chord.Chord G2>,[0],[7],Pianoflage in C major.mid,,44,1
+88.0,<music21.chord.Chord B4 E-5 A5>,"[0, 2, 6]","[9, 11, 3]",Pianoflage in C major.mid,,44,2
+88.25,<music21.chord.Chord F3 G3 B3 B4 E-5 A5>,"[0, 2, 4, 6, 8]","[3, 5, 7, 9, 11]",Pianoflage in C major.mid,,44,2
+88.66666666666670,<music21.chord.Chord F3 G3 B3>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,44,2
+89.0,<music21.chord.Chord G5>,[0],[7],Pianoflage in C major.mid,,45,1
+89.25,<music21.chord.Chord C5 E5 A5 C3>,"[0, 3, 7]","[9, 0, 4]",Pianoflage in C major.mid,,45,1
+90.25,<music21.chord.Chord C5 E5 A5 G3 C4 E4>,"[0, 3, 5, 8]","[4, 7, 9, 0]",Pianoflage in C major.mid,,45,2
+90.625,<music21.chord.Chord G3 C4 E4>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,45,2
+91.0,<music21.chord.Chord G5>,[0],[7],Pianoflage in C major.mid,,46,1
+91.25,<music21.chord.Chord C5 E5 A5 G2>,"[0, 3, 5, 8]","[4, 7, 9, 0]",Pianoflage in C major.mid,,46,1
+91.625,<music21.chord.Chord G2>,[0],[7],Pianoflage in C major.mid,,46,1
+92.0,<music21.chord.Chord C5 E5 C6>,"[0, 4]","[0, 4]",Pianoflage in C major.mid,,46,2
+92.25,<music21.chord.Chord G3 C4 E4 C5 E5 C6>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,46,2
+92.66666666666670,<music21.chord.Chord G3 C4 E4>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,46,2
+93.0,<music21.chord.Chord A4>,[0],[9],Pianoflage in C major.mid,,47,1
+93.25,<music21.chord.Chord C3 E5 G5 A5>,"[0, 3, 5, 8]","[4, 7, 9, 0]",Pianoflage in C major.mid,,47,1
+93.625,<music21.chord.Chord C3>,[0],[0],Pianoflage in C major.mid,,47,1
+93.75,<music21.chord.Chord C5 C3>,[0],[0],Pianoflage in C major.mid,,47,1
+94.125,<music21.chord.Chord C3>,[0],[0],Pianoflage in C major.mid,,47,2
+94.25,<music21.chord.Chord A4 C3>,"[0, 3]","[9, 0]",Pianoflage in C major.mid,,47,2
+94.5,<music21.chord.Chord A4>,[0],[9],Pianoflage in C major.mid,,47,2
+94.75,<music21.chord.Chord E5 G5 A5 G3 C4 E4>,"[0, 3, 5, 8]","[4, 7, 9, 0]",Pianoflage in C major.mid,,47,2
+95.125,<music21.chord.Chord G3 C4 E4>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,48,1
+95.25,<music21.chord.Chord C5 G3 C4 E4>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,48,1
+95.625,<music21.chord.Chord G3 C4 E4>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,48,1
+95.75,<music21.chord.Chord A4 G3 C4 E4>,"[0, 3, 5, 8]","[4, 7, 9, 0]",Pianoflage in C major.mid,,48,1
+96.08333333333330,<music21.chord.Chord A4>,[0],[9],Pianoflage in C major.mid,,48,2
+96.25,<music21.chord.Chord C5 E5 A5 E2 E3>,"[0, 3, 7]","[9, 0, 4]",Pianoflage in C major.mid,,48,2
+96.625,<music21.chord.Chord E2 E3>,[0],[4],Pianoflage in C major.mid,,48,2
+97.0,<music21.chord.Chord G#5>,[0],[8],Pianoflage in C major.mid,,49,1
+97.25,<music21.chord.Chord B4 F5 A5 D2 D3>,"[0, 2, 5, 8]","[9, 11, 2, 5]",Pianoflage in C major.mid,,49,1
+98.25,<music21.chord.Chord B4 F5 A5 F3 G3 B3>,"[0, 2, 4, 6]","[5, 7, 9, 11]",Pianoflage in C major.mid,,49,2
+98.625,<music21.chord.Chord F3 G3 B3>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,49,2
+99.0,<music21.chord.Chord E5>,[0],[4],Pianoflage in C major.mid,,50,1
+99.25,<music21.chord.Chord B4 F5 A5 G2>,"[0, 2, 4, 6]","[5, 7, 9, 11]",Pianoflage in C major.mid,,50,1
+99.625,<music21.chord.Chord G2>,[0],[7],Pianoflage in C major.mid,,50,1
+100.0,<music21.chord.Chord D5 B5 D6>,"[0, 3]","[11, 2]",Pianoflage in C major.mid,,50,2
+100.25,<music21.chord.Chord F3 G3 B3 D5 B5 D6>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Pianoflage in C major.mid,,50,2
+100.66666666666700,<music21.chord.Chord F3 G3 B3>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,50,2
+101.0,<music21.chord.Chord A4 B3>,"[0, 2]","[9, 11]",Pianoflage in C major.mid,,51,1
+101.25,<music21.chord.Chord D3 E5 F5 A5>,"[0, 2, 3, 7]","[2, 4, 5, 9]",Pianoflage in C major.mid,,51,1
+101.625,<music21.chord.Chord D3>,[0],[2],Pianoflage in C major.mid,,51,1
+101.75,<music21.chord.Chord D5 D3>,[0],[2],Pianoflage in C major.mid,,51,1
+102.125,<music21.chord.Chord D3>,[0],[2],Pianoflage in C major.mid,,51,2
+102.25,<music21.chord.Chord A4 D3>,"[0, 5]","[9, 2]",Pianoflage in C major.mid,,51,2
+102.5,<music21.chord.Chord A4>,[0],[9],Pianoflage in C major.mid,,51,2
+102.75,<music21.chord.Chord E5 F5 A5 G3 B3 F4>,"[0, 1, 3, 5, 7]","[4, 5, 7, 9, 11]",Pianoflage in C major.mid,,51,2
+103.125,<music21.chord.Chord G3 B3 F4>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,52,1
+103.25,<music21.chord.Chord D5 G3 B3 F4>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Pianoflage in C major.mid,,52,1
+103.625,<music21.chord.Chord G3 B3 F4>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,52,1
+103.75,<music21.chord.Chord A4 G3 B3 F4>,"[0, 2, 4, 6]","[5, 7, 9, 11]",Pianoflage in C major.mid,,52,1
+104.08333333333300,<music21.chord.Chord A4>,[0],[9],Pianoflage in C major.mid,,52,2
+104.25,<music21.chord.Chord E-5 A5 G3 B3 F4>,"[0, 2, 4, 6, 8]","[3, 5, 7, 9, 11]",Pianoflage in C major.mid,,52,2
+105.25,<music21.chord.Chord C5 E5 A5 C3>,"[0, 3, 7]","[9, 0, 4]",Pianoflage in C major.mid,,53,1
+105.625,<music21.chord.Chord C3>,[0],[0],Pianoflage in C major.mid,,53,1
+106.0,<music21.chord.Chord G5>,[0],[7],Pianoflage in C major.mid,,53,2
+106.25,<music21.chord.Chord C5 E5 A5 G3 C4 E4>,"[0, 3, 5, 8]","[4, 7, 9, 0]",Pianoflage in C major.mid,,53,2
+106.625,<music21.chord.Chord G3 C4 E4>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,53,2
+107.0,<music21.chord.Chord G5>,[0],[7],Pianoflage in C major.mid,,54,1
+107.25,<music21.chord.Chord C5 E5 A5 G2>,"[0, 3, 5, 8]","[4, 7, 9, 0]",Pianoflage in C major.mid,,54,1
+107.625,<music21.chord.Chord G2>,[0],[7],Pianoflage in C major.mid,,54,1
+108.0,<music21.chord.Chord C5 E5 C6>,"[0, 4]","[0, 4]",Pianoflage in C major.mid,,54,2
+108.25,<music21.chord.Chord G3 C4 E4 C5 E5 C6>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,54,2
+108.66666666666700,<music21.chord.Chord G3 C4 E4>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,54,2
+109.0,<music21.chord.Chord E-5>,[0],[3],Pianoflage in C major.mid,,55,1
+109.25,<music21.chord.Chord F#4 C5 E5 D3>,"[0, 2, 4, 6]","[0, 2, 4, 6]",Pianoflage in C major.mid,,55,1
+109.625,<music21.chord.Chord D3>,[0],[2],Pianoflage in C major.mid,,55,1
+110.0,<music21.chord.Chord E-5>,[0],[3],Pianoflage in C major.mid,,55,2
+110.25,<music21.chord.Chord F#4 C5 E5 F#3 A3 C4>,"[0, 2, 5, 8]","[4, 6, 9, 0]",Pianoflage in C major.mid,,55,2
+110.625,<music21.chord.Chord F#3 A3 C4>,"[0, 3, 6]","[6, 9, 0]",Pianoflage in C major.mid,,55,2
+111.0,<music21.chord.Chord F4 B4 D5>,"[0, 3, 6]","[11, 2, 5]",Pianoflage in C major.mid,,56,1
+111.25,<music21.chord.Chord G2 F4 B4 D5>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Pianoflage in C major.mid,,56,1
+111.66666666666700,<music21.chord.Chord G2>,[0],[7],Pianoflage in C major.mid,,56,1
+112.0,<music21.chord.Chord C#6 C#5>,[0],[1],Pianoflage in C major.mid,,56,2
+112.25,<music21.chord.Chord D5 D6 F3 G3 B3>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Pianoflage in C major.mid,,56,2
+112.625,<music21.chord.Chord F3 G3 B3>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,56,2
+113.0,<music21.chord.Chord E-6 E-5>,[0],[3],Pianoflage in C major.mid,,57,1
+113.25,<music21.chord.Chord E5 B-5 E6 C3>,"[0, 2, 6]","[10, 0, 4]",Pianoflage in C major.mid,,57,1
+114.25,<music21.chord.Chord D5 B-5 D6 B-3 C4 E4>,"[0, 2, 4, 6]","[10, 0, 2, 4]",Pianoflage in C major.mid,,57,2
+114.875,<music21.chord.Chord B-3 C4 E4>,"[0, 2, 6]","[10, 0, 4]",Pianoflage in C major.mid,,57,2
+115.0,<music21.chord.Chord A5>,[0],[9],Pianoflage in C major.mid,,58,1
+115.25,<music21.chord.Chord D5 D6 E3>,"[0, 2]","[2, 4]",Pianoflage in C major.mid,,58,1
+115.875,<music21.chord.Chord E3>,[0],[4],Pianoflage in C major.mid,,58,1
+116.0,<music21.chord.Chord B-4>,[0],[10],Pianoflage in C major.mid,,58,2
+116.25,<music21.chord.Chord E5 G5 B-3 C4 E4>,"[0, 3, 6, 8]","[4, 7, 10, 0]",Pianoflage in C major.mid,,58,2
+116.875,<music21.chord.Chord B-3 C4 E4>,"[0, 2, 6]","[10, 0, 4]",Pianoflage in C major.mid,,58,2
+117.0,<music21.chord.Chord E-5>,[0],[3],Pianoflage in C major.mid,,59,1
+117.25,<music21.chord.Chord B-4 G5 B-5 G3>,"[0, 3]","[7, 10]",Pianoflage in C major.mid,,59,1
+117.625,<music21.chord.Chord G3>,[0],[7],Pianoflage in C major.mid,,59,1
+117.75,<music21.chord.Chord G4 E5 G5 G3>,"[0, 3]","[4, 7]",Pianoflage in C major.mid,,59,1
+118.0,<music21.chord.Chord G4 E5 G5>,"[0, 3]","[4, 7]",Pianoflage in C major.mid,,59,2
+118.25,<music21.chord.Chord B-3 C4 E4 G4 E5 G5>,"[0, 3, 6, 8]","[4, 7, 10, 0]",Pianoflage in C major.mid,,59,2
+118.5,<music21.chord.Chord B-3 C4 E4>,"[0, 2, 6]","[10, 0, 4]",Pianoflage in C major.mid,,59,2
+118.75,<music21.chord.Chord G4 E5 G5 B-3 C4 E4>,"[0, 3, 6, 8]","[4, 7, 10, 0]",Pianoflage in C major.mid,,59,2
+119.0,<music21.chord.Chord G4 E5 G5>,"[0, 3]","[4, 7]",Pianoflage in C major.mid,,60,1
+119.25,<music21.chord.Chord C3 G4 E5 G5>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,60,1
+119.875,<music21.chord.Chord C3>,[0],[0],Pianoflage in C major.mid,,60,1
+120.0,<music21.chord.Chord E5>,[0],[4],Pianoflage in C major.mid,,60,2
+120.25,<music21.chord.Chord G#5 E6 B-3 C4 E4>,"[0, 2, 4, 8]","[8, 10, 0, 4]",Pianoflage in C major.mid,,60,2
+120.875,<music21.chord.Chord B-3 C4 E4>,"[0, 2, 6]","[10, 0, 4]",Pianoflage in C major.mid,,60,2
+121.0,<music21.chord.Chord C6>,[0],[0],Pianoflage in C major.mid,,61,1
+121.25,<music21.chord.Chord E5 E6 F3>,"[0, 1]","[4, 5]",Pianoflage in C major.mid,,61,1
+121.625,<music21.chord.Chord F3>,[0],[5],Pianoflage in C major.mid,,61,1
+122.0,<music21.chord.Chord D5>,[0],[2],Pianoflage in C major.mid,,61,2
+122.25,<music21.chord.Chord A5 D6 A3 C4 F4>,"[0, 3, 5, 8]","[9, 0, 2, 5]",Pianoflage in C major.mid,,61,2
+122.625,<music21.chord.Chord A3 C4 F4>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,61,2
+123.0,<music21.chord.Chord G#5>,[0],[8],Pianoflage in C major.mid,,62,1
+123.25,<music21.chord.Chord D5 A5 D6 C3>,"[0, 3, 5]","[9, 0, 2]",Pianoflage in C major.mid,,62,1
+123.625,<music21.chord.Chord C3>,[0],[0],Pianoflage in C major.mid,,62,1
+124.0,<music21.chord.Chord C5>,[0],[0],Pianoflage in C major.mid,,62,2
+124.25,<music21.chord.Chord A5 C6 A3 C4 F4>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,62,2
+124.625,<music21.chord.Chord A3 C4 F4>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,62,2
+125.0,<music21.chord.Chord F5>,[0],[5],Pianoflage in C major.mid,,63,1
+125.25,<music21.chord.Chord C5 C6 F3>,"[0, 5]","[0, 5]",Pianoflage in C major.mid,,63,1
+125.625,<music21.chord.Chord F3>,[0],[5],Pianoflage in C major.mid,,63,1
+125.75,<music21.chord.Chord G#4 C5 F5 G#5 F3>,"[0, 3, 7]","[5, 8, 0]",Pianoflage in C major.mid,,63,1
+126.0,<music21.chord.Chord G#4 C5 F5 G#5>,"[0, 3, 7]","[5, 8, 0]",Pianoflage in C major.mid,,63,2
+126.25,<music21.chord.Chord G#3 C4 F4 G#4 C5 F5 G#5>,"[0, 3, 7]","[5, 8, 0]",Pianoflage in C major.mid,,63,2
+126.5,<music21.chord.Chord G#3 C4 F4>,"[0, 3, 7]","[5, 8, 0]",Pianoflage in C major.mid,,63,2
+126.75,<music21.chord.Chord G#4 C5 F5 G#5 G#3 C4 F4>,"[0, 3, 7]","[5, 8, 0]",Pianoflage in C major.mid,,63,2
+127.0,<music21.chord.Chord G#4 C5 F5 G#5>,"[0, 3, 7]","[5, 8, 0]",Pianoflage in C major.mid,,64,1
+127.25,<music21.chord.Chord D3 G#4 C5 F5 G#5>,"[0, 2, 5, 8]","[0, 2, 5, 8]",Pianoflage in C major.mid,,64,1
+127.875,<music21.chord.Chord D3>,[0],[2],Pianoflage in C major.mid,,64,1
+128.0,<music21.chord.Chord E5 E4>,[0],[4],Pianoflage in C major.mid,,64,2
+128.25,<music21.chord.Chord F5 F4 F3 G#3 C4>,"[0, 3, 7]","[5, 8, 0]",Pianoflage in C major.mid,,64,2
+128.875,<music21.chord.Chord F3 G#3 C4>,"[0, 3, 7]","[5, 8, 0]",Pianoflage in C major.mid,,64,2
+129.0,<music21.chord.Chord F#5 F#4>,[0],[6],Pianoflage in C major.mid,,65,1
+129.25,<music21.chord.Chord G4 G5 G2>,[0],[7],Pianoflage in C major.mid,,65,1
+129.625,<music21.chord.Chord G2>,[0],[7],Pianoflage in C major.mid,,65,1
+129.75,<music21.chord.Chord A4 A5 G2>,"[0, 2]","[7, 9]",Pianoflage in C major.mid,,65,1
+130.0,<music21.chord.Chord A4 A5>,[0],[9],Pianoflage in C major.mid,,65,2
+130.25,<music21.chord.Chord B4 B5 G3 C4 E4>,"[0, 1, 5, 8]","[11, 0, 4, 7]",Pianoflage in C major.mid,,65,2
+130.625,<music21.chord.Chord G3 C4 E4>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,65,2
+130.75,<music21.chord.Chord C5 C6 G3 C4 E4>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,65,2
+131.0,<music21.chord.Chord C5 C6>,[0],[0],Pianoflage in C major.mid,,66,1
+131.25,<music21.chord.Chord A2 C5 C6>,"[0, 3]","[9, 0]",Pianoflage in C major.mid,,66,1
+131.875,<music21.chord.Chord A2>,[0],[9],Pianoflage in C major.mid,,66,1
+132.0,<music21.chord.Chord D6 D5>,[0],[2],Pianoflage in C major.mid,,66,2
+132.25,<music21.chord.Chord E5 C6 E6 A3 C4 E4>,"[0, 3, 7]","[9, 0, 4]",Pianoflage in C major.mid,,66,2
+133.25,<music21.chord.Chord C5 F#5 A5 D3>,"[0, 3, 6, 8]","[6, 9, 0, 2]",Pianoflage in C major.mid,,67,1
+133.625,<music21.chord.Chord D3>,[0],[2],Pianoflage in C major.mid,,67,1
+133.75,<music21.chord.Chord C5 F#5 B5 D3>,"[0, 1, 3, 7]","[11, 0, 2, 6]",Pianoflage in C major.mid,,67,1
+134.0,<music21.chord.Chord C5 F#5 B5>,"[0, 5, 6]","[6, 11, 0]",Pianoflage in C major.mid,,67,2
+134.25,<music21.chord.Chord F#3 A3 C4 C5 F#5 B5>,"[0, 3, 5, 6]","[6, 9, 11, 0]",Pianoflage in C major.mid,,67,2
+134.5,<music21.chord.Chord F#3 A3 C4>,"[0, 3, 6]","[6, 9, 0]",Pianoflage in C major.mid,,67,2
+134.75,<music21.chord.Chord B4 F5 A5 F#3 A3 C4>,"[0, 1, 4, 6, 7]","[5, 6, 9, 11, 0]",Pianoflage in C major.mid,,67,2
+135.0,<music21.chord.Chord B4 F5 A5>,"[0, 4, 6]","[5, 9, 11]",Pianoflage in C major.mid,,68,1
+135.25,<music21.chord.Chord G2 B4 F5 A5>,"[0, 2, 4, 6]","[5, 7, 9, 11]",Pianoflage in C major.mid,,68,1
+135.875,<music21.chord.Chord G2>,[0],[7],Pianoflage in C major.mid,,68,1
+136.0,<music21.chord.Chord B4 F5 G5>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,68,2
+136.25,<music21.chord.Chord G3 B3 F4 B4 F5 G5>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,68,2
+136.875,<music21.chord.Chord G3 B3 F4>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,68,2
+137.0,<music21.chord.Chord C5 E5 G5 C6>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,69,1
+137.25,<music21.chord.Chord C2 C3 C5 E5 G5 C6>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,69,1
+137.875,<music21.chord.Chord C2 C3>,[0],[0],Pianoflage in C major.mid,,69,1
+138.0,<music21.chord.Chord G6 C6 C2 C3>,"[0, 5]","[7, 0]",Pianoflage in C major.mid,,69,2
+138.25,<music21.chord.Chord C6 A6 C2 C3>,"[0, 3]","[9, 0]",Pianoflage in C major.mid,,69,2
+138.5,<music21.chord.Chord C6 A6>,"[0, 3]","[9, 0]",Pianoflage in C major.mid,,69,2
+138.75,<music21.chord.Chord G4 E5 C6 A6>,"[0, 3, 5, 8]","[4, 7, 9, 0]",Pianoflage in C major.mid,,69,2
+139.25,<music21.chord.Chord C6 G5 G4 E5>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,70,1
+139.75,<music21.chord.Chord A5 D6 G4 E5>,"[0, 2, 5, 7]","[2, 4, 7, 9]",Pianoflage in C major.mid,,70,1
+140.08333333333300,<music21.chord.Chord A5 D6>,"[0, 5]","[9, 2]",Pianoflage in C major.mid,,70,2
+140.25,<music21.chord.Chord E4 C5 A5 D6>,"[0, 3, 5, 7]","[9, 0, 2, 4]",Pianoflage in C major.mid,,70,2
+140.75,<music21.chord.Chord G5 C5 E4>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,70,2
+141.0,<music21.chord.Chord G5 C5>,"[0, 5]","[7, 0]",Pianoflage in C major.mid,,71,1
+141.08333333333300,<music21.chord.Chord G5>,[0],[7],Pianoflage in C major.mid,,71,1
+141.25,<music21.chord.Chord A5 E5>,"[0, 5]","[4, 9]",Pianoflage in C major.mid,,71,1
+141.75,<music21.chord.Chord E-5 A5>,"[0, 6]","[3, 9]",Pianoflage in C major.mid,,71,1
+142.25,<music21.chord.Chord G3 E-4 E-5 A5>,"[0, 4, 6]","[3, 7, 9]",Pianoflage in C major.mid,,71,2
+142.75,<music21.chord.Chord G3 E-4>,"[0, 4]","[3, 7]",Pianoflage in C major.mid,,71,2
+143.0,<music21.chord.Chord G5>,[0],[7],Pianoflage in C major.mid,,72,1
+143.25,<music21.chord.Chord C5 E5 C6 C3 C4>,"[0, 4]","[0, 4]",Pianoflage in C major.mid,,72,1
+144.0,<music21.chord.Chord C5 E5 C6>,"[0, 4]","[0, 4]",Pianoflage in C major.mid,,72,2
+144.25,<music21.chord.Chord E5 G#5 B5 E6 C3 C4>,"[0, 4, 7, 8]","[4, 8, 11, 0]",Pianoflage in C major.mid,,72,2
+145.0,<music21.chord.Chord E5 G#5 B5 E6>,"[0, 4, 7]","[4, 8, 11]",Pianoflage in C major.mid,,73,1
+145.25,<music21.chord.Chord F3>,[0],[5],Pianoflage in C major.mid,,73,1
+146.0,<music21.chord.Chord E5>,[0],[4],Pianoflage in C major.mid,,73,2
+146.25,<music21.chord.Chord A5 E6 A3 C4>,"[0, 3, 7]","[9, 0, 4]",Pianoflage in C major.mid,,73,2
+146.875,<music21.chord.Chord A3 C4>,"[0, 3]","[9, 0]",Pianoflage in C major.mid,,73,2
+147.0,<music21.chord.Chord E5>,[0],[4],Pianoflage in C major.mid,,74,1
+147.25,<music21.chord.Chord G#5 E6 D3>,"[0, 2, 6]","[2, 4, 8]",Pianoflage in C major.mid,,74,1
+147.875,<music21.chord.Chord D3>,[0],[2],Pianoflage in C major.mid,,74,1
+148.0,<music21.chord.Chord D6>,[0],[2],Pianoflage in C major.mid,,74,2
+148.25,<music21.chord.Chord C6 F3 G#3 C4>,"[0, 3, 7]","[5, 8, 0]",Pianoflage in C major.mid,,74,2
+148.875,<music21.chord.Chord F3 G#3 C4>,"[0, 3, 7]","[5, 8, 0]",Pianoflage in C major.mid,,74,2
+149.0,<music21.chord.Chord D5>,[0],[2],Pianoflage in C major.mid,,75,1
+149.25,<music21.chord.Chord E-5 F#5 E3>,"[0, 1, 3]","[3, 4, 6]",Pianoflage in C major.mid,,75,1
+149.91666666666700,<music21.chord.Chord E3>,[0],[4],Pianoflage in C major.mid,,75,1
+150.0,<music21.chord.Chord E5 G5>,"[0, 3]","[4, 7]",Pianoflage in C major.mid,,75,2
+150.25,<music21.chord.Chord G3 C4 E5 G5>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,75,2
+150.66666666666700,<music21.chord.Chord G3 C4>,"[0, 5]","[7, 0]",Pianoflage in C major.mid,,75,2
+151.0,<music21.chord.Chord C5 F#5 B5>,"[0, 5, 6]","[6, 11, 0]",Pianoflage in C major.mid,,76,1
+151.25,<music21.chord.Chord E-3 C5 F#5 B5>,"[0, 1, 4, 7]","[11, 0, 3, 6]",Pianoflage in C major.mid,,76,1
+152.0,<music21.chord.Chord A5>,[0],[9],Pianoflage in C major.mid,,76,2
+152.25,<music21.chord.Chord C5 G5 F#3 A3 C4>,"[0, 1, 3, 6]","[6, 7, 9, 0]",Pianoflage in C major.mid,,76,2
+152.625,<music21.chord.Chord F#3 A3 C4>,"[0, 3, 6]","[6, 9, 0]",Pianoflage in C major.mid,,76,2
+153.0,<music21.chord.Chord F#5>,[0],[6],Pianoflage in C major.mid,,77,1
+153.25,<music21.chord.Chord B4 F5 A5 D3>,"[0, 2, 5, 8]","[9, 11, 2, 5]",Pianoflage in C major.mid,,77,1
+154.25,<music21.chord.Chord B3 F4 A4 G2 D3>,"[0, 2, 4, 6, 9]","[5, 7, 9, 11, 2]",Pianoflage in C major.mid,,77,2
+154.625,<music21.chord.Chord G2 D3>,"[0, 5]","[2, 7]",Pianoflage in C major.mid,,77,2
+155.0,<music21.chord.Chord D4>,[0],[2],Pianoflage in C major.mid,,78,1
+155.25,<music21.chord.Chord B3 F4 A4 G2 D3>,"[0, 2, 4, 6, 9]","[5, 7, 9, 11, 2]",Pianoflage in C major.mid,,78,1
+155.625,<music21.chord.Chord G2 D3>,"[0, 5]","[2, 7]",Pianoflage in C major.mid,,78,1
+156.0,<music21.chord.Chord G5>,[0],[7],Pianoflage in C major.mid,,78,2
+156.25,<music21.chord.Chord B4 E-5 A5 G3 E-4>,"[0, 2, 4, 8]","[7, 9, 11, 3]",Pianoflage in C major.mid,,78,2
+156.625,<music21.chord.Chord G3 E-4>,"[0, 4]","[3, 7]",Pianoflage in C major.mid,,78,2
+157.0,<music21.chord.Chord G5>,[0],[7],Pianoflage in C major.mid,,79,1
+157.25,<music21.chord.Chord C5 E5 A5 G3 E4>,"[0, 3, 5, 8]","[4, 7, 9, 0]",Pianoflage in C major.mid,,79,1
+158.25,<music21.chord.Chord E4 A4 C3 C4>,"[0, 3, 7]","[9, 0, 4]",Pianoflage in C major.mid,,79,2
+158.625,<music21.chord.Chord C3 C4>,[0],[0],Pianoflage in C major.mid,,79,2
+159.0,<music21.chord.Chord G4 C3>,"[0, 5]","[7, 0]",Pianoflage in C major.mid,,80,1
+159.25,<music21.chord.Chord E4 A4 B3 C3>,"[0, 2, 3, 7]","[9, 11, 0, 4]",Pianoflage in C major.mid,,80,1
+159.625,<music21.chord.Chord C3 B3>,"[0, 1]","[11, 0]",Pianoflage in C major.mid,,80,1
+160.0,<music21.chord.Chord G4 C3>,"[0, 5]","[7, 0]",Pianoflage in C major.mid,,80,2
+160.25,<music21.chord.Chord B-3 E4 A4 C3>,"[0, 1, 3, 7]","[9, 10, 0, 4]",Pianoflage in C major.mid,,80,2
+160.625,<music21.chord.Chord B-3 E4 A4>,"[0, 5, 6]","[4, 9, 10]",Pianoflage in C major.mid,,80,2
+161.25,<music21.chord.Chord F2 F3>,[0],[5],Pianoflage in C major.mid,,81,1
+162.0,<music21.chord.Chord E5>,[0],[4],Pianoflage in C major.mid,,81,2
+162.25,<music21.chord.Chord A5 E6 A3 C4 F4>,"[0, 1, 5, 8]","[4, 5, 9, 0]",Pianoflage in C major.mid,,81,2
+162.875,<music21.chord.Chord A3 C4 F4>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,81,2
+163.0,<music21.chord.Chord E5>,[0],[4],Pianoflage in C major.mid,,82,1
+163.25,<music21.chord.Chord G#5 E6 G#3>,"[0, 4]","[4, 8]",Pianoflage in C major.mid,,82,1
+163.875,<music21.chord.Chord G#3>,[0],[8],Pianoflage in C major.mid,,82,1
+164.0,<music21.chord.Chord D6>,[0],[2],Pianoflage in C major.mid,,82,2
+164.25,<music21.chord.Chord C6 C4 F4>,"[0, 5]","[0, 5]",Pianoflage in C major.mid,,82,2
+164.875,<music21.chord.Chord C4 F4>,"[0, 5]","[0, 5]",Pianoflage in C major.mid,,82,2
+165.0,<music21.chord.Chord D5>,[0],[2],Pianoflage in C major.mid,,83,1
+165.25,<music21.chord.Chord E-5 F#5 G3>,"[0, 3, 4]","[3, 6, 7]",Pianoflage in C major.mid,,83,1
+165.625,<music21.chord.Chord G3>,[0],[7],Pianoflage in C major.mid,,83,1
+166.0,<music21.chord.Chord G5 E5>,"[0, 3]","[4, 7]",Pianoflage in C major.mid,,83,2
+166.25,<music21.chord.Chord G4 C4 E4>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,83,2
+166.625,<music21.chord.Chord C4 E4>,"[0, 4]","[0, 4]",Pianoflage in C major.mid,,83,2
+167.0,<music21.chord.Chord C5 E5 A5>,"[0, 3, 7]","[9, 0, 4]",Pianoflage in C major.mid,,84,1
+167.25,<music21.chord.Chord C3 C5 E5 A5>,"[0, 3, 7]","[9, 0, 4]",Pianoflage in C major.mid,,84,1
+167.66666666666700,<music21.chord.Chord C3>,[0],[0],Pianoflage in C major.mid,,84,1
+168.0,<music21.chord.Chord G5>,[0],[7],Pianoflage in C major.mid,,84,2
+168.25,<music21.chord.Chord C5 E5 A5 C4 E4>,"[0, 3, 7]","[9, 0, 4]",Pianoflage in C major.mid,,84,2
+168.625,<music21.chord.Chord C4 E4>,"[0, 4]","[0, 4]",Pianoflage in C major.mid,,84,2
+169.0,<music21.chord.Chord B-5>,[0],[10],Pianoflage in C major.mid,,85,1
+169.25,<music21.chord.Chord G5 B5 D3>,"[0, 4, 7]","[7, 11, 2]",Pianoflage in C major.mid,,85,1
+169.625,<music21.chord.Chord D3>,[0],[2],Pianoflage in C major.mid,,85,1
+170.0,<music21.chord.Chord D5>,[0],[2],Pianoflage in C major.mid,,85,2
+170.25,<music21.chord.Chord B5 D6 G3 B3 D4>,"[0, 4, 7]","[7, 11, 2]",Pianoflage in C major.mid,,85,2
+170.625,<music21.chord.Chord G3 B3 D4>,"[0, 4, 7]","[7, 11, 2]",Pianoflage in C major.mid,,85,2
+171.0,<music21.chord.Chord E-6 E-5>,[0],[3],Pianoflage in C major.mid,,86,1
+171.25,<music21.chord.Chord E5 E6 D3>,"[0, 2]","[2, 4]",Pianoflage in C major.mid,,86,1
+171.625,<music21.chord.Chord D3>,[0],[2],Pianoflage in C major.mid,,86,1
+172.0,<music21.chord.Chord D6>,[0],[2],Pianoflage in C major.mid,,86,2
+172.25,<music21.chord.Chord D5 G5 B5 G3 B3 D4>,"[0, 4, 7]","[7, 11, 2]",Pianoflage in C major.mid,,86,2
+173.25,<music21.chord.Chord C#5 G5 B-5 E3 E4>,"[0, 3, 6, 9]","[1, 4, 7, 10]",Pianoflage in C major.mid,,87,1
+173.625,<music21.chord.Chord E3 E4>,[0],[4],Pianoflage in C major.mid,,87,1
+174.0,<music21.chord.Chord B5>,[0],[11],Pianoflage in C major.mid,,87,2
+174.25,<music21.chord.Chord C5 F#5 B-5 D3 D4>,"[0, 2, 4, 8]","[10, 0, 2, 6]",Pianoflage in C major.mid,,87,2
+174.625,<music21.chord.Chord D3 D4>,[0],[2],Pianoflage in C major.mid,,87,2
+175.0,<music21.chord.Chord B5>,[0],[11],Pianoflage in C major.mid,,88,1
+175.25,<music21.chord.Chord B4 D5 G5 G3 D4>,"[0, 4, 7]","[7, 11, 2]",Pianoflage in C major.mid,,88,1
+175.625,<music21.chord.Chord G3 D4>,"[0, 5]","[2, 7]",Pianoflage in C major.mid,,88,1
+176.0,<music21.chord.Chord E5>,[0],[4],Pianoflage in C major.mid,,88,2
+176.25,<music21.chord.Chord E5 G#5 C6 E6 E3 G#3 C4>,"[0, 4, 8]","[0, 4, 8]",Pianoflage in C major.mid,,88,2
+177.25,<music21.chord.Chord F3>,[0],[5],Pianoflage in C major.mid,,89,1
+178.0,<music21.chord.Chord E5>,[0],[4],Pianoflage in C major.mid,,89,2
+178.25,<music21.chord.Chord A5 E6 A3 C4>,"[0, 3, 7]","[9, 0, 4]",Pianoflage in C major.mid,,89,2
+178.875,<music21.chord.Chord A3 C4>,"[0, 3]","[9, 0]",Pianoflage in C major.mid,,89,2
+179.0,<music21.chord.Chord E5>,[0],[4],Pianoflage in C major.mid,,90,1
+179.25,<music21.chord.Chord G#5 E6 D3>,"[0, 2, 6]","[2, 4, 8]",Pianoflage in C major.mid,,90,1
+179.875,<music21.chord.Chord D3>,[0],[2],Pianoflage in C major.mid,,90,1
+180.0,<music21.chord.Chord D6>,[0],[2],Pianoflage in C major.mid,,90,2
+180.25,<music21.chord.Chord C6 F3 G#3 C4>,"[0, 3, 7]","[5, 8, 0]",Pianoflage in C major.mid,,90,2
+180.875,<music21.chord.Chord F3 G#3 C4>,"[0, 3, 7]","[5, 8, 0]",Pianoflage in C major.mid,,90,2
+181.0,<music21.chord.Chord D5>,[0],[2],Pianoflage in C major.mid,,91,1
+181.25,<music21.chord.Chord E-5 F#5 E3>,"[0, 1, 3]","[3, 4, 6]",Pianoflage in C major.mid,,91,1
+181.91666666666700,<music21.chord.Chord E3>,[0],[4],Pianoflage in C major.mid,,91,1
+182.0,<music21.chord.Chord E5 G5>,"[0, 3]","[4, 7]",Pianoflage in C major.mid,,91,2
+182.25,<music21.chord.Chord G3 C4 E5 G5>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,91,2
+182.66666666666700,<music21.chord.Chord G3 C4>,"[0, 5]","[7, 0]",Pianoflage in C major.mid,,91,2
+183.0,<music21.chord.Chord C5 F#5 B5>,"[0, 5, 6]","[6, 11, 0]",Pianoflage in C major.mid,,92,1
+183.25,<music21.chord.Chord E-3 C5 F#5 B5>,"[0, 1, 4, 7]","[11, 0, 3, 6]",Pianoflage in C major.mid,,92,1
+184.0,<music21.chord.Chord A5>,[0],[9],Pianoflage in C major.mid,,92,2
+184.25,<music21.chord.Chord C5 G5 F#3 A3 C4>,"[0, 1, 3, 6]","[6, 7, 9, 0]",Pianoflage in C major.mid,,92,2
+184.625,<music21.chord.Chord F#3 A3 C4>,"[0, 3, 6]","[6, 9, 0]",Pianoflage in C major.mid,,92,2
+185.0,<music21.chord.Chord F#5>,[0],[6],Pianoflage in C major.mid,,93,1
+185.25,<music21.chord.Chord B4 F5 A5 D3>,"[0, 2, 5, 8]","[9, 11, 2, 5]",Pianoflage in C major.mid,,93,1
+186.25,<music21.chord.Chord B3 F4 A4 G2 D3>,"[0, 2, 4, 6, 9]","[5, 7, 9, 11, 2]",Pianoflage in C major.mid,,93,2
+186.625,<music21.chord.Chord G2 D3>,"[0, 5]","[2, 7]",Pianoflage in C major.mid,,93,2
+187.0,<music21.chord.Chord D4>,[0],[2],Pianoflage in C major.mid,,94,1
+187.25,<music21.chord.Chord B3 F4 A4 G2 D3>,"[0, 2, 4, 6, 9]","[5, 7, 9, 11, 2]",Pianoflage in C major.mid,,94,1
+187.625,<music21.chord.Chord G2 D3>,"[0, 5]","[2, 7]",Pianoflage in C major.mid,,94,1
+188.0,<music21.chord.Chord G5>,[0],[7],Pianoflage in C major.mid,,94,2
+188.25,<music21.chord.Chord B4 E-5 A5 G3 E-4>,"[0, 2, 4, 8]","[7, 9, 11, 3]",Pianoflage in C major.mid,,94,2
+188.625,<music21.chord.Chord G3 E-4>,"[0, 4]","[3, 7]",Pianoflage in C major.mid,,94,2
+189.0,<music21.chord.Chord G5>,[0],[7],Pianoflage in C major.mid,,95,1
+189.25,<music21.chord.Chord C5 E5 A5 G3 E4>,"[0, 3, 5, 8]","[4, 7, 9, 0]",Pianoflage in C major.mid,,95,1
+190.25,<music21.chord.Chord E4 A4 C3 C4>,"[0, 3, 7]","[9, 0, 4]",Pianoflage in C major.mid,,95,2
+190.625,<music21.chord.Chord C3 C4>,[0],[0],Pianoflage in C major.mid,,95,2
+191.0,<music21.chord.Chord G4 C3>,"[0, 5]","[7, 0]",Pianoflage in C major.mid,,96,1
+191.25,<music21.chord.Chord E4 A4 B3 C3>,"[0, 2, 3, 7]","[9, 11, 0, 4]",Pianoflage in C major.mid,,96,1
+191.625,<music21.chord.Chord C3 B3>,"[0, 1]","[11, 0]",Pianoflage in C major.mid,,96,1
+192.0,<music21.chord.Chord G4 C3>,"[0, 5]","[7, 0]",Pianoflage in C major.mid,,96,2
+192.25,<music21.chord.Chord B-3 E4 A4 C3>,"[0, 1, 3, 7]","[9, 10, 0, 4]",Pianoflage in C major.mid,,96,2
+192.625,<music21.chord.Chord B-3 E4 A4>,"[0, 5, 6]","[4, 9, 10]",Pianoflage in C major.mid,,96,2
+193.25,<music21.chord.Chord C5 F5 G#5 F2 F3>,"[0, 3, 7]","[5, 8, 0]",Pianoflage in C major.mid,,97,1
+193.625,<music21.chord.Chord F2 F3>,[0],[5],Pianoflage in C major.mid,,97,1
+194.0,<music21.chord.Chord C5 F5 A5>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,97,2
+194.25,<music21.chord.Chord F3 A3 C4 C5 F5 A5>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,97,2
+194.66666666666700,<music21.chord.Chord F3 A3 C4>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,97,2
+195.0,<music21.chord.Chord E5 G#5 E6>,"[0, 4]","[4, 8]",Pianoflage in C major.mid,,98,1
+195.25,<music21.chord.Chord D3 E5 G#5 E6>,"[0, 2, 6]","[2, 4, 8]",Pianoflage in C major.mid,,98,1
+195.66666666666700,<music21.chord.Chord D3>,[0],[2],Pianoflage in C major.mid,,98,1
+196.0,<music21.chord.Chord D6 D5>,[0],[2],Pianoflage in C major.mid,,98,2
+196.25,<music21.chord.Chord C5 C6 F3 G#3 C4>,"[0, 3, 7]","[5, 8, 0]",Pianoflage in C major.mid,,98,2
+197.25,<music21.chord.Chord G4 C5 E-5 C3>,"[0, 3, 7]","[0, 3, 7]",Pianoflage in C major.mid,,99,1
+197.625,<music21.chord.Chord C3>,[0],[0],Pianoflage in C major.mid,,99,1
+198.0,<music21.chord.Chord G4 C5 E5>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,99,2
+198.25,<music21.chord.Chord G3 C4 E4 G4 C5 E5>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,99,2
+198.66666666666700,<music21.chord.Chord G3 C4 E4>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,99,2
+199.0,<music21.chord.Chord C#5 G5 B5>,"[0, 4, 6]","[7, 11, 1]",Pianoflage in C major.mid,,100,1
+199.25,<music21.chord.Chord A2 C#5 G5 B5>,"[0, 2, 4, 6]","[7, 9, 11, 1]",Pianoflage in C major.mid,,100,1
+199.75,<music21.chord.Chord A2>,[0],[9],Pianoflage in C major.mid,,100,1
+200.0,<music21.chord.Chord A5>,[0],[9],Pianoflage in C major.mid,,100,2
+200.25,<music21.chord.Chord C#5 G5 A3 C#4 G4>,"[0, 2, 6]","[7, 9, 1]",Pianoflage in C major.mid,,100,2
+201.25,<music21.chord.Chord D5 F#5 C6 D3>,"[0, 2, 6]","[0, 2, 6]",Pianoflage in C major.mid,,101,1
+201.75,<music21.chord.Chord B5 D3>,"[0, 3]","[11, 2]",Pianoflage in C major.mid,,101,1
+202.0,<music21.chord.Chord B5>,[0],[11],Pianoflage in C major.mid,,101,2
+202.25,<music21.chord.Chord A5 F#3 A3 C4>,"[0, 3, 6]","[6, 9, 0]",Pianoflage in C major.mid,,101,2
+202.75,<music21.chord.Chord D5 F5 B5 F#3 A3 C4>,"[0, 1, 4, 6, 7, 9]","[5, 6, 9, 11, 0, 2]",Pianoflage in C major.mid,,101,2
+203.0,<music21.chord.Chord D5 F5 B5>,"[0, 3, 6]","[11, 2, 5]",Pianoflage in C major.mid,,102,1
+203.25,<music21.chord.Chord G2 D5 F5 B5>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Pianoflage in C major.mid,,102,1
+203.625,<music21.chord.Chord G2>,[0],[7],Pianoflage in C major.mid,,102,1
+204.0,<music21.chord.Chord A5>,[0],[9],Pianoflage in C major.mid,,102,2
+204.25,<music21.chord.Chord D5 F5 G5 G3 B3 F4>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Pianoflage in C major.mid,,102,2
+205.25,<music21.chord.Chord C3 C4 C5 E5 G5 C6>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,103,1
+206.25,<music21.chord.Chord C6 E6 C4>,"[0, 4]","[0, 4]",Pianoflage in C major.mid,,103,2
+206.625,<music21.chord.Chord C4>,[0],[0],Pianoflage in C major.mid,,103,2
+207.0,<music21.chord.Chord E5>,[0],[4],Pianoflage in C major.mid,,104,1
+207.25,<music21.chord.Chord B5 E6 B3>,"[0, 5]","[11, 4]",Pianoflage in C major.mid,,104,1
+207.625,<music21.chord.Chord B3>,[0],[11],Pianoflage in C major.mid,,104,1
+208.0,<music21.chord.Chord E5>,[0],[4],Pianoflage in C major.mid,,104,2
+208.25,<music21.chord.Chord B-5 E6 B-3 E5>,"[0, 6]","[4, 10]",Pianoflage in C major.mid,,104,2
+208.5,<music21.chord.Chord B-5 E6 B-3>,"[0, 6]","[4, 10]",Pianoflage in C major.mid,,104,2
+209.25,<music21.chord.Chord F3>,[0],[5],Pianoflage in C major.mid,,105,1
+210.0,<music21.chord.Chord E5>,[0],[4],Pianoflage in C major.mid,,105,2
+210.25,<music21.chord.Chord A5 E6 A3 C4>,"[0, 3, 7]","[9, 0, 4]",Pianoflage in C major.mid,,105,2
+210.875,<music21.chord.Chord A3 C4>,"[0, 3]","[9, 0]",Pianoflage in C major.mid,,105,2
+211.0,<music21.chord.Chord E5>,[0],[4],Pianoflage in C major.mid,,106,1
+211.25,<music21.chord.Chord G#5 E6 D3>,"[0, 2, 6]","[2, 4, 8]",Pianoflage in C major.mid,,106,1
+211.875,<music21.chord.Chord D3>,[0],[2],Pianoflage in C major.mid,,106,1
+212.0,<music21.chord.Chord D6>,[0],[2],Pianoflage in C major.mid,,106,2
+212.25,<music21.chord.Chord C6 F3 G#3 C4>,"[0, 3, 7]","[5, 8, 0]",Pianoflage in C major.mid,,106,2
+212.875,<music21.chord.Chord F3 G#3 C4>,"[0, 3, 7]","[5, 8, 0]",Pianoflage in C major.mid,,106,2
+213.0,<music21.chord.Chord D5>,[0],[2],Pianoflage in C major.mid,,107,1
+213.25,<music21.chord.Chord E-5 F#5 E3>,"[0, 1, 3]","[3, 4, 6]",Pianoflage in C major.mid,,107,1
+213.91666666666700,<music21.chord.Chord E3>,[0],[4],Pianoflage in C major.mid,,107,1
+214.0,<music21.chord.Chord E5 G5>,"[0, 3]","[4, 7]",Pianoflage in C major.mid,,107,2
+214.25,<music21.chord.Chord G3 C4 E5 G5>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,107,2
+214.66666666666700,<music21.chord.Chord G3 C4>,"[0, 5]","[7, 0]",Pianoflage in C major.mid,,107,2
+215.0,<music21.chord.Chord C5 F#5 B5>,"[0, 5, 6]","[6, 11, 0]",Pianoflage in C major.mid,,108,1
+215.25,<music21.chord.Chord E-3 C5 F#5 B5>,"[0, 1, 4, 7]","[11, 0, 3, 6]",Pianoflage in C major.mid,,108,1
+216.0,<music21.chord.Chord A5>,[0],[9],Pianoflage in C major.mid,,108,2
+216.25,<music21.chord.Chord C5 G5 F#3 A3 C4>,"[0, 1, 3, 6]","[6, 7, 9, 0]",Pianoflage in C major.mid,,108,2
+216.625,<music21.chord.Chord F#3 A3 C4>,"[0, 3, 6]","[6, 9, 0]",Pianoflage in C major.mid,,108,2
+217.0,<music21.chord.Chord F#5>,[0],[6],Pianoflage in C major.mid,,109,1
+217.25,<music21.chord.Chord B4 F5 A5 D3>,"[0, 2, 5, 8]","[9, 11, 2, 5]",Pianoflage in C major.mid,,109,1
+218.25,<music21.chord.Chord B3 F4 A4 G2 D3>,"[0, 2, 4, 6, 9]","[5, 7, 9, 11, 2]",Pianoflage in C major.mid,,109,2
+218.625,<music21.chord.Chord G2 D3>,"[0, 5]","[2, 7]",Pianoflage in C major.mid,,109,2
+219.0,<music21.chord.Chord D4>,[0],[2],Pianoflage in C major.mid,,110,1
+219.25,<music21.chord.Chord B3 F4 A4 G2 D3>,"[0, 2, 4, 6, 9]","[5, 7, 9, 11, 2]",Pianoflage in C major.mid,,110,1
+219.625,<music21.chord.Chord G2 D3>,"[0, 5]","[2, 7]",Pianoflage in C major.mid,,110,1
+220.0,<music21.chord.Chord G5>,[0],[7],Pianoflage in C major.mid,,110,2
+220.25,<music21.chord.Chord B4 E-5 A5 G3 E-4>,"[0, 2, 4, 8]","[7, 9, 11, 3]",Pianoflage in C major.mid,,110,2
+220.625,<music21.chord.Chord G3 E-4>,"[0, 4]","[3, 7]",Pianoflage in C major.mid,,110,2
+221.0,<music21.chord.Chord G5>,[0],[7],Pianoflage in C major.mid,,111,1
+221.25,<music21.chord.Chord C5 E5 A5 G3 E4>,"[0, 3, 5, 8]","[4, 7, 9, 0]",Pianoflage in C major.mid,,111,1
+222.25,<music21.chord.Chord E4 A4 C3 C4>,"[0, 3, 7]","[9, 0, 4]",Pianoflage in C major.mid,,111,2
+222.625,<music21.chord.Chord C3 C4>,[0],[0],Pianoflage in C major.mid,,111,2
+223.0,<music21.chord.Chord G4 C3>,"[0, 5]","[7, 0]",Pianoflage in C major.mid,,112,1
+223.25,<music21.chord.Chord E4 A4 B3 C3>,"[0, 2, 3, 7]","[9, 11, 0, 4]",Pianoflage in C major.mid,,112,1
+223.625,<music21.chord.Chord C3 B3>,"[0, 1]","[11, 0]",Pianoflage in C major.mid,,112,1
+224.0,<music21.chord.Chord G4 C3>,"[0, 5]","[7, 0]",Pianoflage in C major.mid,,112,2
+224.25,<music21.chord.Chord B-3 E4 A4 C3>,"[0, 1, 3, 7]","[9, 10, 0, 4]",Pianoflage in C major.mid,,112,2
+224.625,<music21.chord.Chord B-3 E4 A4>,"[0, 5, 6]","[4, 9, 10]",Pianoflage in C major.mid,,112,2
+225.25,<music21.chord.Chord F2 F3>,[0],[5],Pianoflage in C major.mid,,113,1
+226.0,<music21.chord.Chord E5>,[0],[4],Pianoflage in C major.mid,,113,2
+226.25,<music21.chord.Chord A5 E6 A3 C4 F4>,"[0, 1, 5, 8]","[4, 5, 9, 0]",Pianoflage in C major.mid,,113,2
+226.875,<music21.chord.Chord A3 C4 F4>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,113,2
+227.0,<music21.chord.Chord E5>,[0],[4],Pianoflage in C major.mid,,114,1
+227.25,<music21.chord.Chord G#5 E6 G#3>,"[0, 4]","[4, 8]",Pianoflage in C major.mid,,114,1
+227.875,<music21.chord.Chord G#3>,[0],[8],Pianoflage in C major.mid,,114,1
+228.0,<music21.chord.Chord D6>,[0],[2],Pianoflage in C major.mid,,114,2
+228.25,<music21.chord.Chord C6 C4 F4>,"[0, 5]","[0, 5]",Pianoflage in C major.mid,,114,2
+228.875,<music21.chord.Chord C4 F4>,"[0, 5]","[0, 5]",Pianoflage in C major.mid,,114,2
+229.0,<music21.chord.Chord D5>,[0],[2],Pianoflage in C major.mid,,115,1
+229.25,<music21.chord.Chord E-5 F#5 G3>,"[0, 3, 4]","[3, 6, 7]",Pianoflage in C major.mid,,115,1
+229.625,<music21.chord.Chord G3>,[0],[7],Pianoflage in C major.mid,,115,1
+230.0,<music21.chord.Chord G5 E5>,"[0, 3]","[4, 7]",Pianoflage in C major.mid,,115,2
+230.25,<music21.chord.Chord G4 C4 E4>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,115,2
+230.625,<music21.chord.Chord C4 E4>,"[0, 4]","[0, 4]",Pianoflage in C major.mid,,115,2
+231.0,<music21.chord.Chord C5 E5 A5>,"[0, 3, 7]","[9, 0, 4]",Pianoflage in C major.mid,,116,1
+231.25,<music21.chord.Chord C3 C5 E5 A5>,"[0, 3, 7]","[9, 0, 4]",Pianoflage in C major.mid,,116,1
+231.66666666666700,<music21.chord.Chord C3>,[0],[0],Pianoflage in C major.mid,,116,1
+232.0,<music21.chord.Chord G5>,[0],[7],Pianoflage in C major.mid,,116,2
+232.25,<music21.chord.Chord C5 E5 A5 C4 E4>,"[0, 3, 7]","[9, 0, 4]",Pianoflage in C major.mid,,116,2
+232.625,<music21.chord.Chord C4 E4>,"[0, 4]","[0, 4]",Pianoflage in C major.mid,,116,2
+233.0,<music21.chord.Chord B-5>,[0],[10],Pianoflage in C major.mid,,117,1
+233.25,<music21.chord.Chord G5 B5 D3>,"[0, 4, 7]","[7, 11, 2]",Pianoflage in C major.mid,,117,1
+233.625,<music21.chord.Chord D3>,[0],[2],Pianoflage in C major.mid,,117,1
+234.0,<music21.chord.Chord D5>,[0],[2],Pianoflage in C major.mid,,117,2
+234.25,<music21.chord.Chord B5 D6 G3 B3 D4>,"[0, 4, 7]","[7, 11, 2]",Pianoflage in C major.mid,,117,2
+234.625,<music21.chord.Chord G3 B3 D4>,"[0, 4, 7]","[7, 11, 2]",Pianoflage in C major.mid,,117,2
+235.0,<music21.chord.Chord E-6 E-5>,[0],[3],Pianoflage in C major.mid,,118,1
+235.25,<music21.chord.Chord E5 E6 D3>,"[0, 2]","[2, 4]",Pianoflage in C major.mid,,118,1
+235.625,<music21.chord.Chord D3>,[0],[2],Pianoflage in C major.mid,,118,1
+236.0,<music21.chord.Chord D6>,[0],[2],Pianoflage in C major.mid,,118,2
+236.25,<music21.chord.Chord D5 G5 B5 G3 B3 D4>,"[0, 4, 7]","[7, 11, 2]",Pianoflage in C major.mid,,118,2
+237.25,<music21.chord.Chord C#5 G5 B-5 E3 E4>,"[0, 3, 6, 9]","[1, 4, 7, 10]",Pianoflage in C major.mid,,119,1
+237.625,<music21.chord.Chord E3 E4>,[0],[4],Pianoflage in C major.mid,,119,1
+238.0,<music21.chord.Chord B5>,[0],[11],Pianoflage in C major.mid,,119,2
+238.25,<music21.chord.Chord C5 F#5 B-5 D3 D4>,"[0, 2, 4, 8]","[10, 0, 2, 6]",Pianoflage in C major.mid,,119,2
+238.625,<music21.chord.Chord D3 D4>,[0],[2],Pianoflage in C major.mid,,119,2
+239.0,<music21.chord.Chord B5>,[0],[11],Pianoflage in C major.mid,,120,1
+239.25,<music21.chord.Chord B4 D5 G5 G3 D4>,"[0, 4, 7]","[7, 11, 2]",Pianoflage in C major.mid,,120,1
+239.625,<music21.chord.Chord G3 D4>,"[0, 5]","[2, 7]",Pianoflage in C major.mid,,120,1
+240.0,<music21.chord.Chord E5>,[0],[4],Pianoflage in C major.mid,,120,2
+240.25,<music21.chord.Chord E5 G#5 C6 E6 E3 G#3 C4>,"[0, 4, 8]","[0, 4, 8]",Pianoflage in C major.mid,,120,2
+241.25,<music21.chord.Chord F3>,[0],[5],Pianoflage in C major.mid,,121,1
+242.0,<music21.chord.Chord E5>,[0],[4],Pianoflage in C major.mid,,121,2
+242.25,<music21.chord.Chord A5 E6 A3 C4>,"[0, 3, 7]","[9, 0, 4]",Pianoflage in C major.mid,,121,2
+242.875,<music21.chord.Chord A3 C4>,"[0, 3]","[9, 0]",Pianoflage in C major.mid,,121,2
+243.0,<music21.chord.Chord E5>,[0],[4],Pianoflage in C major.mid,,122,1
+243.25,<music21.chord.Chord G#5 E6 D3>,"[0, 2, 6]","[2, 4, 8]",Pianoflage in C major.mid,,122,1
+243.875,<music21.chord.Chord D3>,[0],[2],Pianoflage in C major.mid,,122,1
+244.0,<music21.chord.Chord D6>,[0],[2],Pianoflage in C major.mid,,122,2
+244.25,<music21.chord.Chord C6 F3 G#3 C4>,"[0, 3, 7]","[5, 8, 0]",Pianoflage in C major.mid,,122,2
+244.875,<music21.chord.Chord F3 G#3 C4>,"[0, 3, 7]","[5, 8, 0]",Pianoflage in C major.mid,,122,2
+245.0,<music21.chord.Chord D5>,[0],[2],Pianoflage in C major.mid,,123,1
+245.25,<music21.chord.Chord E-5 F#5 E3>,"[0, 1, 3]","[3, 4, 6]",Pianoflage in C major.mid,,123,1
+245.91666666666700,<music21.chord.Chord E3>,[0],[4],Pianoflage in C major.mid,,123,1
+246.0,<music21.chord.Chord E5 G5>,"[0, 3]","[4, 7]",Pianoflage in C major.mid,,123,2
+246.25,<music21.chord.Chord G3 C4 E5 G5>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,123,2
+246.66666666666700,<music21.chord.Chord G3 C4>,"[0, 5]","[7, 0]",Pianoflage in C major.mid,,123,2
+247.0,<music21.chord.Chord C5 F#5 B5>,"[0, 5, 6]","[6, 11, 0]",Pianoflage in C major.mid,,124,1
+247.25,<music21.chord.Chord E-3 C5 F#5 B5>,"[0, 1, 4, 7]","[11, 0, 3, 6]",Pianoflage in C major.mid,,124,1
+248.0,<music21.chord.Chord A5>,[0],[9],Pianoflage in C major.mid,,124,2
+248.25,<music21.chord.Chord C5 G5 F#3 A3 C4>,"[0, 1, 3, 6]","[6, 7, 9, 0]",Pianoflage in C major.mid,,124,2
+248.625,<music21.chord.Chord F#3 A3 C4>,"[0, 3, 6]","[6, 9, 0]",Pianoflage in C major.mid,,124,2
+249.0,<music21.chord.Chord F#5>,[0],[6],Pianoflage in C major.mid,,125,1
+249.25,<music21.chord.Chord B4 F5 A5 D3>,"[0, 2, 5, 8]","[9, 11, 2, 5]",Pianoflage in C major.mid,,125,1
+250.25,<music21.chord.Chord B3 F4 A4 G2 D3>,"[0, 2, 4, 6, 9]","[5, 7, 9, 11, 2]",Pianoflage in C major.mid,,125,2
+250.625,<music21.chord.Chord G2 D3>,"[0, 5]","[2, 7]",Pianoflage in C major.mid,,125,2
+251.0,<music21.chord.Chord D4>,[0],[2],Pianoflage in C major.mid,,126,1
+251.25,<music21.chord.Chord B3 F4 A4 G2 D3>,"[0, 2, 4, 6, 9]","[5, 7, 9, 11, 2]",Pianoflage in C major.mid,,126,1
+251.625,<music21.chord.Chord G2 D3>,"[0, 5]","[2, 7]",Pianoflage in C major.mid,,126,1
+252.0,<music21.chord.Chord G5>,[0],[7],Pianoflage in C major.mid,,126,2
+252.25,<music21.chord.Chord B4 E-5 A5 G3 E-4>,"[0, 2, 4, 8]","[7, 9, 11, 3]",Pianoflage in C major.mid,,126,2
+252.625,<music21.chord.Chord G3 E-4>,"[0, 4]","[3, 7]",Pianoflage in C major.mid,,126,2
+253.0,<music21.chord.Chord G5>,[0],[7],Pianoflage in C major.mid,,127,1
+253.25,<music21.chord.Chord C5 E5 A5 G3 E4>,"[0, 3, 5, 8]","[4, 7, 9, 0]",Pianoflage in C major.mid,,127,1
+254.25,<music21.chord.Chord E4 A4 C3 C4>,"[0, 3, 7]","[9, 0, 4]",Pianoflage in C major.mid,,127,2
+254.625,<music21.chord.Chord C3 C4>,[0],[0],Pianoflage in C major.mid,,127,2
+255.0,<music21.chord.Chord G4 C3>,"[0, 5]","[7, 0]",Pianoflage in C major.mid,,128,1
+255.25,<music21.chord.Chord E4 A4 B3 C3>,"[0, 2, 3, 7]","[9, 11, 0, 4]",Pianoflage in C major.mid,,128,1
+255.625,<music21.chord.Chord C3 B3>,"[0, 1]","[11, 0]",Pianoflage in C major.mid,,128,1
+256.0,<music21.chord.Chord G4 C3>,"[0, 5]","[7, 0]",Pianoflage in C major.mid,,128,2
+256.25,<music21.chord.Chord B-3 E4 A4 C3>,"[0, 1, 3, 7]","[9, 10, 0, 4]",Pianoflage in C major.mid,,128,2
+256.625,<music21.chord.Chord B-3 E4 A4>,"[0, 5, 6]","[4, 9, 10]",Pianoflage in C major.mid,,128,2
+257.25,<music21.chord.Chord C5 F5 G#5 F2 F3>,"[0, 3, 7]","[5, 8, 0]",Pianoflage in C major.mid,,129,1
+257.625,<music21.chord.Chord F2 F3>,[0],[5],Pianoflage in C major.mid,,129,1
+258.0,<music21.chord.Chord C5 F5 A5>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,129,2
+258.25,<music21.chord.Chord F3 A3 C4 C5 F5 A5>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,129,2
+258.6666666666670,<music21.chord.Chord F3 A3 C4>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,129,2
+259.0,<music21.chord.Chord E5 G#5 E6>,"[0, 4]","[4, 8]",Pianoflage in C major.mid,,130,1
+259.25,<music21.chord.Chord D3 E5 G#5 E6>,"[0, 2, 6]","[2, 4, 8]",Pianoflage in C major.mid,,130,1
+259.6666666666670,<music21.chord.Chord D3>,[0],[2],Pianoflage in C major.mid,,130,1
+260.0,<music21.chord.Chord D6 D5>,[0],[2],Pianoflage in C major.mid,,130,2
+260.25,<music21.chord.Chord C5 C6 F3 G#3 C4>,"[0, 3, 7]","[5, 8, 0]",Pianoflage in C major.mid,,130,2
+261.25,<music21.chord.Chord G4 C5 E-5 C3>,"[0, 3, 7]","[0, 3, 7]",Pianoflage in C major.mid,,131,1
+261.625,<music21.chord.Chord C3>,[0],[0],Pianoflage in C major.mid,,131,1
+262.0,<music21.chord.Chord G4 C5 E5>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,131,2
+262.25,<music21.chord.Chord G3 C4 E4 G4 C5 E5>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,131,2
+262.6666666666670,<music21.chord.Chord G3 C4 E4>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,131,2
+263.0,<music21.chord.Chord C#5 G5 B5>,"[0, 4, 6]","[7, 11, 1]",Pianoflage in C major.mid,,132,1
+263.25,<music21.chord.Chord A2 C#5 G5 B5>,"[0, 2, 4, 6]","[7, 9, 11, 1]",Pianoflage in C major.mid,,132,1
+263.75,<music21.chord.Chord A2>,[0],[9],Pianoflage in C major.mid,,132,1
+264.0,<music21.chord.Chord A5>,[0],[9],Pianoflage in C major.mid,,132,2
+264.25,<music21.chord.Chord C#5 G5 A3 C#4 G4>,"[0, 2, 6]","[7, 9, 1]",Pianoflage in C major.mid,,132,2
+265.25,<music21.chord.Chord D5 F#5 C6 D3>,"[0, 2, 6]","[0, 2, 6]",Pianoflage in C major.mid,,133,1
+265.75,<music21.chord.Chord B5 D3>,"[0, 3]","[11, 2]",Pianoflage in C major.mid,,133,1
+266.0,<music21.chord.Chord B5>,[0],[11],Pianoflage in C major.mid,,133,2
+266.25,<music21.chord.Chord A5 F#3 A3 C4>,"[0, 3, 6]","[6, 9, 0]",Pianoflage in C major.mid,,133,2
+266.75,<music21.chord.Chord D5 F5 B5 F#3 A3 C4>,"[0, 1, 4, 6, 7, 9]","[5, 6, 9, 11, 0, 2]",Pianoflage in C major.mid,,133,2
+267.0,<music21.chord.Chord D5 F5 B5>,"[0, 3, 6]","[11, 2, 5]",Pianoflage in C major.mid,,134,1
+267.25,<music21.chord.Chord G2 D5 F5 B5>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Pianoflage in C major.mid,,134,1
+267.625,<music21.chord.Chord G2>,[0],[7],Pianoflage in C major.mid,,134,1
+268.0,<music21.chord.Chord A5>,[0],[9],Pianoflage in C major.mid,,134,2
+268.25,<music21.chord.Chord D5 F5 G5 G3 B3 F4>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Pianoflage in C major.mid,,134,2
+269.25,<music21.chord.Chord C5 E5 C6 C3 C4>,"[0, 4]","[0, 4]",Pianoflage in C major.mid,,135,1
+269.875,<music21.chord.Chord C3 C4>,[0],[0],Pianoflage in C major.mid,,135,1
+270.0,<music21.chord.Chord B4 E-5 A5>,"[0, 2, 6]","[9, 11, 3]",Pianoflage in C major.mid,,135,2
+270.25,<music21.chord.Chord G3 B4 E-5 A5>,"[0, 2, 4, 8]","[7, 9, 11, 3]",Pianoflage in C major.mid,,135,2
+270.875,<music21.chord.Chord G3>,[0],[7],Pianoflage in C major.mid,,135,2
+271.0,<music21.chord.Chord G5>,[0],[7],Pianoflage in C major.mid,,136,1
+271.25,<music21.chord.Chord C5 E5 C6 C3 G3 E4>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,136,1
+272.25,<music21.chord.Chord D3>,[0],[2],Pianoflage in C major.mid,,136,2
+273.25,<music21.chord.Chord E3 C2 G2>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,137,1
+273.625,<music21.chord.Chord C2 G2>,"[0, 5]","[7, 0]",Pianoflage in C major.mid,,137,1
+274.0,<music21.chord.Chord D4 C2 G2>,"[0, 2, 7]","[0, 2, 7]",Pianoflage in C major.mid,,137,2
+274.25,<music21.chord.Chord C4 C2 G2>,"[0, 5]","[7, 0]",Pianoflage in C major.mid,,137,2
+274.625,<music21.chord.Chord C2 G2>,"[0, 5]","[7, 0]",Pianoflage in C major.mid,,137,2
+275.0,<music21.chord.Chord G3 C2 G2>,"[0, 5]","[7, 0]",Pianoflage in C major.mid,,138,1
+275.25,<music21.chord.Chord E4 A4 C2 G2>,"[0, 3, 5, 8]","[4, 7, 9, 0]",Pianoflage in C major.mid,,138,1
+275.625,<music21.chord.Chord C2 G2>,"[0, 5]","[7, 0]",Pianoflage in C major.mid,,138,1
+276.0,<music21.chord.Chord G4>,[0],[7],Pianoflage in C major.mid,,138,2
+276.25,<music21.chord.Chord E3 B-3 D4 E4>,"[0, 4, 6]","[10, 2, 4]",Pianoflage in C major.mid,,138,2
+276.625,<music21.chord.Chord E3 B-3 D4>,"[0, 4, 6]","[10, 2, 4]",Pianoflage in C major.mid,,138,2
+277.0,<music21.chord.Chord B-4 D5 E3 B-3 D4>,"[0, 4, 6]","[10, 2, 4]",Pianoflage in C major.mid,,139,1
+277.25,<music21.chord.Chord C5 E3 B-3 D4>,"[0, 2, 4, 6]","[10, 0, 2, 4]",Pianoflage in C major.mid,,139,1
+277.625,<music21.chord.Chord E3 B-3 D4>,"[0, 4, 6]","[10, 2, 4]",Pianoflage in C major.mid,,139,1
+277.75,<music21.chord.Chord G4 E3 B-3 D4>,"[0, 2, 5, 8]","[2, 4, 7, 10]",Pianoflage in C major.mid,,139,1
+278.0,<music21.chord.Chord G4>,[0],[7],Pianoflage in C major.mid,,139,2
+278.25,<music21.chord.Chord C4 B-4 E5 A5>,"[0, 1, 3, 7]","[9, 10, 0, 4]",Pianoflage in C major.mid,,139,2
+278.625,<music21.chord.Chord C4 B-4>,"[0, 2]","[10, 0]",Pianoflage in C major.mid,,139,2
+278.75,<music21.chord.Chord G5 C4 B-4>,"[0, 3, 5]","[7, 10, 0]",Pianoflage in C major.mid,,139,2
+279.125,<music21.chord.Chord C4 B-4>,"[0, 2]","[10, 0]",Pianoflage in C major.mid,,140,1
+279.25,<music21.chord.Chord C4 G4 B-4 E5>,"[0, 3, 6, 8]","[4, 7, 10, 0]",Pianoflage in C major.mid,,140,1
+279.625,<music21.chord.Chord C4 G4 B-4>,"[0, 3, 5]","[7, 10, 0]",Pianoflage in C major.mid,,140,1
+279.75,<music21.chord.Chord D6 B-5 C4 G4 B-4>,"[0, 3, 5, 7]","[7, 10, 0, 2]",Pianoflage in C major.mid,,140,1
+280.125,<music21.chord.Chord C4 G4 B-4>,"[0, 3, 5]","[7, 10, 0]",Pianoflage in C major.mid,,140,2
+280.25,<music21.chord.Chord C6 C4 G4 B-4>,"[0, 3, 5]","[7, 10, 0]",Pianoflage in C major.mid,,140,2
+280.625,<music21.chord.Chord C4 G4 B-4>,"[0, 3, 5]","[7, 10, 0]",Pianoflage in C major.mid,,140,2
+280.75,<music21.chord.Chord G5 C4 G4 B-4>,"[0, 3, 5]","[7, 10, 0]",Pianoflage in C major.mid,,140,2
+281.25,<music21.chord.Chord E5 B-5 E6 C4 G4 B-4>,"[0, 3, 6, 8]","[4, 7, 10, 0]",Pianoflage in C major.mid,,141,1
+281.5,<music21.chord.Chord E5 B-5 E6 C4 G4 B-4>,"[0, 3, 6, 8]","[4, 7, 10, 0]",Pianoflage in C major.mid,,141,1
+282.25,<music21.chord.Chord E5 B-5 E6 C4 G4 B-4>,"[0, 3, 6, 8]","[4, 7, 10, 0]",Pianoflage in C major.mid,,141,2
+284.0,<music21.chord.Chord E-5 E-6 C#4 G4 B-4>,"[0, 3, 6, 8]","[7, 10, 1, 3]",Pianoflage in C major.mid,,142,2
+284.1666666666670,<music21.chord.Chord E-5 E-6 C#4 G4>,"[0, 2, 6]","[1, 3, 7]",Pianoflage in C major.mid,,142,2
+284.25,<music21.chord.Chord D6 D5 D4 G4 B-4>,"[0, 3, 7]","[7, 10, 2]",Pianoflage in C major.mid,,142,2
+284.75,<music21.chord.Chord D4 G4 B-4>,"[0, 3, 7]","[7, 10, 2]",Pianoflage in C major.mid,,142,2
+285.0,<music21.chord.Chord C#6 E-4 G4 B-4 C#5>,"[0, 3, 6, 8]","[7, 10, 1, 3]",Pianoflage in C major.mid,,143,1
+285.25,<music21.chord.Chord E4 G4 B-4 C5 C6>,"[0, 3, 6, 8]","[4, 7, 10, 0]",Pianoflage in C major.mid,,143,1
+286.25,<music21.chord.Chord E5 B-5 D6>,"[0, 4, 6]","[10, 2, 4]",Pianoflage in C major.mid,,143,2
+287.0,<music21.chord.Chord C6>,[0],[0],Pianoflage in C major.mid,,144,1
+287.25,<music21.chord.Chord E5 B-5 D6 G2 G3>,"[0, 2, 5, 8]","[2, 4, 7, 10]",Pianoflage in C major.mid,,144,1
+287.625,<music21.chord.Chord G2 G3>,[0],[7],Pianoflage in C major.mid,,144,1
+288.0,<music21.chord.Chord C6>,[0],[0],Pianoflage in C major.mid,,144,2
+288.25,<music21.chord.Chord E-5 A5 D6 F#2 F#3>,"[0, 1, 4, 7]","[2, 3, 6, 9]",Pianoflage in C major.mid,,144,2
+288.625,<music21.chord.Chord F#2 F#3>,[0],[6],Pianoflage in C major.mid,,144,2
+289.0,<music21.chord.Chord C6>,[0],[0],Pianoflage in C major.mid,,145,1
+289.25,<music21.chord.Chord E5 B-5 D6 G2 G3>,"[0, 2, 5, 8]","[2, 4, 7, 10]",Pianoflage in C major.mid,,145,1
+290.25,<music21.chord.Chord B-4 E5 B-3 C4 E4>,"[0, 2, 6]","[10, 0, 4]",Pianoflage in C major.mid,,145,2
+290.625,<music21.chord.Chord B-3 C4 E4>,"[0, 2, 6]","[10, 0, 4]",Pianoflage in C major.mid,,145,2
+291.0,<music21.chord.Chord E-5>,[0],[3],Pianoflage in C major.mid,,146,1
+291.25,<music21.chord.Chord E5 C3>,"[0, 4]","[0, 4]",Pianoflage in C major.mid,,146,1
+291.625,<music21.chord.Chord C3>,[0],[0],Pianoflage in C major.mid,,146,1
+292.0,<music21.chord.Chord F5>,[0],[5],Pianoflage in C major.mid,,146,2
+292.25,<music21.chord.Chord F#5 B-3 C4 E4>,"[0, 2, 6, 8]","[4, 6, 10, 0]",Pianoflage in C major.mid,,146,2
+292.625,<music21.chord.Chord B-3 C4 E4>,"[0, 2, 6]","[10, 0, 4]",Pianoflage in C major.mid,,146,2
+293.0,<music21.chord.Chord G5>,[0],[7],Pianoflage in C major.mid,,147,1
+293.25,<music21.chord.Chord E5 A5 G3>,"[0, 3, 5]","[4, 7, 9]",Pianoflage in C major.mid,,147,1
+293.625,<music21.chord.Chord G3>,[0],[7],Pianoflage in C major.mid,,147,1
+294.0,<music21.chord.Chord E5 G5>,"[0, 3]","[4, 7]",Pianoflage in C major.mid,,147,2
+294.25,<music21.chord.Chord B-3 C4 E4 E5 G5>,"[0, 3, 6, 8]","[4, 7, 10, 0]",Pianoflage in C major.mid,,147,2
+294.6666666666670,<music21.chord.Chord B-3 C4 E4>,"[0, 2, 6]","[10, 0, 4]",Pianoflage in C major.mid,,147,2
+295.0,<music21.chord.Chord E5 B-5 C6>,"[0, 2, 6]","[10, 0, 4]",Pianoflage in C major.mid,,148,1
+295.25,<music21.chord.Chord C3 E5 B-5 C6>,"[0, 2, 6]","[10, 0, 4]",Pianoflage in C major.mid,,148,1
+295.6666666666670,<music21.chord.Chord C3>,[0],[0],Pianoflage in C major.mid,,148,1
+296.0,<music21.chord.Chord D5>,[0],[2],Pianoflage in C major.mid,,148,2
+296.25,<music21.chord.Chord G#5 D6 B-3 C4 E4>,"[0, 2, 4, 6, 8]","[8, 10, 0, 2, 4]",Pianoflage in C major.mid,,148,2
+296.625,<music21.chord.Chord B-3 C4 E4>,"[0, 2, 6]","[10, 0, 4]",Pianoflage in C major.mid,,148,2
+297.0,<music21.chord.Chord C6>,[0],[0],Pianoflage in C major.mid,,149,1
+297.25,<music21.chord.Chord F5 A5 D6 F3>,"[0, 3, 7]","[2, 5, 9]",Pianoflage in C major.mid,,149,1
+298.25,<music21.chord.Chord A4 C5 F5 A3 C4 F4>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,149,2
+298.625,<music21.chord.Chord A3 C4 F4>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,149,2
+299.0,<music21.chord.Chord E5>,[0],[4],Pianoflage in C major.mid,,150,1
+299.25,<music21.chord.Chord F5 C3>,"[0, 5]","[0, 5]",Pianoflage in C major.mid,,150,1
+299.625,<music21.chord.Chord C3>,[0],[0],Pianoflage in C major.mid,,150,1
+300.0,<music21.chord.Chord F#5>,[0],[6],Pianoflage in C major.mid,,150,2
+300.25,<music21.chord.Chord G5 A3 C4 F4>,"[0, 2, 4, 7]","[5, 7, 9, 0]",Pianoflage in C major.mid,,150,2
+300.625,<music21.chord.Chord A3 C4 F4>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,150,2
+301.0,<music21.chord.Chord G#5>,[0],[8],Pianoflage in C major.mid,,151,1
+301.25,<music21.chord.Chord A5 F3>,"[0, 4]","[5, 9]",Pianoflage in C major.mid,,151,1
+301.625,<music21.chord.Chord F3>,[0],[5],Pianoflage in C major.mid,,151,1
+302.0,<music21.chord.Chord C6>,[0],[0],Pianoflage in C major.mid,,151,2
+302.25,<music21.chord.Chord E5 A3 C4 F4>,"[0, 1, 5, 8]","[4, 5, 9, 0]",Pianoflage in C major.mid,,151,2
+302.625,<music21.chord.Chord A3 C4 F4>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,151,2
+303.0,<music21.chord.Chord F#5 C6 E6>,"[0, 4, 6]","[0, 4, 6]",Pianoflage in C major.mid,,152,1
+303.25,<music21.chord.Chord D3 F#5 C6 E6>,"[0, 2, 4, 6]","[0, 2, 4, 6]",Pianoflage in C major.mid,,152,1
+303.6666666666670,<music21.chord.Chord D3>,[0],[2],Pianoflage in C major.mid,,152,1
+304.0,<music21.chord.Chord D5>,[0],[2],Pianoflage in C major.mid,,152,2
+304.25,<music21.chord.Chord F#5 A5 D6 F#3 A3 C4>,"[0, 3, 6, 8]","[6, 9, 0, 2]",Pianoflage in C major.mid,,152,2
+305.25,<music21.chord.Chord D5 F5 A5 G2>,"[0, 3, 5, 7]","[2, 5, 7, 9]",Pianoflage in C major.mid,,153,1
+305.875,<music21.chord.Chord G2>,[0],[7],Pianoflage in C major.mid,,153,1
+306.0,<music21.chord.Chord F5 B5 F6>,"[0, 6]","[5, 11]",Pianoflage in C major.mid,,153,2
+306.25,<music21.chord.Chord G3 B3 F4 F5 B5 F6>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,153,2
+306.875,<music21.chord.Chord G3 B3 F4>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,153,2
+307.0,<music21.chord.Chord F5 B5 F6>,"[0, 6]","[5, 11]",Pianoflage in C major.mid,,154,1
+307.25,<music21.chord.Chord D3 F5 B5 F6>,"[0, 3, 6]","[11, 2, 5]",Pianoflage in C major.mid,,154,1
+307.6666666666670,<music21.chord.Chord D3>,[0],[2],Pianoflage in C major.mid,,154,1
+308.0,<music21.chord.Chord A5>,[0],[9],Pianoflage in C major.mid,,154,2
+308.25,<music21.chord.Chord D5 F5 G3 B3 F4>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Pianoflage in C major.mid,,154,2
+309.25,<music21.chord.Chord C5 G#5 C3>,"[0, 4]","[8, 0]",Pianoflage in C major.mid,,155,1
+309.875,<music21.chord.Chord C3>,[0],[0],Pianoflage in C major.mid,,155,1
+310.0,<music21.chord.Chord E5 G#5 C6 E6>,"[0, 4, 8]","[0, 4, 8]",Pianoflage in C major.mid,,155,2
+310.25,<music21.chord.Chord B-3 C4 E4 E5 G#5 C6 E6>,"[0, 2, 4, 8]","[8, 10, 0, 4]",Pianoflage in C major.mid,,155,2
+310.875,<music21.chord.Chord B-3 C4 E4>,"[0, 2, 6]","[10, 0, 4]",Pianoflage in C major.mid,,155,2
+311.0,<music21.chord.Chord E5 G#5 C6 E6>,"[0, 4, 8]","[0, 4, 8]",Pianoflage in C major.mid,,156,1
+311.25,<music21.chord.Chord C3 E5 G#5 C6 E6>,"[0, 4, 8]","[0, 4, 8]",Pianoflage in C major.mid,,156,1
+311.875,<music21.chord.Chord C3>,[0],[0],Pianoflage in C major.mid,,156,1
+312.0,<music21.chord.Chord C6>,[0],[0],Pianoflage in C major.mid,,156,2
+312.25,<music21.chord.Chord C5 E5 G#5 B-3 C4 E4>,"[0, 2, 4, 8]","[8, 10, 0, 4]",Pianoflage in C major.mid,,156,2
+313.25,<music21.chord.Chord A5 F5 F2 F3>,"[0, 4]","[5, 9]",Pianoflage in C major.mid,,157,1
+313.625,<music21.chord.Chord F2 F3>,[0],[5],Pianoflage in C major.mid,,157,1
+313.75,<music21.chord.Chord C7 F6 F2 F3>,"[0, 5]","[0, 5]",Pianoflage in C major.mid,,157,1
+314.125,<music21.chord.Chord F2 F3>,[0],[5],Pianoflage in C major.mid,,157,2
+314.25,<music21.chord.Chord G6 C7 F2 F3>,"[0, 2, 7]","[5, 7, 0]",Pianoflage in C major.mid,,157,2
+314.5,<music21.chord.Chord G6 C7>,"[0, 5]","[7, 0]",Pianoflage in C major.mid,,157,2
+314.75,<music21.chord.Chord C5 A5 G6 C7>,"[0, 2, 5]","[7, 9, 0]",Pianoflage in C major.mid,,157,2
+315.0,<music21.chord.Chord C5 A5>,"[0, 3]","[9, 0]",Pianoflage in C major.mid,,158,1
+315.25,<music21.chord.Chord F6 C6 C5 A5>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,158,1
+315.625,<music21.chord.Chord C5 A5>,"[0, 3]","[9, 0]",Pianoflage in C major.mid,,158,1
+315.75,<music21.chord.Chord C6 G6 C5 A5>,"[0, 2, 5]","[7, 9, 0]",Pianoflage in C major.mid,,158,1
+316.0833333333330,<music21.chord.Chord C6 G6>,"[0, 5]","[7, 0]",Pianoflage in C major.mid,,158,2
+316.25,<music21.chord.Chord A4 F5 C6 G6>,"[0, 2, 4, 7]","[5, 7, 9, 0]",Pianoflage in C major.mid,,158,2
+316.5,<music21.chord.Chord A4 F5>,"[0, 4]","[5, 9]",Pianoflage in C major.mid,,158,2
+316.75,<music21.chord.Chord F5 C6 A4>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,158,2
+317.125,<music21.chord.Chord A4>,[0],[9],Pianoflage in C major.mid,,159,1
+317.25,<music21.chord.Chord A5 D6 A4>,"[0, 5]","[9, 2]",Pianoflage in C major.mid,,159,1
+317.625,<music21.chord.Chord A5 D6>,"[0, 5]","[9, 2]",Pianoflage in C major.mid,,159,1
+317.75,<music21.chord.Chord C4 A4 A5 D6>,"[0, 3, 5]","[9, 0, 2]",Pianoflage in C major.mid,,159,1
+318.0,<music21.chord.Chord C4 A4>,"[0, 3]","[9, 0]",Pianoflage in C major.mid,,159,2
+318.25,<music21.chord.Chord F5 C5 C4 A4>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,159,2
+318.625,<music21.chord.Chord C4 A4>,"[0, 3]","[9, 0]",Pianoflage in C major.mid,,159,2
+318.75,<music21.chord.Chord D5 G5 C4 A4>,"[0, 2, 5, 7]","[7, 9, 0, 2]",Pianoflage in C major.mid,,159,2
+319.0,<music21.chord.Chord D5 G5>,"[0, 5]","[2, 7]",Pianoflage in C major.mid,,160,1
+319.25,<music21.chord.Chord A3 F4 D5 G5>,"[0, 3, 5, 7]","[2, 5, 7, 9]",Pianoflage in C major.mid,,160,1
+319.875,<music21.chord.Chord A3 F4>,"[0, 4]","[5, 9]",Pianoflage in C major.mid,,160,1
+320.0,<music21.chord.Chord E-5 A5 D6>,"[0, 5, 6]","[9, 2, 3]",Pianoflage in C major.mid,,160,2
+320.25,<music21.chord.Chord F#2 F#3 E-5 A5 D6>,"[0, 1, 4, 7]","[2, 3, 6, 9]",Pianoflage in C major.mid,,160,2
+320.875,<music21.chord.Chord F#2 F#3>,[0],[6],Pianoflage in C major.mid,,160,2
+321.0,<music21.chord.Chord C6>,[0],[0],Pianoflage in C major.mid,,161,1
+321.25,<music21.chord.Chord E5 B-5 D6 G2 G3>,"[0, 2, 5, 8]","[2, 4, 7, 10]",Pianoflage in C major.mid,,161,1
+322.25,<music21.chord.Chord B-4 E5 B-3 C4 E4>,"[0, 2, 6]","[10, 0, 4]",Pianoflage in C major.mid,,161,2
+322.625,<music21.chord.Chord B-3 C4 E4>,"[0, 2, 6]","[10, 0, 4]",Pianoflage in C major.mid,,161,2
+323.0,<music21.chord.Chord E-5>,[0],[3],Pianoflage in C major.mid,,162,1
+323.25,<music21.chord.Chord E5 C3>,"[0, 4]","[0, 4]",Pianoflage in C major.mid,,162,1
+323.625,<music21.chord.Chord C3>,[0],[0],Pianoflage in C major.mid,,162,1
+324.0,<music21.chord.Chord F5>,[0],[5],Pianoflage in C major.mid,,162,2
+324.25,<music21.chord.Chord F#5 B-3 C4 E4>,"[0, 2, 6, 8]","[4, 6, 10, 0]",Pianoflage in C major.mid,,162,2
+324.625,<music21.chord.Chord B-3 C4 E4>,"[0, 2, 6]","[10, 0, 4]",Pianoflage in C major.mid,,162,2
+325.0,<music21.chord.Chord G5>,[0],[7],Pianoflage in C major.mid,,163,1
+325.25,<music21.chord.Chord E5 A5 G3>,"[0, 3, 5]","[4, 7, 9]",Pianoflage in C major.mid,,163,1
+325.625,<music21.chord.Chord G3>,[0],[7],Pianoflage in C major.mid,,163,1
+326.0,<music21.chord.Chord E5 G5>,"[0, 3]","[4, 7]",Pianoflage in C major.mid,,163,2
+326.25,<music21.chord.Chord B-3 C4 E4 E5 G5>,"[0, 3, 6, 8]","[4, 7, 10, 0]",Pianoflage in C major.mid,,163,2
+326.6666666666670,<music21.chord.Chord B-3 C4 E4>,"[0, 2, 6]","[10, 0, 4]",Pianoflage in C major.mid,,163,2
+327.0,<music21.chord.Chord E5 B-5 C6>,"[0, 2, 6]","[10, 0, 4]",Pianoflage in C major.mid,,164,1
+327.25,<music21.chord.Chord C3 E5 B-5 C6>,"[0, 2, 6]","[10, 0, 4]",Pianoflage in C major.mid,,164,1
+327.6666666666670,<music21.chord.Chord C3>,[0],[0],Pianoflage in C major.mid,,164,1
+328.0,<music21.chord.Chord D5>,[0],[2],Pianoflage in C major.mid,,164,2
+328.25,<music21.chord.Chord G#5 D6 B-3 C4 E4>,"[0, 2, 4, 6, 8]","[8, 10, 0, 2, 4]",Pianoflage in C major.mid,,164,2
+328.625,<music21.chord.Chord B-3 C4 E4>,"[0, 2, 6]","[10, 0, 4]",Pianoflage in C major.mid,,164,2
+329.0,<music21.chord.Chord C6>,[0],[0],Pianoflage in C major.mid,,165,1
+329.25,<music21.chord.Chord F5 A5 D6 F3>,"[0, 3, 7]","[2, 5, 9]",Pianoflage in C major.mid,,165,1
+330.25,<music21.chord.Chord A4 C5 F5 A3 C4 F4>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,165,2
+330.625,<music21.chord.Chord A3 C4 F4>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,165,2
+331.0,<music21.chord.Chord E5>,[0],[4],Pianoflage in C major.mid,,166,1
+331.25,<music21.chord.Chord F5 C3>,"[0, 5]","[0, 5]",Pianoflage in C major.mid,,166,1
+331.625,<music21.chord.Chord C3>,[0],[0],Pianoflage in C major.mid,,166,1
+332.0,<music21.chord.Chord F#5>,[0],[6],Pianoflage in C major.mid,,166,2
+332.25,<music21.chord.Chord G5 A3 C4 F4>,"[0, 2, 4, 7]","[5, 7, 9, 0]",Pianoflage in C major.mid,,166,2
+332.625,<music21.chord.Chord A3 C4 F4>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,166,2
+333.0,<music21.chord.Chord G#5>,[0],[8],Pianoflage in C major.mid,,167,1
+333.25,<music21.chord.Chord A5 F3>,"[0, 4]","[5, 9]",Pianoflage in C major.mid,,167,1
+333.625,<music21.chord.Chord F3>,[0],[5],Pianoflage in C major.mid,,167,1
+334.0,<music21.chord.Chord C6>,[0],[0],Pianoflage in C major.mid,,167,2
+334.25,<music21.chord.Chord F5 A3 C4 F4>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,167,2
+334.625,<music21.chord.Chord A3 C4 F4>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,167,2
+335.0,<music21.chord.Chord A5 E6>,"[0, 5]","[4, 9]",Pianoflage in C major.mid,,168,1
+335.25,<music21.chord.Chord D3 A5 E6>,"[0, 2, 7]","[2, 4, 9]",Pianoflage in C major.mid,,168,1
+335.6666666666670,<music21.chord.Chord D3>,[0],[2],Pianoflage in C major.mid,,168,1
+336.0,<music21.chord.Chord D6>,[0],[2],Pianoflage in C major.mid,,168,2
+336.25,<music21.chord.Chord F5 A5 C6 A3 C4 F4>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,168,2
+336.875,<music21.chord.Chord A3 C4 F4>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,168,2
+337.0,<music21.chord.Chord D6>,[0],[2],Pianoflage in C major.mid,,169,1
+337.25,<music21.chord.Chord B5 E6 G#3 B3 E4>,"[0, 4, 7]","[4, 8, 11]",Pianoflage in C major.mid,,169,1
+337.75,<music21.chord.Chord E-5>,[0],[3],Pianoflage in C major.mid,,169,1
+338.25,<music21.chord.Chord E5 E2 E3>,[0],[4],Pianoflage in C major.mid,,169,2
+338.625,<music21.chord.Chord E2 E3>,[0],[4],Pianoflage in C major.mid,,169,2
+338.75,<music21.chord.Chord B5 E6 E2 E3>,"[0, 5]","[11, 4]",Pianoflage in C major.mid,,169,2
+339.25,<music21.chord.Chord E-5>,[0],[3],Pianoflage in C major.mid,,170,1
+339.75,<music21.chord.Chord E5>,[0],[4],Pianoflage in C major.mid,,170,1
+340.25,<music21.chord.Chord A5 E6 F2 F3>,"[0, 1, 5]","[4, 5, 9]",Pianoflage in C major.mid,,170,2
+340.625,<music21.chord.Chord F2 F3>,[0],[5],Pianoflage in C major.mid,,170,2
+340.75,<music21.chord.Chord E-5 F2 F3>,"[0, 2]","[3, 5]",Pianoflage in C major.mid,,170,2
+341.25,<music21.chord.Chord E5>,[0],[4],Pianoflage in C major.mid,,171,1
+341.75,<music21.chord.Chord E6 B-5>,"[0, 6]","[4, 10]",Pianoflage in C major.mid,,171,1
+342.25,<music21.chord.Chord E-5 F#2 F#3>,"[0, 3]","[3, 6]",Pianoflage in C major.mid,,171,2
+342.625,<music21.chord.Chord F#2 F#3>,[0],[6],Pianoflage in C major.mid,,171,2
+342.75,<music21.chord.Chord E5 F#2 F#3>,"[0, 2]","[4, 6]",Pianoflage in C major.mid,,171,2
+343.25,<music21.chord.Chord B5 E6 G2 G3>,"[0, 3, 7]","[4, 7, 11]",Pianoflage in C major.mid,,172,1
+343.625,<music21.chord.Chord G2 G3>,[0],[7],Pianoflage in C major.mid,,172,1
+343.75,<music21.chord.Chord D6 G2 G3>,"[0, 5]","[2, 7]",Pianoflage in C major.mid,,172,1
+344.25,<music21.chord.Chord E5 G#5 C6 G#2 G#3>,"[0, 4, 8]","[0, 4, 8]",Pianoflage in C major.mid,,172,2
+344.625,<music21.chord.Chord G#2 G#3>,[0],[8],Pianoflage in C major.mid,,172,2
+344.75,<music21.chord.Chord B5 G#2 G#3>,"[0, 3]","[8, 11]",Pianoflage in C major.mid,,172,2
+345.25,<music21.chord.Chord C5 E5 A5 A2 A3>,"[0, 3, 7]","[9, 0, 4]",Pianoflage in C major.mid,,173,1
+345.625,<music21.chord.Chord A2 A3>,[0],[9],Pianoflage in C major.mid,,173,1
+346.0,<music21.chord.Chord E6 A2 A3>,"[0, 5]","[4, 9]",Pianoflage in C major.mid,,173,2
+346.125,<music21.chord.Chord E6>,[0],[4],Pianoflage in C major.mid,,173,2
+346.25,<music21.chord.Chord G#6 A4 E5>,"[0, 4, 5]","[4, 8, 9]",Pianoflage in C major.mid,,173,2
+346.5833333333330,<music21.chord.Chord A4 E5>,"[0, 5]","[4, 9]",Pianoflage in C major.mid,,173,2
+346.625,<music21.chord.Chord A6 A4 E5>,"[0, 5]","[4, 9]",Pianoflage in C major.mid,,173,2
+346.875,<music21.chord.Chord C6 A6 A4 E5>,"[0, 3, 7]","[9, 0, 4]",Pianoflage in C major.mid,,173,2
+346.9583333333330,<music21.chord.Chord A4 E5 C6>,"[0, 3, 7]","[9, 0, 4]",Pianoflage in C major.mid,,173,2
+347.2083333333330,<music21.chord.Chord A4 E5>,"[0, 5]","[4, 9]",Pianoflage in C major.mid,,174,1
+347.25,<music21.chord.Chord E-6 A4 E5>,"[0, 1, 6]","[3, 4, 9]",Pianoflage in C major.mid,,174,1
+347.5833333333330,<music21.chord.Chord A4 E5>,"[0, 5]","[4, 9]",Pianoflage in C major.mid,,174,1
+347.625,<music21.chord.Chord E6 A4 E5>,"[0, 5]","[4, 9]",Pianoflage in C major.mid,,174,1
+347.875,<music21.chord.Chord A5 E6 A4 E5>,"[0, 5]","[4, 9]",Pianoflage in C major.mid,,174,1
+347.9583333333330,<music21.chord.Chord A4 E5 A5>,"[0, 5]","[4, 9]",Pianoflage in C major.mid,,174,1
+348.0,<music21.chord.Chord A5>,[0],[9],Pianoflage in C major.mid,,174,2
+348.25,<music21.chord.Chord B5 E4 C5>,"[0, 1, 5]","[11, 0, 4]",Pianoflage in C major.mid,,174,2
+348.5833333333330,<music21.chord.Chord E4 C5>,"[0, 4]","[0, 4]",Pianoflage in C major.mid,,174,2
+348.625,<music21.chord.Chord C6 E4 C5>,"[0, 4]","[0, 4]",Pianoflage in C major.mid,,174,2
+348.875,<music21.chord.Chord E5 C6 E4 C5>,"[0, 4]","[0, 4]",Pianoflage in C major.mid,,174,2
+348.9583333333330,<music21.chord.Chord E4 C5 E5>,"[0, 4]","[0, 4]",Pianoflage in C major.mid,,174,2
+349.2083333333330,<music21.chord.Chord E4 C5>,"[0, 4]","[0, 4]",Pianoflage in C major.mid,,175,1
+349.25,<music21.chord.Chord G#5 E4 C5>,"[0, 4, 8]","[0, 4, 8]",Pianoflage in C major.mid,,175,1
+349.5833333333330,<music21.chord.Chord E4 C5>,"[0, 4]","[0, 4]",Pianoflage in C major.mid,,175,1
+349.625,<music21.chord.Chord A5 E4 C5>,"[0, 3, 7]","[9, 0, 4]",Pianoflage in C major.mid,,175,1
+349.875,<music21.chord.Chord C5 A5 E4>,"[0, 3, 7]","[9, 0, 4]",Pianoflage in C major.mid,,175,1
+349.9166666666670,<music21.chord.Chord A5 E4 C5>,"[0, 3, 7]","[9, 0, 4]",Pianoflage in C major.mid,,175,1
+349.9583333333330,<music21.chord.Chord E4 C5>,"[0, 4]","[0, 4]",Pianoflage in C major.mid,,175,1
+350.25,<music21.chord.Chord A4 C4 D5>,"[0, 3, 5]","[9, 0, 2]",Pianoflage in C major.mid,,175,2
+350.5833333333330,<music21.chord.Chord A4 C4>,"[0, 3]","[9, 0]",Pianoflage in C major.mid,,175,2
+350.625,<music21.chord.Chord E5 A4 C4>,"[0, 3, 7]","[9, 0, 4]",Pianoflage in C major.mid,,175,2
+350.875,<music21.chord.Chord A4 C4 E5>,"[0, 3, 7]","[9, 0, 4]",Pianoflage in C major.mid,,175,2
+350.9166666666670,<music21.chord.Chord C4 E5 A4>,"[0, 3, 7]","[9, 0, 4]",Pianoflage in C major.mid,,175,2
+350.9583333333330,<music21.chord.Chord C4 A4>,"[0, 3]","[9, 0]",Pianoflage in C major.mid,,175,2
+351.25,<music21.chord.Chord A3 E4 C5>,"[0, 3, 7]","[9, 0, 4]",Pianoflage in C major.mid,,176,1
+352.0,<music21.chord.Chord A3 E4>,"[0, 5]","[4, 9]",Pianoflage in C major.mid,,176,2
+352.25,<music21.chord.Chord E-5 A5 D6 F#2 F#3>,"[0, 1, 4, 7]","[2, 3, 6, 9]",Pianoflage in C major.mid,,176,2
+352.875,<music21.chord.Chord F#2 F#3>,[0],[6],Pianoflage in C major.mid,,176,2
+353.0,<music21.chord.Chord C6>,[0],[0],Pianoflage in C major.mid,,177,1
+353.25,<music21.chord.Chord E5 B-5 D6 G2 G3>,"[0, 2, 5, 8]","[2, 4, 7, 10]",Pianoflage in C major.mid,,177,1
+354.25,<music21.chord.Chord B-4 E5 B-3 C4 E4>,"[0, 2, 6]","[10, 0, 4]",Pianoflage in C major.mid,,177,2
+354.625,<music21.chord.Chord B-3 C4 E4>,"[0, 2, 6]","[10, 0, 4]",Pianoflage in C major.mid,,177,2
+355.0,<music21.chord.Chord E-5>,[0],[3],Pianoflage in C major.mid,,178,1
+355.25,<music21.chord.Chord E5 C3>,"[0, 4]","[0, 4]",Pianoflage in C major.mid,,178,1
+355.625,<music21.chord.Chord C3>,[0],[0],Pianoflage in C major.mid,,178,1
+356.0,<music21.chord.Chord F5>,[0],[5],Pianoflage in C major.mid,,178,2
+356.25,<music21.chord.Chord F#5 B-3 C4 E4>,"[0, 2, 6, 8]","[4, 6, 10, 0]",Pianoflage in C major.mid,,178,2
+356.625,<music21.chord.Chord B-3 C4 E4>,"[0, 2, 6]","[10, 0, 4]",Pianoflage in C major.mid,,178,2
+357.0,<music21.chord.Chord G5>,[0],[7],Pianoflage in C major.mid,,179,1
+357.25,<music21.chord.Chord E5 A5 G3>,"[0, 3, 5]","[4, 7, 9]",Pianoflage in C major.mid,,179,1
+357.625,<music21.chord.Chord G3>,[0],[7],Pianoflage in C major.mid,,179,1
+358.0,<music21.chord.Chord E5 G5>,"[0, 3]","[4, 7]",Pianoflage in C major.mid,,179,2
+358.25,<music21.chord.Chord B-3 C4 E4 E5 G5>,"[0, 3, 6, 8]","[4, 7, 10, 0]",Pianoflage in C major.mid,,179,2
+358.6666666666670,<music21.chord.Chord B-3 C4 E4>,"[0, 2, 6]","[10, 0, 4]",Pianoflage in C major.mid,,179,2
+359.0,<music21.chord.Chord E5 B-5 C6>,"[0, 2, 6]","[10, 0, 4]",Pianoflage in C major.mid,,180,1
+359.25,<music21.chord.Chord C3 E5 B-5 C6>,"[0, 2, 6]","[10, 0, 4]",Pianoflage in C major.mid,,180,1
+359.6666666666670,<music21.chord.Chord C3>,[0],[0],Pianoflage in C major.mid,,180,1
+360.0,<music21.chord.Chord D5>,[0],[2],Pianoflage in C major.mid,,180,2
+360.25,<music21.chord.Chord G#5 D6 B-3 C4 E4>,"[0, 2, 4, 6, 8]","[8, 10, 0, 2, 4]",Pianoflage in C major.mid,,180,2
+360.625,<music21.chord.Chord B-3 C4 E4>,"[0, 2, 6]","[10, 0, 4]",Pianoflage in C major.mid,,180,2
+361.0,<music21.chord.Chord C6>,[0],[0],Pianoflage in C major.mid,,181,1
+361.25,<music21.chord.Chord F5 A5 D6 F3>,"[0, 3, 7]","[2, 5, 9]",Pianoflage in C major.mid,,181,1
+362.25,<music21.chord.Chord A4 C5 F5 A3 C4 F4>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,181,2
+362.625,<music21.chord.Chord A3 C4 F4>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,181,2
+363.0,<music21.chord.Chord E5>,[0],[4],Pianoflage in C major.mid,,182,1
+363.25,<music21.chord.Chord F5 C3>,"[0, 5]","[0, 5]",Pianoflage in C major.mid,,182,1
+363.625,<music21.chord.Chord C3>,[0],[0],Pianoflage in C major.mid,,182,1
+364.0,<music21.chord.Chord F#5>,[0],[6],Pianoflage in C major.mid,,182,2
+364.25,<music21.chord.Chord G5 A3 C4 F4>,"[0, 2, 4, 7]","[5, 7, 9, 0]",Pianoflage in C major.mid,,182,2
+364.625,<music21.chord.Chord A3 C4 F4>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,182,2
+365.0,<music21.chord.Chord G#5>,[0],[8],Pianoflage in C major.mid,,183,1
+365.25,<music21.chord.Chord A5 F3>,"[0, 4]","[5, 9]",Pianoflage in C major.mid,,183,1
+365.625,<music21.chord.Chord F3>,[0],[5],Pianoflage in C major.mid,,183,1
+366.0,<music21.chord.Chord C6>,[0],[0],Pianoflage in C major.mid,,183,2
+366.25,<music21.chord.Chord E5 A3 C4 F4>,"[0, 1, 5, 8]","[4, 5, 9, 0]",Pianoflage in C major.mid,,183,2
+366.625,<music21.chord.Chord A3 C4 F4>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,183,2
+367.0,<music21.chord.Chord F#5 C6 E6>,"[0, 4, 6]","[0, 4, 6]",Pianoflage in C major.mid,,184,1
+367.25,<music21.chord.Chord D3 F#5 C6 E6>,"[0, 2, 4, 6]","[0, 2, 4, 6]",Pianoflage in C major.mid,,184,1
+367.6666666666670,<music21.chord.Chord D3>,[0],[2],Pianoflage in C major.mid,,184,1
+368.0,<music21.chord.Chord D5>,[0],[2],Pianoflage in C major.mid,,184,2
+368.25,<music21.chord.Chord F#5 A5 D6 F#3 A3 C4>,"[0, 3, 6, 8]","[6, 9, 0, 2]",Pianoflage in C major.mid,,184,2
+369.25,<music21.chord.Chord D5 F5 A5 G2>,"[0, 3, 5, 7]","[2, 5, 7, 9]",Pianoflage in C major.mid,,185,1
+369.875,<music21.chord.Chord G2>,[0],[7],Pianoflage in C major.mid,,185,1
+370.0,<music21.chord.Chord F5 B5 F6>,"[0, 6]","[5, 11]",Pianoflage in C major.mid,,185,2
+370.25,<music21.chord.Chord G3 B3 F4 F5 B5 F6>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,185,2
+370.875,<music21.chord.Chord G3 B3 F4>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,185,2
+371.0,<music21.chord.Chord F5 B5 F6>,"[0, 6]","[5, 11]",Pianoflage in C major.mid,,186,1
+371.25,<music21.chord.Chord D3 F5 B5 F6>,"[0, 3, 6]","[11, 2, 5]",Pianoflage in C major.mid,,186,1
+371.6666666666670,<music21.chord.Chord D3>,[0],[2],Pianoflage in C major.mid,,186,1
+372.0,<music21.chord.Chord A5>,[0],[9],Pianoflage in C major.mid,,186,2
+372.25,<music21.chord.Chord D5 F5 G3 B3 F4>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Pianoflage in C major.mid,,186,2
+373.25,<music21.chord.Chord C5 G#5 C3>,"[0, 4]","[8, 0]",Pianoflage in C major.mid,,187,1
+373.625,<music21.chord.Chord C3>,[0],[0],Pianoflage in C major.mid,,187,1
+374.0,<music21.chord.Chord E5 G#5 C6 E6>,"[0, 4, 8]","[0, 4, 8]",Pianoflage in C major.mid,,187,2
+374.25,<music21.chord.Chord B-3 C4 E4 E5 G#5 C6 E6>,"[0, 2, 4, 8]","[8, 10, 0, 4]",Pianoflage in C major.mid,,187,2
+374.6666666666670,<music21.chord.Chord B-3 C4 E4>,"[0, 2, 6]","[10, 0, 4]",Pianoflage in C major.mid,,187,2
+375.0,<music21.chord.Chord E5 G#5 C6 E6>,"[0, 4, 8]","[0, 4, 8]",Pianoflage in C major.mid,,188,1
+375.25,<music21.chord.Chord C3 E5 G#5 C6 E6>,"[0, 4, 8]","[0, 4, 8]",Pianoflage in C major.mid,,188,1
+375.6666666666670,<music21.chord.Chord C3>,[0],[0],Pianoflage in C major.mid,,188,1
+376.0,<music21.chord.Chord C6>,[0],[0],Pianoflage in C major.mid,,188,2
+376.25,<music21.chord.Chord C5 E5 G#5 B-3 C4 E4>,"[0, 2, 4, 8]","[8, 10, 0, 4]",Pianoflage in C major.mid,,188,2
+377.25,<music21.chord.Chord A5 F5 F2 F3>,"[0, 4]","[5, 9]",Pianoflage in C major.mid,,189,1
+377.75,<music21.chord.Chord C7 F6 F2 F3>,"[0, 5]","[0, 5]",Pianoflage in C major.mid,,189,1
+378.25,<music21.chord.Chord A6 D7 F2 F3>,"[0, 3, 7]","[2, 5, 9]",Pianoflage in C major.mid,,189,2
+378.5,<music21.chord.Chord A6 D7>,"[0, 5]","[9, 2]",Pianoflage in C major.mid,,189,2
+378.75,<music21.chord.Chord C5 A5 A6 D7>,"[0, 3, 5]","[9, 0, 2]",Pianoflage in C major.mid,,189,2
+379.0,<music21.chord.Chord C5 A5>,"[0, 3]","[9, 0]",Pianoflage in C major.mid,,190,1
+379.25,<music21.chord.Chord F6 C6 C5 A5>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,190,1
+379.625,<music21.chord.Chord C5 A5>,"[0, 3]","[9, 0]",Pianoflage in C major.mid,,190,1
+379.75,<music21.chord.Chord D6 G6 C5 A5>,"[0, 2, 5, 7]","[7, 9, 0, 2]",Pianoflage in C major.mid,,190,1
+380.0833333333330,<music21.chord.Chord D6 G6>,"[0, 5]","[2, 7]",Pianoflage in C major.mid,,190,2
+380.25,<music21.chord.Chord A4 F5 D6 G6>,"[0, 3, 5, 7]","[2, 5, 7, 9]",Pianoflage in C major.mid,,190,2
+380.5,<music21.chord.Chord A4 F5>,"[0, 4]","[5, 9]",Pianoflage in C major.mid,,190,2
+380.75,<music21.chord.Chord F5 C6 A4>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,190,2
+381.125,<music21.chord.Chord A4>,[0],[9],Pianoflage in C major.mid,,191,1
+381.25,<music21.chord.Chord G5 D6 A4>,"[0, 2, 7]","[7, 9, 2]",Pianoflage in C major.mid,,191,1
+381.625,<music21.chord.Chord G5 D6>,"[0, 5]","[2, 7]",Pianoflage in C major.mid,,191,1
+381.75,<music21.chord.Chord C4 A4 G5 D6>,"[0, 2, 5, 7]","[7, 9, 0, 2]",Pianoflage in C major.mid,,191,1
+382.0,<music21.chord.Chord C4 A4>,"[0, 3]","[9, 0]",Pianoflage in C major.mid,,191,2
+382.25,<music21.chord.Chord F5 C5 C4 A4>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,191,2
+382.625,<music21.chord.Chord C4 A4>,"[0, 3]","[9, 0]",Pianoflage in C major.mid,,191,2
+382.75,<music21.chord.Chord D5 G5 C4 A4>,"[0, 2, 5, 7]","[7, 9, 0, 2]",Pianoflage in C major.mid,,191,2
+383.0,<music21.chord.Chord D5 G5>,"[0, 5]","[2, 7]",Pianoflage in C major.mid,,192,1
+383.25,<music21.chord.Chord A3 F4 D5 G5>,"[0, 3, 5, 7]","[2, 5, 7, 9]",Pianoflage in C major.mid,,192,1
+383.625,<music21.chord.Chord A3 F4>,"[0, 4]","[5, 9]",Pianoflage in C major.mid,,192,1
+384.0,<music21.chord.Chord A5>,[0],[9],Pianoflage in C major.mid,,192,2
+384.25,<music21.chord.Chord E5 B-5 D6 G2 G3>,"[0, 2, 5, 8]","[2, 4, 7, 10]",Pianoflage in C major.mid,,192,2
+384.625,<music21.chord.Chord G2 G3>,[0],[7],Pianoflage in C major.mid,,192,2
+385.0,<music21.chord.Chord C6>,[0],[0],Pianoflage in C major.mid,,193,1
+385.25,<music21.chord.Chord F5 A5 F6 F2 F3>,"[0, 4]","[5, 9]",Pianoflage in C major.mid,,193,1
+386.25,<music21.chord.Chord A4 C5 F5 F3 A3 E-4>,"[0, 3, 6, 8]","[9, 0, 3, 5]",Pianoflage in C major.mid,,193,2
+386.625,<music21.chord.Chord F3 A3 E-4>,"[0, 2, 6]","[3, 5, 9]",Pianoflage in C major.mid,,193,2
+387.0,<music21.chord.Chord E5>,[0],[4],Pianoflage in C major.mid,,194,1
+387.25,<music21.chord.Chord F5 C3>,"[0, 5]","[0, 5]",Pianoflage in C major.mid,,194,1
+387.625,<music21.chord.Chord C3>,[0],[0],Pianoflage in C major.mid,,194,1
+388.0,<music21.chord.Chord F#5>,[0],[6],Pianoflage in C major.mid,,194,2
+388.25,<music21.chord.Chord G5 F3 A3 E-4>,"[0, 2, 4, 6]","[3, 5, 7, 9]",Pianoflage in C major.mid,,194,2
+388.625,<music21.chord.Chord F3 A3 E-4>,"[0, 2, 6]","[3, 5, 9]",Pianoflage in C major.mid,,194,2
+389.0,<music21.chord.Chord G#5>,[0],[8],Pianoflage in C major.mid,,195,1
+389.25,<music21.chord.Chord A5 F2>,"[0, 4]","[5, 9]",Pianoflage in C major.mid,,195,1
+389.625,<music21.chord.Chord F2>,[0],[5],Pianoflage in C major.mid,,195,1
+390.0,<music21.chord.Chord E-5 A5 C6>,"[0, 3, 6]","[9, 0, 3]",Pianoflage in C major.mid,,195,2
+390.25,<music21.chord.Chord F3 A3 E-4 E-5 A5 C6>,"[0, 3, 6, 8]","[9, 0, 3, 5]",Pianoflage in C major.mid,,195,2
+390.6666666666670,<music21.chord.Chord F3 A3 E-4>,"[0, 2, 6]","[3, 5, 9]",Pianoflage in C major.mid,,195,2
+391.0,<music21.chord.Chord F5 A5 F6>,"[0, 4]","[5, 9]",Pianoflage in C major.mid,,196,1
+391.25,<music21.chord.Chord F2 F5 A5 F6>,"[0, 4]","[5, 9]",Pianoflage in C major.mid,,196,1
+391.6666666666670,<music21.chord.Chord F2>,[0],[5],Pianoflage in C major.mid,,196,1
+392.0,<music21.chord.Chord F5>,[0],[5],Pianoflage in C major.mid,,196,2
+392.25,<music21.chord.Chord C#6 F6 F3 A3 C#4>,"[0, 4, 8]","[1, 5, 9]",Pianoflage in C major.mid,,196,2
+392.625,<music21.chord.Chord F3 A3 C#4>,"[0, 4, 8]","[1, 5, 9]",Pianoflage in C major.mid,,196,2
+393.0,<music21.chord.Chord E6>,[0],[4],Pianoflage in C major.mid,,197,1
+393.25,<music21.chord.Chord F5 B-5 D6 F6 B-2>,"[0, 4, 7]","[10, 2, 5]",Pianoflage in C major.mid,,197,1
+394.25,<music21.chord.Chord D5 F5 F3 B-3 D4>,"[0, 4, 7]","[10, 2, 5]",Pianoflage in C major.mid,,197,2
+394.625,<music21.chord.Chord F3 B-3 D4>,"[0, 4, 7]","[10, 2, 5]",Pianoflage in C major.mid,,197,2
+395.0,<music21.chord.Chord E5>,[0],[4],Pianoflage in C major.mid,,198,1
+395.25,<music21.chord.Chord F5 F2>,[0],[5],Pianoflage in C major.mid,,198,1
+395.625,<music21.chord.Chord F2>,[0],[5],Pianoflage in C major.mid,,198,1
+396.0,<music21.chord.Chord F#5>,[0],[6],Pianoflage in C major.mid,,198,2
+396.25,<music21.chord.Chord G5 F3 B-3 D4>,"[0, 3, 5, 8]","[2, 5, 7, 10]",Pianoflage in C major.mid,,198,2
+396.625,<music21.chord.Chord F3 B-3 D4>,"[0, 4, 7]","[10, 2, 5]",Pianoflage in C major.mid,,198,2
+397.0,<music21.chord.Chord A5>,[0],[9],Pianoflage in C major.mid,,199,1
+397.25,<music21.chord.Chord B-5 B-2>,[0],[10],Pianoflage in C major.mid,,199,1
+397.625,<music21.chord.Chord B-2>,[0],[10],Pianoflage in C major.mid,,199,1
+398.0,<music21.chord.Chord D6>,[0],[2],Pianoflage in C major.mid,,199,2
+398.25,<music21.chord.Chord F5 F3 B-3 D4>,"[0, 4, 7]","[10, 2, 5]",Pianoflage in C major.mid,,199,2
+398.625,<music21.chord.Chord F3 B-3 D4>,"[0, 4, 7]","[10, 2, 5]",Pianoflage in C major.mid,,199,2
+399.0,<music21.chord.Chord F5 G#5 F6>,"[0, 3]","[5, 8]",Pianoflage in C major.mid,,200,1
+399.25,<music21.chord.Chord B2 F5 G#5 F6>,"[0, 3, 6]","[5, 8, 11]",Pianoflage in C major.mid,,200,1
+399.6666666666670,<music21.chord.Chord B2>,[0],[11],Pianoflage in C major.mid,,200,1
+400.0,<music21.chord.Chord E6>,[0],[4],Pianoflage in C major.mid,,200,2
+400.25,<music21.chord.Chord F5 G#5 D6 F3 G#3 D4>,"[0, 3, 6]","[2, 5, 8]",Pianoflage in C major.mid,,200,2
+401.25,<music21.chord.Chord F5 A5 C6 C2 C3>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,201,1
+401.625,<music21.chord.Chord C2 C3>,[0],[0],Pianoflage in C major.mid,,201,1
+402.25,<music21.chord.Chord C4 G4 C2 C3>,"[0, 5]","[7, 0]",Pianoflage in C major.mid,,201,2
+402.625,<music21.chord.Chord C2 C3>,[0],[0],Pianoflage in C major.mid,,201,2
+403.0,<music21.chord.Chord F4 C2 C3>,"[0, 5]","[0, 5]",Pianoflage in C major.mid,,202,1
+403.25,<music21.chord.Chord C4 C2 C3>,[0],[0],Pianoflage in C major.mid,,202,1
+403.625,<music21.chord.Chord C2 C3>,[0],[0],Pianoflage in C major.mid,,202,1
+404.0,<music21.chord.Chord F4 B-4 C2 C3>,"[0, 2, 7]","[10, 0, 5]",Pianoflage in C major.mid,,202,2
+404.25,<music21.chord.Chord A4 C2 C3>,"[0, 3]","[9, 0]",Pianoflage in C major.mid,,202,2
+404.5,<music21.chord.Chord A4>,[0],[9],Pianoflage in C major.mid,,202,2
+405.0,<music21.chord.Chord F4>,[0],[5],Pianoflage in C major.mid,,203,1
+405.25,<music21.chord.Chord A4 D5 C2 C3>,"[0, 3, 5]","[9, 0, 2]",Pianoflage in C major.mid,,203,1
+405.625,<music21.chord.Chord C2 C3>,[0],[0],Pianoflage in C major.mid,,203,1
+406.0,<music21.chord.Chord C5 C2 C3>,[0],[0],Pianoflage in C major.mid,,203,2
+406.25,<music21.chord.Chord A4 C2 C3>,"[0, 3]","[9, 0]",Pianoflage in C major.mid,,203,2
+406.625,<music21.chord.Chord C2 C3>,[0],[0],Pianoflage in C major.mid,,203,2
+407.0,<music21.chord.Chord G5 C5 C2 C3>,"[0, 5]","[7, 0]",Pianoflage in C major.mid,,204,1
+407.25,<music21.chord.Chord F5 C2 C3>,"[0, 5]","[0, 5]",Pianoflage in C major.mid,,204,1
+407.625,<music21.chord.Chord C2 C3>,[0],[0],Pianoflage in C major.mid,,204,1
+408.0,<music21.chord.Chord C5 C2 C3>,[0],[0],Pianoflage in C major.mid,,204,2
+408.25,<music21.chord.Chord A5 C6 C2 C3>,"[0, 3]","[9, 0]",Pianoflage in C major.mid,,204,2
+408.5,<music21.chord.Chord A5 C6>,"[0, 3]","[9, 0]",Pianoflage in C major.mid,,204,2
+409.0,<music21.chord.Chord C#6>,[0],[1],Pianoflage in C major.mid,,205,1
+409.25,<music21.chord.Chord F5 B5 D6 G2>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Pianoflage in C major.mid,,205,1
+409.625,<music21.chord.Chord G2>,[0],[7],Pianoflage in C major.mid,,205,1
+410.0,<music21.chord.Chord F5 B5 D6>,"[0, 3, 6]","[11, 2, 5]",Pianoflage in C major.mid,,205,2
+410.25,<music21.chord.Chord G3 B3 F4 F5 B5 D6>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Pianoflage in C major.mid,,205,2
+410.6666666666670,<music21.chord.Chord G3 B3 F4>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,205,2
+411.0,<music21.chord.Chord E5 B-5 D6>,"[0, 4, 6]","[10, 2, 4]",Pianoflage in C major.mid,,206,1
+411.25,<music21.chord.Chord C3 E5 B-5 D6>,"[0, 2, 4, 6]","[10, 0, 2, 4]",Pianoflage in C major.mid,,206,1
+411.6666666666670,<music21.chord.Chord C3>,[0],[0],Pianoflage in C major.mid,,206,1
+412.0,<music21.chord.Chord C6>,[0],[0],Pianoflage in C major.mid,,206,2
+412.25,<music21.chord.Chord E5 B-5 D6 B-3 C4 E4>,"[0, 2, 4, 6]","[10, 0, 2, 4]",Pianoflage in C major.mid,,206,2
+413.25,<music21.chord.Chord F5 A5 F6 F2 F3>,"[0, 4]","[5, 9]",Pianoflage in C major.mid,,207,1
+414.25,<music21.chord.Chord E-5 A5 D6 F#2 F#3>,"[0, 1, 4, 7]","[2, 3, 6, 9]",Pianoflage in C major.mid,,207,2
+414.625,<music21.chord.Chord F#2 F#3>,[0],[6],Pianoflage in C major.mid,,207,2
+415.0,<music21.chord.Chord C6>,[0],[0],Pianoflage in C major.mid,,208,1
+415.25,<music21.chord.Chord E-5 A5 D6 F#2 F#3>,"[0, 1, 4, 7]","[2, 3, 6, 9]",Pianoflage in C major.mid,,208,1
+415.625,<music21.chord.Chord F#2 F#3>,[0],[6],Pianoflage in C major.mid,,208,1
+416.0,<music21.chord.Chord C6>,[0],[0],Pianoflage in C major.mid,,208,2
+416.25,<music21.chord.Chord E-5 A5 D6 F#2 F#3>,"[0, 1, 4, 7]","[2, 3, 6, 9]",Pianoflage in C major.mid,,208,2
+416.625,<music21.chord.Chord F#2 F#3>,[0],[6],Pianoflage in C major.mid,,208,2
+417.0,<music21.chord.Chord C6>,[0],[0],Pianoflage in C major.mid,,209,1
+417.25,<music21.chord.Chord E5 B-5 D6 G2 G3>,"[0, 2, 5, 8]","[2, 4, 7, 10]",Pianoflage in C major.mid,,209,1
+418.25,<music21.chord.Chord B-4 E5 B-3 C4 E4>,"[0, 2, 6]","[10, 0, 4]",Pianoflage in C major.mid,,209,2
+418.625,<music21.chord.Chord B-3 C4 E4>,"[0, 2, 6]","[10, 0, 4]",Pianoflage in C major.mid,,209,2
+419.0,<music21.chord.Chord E-5>,[0],[3],Pianoflage in C major.mid,,210,1
+419.25,<music21.chord.Chord E5 C3>,"[0, 4]","[0, 4]",Pianoflage in C major.mid,,210,1
+419.625,<music21.chord.Chord C3>,[0],[0],Pianoflage in C major.mid,,210,1
+420.0,<music21.chord.Chord F5>,[0],[5],Pianoflage in C major.mid,,210,2
+420.25,<music21.chord.Chord F#5 B-3 C4 E4>,"[0, 2, 6, 8]","[4, 6, 10, 0]",Pianoflage in C major.mid,,210,2
+420.625,<music21.chord.Chord B-3 C4 E4>,"[0, 2, 6]","[10, 0, 4]",Pianoflage in C major.mid,,210,2
+421.0,<music21.chord.Chord G5>,[0],[7],Pianoflage in C major.mid,,211,1
+421.25,<music21.chord.Chord E5 A5 G3>,"[0, 3, 5]","[4, 7, 9]",Pianoflage in C major.mid,,211,1
+421.625,<music21.chord.Chord G3>,[0],[7],Pianoflage in C major.mid,,211,1
+422.0,<music21.chord.Chord E5 G5>,"[0, 3]","[4, 7]",Pianoflage in C major.mid,,211,2
+422.25,<music21.chord.Chord B-3 C4 E4 E5 G5>,"[0, 3, 6, 8]","[4, 7, 10, 0]",Pianoflage in C major.mid,,211,2
+422.6666666666670,<music21.chord.Chord B-3 C4 E4>,"[0, 2, 6]","[10, 0, 4]",Pianoflage in C major.mid,,211,2
+423.0,<music21.chord.Chord E5 B-5 C6>,"[0, 2, 6]","[10, 0, 4]",Pianoflage in C major.mid,,212,1
+423.25,<music21.chord.Chord C3 E5 B-5 C6>,"[0, 2, 6]","[10, 0, 4]",Pianoflage in C major.mid,,212,1
+423.6666666666670,<music21.chord.Chord C3>,[0],[0],Pianoflage in C major.mid,,212,1
+424.0,<music21.chord.Chord D5>,[0],[2],Pianoflage in C major.mid,,212,2
+424.25,<music21.chord.Chord G#5 D6 B-3 C4 E4>,"[0, 2, 4, 6, 8]","[8, 10, 0, 2, 4]",Pianoflage in C major.mid,,212,2
+424.625,<music21.chord.Chord B-3 C4 E4>,"[0, 2, 6]","[10, 0, 4]",Pianoflage in C major.mid,,212,2
+425.0,<music21.chord.Chord C6>,[0],[0],Pianoflage in C major.mid,,213,1
+425.25,<music21.chord.Chord F5 A5 D6 F3>,"[0, 3, 7]","[2, 5, 9]",Pianoflage in C major.mid,,213,1
+426.25,<music21.chord.Chord A4 C5 F5 A3 C4 F4>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,213,2
+426.625,<music21.chord.Chord A3 C4 F4>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,213,2
+427.0,<music21.chord.Chord E5>,[0],[4],Pianoflage in C major.mid,,214,1
+427.25,<music21.chord.Chord F5 C3>,"[0, 5]","[0, 5]",Pianoflage in C major.mid,,214,1
+427.625,<music21.chord.Chord C3>,[0],[0],Pianoflage in C major.mid,,214,1
+428.0,<music21.chord.Chord F#5>,[0],[6],Pianoflage in C major.mid,,214,2
+428.25,<music21.chord.Chord G5 A3 C4 F4>,"[0, 2, 4, 7]","[5, 7, 9, 0]",Pianoflage in C major.mid,,214,2
+428.625,<music21.chord.Chord A3 C4 F4>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,214,2
+429.0,<music21.chord.Chord G#5>,[0],[8],Pianoflage in C major.mid,,215,1
+429.25,<music21.chord.Chord A5 F3>,"[0, 4]","[5, 9]",Pianoflage in C major.mid,,215,1
+429.625,<music21.chord.Chord F3>,[0],[5],Pianoflage in C major.mid,,215,1
+430.0,<music21.chord.Chord C6>,[0],[0],Pianoflage in C major.mid,,215,2
+430.25,<music21.chord.Chord E5 A3 C4 F4>,"[0, 1, 5, 8]","[4, 5, 9, 0]",Pianoflage in C major.mid,,215,2
+430.625,<music21.chord.Chord A3 C4 F4>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,215,2
+431.0,<music21.chord.Chord F#5 C6 E6>,"[0, 4, 6]","[0, 4, 6]",Pianoflage in C major.mid,,216,1
+431.25,<music21.chord.Chord D3 F#5 C6 E6>,"[0, 2, 4, 6]","[0, 2, 4, 6]",Pianoflage in C major.mid,,216,1
+431.6666666666670,<music21.chord.Chord D3>,[0],[2],Pianoflage in C major.mid,,216,1
+432.0,<music21.chord.Chord D5>,[0],[2],Pianoflage in C major.mid,,216,2
+432.25,<music21.chord.Chord F#5 A5 D6 F#3 A3 C4>,"[0, 3, 6, 8]","[6, 9, 0, 2]",Pianoflage in C major.mid,,216,2
+433.25,<music21.chord.Chord D5 F5 A5 G2>,"[0, 3, 5, 7]","[2, 5, 7, 9]",Pianoflage in C major.mid,,217,1
+433.875,<music21.chord.Chord G2>,[0],[7],Pianoflage in C major.mid,,217,1
+434.0,<music21.chord.Chord F5 B5 F6>,"[0, 6]","[5, 11]",Pianoflage in C major.mid,,217,2
+434.25,<music21.chord.Chord G3 B3 F4 F5 B5 F6>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,217,2
+434.875,<music21.chord.Chord G3 B3 F4>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,217,2
+435.0,<music21.chord.Chord F5 B5 F6>,"[0, 6]","[5, 11]",Pianoflage in C major.mid,,218,1
+435.25,<music21.chord.Chord D3 F5 B5 F6>,"[0, 3, 6]","[11, 2, 5]",Pianoflage in C major.mid,,218,1
+435.6666666666670,<music21.chord.Chord D3>,[0],[2],Pianoflage in C major.mid,,218,1
+436.0,<music21.chord.Chord A5>,[0],[9],Pianoflage in C major.mid,,218,2
+436.25,<music21.chord.Chord D5 F5 G3 B3 F4>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Pianoflage in C major.mid,,218,2
+437.25,<music21.chord.Chord C5 G#5 C3>,"[0, 4]","[8, 0]",Pianoflage in C major.mid,,219,1
+437.875,<music21.chord.Chord C3>,[0],[0],Pianoflage in C major.mid,,219,1
+438.0,<music21.chord.Chord E5 G#5 C6 E6>,"[0, 4, 8]","[0, 4, 8]",Pianoflage in C major.mid,,219,2
+438.25,<music21.chord.Chord B-3 C4 E4 E5 G#5 C6 E6>,"[0, 2, 4, 8]","[8, 10, 0, 4]",Pianoflage in C major.mid,,219,2
+438.875,<music21.chord.Chord B-3 C4 E4>,"[0, 2, 6]","[10, 0, 4]",Pianoflage in C major.mid,,219,2
+439.0,<music21.chord.Chord E5 G#5 C6 E6>,"[0, 4, 8]","[0, 4, 8]",Pianoflage in C major.mid,,220,1
+439.25,<music21.chord.Chord C3 E5 G#5 C6 E6>,"[0, 4, 8]","[0, 4, 8]",Pianoflage in C major.mid,,220,1
+439.875,<music21.chord.Chord C3>,[0],[0],Pianoflage in C major.mid,,220,1
+440.0,<music21.chord.Chord C6>,[0],[0],Pianoflage in C major.mid,,220,2
+440.25,<music21.chord.Chord C5 E5 G#5 B-3 C4 E4>,"[0, 2, 4, 8]","[8, 10, 0, 4]",Pianoflage in C major.mid,,220,2
+441.25,<music21.chord.Chord A5 F5 F2 F3>,"[0, 4]","[5, 9]",Pianoflage in C major.mid,,221,1
+441.625,<music21.chord.Chord F2 F3>,[0],[5],Pianoflage in C major.mid,,221,1
+441.75,<music21.chord.Chord C7 F6 F2 F3>,"[0, 5]","[0, 5]",Pianoflage in C major.mid,,221,1
+442.125,<music21.chord.Chord F2 F3>,[0],[5],Pianoflage in C major.mid,,221,2
+442.25,<music21.chord.Chord G6 C7 F2 F3>,"[0, 2, 7]","[5, 7, 0]",Pianoflage in C major.mid,,221,2
+442.5,<music21.chord.Chord G6 C7>,"[0, 5]","[7, 0]",Pianoflage in C major.mid,,221,2
+442.75,<music21.chord.Chord C5 A5 G6 C7>,"[0, 2, 5]","[7, 9, 0]",Pianoflage in C major.mid,,221,2
+443.0,<music21.chord.Chord C5 A5>,"[0, 3]","[9, 0]",Pianoflage in C major.mid,,222,1
+443.25,<music21.chord.Chord F6 C6 C5 A5>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,222,1
+443.625,<music21.chord.Chord C5 A5>,"[0, 3]","[9, 0]",Pianoflage in C major.mid,,222,1
+443.75,<music21.chord.Chord C6 G6 C5 A5>,"[0, 2, 5]","[7, 9, 0]",Pianoflage in C major.mid,,222,1
+444.0833333333330,<music21.chord.Chord C6 G6>,"[0, 5]","[7, 0]",Pianoflage in C major.mid,,222,2
+444.25,<music21.chord.Chord A4 F5 C6 G6>,"[0, 2, 4, 7]","[5, 7, 9, 0]",Pianoflage in C major.mid,,222,2
+444.5,<music21.chord.Chord A4 F5>,"[0, 4]","[5, 9]",Pianoflage in C major.mid,,222,2
+444.75,<music21.chord.Chord F5 C6 A4>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,222,2
+445.125,<music21.chord.Chord A4>,[0],[9],Pianoflage in C major.mid,,223,1
+445.25,<music21.chord.Chord A5 D6 A4>,"[0, 5]","[9, 2]",Pianoflage in C major.mid,,223,1
+445.625,<music21.chord.Chord A5 D6>,"[0, 5]","[9, 2]",Pianoflage in C major.mid,,223,1
+445.75,<music21.chord.Chord C4 A4 A5 D6>,"[0, 3, 5]","[9, 0, 2]",Pianoflage in C major.mid,,223,1
+446.0,<music21.chord.Chord C4 A4>,"[0, 3]","[9, 0]",Pianoflage in C major.mid,,223,2
+446.25,<music21.chord.Chord F5 C5 C4 A4>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,223,2
+446.625,<music21.chord.Chord C4 A4>,"[0, 3]","[9, 0]",Pianoflage in C major.mid,,223,2
+446.75,<music21.chord.Chord D5 G5 C4 A4>,"[0, 2, 5, 7]","[7, 9, 0, 2]",Pianoflage in C major.mid,,223,2
+447.0,<music21.chord.Chord D5 G5>,"[0, 5]","[2, 7]",Pianoflage in C major.mid,,224,1
+447.25,<music21.chord.Chord A3 F4 D5 G5>,"[0, 3, 5, 7]","[2, 5, 7, 9]",Pianoflage in C major.mid,,224,1
+447.875,<music21.chord.Chord A3 F4>,"[0, 4]","[5, 9]",Pianoflage in C major.mid,,224,1
+448.0,<music21.chord.Chord E-5 A5 D6>,"[0, 5, 6]","[9, 2, 3]",Pianoflage in C major.mid,,224,2
+448.25,<music21.chord.Chord F#2 F#3 E-5 A5 D6>,"[0, 1, 4, 7]","[2, 3, 6, 9]",Pianoflage in C major.mid,,224,2
+448.875,<music21.chord.Chord F#2 F#3>,[0],[6],Pianoflage in C major.mid,,224,2
+449.0,<music21.chord.Chord C6>,[0],[0],Pianoflage in C major.mid,,225,1
+449.25,<music21.chord.Chord E5 B-5 D6 G2 G3>,"[0, 2, 5, 8]","[2, 4, 7, 10]",Pianoflage in C major.mid,,225,1
+450.25,<music21.chord.Chord B-4 E5 B-3 C4 E4>,"[0, 2, 6]","[10, 0, 4]",Pianoflage in C major.mid,,225,2
+450.625,<music21.chord.Chord B-3 C4 E4>,"[0, 2, 6]","[10, 0, 4]",Pianoflage in C major.mid,,225,2
+451.0,<music21.chord.Chord E-5>,[0],[3],Pianoflage in C major.mid,,226,1
+451.25,<music21.chord.Chord E5 C3>,"[0, 4]","[0, 4]",Pianoflage in C major.mid,,226,1
+451.625,<music21.chord.Chord C3>,[0],[0],Pianoflage in C major.mid,,226,1
+452.0,<music21.chord.Chord F5>,[0],[5],Pianoflage in C major.mid,,226,2
+452.25,<music21.chord.Chord F#5 B-3 C4 E4>,"[0, 2, 6, 8]","[4, 6, 10, 0]",Pianoflage in C major.mid,,226,2
+452.625,<music21.chord.Chord B-3 C4 E4>,"[0, 2, 6]","[10, 0, 4]",Pianoflage in C major.mid,,226,2
+453.0,<music21.chord.Chord G5>,[0],[7],Pianoflage in C major.mid,,227,1
+453.25,<music21.chord.Chord E5 A5 G3>,"[0, 3, 5]","[4, 7, 9]",Pianoflage in C major.mid,,227,1
+453.625,<music21.chord.Chord G3>,[0],[7],Pianoflage in C major.mid,,227,1
+454.0,<music21.chord.Chord E5 G5>,"[0, 3]","[4, 7]",Pianoflage in C major.mid,,227,2
+454.25,<music21.chord.Chord B-3 C4 E4 E5 G5>,"[0, 3, 6, 8]","[4, 7, 10, 0]",Pianoflage in C major.mid,,227,2
+454.6666666666670,<music21.chord.Chord B-3 C4 E4>,"[0, 2, 6]","[10, 0, 4]",Pianoflage in C major.mid,,227,2
+455.0,<music21.chord.Chord E5 B-5 C6>,"[0, 2, 6]","[10, 0, 4]",Pianoflage in C major.mid,,228,1
+455.25,<music21.chord.Chord C3 E5 B-5 C6>,"[0, 2, 6]","[10, 0, 4]",Pianoflage in C major.mid,,228,1
+455.6666666666670,<music21.chord.Chord C3>,[0],[0],Pianoflage in C major.mid,,228,1
+456.0,<music21.chord.Chord D5>,[0],[2],Pianoflage in C major.mid,,228,2
+456.25,<music21.chord.Chord G#5 D6 B-3 C4 E4>,"[0, 2, 4, 6, 8]","[8, 10, 0, 2, 4]",Pianoflage in C major.mid,,228,2
+456.625,<music21.chord.Chord B-3 C4 E4>,"[0, 2, 6]","[10, 0, 4]",Pianoflage in C major.mid,,228,2
+457.0,<music21.chord.Chord C6>,[0],[0],Pianoflage in C major.mid,,229,1
+457.25,<music21.chord.Chord F5 A5 D6 F3>,"[0, 3, 7]","[2, 5, 9]",Pianoflage in C major.mid,,229,1
+458.25,<music21.chord.Chord A4 C5 F5 A3 C4 F4>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,229,2
+458.625,<music21.chord.Chord A3 C4 F4>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,229,2
+459.0,<music21.chord.Chord E5>,[0],[4],Pianoflage in C major.mid,,230,1
+459.25,<music21.chord.Chord F5 C3>,"[0, 5]","[0, 5]",Pianoflage in C major.mid,,230,1
+459.625,<music21.chord.Chord C3>,[0],[0],Pianoflage in C major.mid,,230,1
+460.0,<music21.chord.Chord F#5>,[0],[6],Pianoflage in C major.mid,,230,2
+460.25,<music21.chord.Chord G5 A3 C4 F4>,"[0, 2, 4, 7]","[5, 7, 9, 0]",Pianoflage in C major.mid,,230,2
+460.625,<music21.chord.Chord A3 C4 F4>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,230,2
+461.0,<music21.chord.Chord G#5>,[0],[8],Pianoflage in C major.mid,,231,1
+461.25,<music21.chord.Chord A5 F3>,"[0, 4]","[5, 9]",Pianoflage in C major.mid,,231,1
+461.625,<music21.chord.Chord F3>,[0],[5],Pianoflage in C major.mid,,231,1
+462.0,<music21.chord.Chord C6>,[0],[0],Pianoflage in C major.mid,,231,2
+462.25,<music21.chord.Chord F5 A3 C4 F4>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,231,2
+462.625,<music21.chord.Chord A3 C4 F4>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,231,2
+463.0,<music21.chord.Chord A5 E6>,"[0, 5]","[4, 9]",Pianoflage in C major.mid,,232,1
+463.25,<music21.chord.Chord D3 A5 E6>,"[0, 2, 7]","[2, 4, 9]",Pianoflage in C major.mid,,232,1
+463.6666666666670,<music21.chord.Chord D3>,[0],[2],Pianoflage in C major.mid,,232,1
+464.0,<music21.chord.Chord D6>,[0],[2],Pianoflage in C major.mid,,232,2
+464.25,<music21.chord.Chord F5 A5 C6 A3 C4 F4>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,232,2
+464.875,<music21.chord.Chord A3 C4 F4>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,232,2
+465.0,<music21.chord.Chord D6>,[0],[2],Pianoflage in C major.mid,,233,1
+465.25,<music21.chord.Chord B5 E6 G#3 B3 E4>,"[0, 4, 7]","[4, 8, 11]",Pianoflage in C major.mid,,233,1
+465.75,<music21.chord.Chord E-5>,[0],[3],Pianoflage in C major.mid,,233,1
+466.25,<music21.chord.Chord E5 E2 E3>,[0],[4],Pianoflage in C major.mid,,233,2
+466.625,<music21.chord.Chord E2 E3>,[0],[4],Pianoflage in C major.mid,,233,2
+466.75,<music21.chord.Chord B5 E6 E2 E3>,"[0, 5]","[11, 4]",Pianoflage in C major.mid,,233,2
+467.25,<music21.chord.Chord E-5>,[0],[3],Pianoflage in C major.mid,,234,1
+467.75,<music21.chord.Chord E5>,[0],[4],Pianoflage in C major.mid,,234,1
+468.25,<music21.chord.Chord A5 E6 F2 F3>,"[0, 1, 5]","[4, 5, 9]",Pianoflage in C major.mid,,234,2
+468.625,<music21.chord.Chord F2 F3>,[0],[5],Pianoflage in C major.mid,,234,2
+468.75,<music21.chord.Chord E-5 F2 F3>,"[0, 2]","[3, 5]",Pianoflage in C major.mid,,234,2
+469.25,<music21.chord.Chord E5>,[0],[4],Pianoflage in C major.mid,,235,1
+469.75,<music21.chord.Chord E6 B-5>,"[0, 6]","[4, 10]",Pianoflage in C major.mid,,235,1
+470.25,<music21.chord.Chord E-5 F#2 F#3>,"[0, 3]","[3, 6]",Pianoflage in C major.mid,,235,2
+470.625,<music21.chord.Chord F#2 F#3>,[0],[6],Pianoflage in C major.mid,,235,2
+470.75,<music21.chord.Chord E5 F#2 F#3>,"[0, 2]","[4, 6]",Pianoflage in C major.mid,,235,2
+471.25,<music21.chord.Chord B5 E6 G2 G3>,"[0, 3, 7]","[4, 7, 11]",Pianoflage in C major.mid,,236,1
+471.625,<music21.chord.Chord G2 G3>,[0],[7],Pianoflage in C major.mid,,236,1
+471.75,<music21.chord.Chord D6 G2 G3>,"[0, 5]","[2, 7]",Pianoflage in C major.mid,,236,1
+472.25,<music21.chord.Chord E5 G#5 C6 G#2 G#3>,"[0, 4, 8]","[0, 4, 8]",Pianoflage in C major.mid,,236,2
+472.625,<music21.chord.Chord G#2 G#3>,[0],[8],Pianoflage in C major.mid,,236,2
+472.75,<music21.chord.Chord B5 G#2 G#3>,"[0, 3]","[8, 11]",Pianoflage in C major.mid,,236,2
+473.25,<music21.chord.Chord C5 E5 A5 A2 A3>,"[0, 3, 7]","[9, 0, 4]",Pianoflage in C major.mid,,237,1
+473.625,<music21.chord.Chord A2 A3>,[0],[9],Pianoflage in C major.mid,,237,1
+474.0,<music21.chord.Chord E6 A2 A3>,"[0, 5]","[4, 9]",Pianoflage in C major.mid,,237,2
+474.125,<music21.chord.Chord E6>,[0],[4],Pianoflage in C major.mid,,237,2
+474.25,<music21.chord.Chord G#6 A4 E5>,"[0, 4, 5]","[4, 8, 9]",Pianoflage in C major.mid,,237,2
+474.5833333333330,<music21.chord.Chord A4 E5>,"[0, 5]","[4, 9]",Pianoflage in C major.mid,,237,2
+474.625,<music21.chord.Chord A6 A4 E5>,"[0, 5]","[4, 9]",Pianoflage in C major.mid,,237,2
+474.875,<music21.chord.Chord C6 A6 A4 E5>,"[0, 3, 7]","[9, 0, 4]",Pianoflage in C major.mid,,237,2
+474.9583333333330,<music21.chord.Chord A4 E5 C6>,"[0, 3, 7]","[9, 0, 4]",Pianoflage in C major.mid,,237,2
+475.2083333333330,<music21.chord.Chord A4 E5>,"[0, 5]","[4, 9]",Pianoflage in C major.mid,,238,1
+475.25,<music21.chord.Chord E-6 A4 E5>,"[0, 1, 6]","[3, 4, 9]",Pianoflage in C major.mid,,238,1
+475.5833333333330,<music21.chord.Chord A4 E5>,"[0, 5]","[4, 9]",Pianoflage in C major.mid,,238,1
+475.625,<music21.chord.Chord E6 A4 E5>,"[0, 5]","[4, 9]",Pianoflage in C major.mid,,238,1
+475.875,<music21.chord.Chord A5 E6 A4 E5>,"[0, 5]","[4, 9]",Pianoflage in C major.mid,,238,1
+475.9583333333330,<music21.chord.Chord A4 E5 A5>,"[0, 5]","[4, 9]",Pianoflage in C major.mid,,238,1
+476.0,<music21.chord.Chord A5>,[0],[9],Pianoflage in C major.mid,,238,2
+476.25,<music21.chord.Chord B5 E4 C5>,"[0, 1, 5]","[11, 0, 4]",Pianoflage in C major.mid,,238,2
+476.5833333333330,<music21.chord.Chord E4 C5>,"[0, 4]","[0, 4]",Pianoflage in C major.mid,,238,2
+476.625,<music21.chord.Chord C6 E4 C5>,"[0, 4]","[0, 4]",Pianoflage in C major.mid,,238,2
+476.875,<music21.chord.Chord E5 C6 E4 C5>,"[0, 4]","[0, 4]",Pianoflage in C major.mid,,238,2
+476.9583333333330,<music21.chord.Chord E4 C5 E5>,"[0, 4]","[0, 4]",Pianoflage in C major.mid,,238,2
+477.2083333333330,<music21.chord.Chord E4 C5>,"[0, 4]","[0, 4]",Pianoflage in C major.mid,,239,1
+477.25,<music21.chord.Chord G#5 E4 C5>,"[0, 4, 8]","[0, 4, 8]",Pianoflage in C major.mid,,239,1
+477.5833333333330,<music21.chord.Chord E4 C5>,"[0, 4]","[0, 4]",Pianoflage in C major.mid,,239,1
+477.625,<music21.chord.Chord A5 E4 C5>,"[0, 3, 7]","[9, 0, 4]",Pianoflage in C major.mid,,239,1
+477.875,<music21.chord.Chord C5 A5 E4>,"[0, 3, 7]","[9, 0, 4]",Pianoflage in C major.mid,,239,1
+477.9166666666670,<music21.chord.Chord A5 E4 C5>,"[0, 3, 7]","[9, 0, 4]",Pianoflage in C major.mid,,239,1
+477.9583333333330,<music21.chord.Chord E4 C5>,"[0, 4]","[0, 4]",Pianoflage in C major.mid,,239,1
+478.25,<music21.chord.Chord A4 C4 D5>,"[0, 3, 5]","[9, 0, 2]",Pianoflage in C major.mid,,239,2
+478.5833333333330,<music21.chord.Chord A4 C4>,"[0, 3]","[9, 0]",Pianoflage in C major.mid,,239,2
+478.625,<music21.chord.Chord E5 A4 C4>,"[0, 3, 7]","[9, 0, 4]",Pianoflage in C major.mid,,239,2
+478.875,<music21.chord.Chord A4 C4 E5>,"[0, 3, 7]","[9, 0, 4]",Pianoflage in C major.mid,,239,2
+478.9166666666670,<music21.chord.Chord C4 E5 A4>,"[0, 3, 7]","[9, 0, 4]",Pianoflage in C major.mid,,239,2
+478.9583333333330,<music21.chord.Chord C4 A4>,"[0, 3]","[9, 0]",Pianoflage in C major.mid,,239,2
+479.25,<music21.chord.Chord A3 E4 C5>,"[0, 3, 7]","[9, 0, 4]",Pianoflage in C major.mid,,240,1
+480.0,<music21.chord.Chord A3 E4>,"[0, 5]","[4, 9]",Pianoflage in C major.mid,,240,2
+480.25,<music21.chord.Chord E-5 A5 D6 F#2 F#3>,"[0, 1, 4, 7]","[2, 3, 6, 9]",Pianoflage in C major.mid,,240,2
+480.875,<music21.chord.Chord F#2 F#3>,[0],[6],Pianoflage in C major.mid,,240,2
+481.0,<music21.chord.Chord C6>,[0],[0],Pianoflage in C major.mid,,241,1
+481.25,<music21.chord.Chord E5 B-5 D6 G2 G3>,"[0, 2, 5, 8]","[2, 4, 7, 10]",Pianoflage in C major.mid,,241,1
+482.25,<music21.chord.Chord B-4 E5 B-3 C4 E4>,"[0, 2, 6]","[10, 0, 4]",Pianoflage in C major.mid,,241,2
+482.625,<music21.chord.Chord B-3 C4 E4>,"[0, 2, 6]","[10, 0, 4]",Pianoflage in C major.mid,,241,2
+483.0,<music21.chord.Chord E-5>,[0],[3],Pianoflage in C major.mid,,242,1
+483.25,<music21.chord.Chord E5 C3>,"[0, 4]","[0, 4]",Pianoflage in C major.mid,,242,1
+483.625,<music21.chord.Chord C3>,[0],[0],Pianoflage in C major.mid,,242,1
+484.0,<music21.chord.Chord F5>,[0],[5],Pianoflage in C major.mid,,242,2
+484.25,<music21.chord.Chord F#5 B-3 C4 E4>,"[0, 2, 6, 8]","[4, 6, 10, 0]",Pianoflage in C major.mid,,242,2
+484.625,<music21.chord.Chord B-3 C4 E4>,"[0, 2, 6]","[10, 0, 4]",Pianoflage in C major.mid,,242,2
+485.0,<music21.chord.Chord G5>,[0],[7],Pianoflage in C major.mid,,243,1
+485.25,<music21.chord.Chord E5 A5 G3>,"[0, 3, 5]","[4, 7, 9]",Pianoflage in C major.mid,,243,1
+485.625,<music21.chord.Chord G3>,[0],[7],Pianoflage in C major.mid,,243,1
+486.0,<music21.chord.Chord E5 G5>,"[0, 3]","[4, 7]",Pianoflage in C major.mid,,243,2
+486.25,<music21.chord.Chord B-3 C4 E4 E5 G5>,"[0, 3, 6, 8]","[4, 7, 10, 0]",Pianoflage in C major.mid,,243,2
+486.6666666666670,<music21.chord.Chord B-3 C4 E4>,"[0, 2, 6]","[10, 0, 4]",Pianoflage in C major.mid,,243,2
+487.0,<music21.chord.Chord E5 B-5 C6>,"[0, 2, 6]","[10, 0, 4]",Pianoflage in C major.mid,,244,1
+487.25,<music21.chord.Chord C3 E5 B-5 C6>,"[0, 2, 6]","[10, 0, 4]",Pianoflage in C major.mid,,244,1
+487.6666666666670,<music21.chord.Chord C3>,[0],[0],Pianoflage in C major.mid,,244,1
+488.0,<music21.chord.Chord D5>,[0],[2],Pianoflage in C major.mid,,244,2
+488.25,<music21.chord.Chord G#5 D6 B-3 C4 E4>,"[0, 2, 4, 6, 8]","[8, 10, 0, 2, 4]",Pianoflage in C major.mid,,244,2
+488.625,<music21.chord.Chord B-3 C4 E4>,"[0, 2, 6]","[10, 0, 4]",Pianoflage in C major.mid,,244,2
+489.0,<music21.chord.Chord C6>,[0],[0],Pianoflage in C major.mid,,245,1
+489.25,<music21.chord.Chord F5 A5 D6 F3>,"[0, 3, 7]","[2, 5, 9]",Pianoflage in C major.mid,,245,1
+490.25,<music21.chord.Chord A4 C5 F5 A3 C4 F4>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,245,2
+490.625,<music21.chord.Chord A3 C4 F4>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,245,2
+491.0,<music21.chord.Chord E5>,[0],[4],Pianoflage in C major.mid,,246,1
+491.25,<music21.chord.Chord F5 C3>,"[0, 5]","[0, 5]",Pianoflage in C major.mid,,246,1
+491.625,<music21.chord.Chord C3>,[0],[0],Pianoflage in C major.mid,,246,1
+492.0,<music21.chord.Chord F#5>,[0],[6],Pianoflage in C major.mid,,246,2
+492.25,<music21.chord.Chord G5 A3 C4 F4>,"[0, 2, 4, 7]","[5, 7, 9, 0]",Pianoflage in C major.mid,,246,2
+492.625,<music21.chord.Chord A3 C4 F4>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,246,2
+493.0,<music21.chord.Chord G#5>,[0],[8],Pianoflage in C major.mid,,247,1
+493.25,<music21.chord.Chord A5 F3>,"[0, 4]","[5, 9]",Pianoflage in C major.mid,,247,1
+493.625,<music21.chord.Chord F3>,[0],[5],Pianoflage in C major.mid,,247,1
+494.0,<music21.chord.Chord C6>,[0],[0],Pianoflage in C major.mid,,247,2
+494.25,<music21.chord.Chord E5 A3 C4 F4>,"[0, 1, 5, 8]","[4, 5, 9, 0]",Pianoflage in C major.mid,,247,2
+494.625,<music21.chord.Chord A3 C4 F4>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,247,2
+495.0,<music21.chord.Chord F#5 C6 E6>,"[0, 4, 6]","[0, 4, 6]",Pianoflage in C major.mid,,248,1
+495.25,<music21.chord.Chord D3 F#5 C6 E6>,"[0, 2, 4, 6]","[0, 2, 4, 6]",Pianoflage in C major.mid,,248,1
+495.6666666666670,<music21.chord.Chord D3>,[0],[2],Pianoflage in C major.mid,,248,1
+496.0,<music21.chord.Chord D5>,[0],[2],Pianoflage in C major.mid,,248,2
+496.25,<music21.chord.Chord F#5 A5 D6 F#3 A3 C4>,"[0, 3, 6, 8]","[6, 9, 0, 2]",Pianoflage in C major.mid,,248,2
+497.25,<music21.chord.Chord D5 F5 A5 G2>,"[0, 3, 5, 7]","[2, 5, 7, 9]",Pianoflage in C major.mid,,249,1
+497.875,<music21.chord.Chord G2>,[0],[7],Pianoflage in C major.mid,,249,1
+498.0,<music21.chord.Chord F5 B5 F6>,"[0, 6]","[5, 11]",Pianoflage in C major.mid,,249,2
+498.25,<music21.chord.Chord G3 B3 F4 F5 B5 F6>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,249,2
+498.875,<music21.chord.Chord G3 B3 F4>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,249,2
+499.0,<music21.chord.Chord F5 B5 F6>,"[0, 6]","[5, 11]",Pianoflage in C major.mid,,250,1
+499.25,<music21.chord.Chord D3 F5 B5 F6>,"[0, 3, 6]","[11, 2, 5]",Pianoflage in C major.mid,,250,1
+499.6666666666670,<music21.chord.Chord D3>,[0],[2],Pianoflage in C major.mid,,250,1
+500.0,<music21.chord.Chord A5>,[0],[9],Pianoflage in C major.mid,,250,2
+500.25,<music21.chord.Chord D5 F5 G3 B3 F4>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Pianoflage in C major.mid,,250,2
+501.25,<music21.chord.Chord C5 G#5 C3>,"[0, 4]","[8, 0]",Pianoflage in C major.mid,,251,1
+501.625,<music21.chord.Chord C3>,[0],[0],Pianoflage in C major.mid,,251,1
+502.0,<music21.chord.Chord E5 G#5 C6 E6>,"[0, 4, 8]","[0, 4, 8]",Pianoflage in C major.mid,,251,2
+502.25,<music21.chord.Chord B-3 C4 E4 E5 G#5 C6 E6>,"[0, 2, 4, 8]","[8, 10, 0, 4]",Pianoflage in C major.mid,,251,2
+502.6666666666670,<music21.chord.Chord B-3 C4 E4>,"[0, 2, 6]","[10, 0, 4]",Pianoflage in C major.mid,,251,2
+503.0,<music21.chord.Chord E5 G#5 C6 E6>,"[0, 4, 8]","[0, 4, 8]",Pianoflage in C major.mid,,252,1
+503.25,<music21.chord.Chord C3 E5 G#5 C6 E6>,"[0, 4, 8]","[0, 4, 8]",Pianoflage in C major.mid,,252,1
+503.6666666666670,<music21.chord.Chord C3>,[0],[0],Pianoflage in C major.mid,,252,1
+504.0,<music21.chord.Chord C6>,[0],[0],Pianoflage in C major.mid,,252,2
+504.25,<music21.chord.Chord C5 E5 G#5 B-3 C4 E4>,"[0, 2, 4, 8]","[8, 10, 0, 4]",Pianoflage in C major.mid,,252,2
+505.25,<music21.chord.Chord A5 F5 F2 F3>,"[0, 4]","[5, 9]",Pianoflage in C major.mid,,253,1
+505.75,<music21.chord.Chord C7 F6 F2 F3>,"[0, 5]","[0, 5]",Pianoflage in C major.mid,,253,1
+506.25,<music21.chord.Chord A6 D7 F2 F3>,"[0, 3, 7]","[2, 5, 9]",Pianoflage in C major.mid,,253,2
+506.5,<music21.chord.Chord A6 D7>,"[0, 5]","[9, 2]",Pianoflage in C major.mid,,253,2
+506.75,<music21.chord.Chord C5 A5 A6 D7>,"[0, 3, 5]","[9, 0, 2]",Pianoflage in C major.mid,,253,2
+507.0,<music21.chord.Chord C5 A5>,"[0, 3]","[9, 0]",Pianoflage in C major.mid,,254,1
+507.25,<music21.chord.Chord F6 C6 C5 A5>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,254,1
+507.625,<music21.chord.Chord C5 A5>,"[0, 3]","[9, 0]",Pianoflage in C major.mid,,254,1
+507.75,<music21.chord.Chord D6 G6 C5 A5>,"[0, 2, 5, 7]","[7, 9, 0, 2]",Pianoflage in C major.mid,,254,1
+508.0833333333330,<music21.chord.Chord D6 G6>,"[0, 5]","[2, 7]",Pianoflage in C major.mid,,254,2
+508.25,<music21.chord.Chord A4 F5 D6 G6>,"[0, 3, 5, 7]","[2, 5, 7, 9]",Pianoflage in C major.mid,,254,2
+508.5,<music21.chord.Chord A4 F5>,"[0, 4]","[5, 9]",Pianoflage in C major.mid,,254,2
+508.75,<music21.chord.Chord F5 C6 A4>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,254,2
+509.125,<music21.chord.Chord A4>,[0],[9],Pianoflage in C major.mid,,255,1
+509.25,<music21.chord.Chord G5 D6 A4>,"[0, 2, 7]","[7, 9, 2]",Pianoflage in C major.mid,,255,1
+509.625,<music21.chord.Chord G5 D6>,"[0, 5]","[2, 7]",Pianoflage in C major.mid,,255,1
+509.75,<music21.chord.Chord C4 A4 G5 D6>,"[0, 2, 5, 7]","[7, 9, 0, 2]",Pianoflage in C major.mid,,255,1
+510.0,<music21.chord.Chord C4 A4>,"[0, 3]","[9, 0]",Pianoflage in C major.mid,,255,2
+510.25,<music21.chord.Chord F5 C5 C4 A4>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,255,2
+510.625,<music21.chord.Chord C4 A4>,"[0, 3]","[9, 0]",Pianoflage in C major.mid,,255,2
+510.75,<music21.chord.Chord D5 G5 C4 A4>,"[0, 2, 5, 7]","[7, 9, 0, 2]",Pianoflage in C major.mid,,255,2
+511.0,<music21.chord.Chord D5 G5>,"[0, 5]","[2, 7]",Pianoflage in C major.mid,,256,1
+511.25,<music21.chord.Chord A3 F4 D5 G5>,"[0, 3, 5, 7]","[2, 5, 7, 9]",Pianoflage in C major.mid,,256,1
+511.625,<music21.chord.Chord A3 F4>,"[0, 4]","[5, 9]",Pianoflage in C major.mid,,256,1
+512.0,<music21.chord.Chord A5>,[0],[9],Pianoflage in C major.mid,,256,2
+512.25,<music21.chord.Chord E5 B-5 D6 G2 G3>,"[0, 2, 5, 8]","[2, 4, 7, 10]",Pianoflage in C major.mid,,256,2
+512.625,<music21.chord.Chord G2 G3>,[0],[7],Pianoflage in C major.mid,,256,2
+513.0,<music21.chord.Chord C6>,[0],[0],Pianoflage in C major.mid,,257,1
+513.25,<music21.chord.Chord F5 A5 F6 F2 F3>,"[0, 4]","[5, 9]",Pianoflage in C major.mid,,257,1
+514.25,<music21.chord.Chord A4 C5 F5 F3 A3 E-4>,"[0, 3, 6, 8]","[9, 0, 3, 5]",Pianoflage in C major.mid,,257,2
+514.625,<music21.chord.Chord F3 A3 E-4>,"[0, 2, 6]","[3, 5, 9]",Pianoflage in C major.mid,,257,2
+515.0,<music21.chord.Chord E5>,[0],[4],Pianoflage in C major.mid,,258,1
+515.25,<music21.chord.Chord F5 C3>,"[0, 5]","[0, 5]",Pianoflage in C major.mid,,258,1
+515.625,<music21.chord.Chord C3>,[0],[0],Pianoflage in C major.mid,,258,1
+516.0,<music21.chord.Chord F#5>,[0],[6],Pianoflage in C major.mid,,258,2
+516.25,<music21.chord.Chord G5 F3 A3 E-4>,"[0, 2, 4, 6]","[3, 5, 7, 9]",Pianoflage in C major.mid,,258,2
+516.625,<music21.chord.Chord F3 A3 E-4>,"[0, 2, 6]","[3, 5, 9]",Pianoflage in C major.mid,,258,2
+517.0,<music21.chord.Chord G#5>,[0],[8],Pianoflage in C major.mid,,259,1
+517.25,<music21.chord.Chord A5 F2>,"[0, 4]","[5, 9]",Pianoflage in C major.mid,,259,1
+517.625,<music21.chord.Chord F2>,[0],[5],Pianoflage in C major.mid,,259,1
+518.0,<music21.chord.Chord E-5 A5 C6>,"[0, 3, 6]","[9, 0, 3]",Pianoflage in C major.mid,,259,2
+518.25,<music21.chord.Chord F3 A3 E-4 E-5 A5 C6>,"[0, 3, 6, 8]","[9, 0, 3, 5]",Pianoflage in C major.mid,,259,2
+518.6666666666670,<music21.chord.Chord F3 A3 E-4>,"[0, 2, 6]","[3, 5, 9]",Pianoflage in C major.mid,,259,2
+519.0,<music21.chord.Chord F5 A5 F6>,"[0, 4]","[5, 9]",Pianoflage in C major.mid,,260,1
+519.25,<music21.chord.Chord F2 F5 A5 F6>,"[0, 4]","[5, 9]",Pianoflage in C major.mid,,260,1
+519.6666666666670,<music21.chord.Chord F2>,[0],[5],Pianoflage in C major.mid,,260,1
+520.0,<music21.chord.Chord F5>,[0],[5],Pianoflage in C major.mid,,260,2
+520.25,<music21.chord.Chord C#6 F6 F3 A3 C#4>,"[0, 4, 8]","[1, 5, 9]",Pianoflage in C major.mid,,260,2
+520.625,<music21.chord.Chord F3 A3 C#4>,"[0, 4, 8]","[1, 5, 9]",Pianoflage in C major.mid,,260,2
+521.0,<music21.chord.Chord E6>,[0],[4],Pianoflage in C major.mid,,261,1
+521.25,<music21.chord.Chord F5 B-5 D6 F6 B-2>,"[0, 4, 7]","[10, 2, 5]",Pianoflage in C major.mid,,261,1
+522.25,<music21.chord.Chord D5 F5 F3 B-3 D4>,"[0, 4, 7]","[10, 2, 5]",Pianoflage in C major.mid,,261,2
+522.625,<music21.chord.Chord F3 B-3 D4>,"[0, 4, 7]","[10, 2, 5]",Pianoflage in C major.mid,,261,2
+523.0,<music21.chord.Chord E5>,[0],[4],Pianoflage in C major.mid,,262,1
+523.25,<music21.chord.Chord F5 F2>,[0],[5],Pianoflage in C major.mid,,262,1
+523.625,<music21.chord.Chord F2>,[0],[5],Pianoflage in C major.mid,,262,1
+524.0,<music21.chord.Chord F#5>,[0],[6],Pianoflage in C major.mid,,262,2
+524.25,<music21.chord.Chord G5 F3 B-3 D4>,"[0, 3, 5, 8]","[2, 5, 7, 10]",Pianoflage in C major.mid,,262,2
+524.625,<music21.chord.Chord F3 B-3 D4>,"[0, 4, 7]","[10, 2, 5]",Pianoflage in C major.mid,,262,2
+525.0,<music21.chord.Chord A5>,[0],[9],Pianoflage in C major.mid,,263,1
+525.25,<music21.chord.Chord B-5 B-2>,[0],[10],Pianoflage in C major.mid,,263,1
+525.625,<music21.chord.Chord B-2>,[0],[10],Pianoflage in C major.mid,,263,1
+526.0,<music21.chord.Chord D6>,[0],[2],Pianoflage in C major.mid,,263,2
+526.25,<music21.chord.Chord F5 F3 B-3 D4>,"[0, 4, 7]","[10, 2, 5]",Pianoflage in C major.mid,,263,2
+526.625,<music21.chord.Chord F3 B-3 D4>,"[0, 4, 7]","[10, 2, 5]",Pianoflage in C major.mid,,263,2
+527.0,<music21.chord.Chord F5 G#5 F6>,"[0, 3]","[5, 8]",Pianoflage in C major.mid,,264,1
+527.25,<music21.chord.Chord B2 F5 G#5 F6>,"[0, 3, 6]","[5, 8, 11]",Pianoflage in C major.mid,,264,1
+527.6666666666670,<music21.chord.Chord B2>,[0],[11],Pianoflage in C major.mid,,264,1
+528.0,<music21.chord.Chord E6>,[0],[4],Pianoflage in C major.mid,,264,2
+528.25,<music21.chord.Chord F5 G#5 D6 F3 G#3 D4>,"[0, 3, 6]","[2, 5, 8]",Pianoflage in C major.mid,,264,2
+529.25,<music21.chord.Chord F5 A5 C6 C2 C3>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,265,1
+529.625,<music21.chord.Chord C2 C3>,[0],[0],Pianoflage in C major.mid,,265,1
+530.25,<music21.chord.Chord C4 G4 C2 C3>,"[0, 5]","[7, 0]",Pianoflage in C major.mid,,265,2
+530.625,<music21.chord.Chord C2 C3>,[0],[0],Pianoflage in C major.mid,,265,2
+531.0,<music21.chord.Chord F4 C2 C3>,"[0, 5]","[0, 5]",Pianoflage in C major.mid,,266,1
+531.25,<music21.chord.Chord C4 C2 C3>,[0],[0],Pianoflage in C major.mid,,266,1
+531.625,<music21.chord.Chord C2 C3>,[0],[0],Pianoflage in C major.mid,,266,1
+532.0,<music21.chord.Chord F4 B-4 C2 C3>,"[0, 2, 7]","[10, 0, 5]",Pianoflage in C major.mid,,266,2
+532.25,<music21.chord.Chord A4 C2 C3>,"[0, 3]","[9, 0]",Pianoflage in C major.mid,,266,2
+532.5,<music21.chord.Chord A4>,[0],[9],Pianoflage in C major.mid,,266,2
+533.0,<music21.chord.Chord F4>,[0],[5],Pianoflage in C major.mid,,267,1
+533.25,<music21.chord.Chord A4 D5 C2 C3>,"[0, 3, 5]","[9, 0, 2]",Pianoflage in C major.mid,,267,1
+533.625,<music21.chord.Chord C2 C3>,[0],[0],Pianoflage in C major.mid,,267,1
+534.0,<music21.chord.Chord C5 C2 C3>,[0],[0],Pianoflage in C major.mid,,267,2
+534.25,<music21.chord.Chord A4 C2 C3>,"[0, 3]","[9, 0]",Pianoflage in C major.mid,,267,2
+534.625,<music21.chord.Chord C2 C3>,[0],[0],Pianoflage in C major.mid,,267,2
+535.0,<music21.chord.Chord G5 C5 C2 C3>,"[0, 5]","[7, 0]",Pianoflage in C major.mid,,268,1
+535.25,<music21.chord.Chord F5 C2 C3>,"[0, 5]","[0, 5]",Pianoflage in C major.mid,,268,1
+535.625,<music21.chord.Chord C2 C3>,[0],[0],Pianoflage in C major.mid,,268,1
+536.0,<music21.chord.Chord C5 C2 C3>,[0],[0],Pianoflage in C major.mid,,268,2
+536.25,<music21.chord.Chord A5 C6 C2 C3>,"[0, 3]","[9, 0]",Pianoflage in C major.mid,,268,2
+536.5,<music21.chord.Chord A5 C6>,"[0, 3]","[9, 0]",Pianoflage in C major.mid,,268,2
+537.0,<music21.chord.Chord C#6>,[0],[1],Pianoflage in C major.mid,,269,1
+537.25,<music21.chord.Chord F5 B5 D6 G2>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Pianoflage in C major.mid,,269,1
+537.625,<music21.chord.Chord G2>,[0],[7],Pianoflage in C major.mid,,269,1
+538.0,<music21.chord.Chord F5 B5 D6>,"[0, 3, 6]","[11, 2, 5]",Pianoflage in C major.mid,,269,2
+538.25,<music21.chord.Chord G3 B3 F4 F5 B5 D6>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Pianoflage in C major.mid,,269,2
+538.6666666666670,<music21.chord.Chord G3 B3 F4>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,269,2
+539.0,<music21.chord.Chord E5 B-5 D6>,"[0, 4, 6]","[10, 2, 4]",Pianoflage in C major.mid,,270,1
+539.25,<music21.chord.Chord C3 E5 B-5 D6>,"[0, 2, 4, 6]","[10, 0, 2, 4]",Pianoflage in C major.mid,,270,1
+539.6666666666670,<music21.chord.Chord C3>,[0],[0],Pianoflage in C major.mid,,270,1
+540.0,<music21.chord.Chord C6>,[0],[0],Pianoflage in C major.mid,,270,2
+540.25,<music21.chord.Chord E5 B-5 D6 B-3 C4 E4>,"[0, 2, 4, 6]","[10, 0, 2, 4]",Pianoflage in C major.mid,,270,2
+541.25,<music21.chord.Chord F5 A5 F6 F2 F3>,"[0, 4]","[5, 9]",Pianoflage in C major.mid,,271,1
+541.625,<music21.chord.Chord F2 F3>,[0],[5],Pianoflage in C major.mid,,271,1
+542.0,<music21.chord.Chord C6>,[0],[0],Pianoflage in C major.mid,,271,2
+542.25,<music21.chord.Chord E5 B-5 D6 C3 C4>,"[0, 2, 4, 6]","[10, 0, 2, 4]",Pianoflage in C major.mid,,271,2
+542.625,<music21.chord.Chord C3 C4>,[0],[0],Pianoflage in C major.mid,,271,2
+543.0,<music21.chord.Chord C6>,[0],[0],Pianoflage in C major.mid,,272,1
+543.25,<music21.chord.Chord F5 A5 F6 F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,272,1
+543.625,<music21.chord.Chord F2 C3 A3>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,272,1
+544.0,<music21.chord.Chord F#6 F#5>,[0],[6],Pianoflage in C major.mid,,272,2
+544.25,<music21.chord.Chord G5 G6>,[0],[7],Pianoflage in C major.mid,,272,2
+545.0,<music21.chord.Chord G#6 G#5>,[0],[8],Pianoflage in C major.mid,,273,1
+545.25,<music21.chord.Chord A5 C6 E6 A6 E4 G4 C5 G#5>,"[0, 3, 4, 5, 8]","[4, 7, 8, 9, 0]",Pianoflage in C major.mid,,273,1
+545.375,<music21.chord.Chord A5 C6 E6 A6 E4 G4 C5>,"[0, 3, 5, 8]","[4, 7, 9, 0]",Pianoflage in C major.mid,,273,1
+545.75,<music21.chord.Chord A5 C6 E6 A6 E4 G4 C5>,"[0, 3, 5, 8]","[4, 7, 9, 0]",Pianoflage in C major.mid,,273,1
+546.75,<music21.chord.Chord A5 C6 E6 A6 E4 G4 C5>,"[0, 3, 5, 8]","[4, 7, 9, 0]",Pianoflage in C major.mid,,273,2
+547.75,<music21.chord.Chord E4 G4 C5>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,274,1
+548.0,<music21.chord.Chord B6 B5 E4 G4 C5>,"[0, 1, 5, 8]","[11, 0, 4, 7]",Pianoflage in C major.mid,,274,2
+548.0833333333330,<music21.chord.Chord B6 B5>,[0],[11],Pianoflage in C major.mid,,274,2
+548.25,<music21.chord.Chord A5 A6 E-4 F#4 C5>,"[0, 3, 6, 9]","[0, 3, 6, 9]",Pianoflage in C major.mid,,274,2
+549.25,<music21.chord.Chord G5 G6 D4 F4 B4>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Pianoflage in C major.mid,,275,1
+549.625,<music21.chord.Chord D4 F4 B4>,"[0, 3, 6]","[11, 2, 5]",Pianoflage in C major.mid,,275,1
+549.75,<music21.chord.Chord C#6 B-5 D4 F4 B4>,"[0, 1, 3, 4, 7]","[10, 11, 1, 2, 5]",Pianoflage in C major.mid,,275,1
+550.125,<music21.chord.Chord D4 F4 B4>,"[0, 3, 6]","[11, 2, 5]",Pianoflage in C major.mid,,275,2
+550.25,<music21.chord.Chord D6 B5 D4 F4 B4>,"[0, 3, 6]","[11, 2, 5]",Pianoflage in C major.mid,,275,2
+550.625,<music21.chord.Chord D4 F4 B4>,"[0, 3, 6]","[11, 2, 5]",Pianoflage in C major.mid,,275,2
+550.75,<music21.chord.Chord G6 G5 D4 F4 B4>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Pianoflage in C major.mid,,275,2
+551.125,<music21.chord.Chord D4 F4 B4>,"[0, 3, 6]","[11, 2, 5]",Pianoflage in C major.mid,,276,1
+551.25,<music21.chord.Chord C#6 B-5 D4 F4 B4>,"[0, 1, 3, 4, 7]","[10, 11, 1, 2, 5]",Pianoflage in C major.mid,,276,1
+551.625,<music21.chord.Chord D4 F4 B4>,"[0, 3, 6]","[11, 2, 5]",Pianoflage in C major.mid,,276,1
+551.75,<music21.chord.Chord B5 D6 D4 F4 B4>,"[0, 3, 6]","[11, 2, 5]",Pianoflage in C major.mid,,276,1
+552.125,<music21.chord.Chord D4 F4 B4>,"[0, 3, 6]","[11, 2, 5]",Pianoflage in C major.mid,,276,2
+552.25,<music21.chord.Chord G6 G5 D4 F4 B4>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Pianoflage in C major.mid,,276,2
+552.5,<music21.chord.Chord G6 G5>,[0],[7],Pianoflage in C major.mid,,276,2
+553.25,<music21.chord.Chord A4 C5 E5 A5 E3 G3 C4>,"[0, 3, 5, 8]","[4, 7, 9, 0]",Pianoflage in C major.mid,,277,1
+553.75,<music21.chord.Chord A4 C5 E5 A5 E3 G3 C4>,"[0, 3, 5, 8]","[4, 7, 9, 0]",Pianoflage in C major.mid,,277,1
+554.75,<music21.chord.Chord A4 C5 E5 A5 E3 G3 C4>,"[0, 3, 5, 8]","[4, 7, 9, 0]",Pianoflage in C major.mid,,277,2
+555.75,<music21.chord.Chord E3 G3 C4>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,278,1
+556.0,<music21.chord.Chord B5 B4 E3 G3 C4>,"[0, 1, 5, 8]","[11, 0, 4, 7]",Pianoflage in C major.mid,,278,2
+556.0833333333330,<music21.chord.Chord B5 B4>,[0],[11],Pianoflage in C major.mid,,278,2
+556.25,<music21.chord.Chord A4 A5 E-3 F#3 C4>,"[0, 3, 6, 9]","[0, 3, 6, 9]",Pianoflage in C major.mid,,278,2
+557.25,<music21.chord.Chord G4 G5 D3 F3 B3>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Pianoflage in C major.mid,,279,1
+557.625,<music21.chord.Chord D3 F3 B3>,"[0, 3, 6]","[11, 2, 5]",Pianoflage in C major.mid,,279,1
+557.75,<music21.chord.Chord F#5 F#4 D3 F3 B3>,"[0, 3, 6, 7]","[11, 2, 5, 6]",Pianoflage in C major.mid,,279,1
+558.125,<music21.chord.Chord D3 F3 B3>,"[0, 3, 6]","[11, 2, 5]",Pianoflage in C major.mid,,279,2
+558.25,<music21.chord.Chord G5 G4 D3 F3 B3>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Pianoflage in C major.mid,,279,2
+558.625,<music21.chord.Chord D3 F3 B3>,"[0, 3, 6]","[11, 2, 5]",Pianoflage in C major.mid,,279,2
+558.75,<music21.chord.Chord A5 A4 D3 F3 B3>,"[0, 2, 5, 8]","[9, 11, 2, 5]",Pianoflage in C major.mid,,279,2
+559.125,<music21.chord.Chord D3 F3 B3>,"[0, 3, 6]","[11, 2, 5]",Pianoflage in C major.mid,,280,1
+559.25,<music21.chord.Chord B-5 B-4 D3 F3 B3>,"[0, 1, 4, 7]","[10, 11, 2, 5]",Pianoflage in C major.mid,,280,1
+559.625,<music21.chord.Chord D3 F3 B3>,"[0, 3, 6]","[11, 2, 5]",Pianoflage in C major.mid,,280,1
+559.75,<music21.chord.Chord B4 B5 D3 F3 B3>,"[0, 3, 6]","[11, 2, 5]",Pianoflage in C major.mid,,280,1
+560.125,<music21.chord.Chord D3 F3 B3>,"[0, 3, 6]","[11, 2, 5]",Pianoflage in C major.mid,,280,2
+560.25,<music21.chord.Chord C6 C5 D3 F3 B3>,"[0, 1, 3, 6]","[11, 0, 2, 5]",Pianoflage in C major.mid,,280,2
+560.5,<music21.chord.Chord C6 C5>,[0],[0],Pianoflage in C major.mid,,280,2
+560.75,<music21.chord.Chord C#6 C#5>,[0],[1],Pianoflage in C major.mid,,280,2
+561.25,<music21.chord.Chord D5 B5 D6 D3>,"[0, 3]","[11, 2]",Pianoflage in C major.mid,,281,1
+561.625,<music21.chord.Chord D3>,[0],[2],Pianoflage in C major.mid,,281,1
+562.0,<music21.chord.Chord B4>,[0],[11],Pianoflage in C major.mid,,281,2
+562.25,<music21.chord.Chord G5 B5 F3 G3 B3>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,281,2
+562.625,<music21.chord.Chord F3 G3 B3>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,281,2
+563.0,<music21.chord.Chord F#5>,[0],[6],Pianoflage in C major.mid,,282,1
+563.25,<music21.chord.Chord G5 B5 G2>,"[0, 4]","[7, 11]",Pianoflage in C major.mid,,282,1
+563.625,<music21.chord.Chord G2>,[0],[7],Pianoflage in C major.mid,,282,1
+564.0,<music21.chord.Chord A4>,[0],[9],Pianoflage in C major.mid,,282,2
+564.25,<music21.chord.Chord F5 A5 F3 G3 B3>,"[0, 2, 4, 6]","[5, 7, 9, 11]",Pianoflage in C major.mid,,282,2
+564.625,<music21.chord.Chord F3 G3 B3>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,282,2
+565.0,<music21.chord.Chord E5>,[0],[4],Pianoflage in C major.mid,,283,1
+565.25,<music21.chord.Chord F5 A5 D3>,"[0, 3, 7]","[2, 5, 9]",Pianoflage in C major.mid,,283,1
+565.625,<music21.chord.Chord D3>,[0],[2],Pianoflage in C major.mid,,283,1
+566.0,<music21.chord.Chord G4>,[0],[7],Pianoflage in C major.mid,,283,2
+566.25,<music21.chord.Chord D5 G5 F3 G3 B3>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Pianoflage in C major.mid,,283,2
+566.625,<music21.chord.Chord F3 G3 B3>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,283,2
+567.0,<music21.chord.Chord F#5>,[0],[6],Pianoflage in C major.mid,,284,1
+567.25,<music21.chord.Chord D5 G5 G2>,"[0, 5]","[2, 7]",Pianoflage in C major.mid,,284,1
+567.625,<music21.chord.Chord G2>,[0],[7],Pianoflage in C major.mid,,284,1
+568.0,<music21.chord.Chord B4 E-5 A5>,"[0, 2, 6]","[9, 11, 3]",Pianoflage in C major.mid,,284,2
+568.25,<music21.chord.Chord F3 G3 B3 B4 E-5 A5>,"[0, 2, 4, 6, 8]","[3, 5, 7, 9, 11]",Pianoflage in C major.mid,,284,2
+568.6666666666670,<music21.chord.Chord F3 G3 B3>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,284,2
+569.0,<music21.chord.Chord G5>,[0],[7],Pianoflage in C major.mid,,285,1
+569.25,<music21.chord.Chord C5 E5 A5 C3>,"[0, 3, 7]","[9, 0, 4]",Pianoflage in C major.mid,,285,1
+570.25,<music21.chord.Chord C5 E5 A5 G3 C4 E4>,"[0, 3, 5, 8]","[4, 7, 9, 0]",Pianoflage in C major.mid,,285,2
+570.625,<music21.chord.Chord G3 C4 E4>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,285,2
+571.0,<music21.chord.Chord G5>,[0],[7],Pianoflage in C major.mid,,286,1
+571.25,<music21.chord.Chord C5 E5 A5 G2>,"[0, 3, 5, 8]","[4, 7, 9, 0]",Pianoflage in C major.mid,,286,1
+571.625,<music21.chord.Chord G2>,[0],[7],Pianoflage in C major.mid,,286,1
+572.0,<music21.chord.Chord C5 E5 C6>,"[0, 4]","[0, 4]",Pianoflage in C major.mid,,286,2
+572.25,<music21.chord.Chord G3 C4 E4 C5 E5 C6>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,286,2
+572.6666666666670,<music21.chord.Chord G3 C4 E4>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,286,2
+573.0,<music21.chord.Chord A4>,[0],[9],Pianoflage in C major.mid,,287,1
+573.25,<music21.chord.Chord C3 E5 G5 A5>,"[0, 3, 5, 8]","[4, 7, 9, 0]",Pianoflage in C major.mid,,287,1
+573.625,<music21.chord.Chord C3>,[0],[0],Pianoflage in C major.mid,,287,1
+573.75,<music21.chord.Chord C5 C3>,[0],[0],Pianoflage in C major.mid,,287,1
+574.125,<music21.chord.Chord C3>,[0],[0],Pianoflage in C major.mid,,287,2
+574.25,<music21.chord.Chord A4 C3>,"[0, 3]","[9, 0]",Pianoflage in C major.mid,,287,2
+574.5,<music21.chord.Chord A4>,[0],[9],Pianoflage in C major.mid,,287,2
+574.75,<music21.chord.Chord E5 G5 A5 G3 C4 E4>,"[0, 3, 5, 8]","[4, 7, 9, 0]",Pianoflage in C major.mid,,287,2
+575.125,<music21.chord.Chord G3 C4 E4>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,288,1
+575.25,<music21.chord.Chord C5 G3 C4 E4>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,288,1
+575.625,<music21.chord.Chord G3 C4 E4>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,288,1
+575.75,<music21.chord.Chord A4 G3 C4 E4>,"[0, 3, 5, 8]","[4, 7, 9, 0]",Pianoflage in C major.mid,,288,1
+576.0833333333330,<music21.chord.Chord A4>,[0],[9],Pianoflage in C major.mid,,288,2
+576.25,<music21.chord.Chord C5 E5 A5 E2 E3>,"[0, 3, 7]","[9, 0, 4]",Pianoflage in C major.mid,,288,2
+576.625,<music21.chord.Chord E2 E3>,[0],[4],Pianoflage in C major.mid,,288,2
+577.0,<music21.chord.Chord G#5>,[0],[8],Pianoflage in C major.mid,,289,1
+577.25,<music21.chord.Chord B4 F5 A5 D2 D3>,"[0, 2, 5, 8]","[9, 11, 2, 5]",Pianoflage in C major.mid,,289,1
+578.25,<music21.chord.Chord B4 F5 A5 F3 G3 B3>,"[0, 2, 4, 6]","[5, 7, 9, 11]",Pianoflage in C major.mid,,289,2
+578.625,<music21.chord.Chord F3 G3 B3>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,289,2
+579.0,<music21.chord.Chord E5>,[0],[4],Pianoflage in C major.mid,,290,1
+579.25,<music21.chord.Chord B4 F5 A5 G2>,"[0, 2, 4, 6]","[5, 7, 9, 11]",Pianoflage in C major.mid,,290,1
+579.625,<music21.chord.Chord G2>,[0],[7],Pianoflage in C major.mid,,290,1
+580.0,<music21.chord.Chord D5 B5 D6>,"[0, 3]","[11, 2]",Pianoflage in C major.mid,,290,2
+580.25,<music21.chord.Chord F3 G3 B3 D5 B5 D6>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Pianoflage in C major.mid,,290,2
+580.6666666666670,<music21.chord.Chord F3 G3 B3>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,290,2
+581.0,<music21.chord.Chord A4 B3>,"[0, 2]","[9, 11]",Pianoflage in C major.mid,,291,1
+581.25,<music21.chord.Chord D3 E5 F5 A5>,"[0, 2, 3, 7]","[2, 4, 5, 9]",Pianoflage in C major.mid,,291,1
+581.625,<music21.chord.Chord D3>,[0],[2],Pianoflage in C major.mid,,291,1
+581.75,<music21.chord.Chord D5 D3>,[0],[2],Pianoflage in C major.mid,,291,1
+582.125,<music21.chord.Chord D3>,[0],[2],Pianoflage in C major.mid,,291,2
+582.25,<music21.chord.Chord A4 D3>,"[0, 5]","[9, 2]",Pianoflage in C major.mid,,291,2
+582.5,<music21.chord.Chord A4>,[0],[9],Pianoflage in C major.mid,,291,2
+582.75,<music21.chord.Chord E5 F5 A5 G3 B3 F4>,"[0, 1, 3, 5, 7]","[4, 5, 7, 9, 11]",Pianoflage in C major.mid,,291,2
+583.125,<music21.chord.Chord G3 B3 F4>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,292,1
+583.25,<music21.chord.Chord D5 G3 B3 F4>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Pianoflage in C major.mid,,292,1
+583.625,<music21.chord.Chord G3 B3 F4>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,292,1
+583.75,<music21.chord.Chord A4 G3 B3 F4>,"[0, 2, 4, 6]","[5, 7, 9, 11]",Pianoflage in C major.mid,,292,1
+584.0833333333330,<music21.chord.Chord A4>,[0],[9],Pianoflage in C major.mid,,292,2
+584.25,<music21.chord.Chord E-5 A5 G3 B3 F4>,"[0, 2, 4, 6, 8]","[3, 5, 7, 9, 11]",Pianoflage in C major.mid,,292,2
+585.25,<music21.chord.Chord C5 E5 A5 C3>,"[0, 3, 7]","[9, 0, 4]",Pianoflage in C major.mid,,293,1
+585.625,<music21.chord.Chord C3>,[0],[0],Pianoflage in C major.mid,,293,1
+586.0,<music21.chord.Chord G5>,[0],[7],Pianoflage in C major.mid,,293,2
+586.25,<music21.chord.Chord C5 E5 A5 G3 C4 E4>,"[0, 3, 5, 8]","[4, 7, 9, 0]",Pianoflage in C major.mid,,293,2
+586.625,<music21.chord.Chord G3 C4 E4>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,293,2
+587.0,<music21.chord.Chord G5>,[0],[7],Pianoflage in C major.mid,,294,1
+587.25,<music21.chord.Chord C5 E5 A5 G2>,"[0, 3, 5, 8]","[4, 7, 9, 0]",Pianoflage in C major.mid,,294,1
+587.625,<music21.chord.Chord G2>,[0],[7],Pianoflage in C major.mid,,294,1
+588.0,<music21.chord.Chord C5 E5 C6>,"[0, 4]","[0, 4]",Pianoflage in C major.mid,,294,2
+588.25,<music21.chord.Chord G3 C4 E4 C5 E5 C6>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,294,2
+588.6666666666670,<music21.chord.Chord G3 C4 E4>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,294,2
+589.0,<music21.chord.Chord E-5>,[0],[3],Pianoflage in C major.mid,,295,1
+589.25,<music21.chord.Chord F#4 C5 E5 D3>,"[0, 2, 4, 6]","[0, 2, 4, 6]",Pianoflage in C major.mid,,295,1
+589.625,<music21.chord.Chord D3>,[0],[2],Pianoflage in C major.mid,,295,1
+590.0,<music21.chord.Chord E-5>,[0],[3],Pianoflage in C major.mid,,295,2
+590.25,<music21.chord.Chord F#4 C5 E5 F#3 A3 C4>,"[0, 2, 5, 8]","[4, 6, 9, 0]",Pianoflage in C major.mid,,295,2
+590.625,<music21.chord.Chord F#3 A3 C4>,"[0, 3, 6]","[6, 9, 0]",Pianoflage in C major.mid,,295,2
+591.0,<music21.chord.Chord F4 B4 D5>,"[0, 3, 6]","[11, 2, 5]",Pianoflage in C major.mid,,296,1
+591.25,<music21.chord.Chord G2 F4 B4 D5>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Pianoflage in C major.mid,,296,1
+591.6666666666670,<music21.chord.Chord G2>,[0],[7],Pianoflage in C major.mid,,296,1
+592.0,<music21.chord.Chord B5 B4>,[0],[11],Pianoflage in C major.mid,,296,2
+592.25,<music21.chord.Chord C5 C6 F3 G3 B3>,"[0, 2, 6, 7]","[5, 7, 11, 0]",Pianoflage in C major.mid,,296,2
+592.625,<music21.chord.Chord F3 G3 B3>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,296,2
+593.0,<music21.chord.Chord C#6 C#5>,[0],[1],Pianoflage in C major.mid,,297,1
+593.25,<music21.chord.Chord D5 B5 D6 D3>,"[0, 3]","[11, 2]",Pianoflage in C major.mid,,297,1
+593.625,<music21.chord.Chord D3>,[0],[2],Pianoflage in C major.mid,,297,1
+594.0,<music21.chord.Chord B4>,[0],[11],Pianoflage in C major.mid,,297,2
+594.25,<music21.chord.Chord G5 B5 F3 G3 B3>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,297,2
+594.625,<music21.chord.Chord F3 G3 B3>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,297,2
+595.0,<music21.chord.Chord F#5>,[0],[6],Pianoflage in C major.mid,,298,1
+595.25,<music21.chord.Chord G5 B5 G2>,"[0, 4]","[7, 11]",Pianoflage in C major.mid,,298,1
+595.625,<music21.chord.Chord G2>,[0],[7],Pianoflage in C major.mid,,298,1
+596.0,<music21.chord.Chord A4>,[0],[9],Pianoflage in C major.mid,,298,2
+596.25,<music21.chord.Chord F5 A5 F3 G3 B3>,"[0, 2, 4, 6]","[5, 7, 9, 11]",Pianoflage in C major.mid,,298,2
+596.625,<music21.chord.Chord F3 G3 B3>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,298,2
+597.0,<music21.chord.Chord E5>,[0],[4],Pianoflage in C major.mid,,299,1
+597.25,<music21.chord.Chord F5 A5 D3>,"[0, 3, 7]","[2, 5, 9]",Pianoflage in C major.mid,,299,1
+597.625,<music21.chord.Chord D3>,[0],[2],Pianoflage in C major.mid,,299,1
+598.0,<music21.chord.Chord G4>,[0],[7],Pianoflage in C major.mid,,299,2
+598.25,<music21.chord.Chord D5 G5 F3 G3 B3>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Pianoflage in C major.mid,,299,2
+598.625,<music21.chord.Chord F3 G3 B3>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,299,2
+599.0,<music21.chord.Chord F#5>,[0],[6],Pianoflage in C major.mid,,300,1
+599.25,<music21.chord.Chord D5 G5 G2>,"[0, 5]","[2, 7]",Pianoflage in C major.mid,,300,1
+599.625,<music21.chord.Chord G2>,[0],[7],Pianoflage in C major.mid,,300,1
+600.0,<music21.chord.Chord B4 E-5 A5>,"[0, 2, 6]","[9, 11, 3]",Pianoflage in C major.mid,,300,2
+600.25,<music21.chord.Chord F3 G3 B3 B4 E-5 A5>,"[0, 2, 4, 6, 8]","[3, 5, 7, 9, 11]",Pianoflage in C major.mid,,300,2
+600.6666666666670,<music21.chord.Chord F3 G3 B3>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,300,2
+601.0,<music21.chord.Chord G5>,[0],[7],Pianoflage in C major.mid,,301,1
+601.25,<music21.chord.Chord C5 E5 A5 C3>,"[0, 3, 7]","[9, 0, 4]",Pianoflage in C major.mid,,301,1
+602.25,<music21.chord.Chord C5 E5 A5 G3 C4 E4>,"[0, 3, 5, 8]","[4, 7, 9, 0]",Pianoflage in C major.mid,,301,2
+602.625,<music21.chord.Chord G3 C4 E4>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,301,2
+603.0,<music21.chord.Chord G5>,[0],[7],Pianoflage in C major.mid,,302,1
+603.25,<music21.chord.Chord C5 E5 A5 G2>,"[0, 3, 5, 8]","[4, 7, 9, 0]",Pianoflage in C major.mid,,302,1
+603.625,<music21.chord.Chord G2>,[0],[7],Pianoflage in C major.mid,,302,1
+604.0,<music21.chord.Chord C5 E5 C6>,"[0, 4]","[0, 4]",Pianoflage in C major.mid,,302,2
+604.25,<music21.chord.Chord G3 C4 E4 C5 E5 C6>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,302,2
+604.6666666666670,<music21.chord.Chord G3 C4 E4>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,302,2
+605.0,<music21.chord.Chord A4>,[0],[9],Pianoflage in C major.mid,,303,1
+605.25,<music21.chord.Chord E5 G5 A5 C3>,"[0, 3, 5, 8]","[4, 7, 9, 0]",Pianoflage in C major.mid,,303,1
+605.625,<music21.chord.Chord C3>,[0],[0],Pianoflage in C major.mid,,303,1
+605.75,<music21.chord.Chord C5 C3>,[0],[0],Pianoflage in C major.mid,,303,1
+606.125,<music21.chord.Chord C3>,[0],[0],Pianoflage in C major.mid,,303,2
+606.25,<music21.chord.Chord A4 C3>,"[0, 3]","[9, 0]",Pianoflage in C major.mid,,303,2
+606.5,<music21.chord.Chord A4>,[0],[9],Pianoflage in C major.mid,,303,2
+606.75,<music21.chord.Chord G3 C4 E4 E5 G5 A5>,"[0, 3, 5, 8]","[4, 7, 9, 0]",Pianoflage in C major.mid,,303,2
+607.125,<music21.chord.Chord G3 C4 E4>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,304,1
+607.25,<music21.chord.Chord C5 G3 C4 E4>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,304,1
+607.625,<music21.chord.Chord G3 C4 E4>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,304,1
+608.0,<music21.chord.Chord G#5 G#4 G3 C4 E4>,"[0, 4, 7, 8]","[0, 4, 7, 8]",Pianoflage in C major.mid,,304,2
+608.0833333333330,<music21.chord.Chord G#5 G#4>,[0],[8],Pianoflage in C major.mid,,304,2
+608.25,<music21.chord.Chord A4 A5 G3 C4 E4>,"[0, 3, 5, 8]","[4, 7, 9, 0]",Pianoflage in C major.mid,,304,2
+608.625,<music21.chord.Chord G3 C4 E4>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,304,2
+609.0,<music21.chord.Chord B-5 B-4>,[0],[10],Pianoflage in C major.mid,,305,1
+609.25,<music21.chord.Chord B4 E5 G5 B5 E2 B2 G3>,"[0, 3, 7]","[4, 7, 11]",Pianoflage in C major.mid,,305,1
+611.0,<music21.chord.Chord E-4 F#3>,"[0, 3]","[3, 6]",Pianoflage in C major.mid,,306,1
+611.25,<music21.chord.Chord E4 G3>,"[0, 3]","[4, 7]",Pianoflage in C major.mid,,306,1
+612.0,<music21.chord.Chord F#4 B-3>,"[0, 4]","[6, 10]",Pianoflage in C major.mid,,306,2
+612.25,<music21.chord.Chord G4 B3>,"[0, 4]","[7, 11]",Pianoflage in C major.mid,,306,2
+613.0,<music21.chord.Chord B-4 E-4>,"[0, 5]","[10, 3]",Pianoflage in C major.mid,,307,1
+613.25,<music21.chord.Chord E4 B4>,"[0, 5]","[11, 4]",Pianoflage in C major.mid,,307,1
+614.0,<music21.chord.Chord F#4 E-5>,"[0, 3]","[3, 6]",Pianoflage in C major.mid,,307,2
+614.25,<music21.chord.Chord G4 E5>,"[0, 3]","[4, 7]",Pianoflage in C major.mid,,307,2
+615.0,<music21.chord.Chord B-4 F#5>,"[0, 4]","[6, 10]",Pianoflage in C major.mid,,308,1
+615.25,<music21.chord.Chord B4 G5>,"[0, 4]","[7, 11]",Pianoflage in C major.mid,,308,1
+616.0,<music21.chord.Chord E-5 B-5>,"[0, 5]","[10, 3]",Pianoflage in C major.mid,,308,2
+616.25,<music21.chord.Chord E5 B5>,"[0, 5]","[11, 4]",Pianoflage in C major.mid,,308,2
+617.25,<music21.chord.Chord C5 E5 A5 F#2 F#3>,"[0, 2, 5, 8]","[4, 6, 9, 0]",Pianoflage in C major.mid,,309,1
+617.875,<music21.chord.Chord F#2 F#3>,[0],[6],Pianoflage in C major.mid,,309,1
+618.0,<music21.chord.Chord B5 F#2 F#3>,"[0, 5]","[6, 11]",Pianoflage in C major.mid,,309,2
+618.25,<music21.chord.Chord C5 E5 A5 F#2 F#3>,"[0, 2, 5, 8]","[4, 6, 9, 0]",Pianoflage in C major.mid,,309,2
+619.0,<music21.chord.Chord B5>,[0],[11],Pianoflage in C major.mid,,310,1
+619.25,<music21.chord.Chord B4 E-5 G5 B2 B3>,"[0, 4, 8]","[3, 7, 11]",Pianoflage in C major.mid,,310,1
+620.25,<music21.chord.Chord A4 E-5 F#5 B2 B3>,"[0, 3, 6, 8]","[3, 6, 9, 11]",Pianoflage in C major.mid,,310,2
+621.25,<music21.chord.Chord G4 B4 E5 E3 E4>,"[0, 3, 7]","[4, 7, 11]",Pianoflage in C major.mid,,311,1
+621.875,<music21.chord.Chord E3 E4>,[0],[4],Pianoflage in C major.mid,,311,1
+622.0,<music21.chord.Chord B4>,[0],[11],Pianoflage in C major.mid,,311,2
+622.25,<music21.chord.Chord E5 A5 C#3 C#4>,"[0, 4, 7]","[9, 1, 4]",Pianoflage in C major.mid,,311,2
+622.75,<music21.chord.Chord C#3 C#4>,[0],[1],Pianoflage in C major.mid,,311,2
+623.0,<music21.chord.Chord B-4>,[0],[10],Pianoflage in C major.mid,,312,1
+623.25,<music21.chord.Chord B4 G5 D3 D4>,"[0, 4, 7]","[7, 11, 2]",Pianoflage in C major.mid,,312,1
+623.75,<music21.chord.Chord D3 D4>,[0],[2],Pianoflage in C major.mid,,312,1
+624.0,<music21.chord.Chord D5>,[0],[2],Pianoflage in C major.mid,,312,2
+624.25,<music21.chord.Chord B5 D6>,"[0, 3]","[11, 2]",Pianoflage in C major.mid,,312,2
+625.0,<music21.chord.Chord C#6>,[0],[1],Pianoflage in C major.mid,,313,1
+625.25,<music21.chord.Chord D5 B5 D6 D3>,"[0, 3]","[11, 2]",Pianoflage in C major.mid,,313,1
+625.625,<music21.chord.Chord D3>,[0],[2],Pianoflage in C major.mid,,313,1
+626.0,<music21.chord.Chord B4>,[0],[11],Pianoflage in C major.mid,,313,2
+626.25,<music21.chord.Chord G5 B5 F3 G3 B3>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,313,2
+626.625,<music21.chord.Chord F3 G3 B3>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,313,2
+627.0,<music21.chord.Chord F#5>,[0],[6],Pianoflage in C major.mid,,314,1
+627.25,<music21.chord.Chord G5 B5 G2>,"[0, 4]","[7, 11]",Pianoflage in C major.mid,,314,1
+627.625,<music21.chord.Chord G2>,[0],[7],Pianoflage in C major.mid,,314,1
+628.0,<music21.chord.Chord A4>,[0],[9],Pianoflage in C major.mid,,314,2
+628.25,<music21.chord.Chord F5 A5 F3 G3 B3>,"[0, 2, 4, 6]","[5, 7, 9, 11]",Pianoflage in C major.mid,,314,2
+628.625,<music21.chord.Chord F3 G3 B3>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,314,2
+629.0,<music21.chord.Chord E5>,[0],[4],Pianoflage in C major.mid,,315,1
+629.25,<music21.chord.Chord F5 A5 D3>,"[0, 3, 7]","[2, 5, 9]",Pianoflage in C major.mid,,315,1
+629.625,<music21.chord.Chord D3>,[0],[2],Pianoflage in C major.mid,,315,1
+630.0,<music21.chord.Chord G4>,[0],[7],Pianoflage in C major.mid,,315,2
+630.25,<music21.chord.Chord D5 G5 F3 G3 B3>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Pianoflage in C major.mid,,315,2
+630.625,<music21.chord.Chord F3 G3 B3>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,315,2
+631.0,<music21.chord.Chord F#5>,[0],[6],Pianoflage in C major.mid,,316,1
+631.25,<music21.chord.Chord D5 G5 G2>,"[0, 5]","[2, 7]",Pianoflage in C major.mid,,316,1
+631.625,<music21.chord.Chord G2>,[0],[7],Pianoflage in C major.mid,,316,1
+632.0,<music21.chord.Chord B4 E-5 A5>,"[0, 2, 6]","[9, 11, 3]",Pianoflage in C major.mid,,316,2
+632.25,<music21.chord.Chord F3 G3 B3 B4 E-5 A5>,"[0, 2, 4, 6, 8]","[3, 5, 7, 9, 11]",Pianoflage in C major.mid,,316,2
+632.6666666666670,<music21.chord.Chord F3 G3 B3>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,316,2
+633.0,<music21.chord.Chord G5>,[0],[7],Pianoflage in C major.mid,,317,1
+633.25,<music21.chord.Chord C5 E5 A5 C3>,"[0, 3, 7]","[9, 0, 4]",Pianoflage in C major.mid,,317,1
+634.25,<music21.chord.Chord C5 E5 A5 G3 C4 E4>,"[0, 3, 5, 8]","[4, 7, 9, 0]",Pianoflage in C major.mid,,317,2
+634.625,<music21.chord.Chord G3 C4 E4>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,317,2
+635.0,<music21.chord.Chord G5>,[0],[7],Pianoflage in C major.mid,,318,1
+635.25,<music21.chord.Chord C5 E5 A5 G2>,"[0, 3, 5, 8]","[4, 7, 9, 0]",Pianoflage in C major.mid,,318,1
+635.625,<music21.chord.Chord G2>,[0],[7],Pianoflage in C major.mid,,318,1
+636.0,<music21.chord.Chord C5 E5 C6>,"[0, 4]","[0, 4]",Pianoflage in C major.mid,,318,2
+636.25,<music21.chord.Chord G3 C4 E4 C5 E5 C6>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,318,2
+636.6666666666670,<music21.chord.Chord G3 C4 E4>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,318,2
+637.0,<music21.chord.Chord A4>,[0],[9],Pianoflage in C major.mid,,319,1
+637.25,<music21.chord.Chord C3 E5 G5 A5>,"[0, 3, 5, 8]","[4, 7, 9, 0]",Pianoflage in C major.mid,,319,1
+637.625,<music21.chord.Chord C3>,[0],[0],Pianoflage in C major.mid,,319,1
+637.75,<music21.chord.Chord C5 C3>,[0],[0],Pianoflage in C major.mid,,319,1
+638.125,<music21.chord.Chord C3>,[0],[0],Pianoflage in C major.mid,,319,2
+638.25,<music21.chord.Chord A4 C3>,"[0, 3]","[9, 0]",Pianoflage in C major.mid,,319,2
+638.5,<music21.chord.Chord A4>,[0],[9],Pianoflage in C major.mid,,319,2
+638.75,<music21.chord.Chord E5 G5 A5 G3 C4 E4>,"[0, 3, 5, 8]","[4, 7, 9, 0]",Pianoflage in C major.mid,,319,2
+639.125,<music21.chord.Chord G3 C4 E4>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,320,1
+639.25,<music21.chord.Chord C5 G3 C4 E4>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,320,1
+639.625,<music21.chord.Chord G3 C4 E4>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,320,1
+639.75,<music21.chord.Chord A4 G3 C4 E4>,"[0, 3, 5, 8]","[4, 7, 9, 0]",Pianoflage in C major.mid,,320,1
+640.0833333333330,<music21.chord.Chord A4>,[0],[9],Pianoflage in C major.mid,,320,2
+640.25,<music21.chord.Chord C5 E5 A5 E2 E3>,"[0, 3, 7]","[9, 0, 4]",Pianoflage in C major.mid,,320,2
+640.625,<music21.chord.Chord E2 E3>,[0],[4],Pianoflage in C major.mid,,320,2
+641.0,<music21.chord.Chord G#5>,[0],[8],Pianoflage in C major.mid,,321,1
+641.25,<music21.chord.Chord B4 F5 A5 D2 D3>,"[0, 2, 5, 8]","[9, 11, 2, 5]",Pianoflage in C major.mid,,321,1
+642.25,<music21.chord.Chord B4 F5 A5 F3 G3 B3>,"[0, 2, 4, 6]","[5, 7, 9, 11]",Pianoflage in C major.mid,,321,2
+642.625,<music21.chord.Chord F3 G3 B3>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,321,2
+643.0,<music21.chord.Chord E5>,[0],[4],Pianoflage in C major.mid,,322,1
+643.25,<music21.chord.Chord B4 F5 A5 G2>,"[0, 2, 4, 6]","[5, 7, 9, 11]",Pianoflage in C major.mid,,322,1
+643.625,<music21.chord.Chord G2>,[0],[7],Pianoflage in C major.mid,,322,1
+644.0,<music21.chord.Chord D5 B5 D6>,"[0, 3]","[11, 2]",Pianoflage in C major.mid,,322,2
+644.25,<music21.chord.Chord F3 G3 B3 D5 B5 D6>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Pianoflage in C major.mid,,322,2
+644.6666666666670,<music21.chord.Chord F3 G3 B3>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,322,2
+645.0,<music21.chord.Chord A4 B3>,"[0, 2]","[9, 11]",Pianoflage in C major.mid,,323,1
+645.25,<music21.chord.Chord D3 E5 F5 A5>,"[0, 2, 3, 7]","[2, 4, 5, 9]",Pianoflage in C major.mid,,323,1
+645.625,<music21.chord.Chord D3>,[0],[2],Pianoflage in C major.mid,,323,1
+645.75,<music21.chord.Chord D5 D3>,[0],[2],Pianoflage in C major.mid,,323,1
+646.125,<music21.chord.Chord D3>,[0],[2],Pianoflage in C major.mid,,323,2
+646.25,<music21.chord.Chord A4 D3>,"[0, 5]","[9, 2]",Pianoflage in C major.mid,,323,2
+646.5,<music21.chord.Chord A4>,[0],[9],Pianoflage in C major.mid,,323,2
+646.75,<music21.chord.Chord E5 F5 A5 G3 B3 F4>,"[0, 1, 3, 5, 7]","[4, 5, 7, 9, 11]",Pianoflage in C major.mid,,323,2
+647.125,<music21.chord.Chord G3 B3 F4>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,324,1
+647.25,<music21.chord.Chord D5 G3 B3 F4>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Pianoflage in C major.mid,,324,1
+647.625,<music21.chord.Chord G3 B3 F4>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,324,1
+647.75,<music21.chord.Chord A4 G3 B3 F4>,"[0, 2, 4, 6]","[5, 7, 9, 11]",Pianoflage in C major.mid,,324,1
+648.0833333333330,<music21.chord.Chord A4>,[0],[9],Pianoflage in C major.mid,,324,2
+648.25,<music21.chord.Chord E-5 A5 G3 B3 F4>,"[0, 2, 4, 6, 8]","[3, 5, 7, 9, 11]",Pianoflage in C major.mid,,324,2
+649.25,<music21.chord.Chord C5 E5 A5 C3>,"[0, 3, 7]","[9, 0, 4]",Pianoflage in C major.mid,,325,1
+649.625,<music21.chord.Chord C3>,[0],[0],Pianoflage in C major.mid,,325,1
+650.0,<music21.chord.Chord G5>,[0],[7],Pianoflage in C major.mid,,325,2
+650.25,<music21.chord.Chord C5 E5 A5 G3 C4 E4>,"[0, 3, 5, 8]","[4, 7, 9, 0]",Pianoflage in C major.mid,,325,2
+650.625,<music21.chord.Chord G3 C4 E4>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,325,2
+651.0,<music21.chord.Chord G5>,[0],[7],Pianoflage in C major.mid,,326,1
+651.25,<music21.chord.Chord C5 E5 A5 G2>,"[0, 3, 5, 8]","[4, 7, 9, 0]",Pianoflage in C major.mid,,326,1
+651.625,<music21.chord.Chord G2>,[0],[7],Pianoflage in C major.mid,,326,1
+652.0,<music21.chord.Chord C5 E5 C6>,"[0, 4]","[0, 4]",Pianoflage in C major.mid,,326,2
+652.25,<music21.chord.Chord G3 C4 E4 C5 E5 C6>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,326,2
+652.6666666666670,<music21.chord.Chord G3 C4 E4>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,326,2
+653.0,<music21.chord.Chord E-5>,[0],[3],Pianoflage in C major.mid,,327,1
+653.25,<music21.chord.Chord F#4 C5 E5 D3>,"[0, 2, 4, 6]","[0, 2, 4, 6]",Pianoflage in C major.mid,,327,1
+653.625,<music21.chord.Chord D3>,[0],[2],Pianoflage in C major.mid,,327,1
+654.0,<music21.chord.Chord E-5>,[0],[3],Pianoflage in C major.mid,,327,2
+654.25,<music21.chord.Chord F#4 C5 E5 F#3 A3 C4>,"[0, 2, 5, 8]","[4, 6, 9, 0]",Pianoflage in C major.mid,,327,2
+654.625,<music21.chord.Chord F#3 A3 C4>,"[0, 3, 6]","[6, 9, 0]",Pianoflage in C major.mid,,327,2
+655.0,<music21.chord.Chord F4 B4 D5>,"[0, 3, 6]","[11, 2, 5]",Pianoflage in C major.mid,,328,1
+655.25,<music21.chord.Chord G2 F4 B4 D5>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Pianoflage in C major.mid,,328,1
+655.6666666666670,<music21.chord.Chord G2>,[0],[7],Pianoflage in C major.mid,,328,1
+656.0,<music21.chord.Chord C#6 C#5>,[0],[1],Pianoflage in C major.mid,,328,2
+656.25,<music21.chord.Chord D5 D6 F3 G3 B3>,"[0, 3, 6, 8]","[11, 2, 5, 7]",Pianoflage in C major.mid,,328,2
+656.625,<music21.chord.Chord F3 G3 B3>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,328,2
+657.0,<music21.chord.Chord E-6 E-5>,[0],[3],Pianoflage in C major.mid,,329,1
+657.25,<music21.chord.Chord E5 B-5 E6 C3>,"[0, 2, 6]","[10, 0, 4]",Pianoflage in C major.mid,,329,1
+658.25,<music21.chord.Chord D5 B-5 D6 B-3 C4 E4>,"[0, 2, 4, 6]","[10, 0, 2, 4]",Pianoflage in C major.mid,,329,2
+658.875,<music21.chord.Chord B-3 C4 E4>,"[0, 2, 6]","[10, 0, 4]",Pianoflage in C major.mid,,329,2
+659.0,<music21.chord.Chord A5>,[0],[9],Pianoflage in C major.mid,,330,1
+659.25,<music21.chord.Chord D5 D6 E3>,"[0, 2]","[2, 4]",Pianoflage in C major.mid,,330,1
+659.875,<music21.chord.Chord E3>,[0],[4],Pianoflage in C major.mid,,330,1
+660.0,<music21.chord.Chord B-4>,[0],[10],Pianoflage in C major.mid,,330,2
+660.25,<music21.chord.Chord E5 G5 B-3 C4 E4>,"[0, 3, 6, 8]","[4, 7, 10, 0]",Pianoflage in C major.mid,,330,2
+660.875,<music21.chord.Chord B-3 C4 E4>,"[0, 2, 6]","[10, 0, 4]",Pianoflage in C major.mid,,330,2
+661.0,<music21.chord.Chord E-5>,[0],[3],Pianoflage in C major.mid,,331,1
+661.25,<music21.chord.Chord B-4 G5 B-5 G3>,"[0, 3]","[7, 10]",Pianoflage in C major.mid,,331,1
+661.625,<music21.chord.Chord G3>,[0],[7],Pianoflage in C major.mid,,331,1
+661.75,<music21.chord.Chord G4 E5 G5 G3>,"[0, 3]","[4, 7]",Pianoflage in C major.mid,,331,1
+662.0,<music21.chord.Chord G4 E5 G5>,"[0, 3]","[4, 7]",Pianoflage in C major.mid,,331,2
+662.25,<music21.chord.Chord B-3 C4 E4 G4 E5 G5>,"[0, 3, 6, 8]","[4, 7, 10, 0]",Pianoflage in C major.mid,,331,2
+662.5,<music21.chord.Chord B-3 C4 E4>,"[0, 2, 6]","[10, 0, 4]",Pianoflage in C major.mid,,331,2
+662.75,<music21.chord.Chord G4 E5 G5 B-3 C4 E4>,"[0, 3, 6, 8]","[4, 7, 10, 0]",Pianoflage in C major.mid,,331,2
+663.0,<music21.chord.Chord G4 E5 G5>,"[0, 3]","[4, 7]",Pianoflage in C major.mid,,332,1
+663.25,<music21.chord.Chord C3 G4 E5 G5>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,332,1
+663.875,<music21.chord.Chord C3>,[0],[0],Pianoflage in C major.mid,,332,1
+664.0,<music21.chord.Chord E5>,[0],[4],Pianoflage in C major.mid,,332,2
+664.25,<music21.chord.Chord G#5 E6 B-3 C4 E4>,"[0, 2, 4, 8]","[8, 10, 0, 4]",Pianoflage in C major.mid,,332,2
+664.875,<music21.chord.Chord B-3 C4 E4>,"[0, 2, 6]","[10, 0, 4]",Pianoflage in C major.mid,,332,2
+665.0,<music21.chord.Chord C6>,[0],[0],Pianoflage in C major.mid,,333,1
+665.25,<music21.chord.Chord E5 E6 F3>,"[0, 1]","[4, 5]",Pianoflage in C major.mid,,333,1
+665.625,<music21.chord.Chord F3>,[0],[5],Pianoflage in C major.mid,,333,1
+666.0,<music21.chord.Chord D5>,[0],[2],Pianoflage in C major.mid,,333,2
+666.25,<music21.chord.Chord A5 D6 A3 C4 F4>,"[0, 3, 5, 8]","[9, 0, 2, 5]",Pianoflage in C major.mid,,333,2
+666.625,<music21.chord.Chord A3 C4 F4>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,333,2
+667.0,<music21.chord.Chord G#5>,[0],[8],Pianoflage in C major.mid,,334,1
+667.25,<music21.chord.Chord D5 A5 D6 C3>,"[0, 3, 5]","[9, 0, 2]",Pianoflage in C major.mid,,334,1
+667.625,<music21.chord.Chord C3>,[0],[0],Pianoflage in C major.mid,,334,1
+668.0,<music21.chord.Chord C5>,[0],[0],Pianoflage in C major.mid,,334,2
+668.25,<music21.chord.Chord A5 C6 A3 C4 F4>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,334,2
+668.625,<music21.chord.Chord A3 C4 F4>,"[0, 4, 7]","[5, 9, 0]",Pianoflage in C major.mid,,334,2
+669.0,<music21.chord.Chord F5>,[0],[5],Pianoflage in C major.mid,,335,1
+669.25,<music21.chord.Chord C5 C6 F3>,"[0, 5]","[0, 5]",Pianoflage in C major.mid,,335,1
+669.625,<music21.chord.Chord F3>,[0],[5],Pianoflage in C major.mid,,335,1
+669.75,<music21.chord.Chord G#4 C5 F5 G#5 F3>,"[0, 3, 7]","[5, 8, 0]",Pianoflage in C major.mid,,335,1
+670.0,<music21.chord.Chord G#4 C5 F5 G#5>,"[0, 3, 7]","[5, 8, 0]",Pianoflage in C major.mid,,335,2
+670.25,<music21.chord.Chord G#3 C4 F4 G#4 C5 F5 G#5>,"[0, 3, 7]","[5, 8, 0]",Pianoflage in C major.mid,,335,2
+670.5,<music21.chord.Chord G#3 C4 F4>,"[0, 3, 7]","[5, 8, 0]",Pianoflage in C major.mid,,335,2
+670.75,<music21.chord.Chord G#4 C5 F5 G#5 G#3 C4 F4>,"[0, 3, 7]","[5, 8, 0]",Pianoflage in C major.mid,,335,2
+671.0,<music21.chord.Chord G#4 C5 F5 G#5>,"[0, 3, 7]","[5, 8, 0]",Pianoflage in C major.mid,,336,1
+671.25,<music21.chord.Chord D3 G#4 C5 F5 G#5>,"[0, 2, 5, 8]","[0, 2, 5, 8]",Pianoflage in C major.mid,,336,1
+671.875,<music21.chord.Chord D3>,[0],[2],Pianoflage in C major.mid,,336,1
+672.0,<music21.chord.Chord E5 E4>,[0],[4],Pianoflage in C major.mid,,336,2
+672.25,<music21.chord.Chord F5 F4 F3 G#3 C4>,"[0, 3, 7]","[5, 8, 0]",Pianoflage in C major.mid,,336,2
+672.875,<music21.chord.Chord F3 G#3 C4>,"[0, 3, 7]","[5, 8, 0]",Pianoflage in C major.mid,,336,2
+673.0,<music21.chord.Chord F#5 F#4>,[0],[6],Pianoflage in C major.mid,,337,1
+673.25,<music21.chord.Chord G4 G5 G2>,[0],[7],Pianoflage in C major.mid,,337,1
+673.625,<music21.chord.Chord G2>,[0],[7],Pianoflage in C major.mid,,337,1
+673.75,<music21.chord.Chord A4 A5 G2>,"[0, 2]","[7, 9]",Pianoflage in C major.mid,,337,1
+674.0,<music21.chord.Chord A4 A5>,[0],[9],Pianoflage in C major.mid,,337,2
+674.25,<music21.chord.Chord B4 B5 G3 C4 E4>,"[0, 1, 5, 8]","[11, 0, 4, 7]",Pianoflage in C major.mid,,337,2
+674.625,<music21.chord.Chord G3 C4 E4>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,337,2
+674.75,<music21.chord.Chord C5 C6 G3 C4 E4>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,337,2
+675.0,<music21.chord.Chord C5 C6>,[0],[0],Pianoflage in C major.mid,,338,1
+675.25,<music21.chord.Chord A2 C5 C6>,"[0, 3]","[9, 0]",Pianoflage in C major.mid,,338,1
+675.875,<music21.chord.Chord A2>,[0],[9],Pianoflage in C major.mid,,338,1
+676.0,<music21.chord.Chord D6 D5>,[0],[2],Pianoflage in C major.mid,,338,2
+676.25,<music21.chord.Chord E5 C6 E6 A3 C4 E4>,"[0, 3, 7]","[9, 0, 4]",Pianoflage in C major.mid,,338,2
+677.25,<music21.chord.Chord C5 F#5 A5 D3>,"[0, 3, 6, 8]","[6, 9, 0, 2]",Pianoflage in C major.mid,,339,1
+677.625,<music21.chord.Chord D3>,[0],[2],Pianoflage in C major.mid,,339,1
+677.75,<music21.chord.Chord C5 F#5 B5 D3>,"[0, 1, 3, 7]","[11, 0, 2, 6]",Pianoflage in C major.mid,,339,1
+678.0,<music21.chord.Chord C5 F#5 B5>,"[0, 5, 6]","[6, 11, 0]",Pianoflage in C major.mid,,339,2
+678.25,<music21.chord.Chord F#3 A3 C4 C5 F#5 B5>,"[0, 3, 5, 6]","[6, 9, 11, 0]",Pianoflage in C major.mid,,339,2
+678.5,<music21.chord.Chord F#3 A3 C4>,"[0, 3, 6]","[6, 9, 0]",Pianoflage in C major.mid,,339,2
+678.75,<music21.chord.Chord B4 F5 A5 F#3 A3 C4>,"[0, 1, 4, 6, 7]","[5, 6, 9, 11, 0]",Pianoflage in C major.mid,,339,2
+679.0,<music21.chord.Chord B4 F5 A5>,"[0, 4, 6]","[5, 9, 11]",Pianoflage in C major.mid,,340,1
+679.25,<music21.chord.Chord G2 B4 F5 A5>,"[0, 2, 4, 6]","[5, 7, 9, 11]",Pianoflage in C major.mid,,340,1
+679.875,<music21.chord.Chord G2>,[0],[7],Pianoflage in C major.mid,,340,1
+680.0,<music21.chord.Chord B4 F5 G5>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,340,2
+680.25,<music21.chord.Chord G3 B3 F4 B4 F5 G5>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,340,2
+680.875,<music21.chord.Chord G3 B3 F4>,"[0, 2, 6]","[5, 7, 11]",Pianoflage in C major.mid,,340,2
+681.0,<music21.chord.Chord C5 E5 G5 C6>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,341,1
+681.25,<music21.chord.Chord C2 C3 C5 E5 G5 C6>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,341,1
+681.875,<music21.chord.Chord C2 C3>,[0],[0],Pianoflage in C major.mid,,341,1
+682.0,<music21.chord.Chord G6 C6 C2 C3>,"[0, 5]","[7, 0]",Pianoflage in C major.mid,,341,2
+682.25,<music21.chord.Chord C6 A6 C2 C3>,"[0, 3]","[9, 0]",Pianoflage in C major.mid,,341,2
+682.5,<music21.chord.Chord C6 A6>,"[0, 3]","[9, 0]",Pianoflage in C major.mid,,341,2
+682.75,<music21.chord.Chord G4 E5 C6 A6>,"[0, 3, 5, 8]","[4, 7, 9, 0]",Pianoflage in C major.mid,,341,2
+683.25,<music21.chord.Chord C6 G5 G4 E5>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,342,1
+683.75,<music21.chord.Chord A5 D6 G4 E5>,"[0, 2, 5, 7]","[2, 4, 7, 9]",Pianoflage in C major.mid,,342,1
+684.0833333333330,<music21.chord.Chord A5 D6>,"[0, 5]","[9, 2]",Pianoflage in C major.mid,,342,2
+684.25,<music21.chord.Chord E4 C5 A5 D6>,"[0, 3, 5, 7]","[9, 0, 2, 4]",Pianoflage in C major.mid,,342,2
+684.75,<music21.chord.Chord G5 C5 E4>,"[0, 4, 7]","[0, 4, 7]",Pianoflage in C major.mid,,342,2
+685.0,<music21.chord.Chord G5 C5>,"[0, 5]","[7, 0]",Pianoflage in C major.mid,,343,1
+685.0833333333330,<music21.chord.Chord G5>,[0],[7],Pianoflage in C major.mid,,343,1
+685.25,<music21.chord.Chord A5 E5>,"[0, 5]","[4, 9]",Pianoflage in C major.mid,,343,1
+685.75,<music21.chord.Chord E-5 A5>,"[0, 6]","[3, 9]",Pianoflage in C major.mid,,343,1
+686.25,<music21.chord.Chord G3 E-4 E-5 A5>,"[0, 4, 6]","[3, 7, 9]",Pianoflage in C major.mid,,343,2
+686.75,<music21.chord.Chord G3 E-4>,"[0, 4]","[3, 7]",Pianoflage in C major.mid,,343,2
+687.0,<music21.chord.Chord G5>,[0],[7],Pianoflage in C major.mid,,344,1
+687.25,<music21.chord.Chord C5 E5 C6 C3 C4>,"[0, 4]","[0, 4]",Pianoflage in C major.mid,,344,1
+688.0,<music21.chord.Chord C5 E5 C6>,"[0, 4]","[0, 4]",Pianoflage in C major.mid,,344,2

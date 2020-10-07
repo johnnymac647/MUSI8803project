@@ -1,0 +1,480 @@
+offset,Chord,NormalForm,PCsinNormalForm,file,Phrase Boundary,Measure Number,Measure Count
+0.0,<music21.chord.Chord G2 B-4>,"[0, 3]","[7, 10]",Allard_5diversions.xml,,1,1
+0.5,<music21.chord.Chord G2 D3 B-4>,"[0, 3, -5]","[7, 10, 2]",Allard_5diversions.xml,,1,1 1/4
+1.0,<music21.chord.Chord G2 G3 D4 B-4>,"[0, 3, -5]","[7, 10, 2]",Allard_5diversions.xml,,1,1 1/2
+1.5,<music21.chord.Chord G2 G3 G4 B-4>,"[0, 3]","[7, 10]",Allard_5diversions.xml,,1,1 3/4
+2.0,<music21.chord.Chord G2 D3 G4 B-4>,"[0, 3, -5]","[7, 10, 2]",Allard_5diversions.xml,,1,2
+2.5,<music21.chord.Chord G2 G3 D4 B-4>,"[0, 3, -5]","[7, 10, 2]",Allard_5diversions.xml,,1,2 1/4
+3.0,<music21.chord.Chord G2 D3 G4 B-4>,"[0, 3, -5]","[7, 10, 2]",Allard_5diversions.xml,,1,2 1/2
+3.5,<music21.chord.Chord G2 D4 B-4>,"[0, 3, -5]","[7, 10, 2]",Allard_5diversions.xml,,1,2 3/4
+0.0,<music21.chord.Chord E2 B4>,"[0, -7]","[11, 4]",Allard_5diversions.xml,,2,1
+0.5,<music21.chord.Chord E2 B2 B4>,"[0, -7]","[11, 4]",Allard_5diversions.xml,,2,1 1/4
+1.0,<music21.chord.Chord E2 E3 E4 B4>,"[0, -7]","[11, 4]",Allard_5diversions.xml,,2,1 1/2
+1.5,<music21.chord.Chord E2 E3 G4 B4>,"[0, 3, 7]","[4, 7, 11]",Allard_5diversions.xml,,2,1 3/4
+2.0,<music21.chord.Chord E2 B2 G4 B4>,"[0, 3, 7]","[4, 7, 11]",Allard_5diversions.xml,,2,2
+2.5,<music21.chord.Chord E2 E3 E4 B4>,"[0, -7]","[11, 4]",Allard_5diversions.xml,,2,2 1/4
+3.0,<music21.chord.Chord E2 B2 G4 B4>,"[0, 3, 7]","[4, 7, 11]",Allard_5diversions.xml,,2,2 1/2
+3.5,<music21.chord.Chord E2 E4 B4>,"[0, -7]","[11, 4]",Allard_5diversions.xml,,2,2 3/4
+0.0,<music21.chord.Chord A2 C5>,"[0, -9]","[9, 0]",Allard_5diversions.xml,,3,1
+0.5,<music21.chord.Chord A2 E3 C5>,"[0, -9, -5]","[9, 0, 4]",Allard_5diversions.xml,,3,1 1/4
+1.0,<music21.chord.Chord A2 A3 E4 C5>,"[0, -9, -5]","[9, 0, 4]",Allard_5diversions.xml,,3,1 1/2
+1.5,<music21.chord.Chord A2 A3 A4 C5>,"[0, -9]","[9, 0]",Allard_5diversions.xml,,3,1 3/4
+2.0,<music21.chord.Chord A2 E3 A4 C5>,"[0, -9, -5]","[9, 0, 4]",Allard_5diversions.xml,,3,2
+2.5,<music21.chord.Chord A2 A3 E4 C5>,"[0, -9, -5]","[9, 0, 4]",Allard_5diversions.xml,,3,2 1/4
+3.0,<music21.chord.Chord A2 E3 A4 C5>,"[0, -9, -5]","[9, 0, 4]",Allard_5diversions.xml,,3,2 1/2
+3.5,<music21.chord.Chord A2 E4 C5>,"[0, -9, -5]","[9, 0, 4]",Allard_5diversions.xml,,3,2 3/4
+0.0,<music21.chord.Chord D2 D5>,[0],[2],Allard_5diversions.xml,,4,1
+0.5,<music21.chord.Chord D2 A2 G4 D5>,"[0, 2, -5]","[7, 9, 2]",Allard_5diversions.xml,,4,1 1/4
+2/3,<music21.chord.Chord D2 A2 A4 D5>,"[0, -7]","[9, 2]",Allard_5diversions.xml,,4,1 1/3
+5/6,<music21.chord.Chord D2 A2 G4 D5>,"[0, 2, -5]","[7, 9, 2]",Allard_5diversions.xml,,4,1 5/12
+1.0,<music21.chord.Chord D2 D3 E4 D5>,"[0, 2]","[2, 4]",Allard_5diversions.xml,,4,1 1/2
+1.5,<music21.chord.Chord D2 A2 G4 D5>,"[0, 2, -5]","[7, 9, 2]",Allard_5diversions.xml,,4,1 3/4
+2.0,<music21.chord.Chord D2 D3 F#4 D5>,"[0, 4]","[2, 6]",Allard_5diversions.xml,,4,2
+2.5,<music21.chord.Chord D2 A2 F#4 D5>,"[0, 4, 7]","[2, 6, 9]",Allard_5diversions.xml,,4,2 1/4
+3.0,<music21.chord.Chord D2 D3 A4 D5>,"[0, -7]","[9, 2]",Allard_5diversions.xml,,4,2 1/2
+3.5,<music21.chord.Chord D2 F#2 A4 D5>,"[0, 4, 7]","[2, 6, 9]",Allard_5diversions.xml,,4,2 3/4
+0.0,<music21.chord.Chord G2 B-4>,"[0, 3]","[7, 10]",Allard_5diversions.xml,,5,1
+0.5,<music21.chord.Chord G2 D3 B-4>,"[0, 3, -5]","[7, 10, 2]",Allard_5diversions.xml,,5,1 1/4
+1.0,<music21.chord.Chord G2 G3 D4 B-4>,"[0, 3, -5]","[7, 10, 2]",Allard_5diversions.xml,,5,1 1/2
+1.5,<music21.chord.Chord G2 G3 G4 B-4>,"[0, 3]","[7, 10]",Allard_5diversions.xml,,5,1 3/4
+2.0,<music21.chord.Chord G2 D3 G4 B-4>,"[0, 3, -5]","[7, 10, 2]",Allard_5diversions.xml,,5,2
+2.5,<music21.chord.Chord G2 G3 D4 B-4>,"[0, 3, -5]","[7, 10, 2]",Allard_5diversions.xml,,5,2 1/4
+3.0,<music21.chord.Chord G2 D3 G4 B-4>,"[0, 3, -5]","[7, 10, 2]",Allard_5diversions.xml,,5,2 1/2
+3.5,<music21.chord.Chord G2 D4 B-4>,"[0, 3, -5]","[7, 10, 2]",Allard_5diversions.xml,,5,2 3/4
+0.0,<music21.chord.Chord E2 B4>,"[0, -7]","[11, 4]",Allard_5diversions.xml,,6,1
+0.5,<music21.chord.Chord E2 B2 B4>,"[0, -7]","[11, 4]",Allard_5diversions.xml,,6,1 1/4
+1.0,<music21.chord.Chord E2 E3 E4 B4>,"[0, -7]","[11, 4]",Allard_5diversions.xml,,6,1 1/2
+1.5,<music21.chord.Chord E2 E3 G4 B4>,"[0, 3, 7]","[4, 7, 11]",Allard_5diversions.xml,,6,1 3/4
+2.0,<music21.chord.Chord E2 B2 G4 B4>,"[0, 3, 7]","[4, 7, 11]",Allard_5diversions.xml,,6,2
+2.5,<music21.chord.Chord E2 E3 E4 B4>,"[0, -7]","[11, 4]",Allard_5diversions.xml,,6,2 1/4
+3.0,<music21.chord.Chord E2 B2 G4 B4>,"[0, 3, 7]","[4, 7, 11]",Allard_5diversions.xml,,6,2 1/2
+3.5,<music21.chord.Chord E2 E4 B4>,"[0, -7]","[11, 4]",Allard_5diversions.xml,,6,2 3/4
+0.0,<music21.chord.Chord A2 C5>,"[0, -9]","[9, 0]",Allard_5diversions.xml,,7,1
+0.5,<music21.chord.Chord A2 E3 C5>,"[0, -9, -5]","[9, 0, 4]",Allard_5diversions.xml,,7,1 1/4
+1.0,<music21.chord.Chord A2 A3 E4 C5>,"[0, -9, -5]","[9, 0, 4]",Allard_5diversions.xml,,7,1 1/2
+1.5,<music21.chord.Chord A2 A3 A4 C5>,"[0, -9]","[9, 0]",Allard_5diversions.xml,,7,1 3/4
+2.0,<music21.chord.Chord A2 E3 A4 C5>,"[0, -9, -5]","[9, 0, 4]",Allard_5diversions.xml,,7,2
+2.5,<music21.chord.Chord A2 A3 E4 C5>,"[0, -9, -5]","[9, 0, 4]",Allard_5diversions.xml,,7,2 1/4
+3.0,<music21.chord.Chord A2 E3 A4 C5>,"[0, -9, -5]","[9, 0, 4]",Allard_5diversions.xml,,7,2 1/2
+3.5,<music21.chord.Chord A2 E4 C5>,"[0, -9, -5]","[9, 0, 4]",Allard_5diversions.xml,,7,2 3/4
+0.0,<music21.chord.Chord D2 D5>,[0],[2],Allard_5diversions.xml,,8,1
+1/3,<music21.chord.Chord D2 G4 D5>,"[0, 5]","[2, 7]",Allard_5diversions.xml,,8,1 1/6
+0.5,<music21.chord.Chord D2 A2 A4 D5>,"[0, -7]","[9, 2]",Allard_5diversions.xml,,8,1 1/4
+0.75,<music21.chord.Chord D2 A2 G4 D5>,"[0, 2, -5]","[7, 9, 2]",Allard_5diversions.xml,,8,1 3/8
+1.0,<music21.chord.Chord D2 D3 E4 D5>,"[0, 2]","[2, 4]",Allard_5diversions.xml,,8,1 1/2
+1.5,<music21.chord.Chord D2 A2 G4 D5>,"[0, 2, -5]","[7, 9, 2]",Allard_5diversions.xml,,8,1 3/4
+2.0,<music21.chord.Chord D2 D3 F#4 D5>,"[0, 4]","[2, 6]",Allard_5diversions.xml,,8,2
+2.5,<music21.chord.Chord D2 A2 F#4 D5>,"[0, 4, 7]","[2, 6, 9]",Allard_5diversions.xml,,8,2 1/4
+3.0,<music21.chord.Chord D2 D3 A4 D5>,"[0, -7]","[9, 2]",Allard_5diversions.xml,,8,2 1/2
+3.5,<music21.chord.Chord D2 F#2 A4 D5>,"[0, 4, 7]","[2, 6, 9]",Allard_5diversions.xml,,8,2 3/4
+0.0,<music21.chord.Chord C2 C3 E-4 G4 B4 E-5>,"[0, -11, -8, -4]","[11, 0, 3, 7]",Allard_5diversions.xml,,9,1
+1.0,<music21.chord.Chord G2 E-4 G4 B4 E-5>,"[0, 4, 8]","[3, 7, 11]",Allard_5diversions.xml,,9,1 1/2
+1.5,<music21.chord.Chord C2 C3 E-4 G4 B4 E-5>,"[0, -11, -8, -4]","[11, 0, 3, 7]",Allard_5diversions.xml,,9,1 3/4
+2.0,<music21.chord.Chord C2 C3 E-4 G4 B4 E-5>,"[0, -11, -8, -4]","[11, 0, 3, 7]",Allard_5diversions.xml,,9,2
+2.5,<music21.chord.Chord G2 E-4 G4 B4 E-5>,"[0, 4, 8]","[3, 7, 11]",Allard_5diversions.xml,,9,2 1/4
+3.0,<music21.chord.Chord C2 C3 E-4 G4 B4 E-5>,"[0, -11, -8, -4]","[11, 0, 3, 7]",Allard_5diversions.xml,,9,2 1/2
+3.5,<music21.chord.Chord B1 B2 E-4 G4 B4 E-5>,"[0, 4, 8]","[3, 7, 11]",Allard_5diversions.xml,,9,2 3/4
+0.0,<music21.chord.Chord A1 A2 E4 G4 C5 E5>,"[0, 3, 5, -4]","[4, 7, 9, 0]",Allard_5diversions.xml,,10,1
+1.0,<music21.chord.Chord E2 E4 G4 C5 E5>,"[0, 4, 7]","[0, 4, 7]",Allard_5diversions.xml,,10,1 1/2
+1.5,<music21.chord.Chord A1 A2 E4 G4 C5 E5>,"[0, 3, 5, -4]","[4, 7, 9, 0]",Allard_5diversions.xml,,10,1 3/4
+2.0,<music21.chord.Chord A1 A2 E4 G4 C5 E5>,"[0, 3, 5, -4]","[4, 7, 9, 0]",Allard_5diversions.xml,,10,2
+2.5,<music21.chord.Chord E2 E4 G4 C5 E5>,"[0, 4, 7]","[0, 4, 7]",Allard_5diversions.xml,,10,2 1/4
+3.0,<music21.chord.Chord B-1 B-2 E4 G4 C5 E5>,"[0, 3, 6, -4]","[4, 7, 10, 0]",Allard_5diversions.xml,,10,2 1/2
+3.5,<music21.chord.Chord C2 C3 E4 G4 C5 E5>,"[0, 4, 7]","[0, 4, 7]",Allard_5diversions.xml,,10,2 3/4
+0.0,<music21.chord.Chord D2 D3 D5>,[0],[2],Allard_5diversions.xml,,11,1
+0.5,<music21.chord.Chord A2 D5>,"[0, -7]","[9, 2]",Allard_5diversions.xml,,11,1 1/4
+1.0,<music21.chord.Chord A2 D5>,"[0, -7]","[9, 2]",Allard_5diversions.xml,,11,1 1/2
+1.5,<music21.chord.Chord D3 D5>,[0],[2],Allard_5diversions.xml,,11,1 3/4
+2.0,<music21.chord.Chord D3 D5>,[0],[2],Allard_5diversions.xml,,11,2
+2.5,<music21.chord.Chord A3 D5>,"[0, -7]","[9, 2]",Allard_5diversions.xml,,11,2 1/4
+3.0,<music21.chord.Chord D3 D5>,[0],[2],Allard_5diversions.xml,,11,2 1/2
+3.5,<music21.chord.Chord A2 D5>,"[0, -7]","[9, 2]",Allard_5diversions.xml,,11,2 3/4
+0.0,<music21.chord.Chord D2 D3 G4 D5>,"[0, 5]","[2, 7]",Allard_5diversions.xml,,12,1
+0.25,<music21.chord.Chord D2 D3 A4 D5>,"[0, -7]","[9, 2]",Allard_5diversions.xml,,12,1 1/8
+0.5,<music21.chord.Chord D2 D3 G4 D5>,"[0, 5]","[2, 7]",Allard_5diversions.xml,,12,1 1/4
+0.75,<music21.chord.Chord D2 D3 E4 D5>,"[0, 2]","[2, 4]",Allard_5diversions.xml,,12,1 3/8
+1.0,<music21.chord.Chord D2 D3 G4 D5>,"[0, 5]","[2, 7]",Allard_5diversions.xml,,12,1 1/2
+1.5,<music21.chord.Chord D2 D3 A4 D5>,"[0, -7]","[9, 2]",Allard_5diversions.xml,,12,1 3/4
+1.75,<music21.chord.Chord D2 D3 C5 D5>,"[0, 2]","[0, 2]",Allard_5diversions.xml,,12,1 7/8
+2.0,<music21.chord.Chord D2 D3 A4 D5>,"[0, -7]","[9, 2]",Allard_5diversions.xml,,12,2
+2.25,<music21.chord.Chord D2 D3 G4 D5>,"[0, 5]","[2, 7]",Allard_5diversions.xml,,12,2 1/8
+2.5,<music21.chord.Chord D2 D3 F#4 D5>,"[0, 4]","[2, 6]",Allard_5diversions.xml,,12,2 1/4
+2.75,<music21.chord.Chord D2 D3 G4 D5>,"[0, 5]","[2, 7]",Allard_5diversions.xml,,12,2 3/8
+3.0,<music21.chord.Chord D2 D3 F#4 D5>,"[0, 4]","[2, 6]",Allard_5diversions.xml,,12,2 1/2
+3.25,<music21.chord.Chord D2 D3 E4 D5>,"[0, 2]","[2, 4]",Allard_5diversions.xml,,12,2 5/8
+3.5,<music21.chord.Chord D2 D3 F#4 D5>,"[0, 4]","[2, 6]",Allard_5diversions.xml,,12,2 3/4
+3.75,<music21.chord.Chord D2 D3 E4 D5>,"[0, 2]","[2, 4]",Allard_5diversions.xml,,12,2 7/8
+0.0,<music21.chord.Chord C2 C3 E-4 G4 B4 E-5>,"[0, -11, -8, -4]","[11, 0, 3, 7]",Allard_5diversions.xml,,13,1
+1.0,<music21.chord.Chord G2 E-4 G4 B4 E-5>,"[0, 4, 8]","[3, 7, 11]",Allard_5diversions.xml,,13,1 1/2
+1.5,<music21.chord.Chord C2 C3 E-4 G4 B4 E-5>,"[0, -11, -8, -4]","[11, 0, 3, 7]",Allard_5diversions.xml,,13,1 3/4
+2.0,<music21.chord.Chord C2 C3 E-4 G4 B4 E-5>,"[0, -11, -8, -4]","[11, 0, 3, 7]",Allard_5diversions.xml,,13,2
+2.5,<music21.chord.Chord G2 E-4 G4 B4 E-5>,"[0, 4, 8]","[3, 7, 11]",Allard_5diversions.xml,,13,2 1/4
+3.0,<music21.chord.Chord C2 C3 E-4 G4 B4 E-5>,"[0, -11, -8, -4]","[11, 0, 3, 7]",Allard_5diversions.xml,,13,2 1/2
+3.5,<music21.chord.Chord B1 B2 E-4 G4 B4 E-5>,"[0, 4, 8]","[3, 7, 11]",Allard_5diversions.xml,,13,2 3/4
+0.0,<music21.chord.Chord A1 A2 E4 G4 C5 E5>,"[0, 3, 5, -4]","[4, 7, 9, 0]",Allard_5diversions.xml,,14,1
+1.0,<music21.chord.Chord E2 E4 G4 C5 E5>,"[0, 4, 7]","[0, 4, 7]",Allard_5diversions.xml,,14,1 1/2
+1.5,<music21.chord.Chord A1 A2 E4 G4 C5 E5>,"[0, 3, 5, -4]","[4, 7, 9, 0]",Allard_5diversions.xml,,14,1 3/4
+2.0,<music21.chord.Chord A1 A2 E4 G4 C5 E5>,"[0, 3, 5, -4]","[4, 7, 9, 0]",Allard_5diversions.xml,,14,2
+2.5,<music21.chord.Chord E2 E4 G4 C5 E5>,"[0, 4, 7]","[0, 4, 7]",Allard_5diversions.xml,,14,2 1/4
+3.0,<music21.chord.Chord B-1 B-2 E4 G4 C5 E5>,"[0, 3, 6, -4]","[4, 7, 10, 0]",Allard_5diversions.xml,,14,2 1/2
+3.5,<music21.chord.Chord C2 C3 E4 G4 C5 E5>,"[0, 4, 7]","[0, 4, 7]",Allard_5diversions.xml,,14,2 3/4
+0.0,<music21.chord.Chord D2 D3 D5>,[0],[2],Allard_5diversions.xml,,15,1
+0.5,<music21.chord.Chord A2 D5>,"[0, -7]","[9, 2]",Allard_5diversions.xml,,15,1 1/4
+1.0,<music21.chord.Chord A2 D5>,"[0, -7]","[9, 2]",Allard_5diversions.xml,,15,1 1/2
+1.5,<music21.chord.Chord D3 D5>,[0],[2],Allard_5diversions.xml,,15,1 3/4
+2.0,<music21.chord.Chord D3 D5>,[0],[2],Allard_5diversions.xml,,15,2
+2.5,<music21.chord.Chord A3 D5>,"[0, -7]","[9, 2]",Allard_5diversions.xml,,15,2 1/4
+3.0,<music21.chord.Chord D3 D5>,[0],[2],Allard_5diversions.xml,,15,2 1/2
+3.5,<music21.chord.Chord A2 D5>,"[0, -7]","[9, 2]",Allard_5diversions.xml,,15,2 3/4
+0.5,<music21.chord.Chord D3 D4>,[0],[2],Allard_5diversions.xml,,16,1 1/4
+1.0,<music21.chord.Chord D3 D4>,[0],[2],Allard_5diversions.xml,,16,1 1/2
+1.5,<music21.chord.Chord C3 C4>,[0],[0],Allard_5diversions.xml,,16,1 3/4
+2.0,<music21.chord.Chord D3 D4>,[0],[2],Allard_5diversions.xml,,16,2
+2.5,<music21.chord.Chord F3 F4>,[0],[5],Allard_5diversions.xml,,16,2 1/4
+3.0,<music21.chord.Chord D3 D4>,[0],[2],Allard_5diversions.xml,,16,2 1/2
+3.5,<music21.chord.Chord F#2 D4>,"[0, 4]","[2, 6]",Allard_5diversions.xml,,16,2 3/4
+0.0,<music21.chord.Chord G2 B-4>,"[0, 3]","[7, 10]",Allard_5diversions.xml,,17,1
+0.5,<music21.chord.Chord G2 D3 B-4>,"[0, 3, -5]","[7, 10, 2]",Allard_5diversions.xml,,17,1 1/4
+1.0,<music21.chord.Chord G2 G3 D4 B-4>,"[0, 3, -5]","[7, 10, 2]",Allard_5diversions.xml,,17,1 1/2
+1.5,<music21.chord.Chord G2 G3 G4 B-4>,"[0, 3]","[7, 10]",Allard_5diversions.xml,,17,1 3/4
+2.0,<music21.chord.Chord G2 D3 G4 B-4>,"[0, 3, -5]","[7, 10, 2]",Allard_5diversions.xml,,17,2
+2.5,<music21.chord.Chord G2 G3 D4 B-4>,"[0, 3, -5]","[7, 10, 2]",Allard_5diversions.xml,,17,2 1/4
+3.0,<music21.chord.Chord G2 D3 G4 B-4>,"[0, 3, -5]","[7, 10, 2]",Allard_5diversions.xml,,17,2 1/2
+3.5,<music21.chord.Chord G2 D4 B-4>,"[0, 3, -5]","[7, 10, 2]",Allard_5diversions.xml,,17,2 3/4
+0.0,<music21.chord.Chord E2 B4>,"[0, -7]","[11, 4]",Allard_5diversions.xml,,18,1
+0.5,<music21.chord.Chord E2 B2 B4>,"[0, -7]","[11, 4]",Allard_5diversions.xml,,18,1 1/4
+1.0,<music21.chord.Chord E2 E3 E4 B4>,"[0, -7]","[11, 4]",Allard_5diversions.xml,,18,1 1/2
+1.5,<music21.chord.Chord E2 E3 G4 B4>,"[0, 3, 7]","[4, 7, 11]",Allard_5diversions.xml,,18,1 3/4
+2.0,<music21.chord.Chord E2 B2 G4 B4>,"[0, 3, 7]","[4, 7, 11]",Allard_5diversions.xml,,18,2
+2.5,<music21.chord.Chord E2 E3 E4 B4>,"[0, -7]","[11, 4]",Allard_5diversions.xml,,18,2 1/4
+3.0,<music21.chord.Chord E2 B2 G4 B4>,"[0, 3, 7]","[4, 7, 11]",Allard_5diversions.xml,,18,2 1/2
+3.5,<music21.chord.Chord E2 E4 B4>,"[0, -7]","[11, 4]",Allard_5diversions.xml,,18,2 3/4
+0.0,<music21.chord.Chord A2 C5>,"[0, -9]","[9, 0]",Allard_5diversions.xml,,19,1
+0.5,<music21.chord.Chord A2 E3 C5>,"[0, -9, -5]","[9, 0, 4]",Allard_5diversions.xml,,19,1 1/4
+1.0,<music21.chord.Chord A2 A3 E4 C5>,"[0, -9, -5]","[9, 0, 4]",Allard_5diversions.xml,,19,1 1/2
+1.5,<music21.chord.Chord A2 A3 A4 C5>,"[0, -9]","[9, 0]",Allard_5diversions.xml,,19,1 3/4
+2.0,<music21.chord.Chord A2 E3 A4 C5>,"[0, -9, -5]","[9, 0, 4]",Allard_5diversions.xml,,19,2
+2.5,<music21.chord.Chord A2 A3 E4 C5>,"[0, -9, -5]","[9, 0, 4]",Allard_5diversions.xml,,19,2 1/4
+3.0,<music21.chord.Chord A2 E3 A4 C5>,"[0, -9, -5]","[9, 0, 4]",Allard_5diversions.xml,,19,2 1/2
+3.5,<music21.chord.Chord A2 E4 C5>,"[0, -9, -5]","[9, 0, 4]",Allard_5diversions.xml,,19,2 3/4
+0.0,<music21.chord.Chord D2 D5>,[0],[2],Allard_5diversions.xml,,20,1
+1/3,<music21.chord.Chord D2 G4 D5>,"[0, 5]","[2, 7]",Allard_5diversions.xml,,20,1 1/6
+0.5,<music21.chord.Chord D2 A2 A4 D5>,"[0, -7]","[9, 2]",Allard_5diversions.xml,,20,1 1/4
+0.75,<music21.chord.Chord D2 A2 G4 D5>,"[0, 2, -5]","[7, 9, 2]",Allard_5diversions.xml,,20,1 3/8
+1.0,<music21.chord.Chord D2 D3 E4 D5>,"[0, 2]","[2, 4]",Allard_5diversions.xml,,20,1 1/2
+1.5,<music21.chord.Chord D2 A2 G4 D5>,"[0, 2, -5]","[7, 9, 2]",Allard_5diversions.xml,,20,1 3/4
+2.0,<music21.chord.Chord D2 D3 F#4 D5>,"[0, 4]","[2, 6]",Allard_5diversions.xml,,20,2
+2.5,<music21.chord.Chord D2 A2 F#4 D5>,"[0, 4, 7]","[2, 6, 9]",Allard_5diversions.xml,,20,2 1/4
+3.0,<music21.chord.Chord D2 D3 A4 D5>,"[0, -7]","[9, 2]",Allard_5diversions.xml,,20,2 1/2
+3.5,<music21.chord.Chord D2 F#2 A4 D5>,"[0, 4, 7]","[2, 6, 9]",Allard_5diversions.xml,,20,2 3/4
+0.0,<music21.chord.Chord G2 B-4>,"[0, 3]","[7, 10]",Allard_5diversions.xml,,21,1
+0.5,<music21.chord.Chord G2 D3 B-4>,"[0, 3, -5]","[7, 10, 2]",Allard_5diversions.xml,,21,1 1/4
+1.0,<music21.chord.Chord G2 G3 D4 B-4>,"[0, 3, -5]","[7, 10, 2]",Allard_5diversions.xml,,21,1 1/2
+1.5,<music21.chord.Chord G2 G3 G4 B-4>,"[0, 3]","[7, 10]",Allard_5diversions.xml,,21,1 3/4
+2.0,<music21.chord.Chord G2 D3 G4 B-4>,"[0, 3, -5]","[7, 10, 2]",Allard_5diversions.xml,,21,2
+2.5,<music21.chord.Chord G2 G3 D4 B-4>,"[0, 3, -5]","[7, 10, 2]",Allard_5diversions.xml,,21,2 1/4
+3.0,<music21.chord.Chord G2 D3 G4 B-4>,"[0, 3, -5]","[7, 10, 2]",Allard_5diversions.xml,,21,2 1/2
+3.5,<music21.chord.Chord G2 D4 B-4>,"[0, 3, -5]","[7, 10, 2]",Allard_5diversions.xml,,21,2 3/4
+0.0,<music21.chord.Chord E2 B4>,"[0, -7]","[11, 4]",Allard_5diversions.xml,,22,1
+0.5,<music21.chord.Chord E2 B2 B4>,"[0, -7]","[11, 4]",Allard_5diversions.xml,,22,1 1/4
+1.0,<music21.chord.Chord E2 E3 E4 B4>,"[0, -7]","[11, 4]",Allard_5diversions.xml,,22,1 1/2
+1.5,<music21.chord.Chord E2 E3 G4 B4>,"[0, 3, 7]","[4, 7, 11]",Allard_5diversions.xml,,22,1 3/4
+2.0,<music21.chord.Chord E2 B2 G4 B4>,"[0, 3, 7]","[4, 7, 11]",Allard_5diversions.xml,,22,2
+2.5,<music21.chord.Chord E2 E3 E4 B4>,"[0, -7]","[11, 4]",Allard_5diversions.xml,,22,2 1/4
+3.0,<music21.chord.Chord E2 B2 G4 B4>,"[0, 3, 7]","[4, 7, 11]",Allard_5diversions.xml,,22,2 1/2
+3.5,<music21.chord.Chord E2 E4 B4>,"[0, -7]","[11, 4]",Allard_5diversions.xml,,22,2 3/4
+0.0,<music21.chord.Chord A2 C5>,"[0, -9]","[9, 0]",Allard_5diversions.xml,,23,1
+0.5,<music21.chord.Chord A2 E3 C5>,"[0, -9, -5]","[9, 0, 4]",Allard_5diversions.xml,,23,1 1/4
+1.0,<music21.chord.Chord A2 A3 E4 C5>,"[0, -9, -5]","[9, 0, 4]",Allard_5diversions.xml,,23,1 1/2
+1.5,<music21.chord.Chord A2 A3 A4 C5>,"[0, -9]","[9, 0]",Allard_5diversions.xml,,23,1 3/4
+2.0,<music21.chord.Chord A2 E3 A4 C5>,"[0, -9, -5]","[9, 0, 4]",Allard_5diversions.xml,,23,2
+2.5,<music21.chord.Chord A2 A3 E4 C5>,"[0, -9, -5]","[9, 0, 4]",Allard_5diversions.xml,,23,2 1/4
+3.0,<music21.chord.Chord A2 E3 A4 C5>,"[0, -9, -5]","[9, 0, 4]",Allard_5diversions.xml,,23,2 1/2
+3.5,<music21.chord.Chord A2 E4 C5>,"[0, -9, -5]","[9, 0, 4]",Allard_5diversions.xml,,23,2 3/4
+0.0,<music21.chord.Chord D2 D5>,[0],[2],Allard_5diversions.xml,,24,1
+1/3,<music21.chord.Chord D2 G4 D5>,"[0, 5]","[2, 7]",Allard_5diversions.xml,,24,1 1/6
+0.5,<music21.chord.Chord D2 A2 A4 D5>,"[0, -7]","[9, 2]",Allard_5diversions.xml,,24,1 1/4
+0.75,<music21.chord.Chord D2 A2 G4 D5>,"[0, 2, -5]","[7, 9, 2]",Allard_5diversions.xml,,24,1 3/8
+1.0,<music21.chord.Chord D2 D3 E4 D5>,"[0, 2]","[2, 4]",Allard_5diversions.xml,,24,1 1/2
+1.5,<music21.chord.Chord D2 A2 G4 D5>,"[0, 2, -5]","[7, 9, 2]",Allard_5diversions.xml,,24,1 3/4
+2.0,<music21.chord.Chord D2 D3 F#4 D5>,"[0, 4]","[2, 6]",Allard_5diversions.xml,,24,2
+2.5,<music21.chord.Chord D2 A2 F#4 D5>,"[0, 4, 7]","[2, 6, 9]",Allard_5diversions.xml,,24,2 1/4
+3.0,<music21.chord.Chord D2 D3 A4 D5>,"[0, -7]","[9, 2]",Allard_5diversions.xml,,24,2 1/2
+3.5,<music21.chord.Chord D2 F#2 A4 D5>,"[0, 4, 7]","[2, 6, 9]",Allard_5diversions.xml,,24,2 3/4
+0.0,<music21.chord.Chord C2 C3 E-4 G4 B4 E5>,"[0, -11, -8, -7, -4]","[11, 0, 3, 4, 7]",Allard_5diversions.xml,,25,1
+1.0,<music21.chord.Chord G2 E-4 G4 B4 E5>,"[0, 1, 4, 8]","[3, 4, 7, 11]",Allard_5diversions.xml,,25,1 1/2
+1.5,<music21.chord.Chord C2 C3 E-4 G4 B4 E5>,"[0, -11, -8, -7, -4]","[11, 0, 3, 4, 7]",Allard_5diversions.xml,,25,1 3/4
+2.0,<music21.chord.Chord C2 C3 E-4 G4 B4 E5>,"[0, -11, -8, -7, -4]","[11, 0, 3, 4, 7]",Allard_5diversions.xml,,25,2
+2.5,<music21.chord.Chord G2 E-4 G4 B4 E5>,"[0, 1, 4, 8]","[3, 4, 7, 11]",Allard_5diversions.xml,,25,2 1/4
+3.0,<music21.chord.Chord C2 C3 E-4 G4 B4 E5>,"[0, -11, -8, -7, -4]","[11, 0, 3, 4, 7]",Allard_5diversions.xml,,25,2 1/2
+3.5,<music21.chord.Chord B1 B2 E-4 G4 B4 E5>,"[0, 1, 4, 8]","[3, 4, 7, 11]",Allard_5diversions.xml,,25,2 3/4
+0.0,<music21.chord.Chord A1 A2 E4 G4 C5 E5>,"[0, 3, 5, -4]","[4, 7, 9, 0]",Allard_5diversions.xml,,26,1
+1.0,<music21.chord.Chord E2 E4 G4 C5 E5>,"[0, 4, 7]","[0, 4, 7]",Allard_5diversions.xml,,26,1 1/2
+1.5,<music21.chord.Chord A1 A2 E4 G4 C5 E5>,"[0, 3, 5, -4]","[4, 7, 9, 0]",Allard_5diversions.xml,,26,1 3/4
+2.0,<music21.chord.Chord A1 A2 E4 G4 C5 E5>,"[0, 3, 5, -4]","[4, 7, 9, 0]",Allard_5diversions.xml,,26,2
+2.5,<music21.chord.Chord E2 E4 G4 C5 E5>,"[0, 4, 7]","[0, 4, 7]",Allard_5diversions.xml,,26,2 1/4
+3.0,<music21.chord.Chord B-1 B-2 E4 G4 C5 E5>,"[0, 3, 6, -4]","[4, 7, 10, 0]",Allard_5diversions.xml,,26,2 1/2
+3.5,<music21.chord.Chord C2 C3 E4 G4 C5 E5>,"[0, 4, 7]","[0, 4, 7]",Allard_5diversions.xml,,26,2 3/4
+0.0,<music21.chord.Chord D2 D3 D5>,[0],[2],Allard_5diversions.xml,,27,1
+0.5,<music21.chord.Chord A2 D5>,"[0, -7]","[9, 2]",Allard_5diversions.xml,,27,1 1/4
+1.0,<music21.chord.Chord D2 D3 D5>,[0],[2],Allard_5diversions.xml,,27,1 1/2
+1.5,<music21.chord.Chord A2 A3 D5>,"[0, -7]","[9, 2]",Allard_5diversions.xml,,27,1 3/4
+2.0,<music21.chord.Chord E3 D5>,"[0, 2]","[2, 4]",Allard_5diversions.xml,,27,2
+2.5,<music21.chord.Chord G2 G3 D5>,"[0, 5]","[2, 7]",Allard_5diversions.xml,,27,2 1/4
+3.0,<music21.chord.Chord D3 D5>,[0],[2],Allard_5diversions.xml,,27,2 1/2
+3.5,<music21.chord.Chord E2 E3 D5>,"[0, 2]","[2, 4]",Allard_5diversions.xml,,27,2 3/4
+0.0,<music21.chord.Chord D2 D3 G4 D5>,"[0, 5]","[2, 7]",Allard_5diversions.xml,,28,1
+0.5,<music21.chord.Chord D2 D3 A4>,"[0, -7]","[9, 2]",Allard_5diversions.xml,,28,1 1/4
+1.0,<music21.chord.Chord D2 D3 G4 C5>,"[0, 2, 7]","[0, 2, 7]",Allard_5diversions.xml,,28,1 1/2
+1.5,<music21.chord.Chord D2 D3 A4>,"[0, -7]","[9, 2]",Allard_5diversions.xml,,28,1 3/4
+2.0,<music21.chord.Chord D2 D3 F#4 D5>,"[0, 4]","[2, 6]",Allard_5diversions.xml,,28,2
+2.5,<music21.chord.Chord D2 D3 A4>,"[0, -7]","[9, 2]",Allard_5diversions.xml,,28,2 1/4
+3.0,<music21.chord.Chord D2 D3 D4 A4>,"[0, -7]","[9, 2]",Allard_5diversions.xml,,28,2 1/2
+3.5,<music21.chord.Chord D2 D3 F#4>,"[0, 4]","[2, 6]",Allard_5diversions.xml,,28,2 3/4
+0.0,<music21.chord.Chord C2 C3 E-4 G4 B4 E5>,"[0, -11, -8, -7, -4]","[11, 0, 3, 4, 7]",Allard_5diversions.xml,,29,1
+1.0,<music21.chord.Chord G2 E-4 G4 B4 E5>,"[0, 1, 4, 8]","[3, 4, 7, 11]",Allard_5diversions.xml,,29,1 1/2
+1.5,<music21.chord.Chord C2 C3 E-4 G4 B4 E5>,"[0, -11, -8, -7, -4]","[11, 0, 3, 4, 7]",Allard_5diversions.xml,,29,1 3/4
+2.0,<music21.chord.Chord C2 C3 E-4 G4 B4 E5>,"[0, -11, -8, -7, -4]","[11, 0, 3, 4, 7]",Allard_5diversions.xml,,29,2
+2.5,<music21.chord.Chord G2 E-4 G4 B4 E5>,"[0, 1, 4, 8]","[3, 4, 7, 11]",Allard_5diversions.xml,,29,2 1/4
+3.0,<music21.chord.Chord C2 C3 E-4 G4 B4 E5>,"[0, -11, -8, -7, -4]","[11, 0, 3, 4, 7]",Allard_5diversions.xml,,29,2 1/2
+3.5,<music21.chord.Chord B1 B2 E-4 G4 B4 E5>,"[0, 1, 4, 8]","[3, 4, 7, 11]",Allard_5diversions.xml,,29,2 3/4
+0.0,<music21.chord.Chord A1 A2 E4 G4 C5 E5>,"[0, 3, 5, -4]","[4, 7, 9, 0]",Allard_5diversions.xml,,30,1
+1.0,<music21.chord.Chord E2 E4 G4 C5 E5>,"[0, 4, 7]","[0, 4, 7]",Allard_5diversions.xml,,30,1 1/2
+1.5,<music21.chord.Chord A1 A2 E4 G4 C5 E5>,"[0, 3, 5, -4]","[4, 7, 9, 0]",Allard_5diversions.xml,,30,1 3/4
+2.0,<music21.chord.Chord A1 A2 E4 G4 C5 E5>,"[0, 3, 5, -4]","[4, 7, 9, 0]",Allard_5diversions.xml,,30,2
+2.5,<music21.chord.Chord E2 E4 G4 C5 E5>,"[0, 4, 7]","[0, 4, 7]",Allard_5diversions.xml,,30,2 1/4
+3.0,<music21.chord.Chord B-1 B-2 E4 G4 C5 E5>,"[0, 3, 6, -4]","[4, 7, 10, 0]",Allard_5diversions.xml,,30,2 1/2
+3.5,<music21.chord.Chord C2 C3 E4 G4 C5 E5>,"[0, 4, 7]","[0, 4, 7]",Allard_5diversions.xml,,30,2 3/4
+0.0,<music21.chord.Chord D2 D3 D5>,[0],[2],Allard_5diversions.xml,,31,1
+0.5,<music21.chord.Chord A2 D5>,"[0, -7]","[9, 2]",Allard_5diversions.xml,,31,1 1/4
+1.0,<music21.chord.Chord D2 D3 D5>,[0],[2],Allard_5diversions.xml,,31,1 1/2
+1.5,<music21.chord.Chord A2 A3 D5>,"[0, -7]","[9, 2]",Allard_5diversions.xml,,31,1 3/4
+2.0,<music21.chord.Chord E3 D5>,"[0, 2]","[2, 4]",Allard_5diversions.xml,,31,2
+2.5,<music21.chord.Chord G2 G3 D5>,"[0, 5]","[2, 7]",Allard_5diversions.xml,,31,2 1/4
+3.0,<music21.chord.Chord D3 D5>,[0],[2],Allard_5diversions.xml,,31,2 1/2
+3.5,<music21.chord.Chord E2 E3 D5>,"[0, 2]","[2, 4]",Allard_5diversions.xml,,31,2 3/4
+0.0,<music21.chord.Chord D2 D3 G4 D5>,"[0, 5]","[2, 7]",Allard_5diversions.xml,,32,1
+0.5,<music21.chord.Chord D2 D3 A4>,"[0, -7]","[9, 2]",Allard_5diversions.xml,,32,1 1/4
+1.0,<music21.chord.Chord D2 D3 G4 C5>,"[0, 2, 7]","[0, 2, 7]",Allard_5diversions.xml,,32,1 1/2
+1.5,<music21.chord.Chord D2 D3 A4>,"[0, -7]","[9, 2]",Allard_5diversions.xml,,32,1 3/4
+2.0,<music21.chord.Chord D2 D3 F#4 D5>,"[0, 4]","[2, 6]",Allard_5diversions.xml,,32,2
+2.5,<music21.chord.Chord D2 D3 A4>,"[0, -7]","[9, 2]",Allard_5diversions.xml,,32,2 1/4
+3.0,<music21.chord.Chord D2 D3 D4 A4>,"[0, -7]","[9, 2]",Allard_5diversions.xml,,32,2 1/2
+3.5,<music21.chord.Chord D2 D3 F#4>,"[0, 4]","[2, 6]",Allard_5diversions.xml,,32,2 3/4
+0.0,<music21.chord.Chord B2 D4>,"[0, -9]","[11, 2]",Allard_5diversions.xml,,33,1
+0.5,<music21.chord.Chord B2 G3 D4>,"[0, 4, -5]","[7, 11, 2]",Allard_5diversions.xml,,33,1 1/4
+1.0,<music21.chord.Chord B2 G3 G4>,"[0, 4]","[7, 11]",Allard_5diversions.xml,,33,1 1/2
+1.5,<music21.chord.Chord B2 G3 D4>,"[0, 4, -5]","[7, 11, 2]",Allard_5diversions.xml,,33,1 3/4
+2.0,<music21.chord.Chord B2 D4>,"[0, -9]","[11, 2]",Allard_5diversions.xml,,33,2
+2.5,<music21.chord.Chord B2 G3 D4>,"[0, 4, -5]","[7, 11, 2]",Allard_5diversions.xml,,33,2 1/4
+3.0,<music21.chord.Chord B2 G3 A4>,"[0, 2, 4]","[7, 9, 11]",Allard_5diversions.xml,,33,2 1/2
+3.5,<music21.chord.Chord B2 G3 G4>,"[0, 4]","[7, 11]",Allard_5diversions.xml,,33,2 3/4
+0.0,<music21.chord.Chord C3 E4>,"[0, 4]","[0, 4]",Allard_5diversions.xml,,34,1
+0.5,<music21.chord.Chord C3 G3 E4>,"[0, 4, 7]","[0, 4, 7]",Allard_5diversions.xml,,34,1 1/4
+1.0,<music21.chord.Chord A2 G3 E4>,"[0, 3, 5]","[4, 7, 9]",Allard_5diversions.xml,,34,1 1/2
+1.5,<music21.chord.Chord A2 G3 C4>,"[0, 2, -7]","[7, 9, 0]",Allard_5diversions.xml,,34,1 3/4
+2.0,<music21.chord.Chord G2 G3>,[0],[7],Allard_5diversions.xml,,34,2
+2.5,<music21.chord.Chord G2 G3 C4>,"[0, -7]","[7, 0]",Allard_5diversions.xml,,34,2 1/4
+3.0,<music21.chord.Chord A2 G3 E4>,"[0, 3, 5]","[4, 7, 9]",Allard_5diversions.xml,,34,2 1/2
+3.5,<music21.chord.Chord A2 G3 C4>,"[0, 2, -7]","[7, 9, 0]",Allard_5diversions.xml,,34,2 3/4
+0.0,<music21.chord.Chord B-2 D4>,"[0, -8]","[10, 2]",Allard_5diversions.xml,,35,1
+0.5,<music21.chord.Chord B-2 G3 D4>,"[0, 3, -5]","[7, 10, 2]",Allard_5diversions.xml,,35,1 1/4
+1.0,<music21.chord.Chord B-2 G3 A4>,"[0, 2, 3]","[7, 9, 10]",Allard_5diversions.xml,,35,1 1/2
+1.5,<music21.chord.Chord B-2 G3 G4>,"[0, 3]","[7, 10]",Allard_5diversions.xml,,35,1 3/4
+2.0,<music21.chord.Chord C3 E4>,"[0, 4]","[0, 4]",Allard_5diversions.xml,,35,2
+13/6,<music21.chord.Chord C3 G4>,"[0, -7]","[7, 0]",Allard_5diversions.xml,,35,2 1/12
+7/3,<music21.chord.Chord C3 E4>,"[0, 4]","[0, 4]",Allard_5diversions.xml,,35,2 1/6
+2.5,<music21.chord.Chord C3 G3 D4>,"[0, 2, 7]","[0, 2, 7]",Allard_5diversions.xml,,35,2 1/4
+3.0,<music21.chord.Chord C3 G3 C4 E4>,"[0, 4, 7]","[0, 4, 7]",Allard_5diversions.xml,,35,2 1/2
+0.0,<music21.chord.Chord D3 D4>,[0],[2],Allard_5diversions.xml,,36,1
+0.5,<music21.chord.Chord E3 D4>,"[0, 2]","[2, 4]",Allard_5diversions.xml,,36,1 1/4
+1.0,<music21.chord.Chord G3 D4>,"[0, 5]","[2, 7]",Allard_5diversions.xml,,36,1 1/2
+1.5,<music21.chord.Chord E3 D4>,"[0, 2]","[2, 4]",Allard_5diversions.xml,,36,1 3/4
+2.0,<music21.chord.Chord A3 D4>,"[0, -7]","[9, 2]",Allard_5diversions.xml,,36,2
+2.5,<music21.chord.Chord G3 D4>,"[0, 5]","[2, 7]",Allard_5diversions.xml,,36,2 1/4
+3.0,<music21.chord.Chord E3 D4>,"[0, 2]","[2, 4]",Allard_5diversions.xml,,36,2 1/2
+3.5,<music21.chord.Chord C3 D4>,"[0, 2]","[0, 2]",Allard_5diversions.xml,,36,2 3/4
+0.0,<music21.chord.Chord B-2 D4>,"[0, -8]","[10, 2]",Allard_5diversions.xml,,37,1
+0.5,<music21.chord.Chord B-2 G3 D4>,"[0, 3, -5]","[7, 10, 2]",Allard_5diversions.xml,,37,1 1/4
+1.0,<music21.chord.Chord B-2 G3 A4>,"[0, 2, 3]","[7, 9, 10]",Allard_5diversions.xml,,37,1 1/2
+1.5,<music21.chord.Chord B-2 G3 G4>,"[0, 3]","[7, 10]",Allard_5diversions.xml,,37,1 3/4
+2.0,<music21.chord.Chord C3 E4>,"[0, 4]","[0, 4]",Allard_5diversions.xml,,37,2
+13/6,<music21.chord.Chord C3 G4>,"[0, -7]","[7, 0]",Allard_5diversions.xml,,37,2 1/12
+7/3,<music21.chord.Chord C3 E4>,"[0, 4]","[0, 4]",Allard_5diversions.xml,,37,2 1/6
+2.5,<music21.chord.Chord C3 G3 D4>,"[0, 2, 7]","[0, 2, 7]",Allard_5diversions.xml,,37,2 1/4
+3.0,<music21.chord.Chord C3 G3 C4 E4>,"[0, 4, 7]","[0, 4, 7]",Allard_5diversions.xml,,37,2 1/2
+0.0,<music21.chord.Chord D3 A3 D4>,"[0, -7]","[9, 2]",Allard_5diversions.xml,,38,1
+1.0,<music21.chord.Chord C3 G3 A4>,"[0, 2, -7]","[7, 9, 0]",Allard_5diversions.xml,,38,1 1/2
+1.5,<music21.chord.Chord C3 G3 D5>,"[0, 2, 7]","[0, 2, 7]",Allard_5diversions.xml,,38,1 3/4
+2.0,<music21.chord.Chord A2 E3 D5>,"[0, 2, 7]","[2, 4, 9]",Allard_5diversions.xml,,38,2
+7/3,<music21.chord.Chord A2 E3 C5>,"[0, -9, -5]","[9, 0, 4]",Allard_5diversions.xml,,38,2 1/6
+2.5,<music21.chord.Chord A2 E3 D5>,"[0, 2, 7]","[2, 4, 9]",Allard_5diversions.xml,,38,2 1/4
+2.75,<music21.chord.Chord A2 E3 C5>,"[0, -9, -5]","[9, 0, 4]",Allard_5diversions.xml,,38,2 3/8
+3.0,<music21.chord.Chord C3 G3 A4>,"[0, 2, -7]","[7, 9, 0]",Allard_5diversions.xml,,38,2 1/2
+3.5,<music21.chord.Chord C3 G3 C5>,"[0, -7]","[7, 0]",Allard_5diversions.xml,,38,2 3/4
+0.0,<music21.chord.Chord E-3 B-3 G4>,"[0, 4, 7]","[3, 7, 10]",Allard_5diversions.xml,,39,1
+1.0,<music21.chord.Chord E-3 B-3 C4>,"[0, -10, -7]","[10, 0, 3]",Allard_5diversions.xml,,39,1 1/2
+1.5,<music21.chord.Chord E-3 B-3 G4>,"[0, 4, 7]","[3, 7, 10]",Allard_5diversions.xml,,39,1 3/4
+2.0,<music21.chord.Chord C3 G3 E-4>,"[0, 3, 7]","[0, 3, 7]",Allard_5diversions.xml,,39,2
+3.0,<music21.chord.Chord C3 G3 F4>,"[0, 2, -5]","[5, 7, 0]",Allard_5diversions.xml,,39,2 1/2
+3.5,<music21.chord.Chord C3 G3 G4>,"[0, -7]","[7, 0]",Allard_5diversions.xml,,39,2 3/4
+0.0,<music21.chord.Chord A2 E3 D4 E4 A4>,"[0, 2, 7]","[2, 4, 9]",Allard_5diversions.xml,,40,1
+1.0,<music21.chord.Chord D3 A3 D4 E4 A4>,"[0, 2, 7]","[2, 4, 9]",Allard_5diversions.xml,,40,1 1/2
+2.0,<music21.chord.Chord A2 E3 D4 E4 A4>,"[0, 2, 7]","[2, 4, 9]",Allard_5diversions.xml,,40,2
+2.5,<music21.chord.Chord C3 G3 D4 E4 A4>,"[0, 2, 4, 7, 9]","[0, 2, 4, 7, 9]",Allard_5diversions.xml,,40,2 1/4
+3.5,<music21.chord.Chord B2 F#3 D4 E4 A4>,"[0, 2, 4, 7, 9]","[2, 4, 6, 9, 11]",Allard_5diversions.xml,,40,2 3/4
+0.0,<music21.chord.Chord B2 F#3 D4 E4 A4>,"[0, 2, 4, 7, 9]","[2, 4, 6, 9, 11]",Allard_5diversions.xml,,41,1
+0.5,<music21.chord.Chord B-2 F3 D4 E4 A4>,"[0, 1, -7, -5, -4]","[9, 10, 2, 4, 5]",Allard_5diversions.xml,,41,1 1/4
+1.5,<music21.chord.Chord A2 E3 D4 E4 A4>,"[0, 2, 7]","[2, 4, 9]",Allard_5diversions.xml,,41,1 3/4
+2.0,<music21.chord.Chord A2 E3 D4 E4 A4>,"[0, 2, 7]","[2, 4, 9]",Allard_5diversions.xml,,41,2
+2.5,<music21.chord.Chord A-2 E-3 D4 E4 A4>,"[0, 1, 2, 6, 7]","[2, 3, 4, 8, 9]",Allard_5diversions.xml,,41,2 1/4
+0.0,<music21.chord.Chord G2 B-4>,"[0, 3]","[7, 10]",Allard_5diversions.xml,,42,1
+0.5,<music21.chord.Chord G2 D3 B-4>,"[0, 3, -5]","[7, 10, 2]",Allard_5diversions.xml,,42,1 1/4
+1.0,<music21.chord.Chord G2 G3 D4 B-4>,"[0, 3, -5]","[7, 10, 2]",Allard_5diversions.xml,,42,1 1/2
+1.5,<music21.chord.Chord G2 G3 G4 B-4>,"[0, 3]","[7, 10]",Allard_5diversions.xml,,42,1 3/4
+2.0,<music21.chord.Chord G2 D3 G4 B-4>,"[0, 3, -5]","[7, 10, 2]",Allard_5diversions.xml,,42,2
+2.5,<music21.chord.Chord G2 G3 D4 B-4>,"[0, 3, -5]","[7, 10, 2]",Allard_5diversions.xml,,42,2 1/4
+3.0,<music21.chord.Chord G2 D3 G4 B-4>,"[0, 3, -5]","[7, 10, 2]",Allard_5diversions.xml,,42,2 1/2
+3.5,<music21.chord.Chord G2 D4 B-4>,"[0, 3, -5]","[7, 10, 2]",Allard_5diversions.xml,,42,2 3/4
+0.0,<music21.chord.Chord E2 B4>,"[0, -7]","[11, 4]",Allard_5diversions.xml,,43,1
+0.5,<music21.chord.Chord E2 B2 B4>,"[0, -7]","[11, 4]",Allard_5diversions.xml,,43,1 1/4
+1.0,<music21.chord.Chord E2 E3 E4 B4>,"[0, -7]","[11, 4]",Allard_5diversions.xml,,43,1 1/2
+1.5,<music21.chord.Chord E2 E3 G4 B4>,"[0, 3, 7]","[4, 7, 11]",Allard_5diversions.xml,,43,1 3/4
+2.0,<music21.chord.Chord E2 B2 G4 B4>,"[0, 3, 7]","[4, 7, 11]",Allard_5diversions.xml,,43,2
+2.5,<music21.chord.Chord E2 E3 E4 B4>,"[0, -7]","[11, 4]",Allard_5diversions.xml,,43,2 1/4
+3.0,<music21.chord.Chord E2 B2 G4 B4>,"[0, 3, 7]","[4, 7, 11]",Allard_5diversions.xml,,43,2 1/2
+3.5,<music21.chord.Chord E2 E4 B4>,"[0, -7]","[11, 4]",Allard_5diversions.xml,,43,2 3/4
+0.0,<music21.chord.Chord A2 C5>,"[0, -9]","[9, 0]",Allard_5diversions.xml,,44,1
+0.5,<music21.chord.Chord A2 E3 C5>,"[0, -9, -5]","[9, 0, 4]",Allard_5diversions.xml,,44,1 1/4
+1.0,<music21.chord.Chord A2 A3 E4 C5>,"[0, -9, -5]","[9, 0, 4]",Allard_5diversions.xml,,44,1 1/2
+1.5,<music21.chord.Chord A2 A3 A4 C5>,"[0, -9]","[9, 0]",Allard_5diversions.xml,,44,1 3/4
+2.0,<music21.chord.Chord A2 E3 A4 C5>,"[0, -9, -5]","[9, 0, 4]",Allard_5diversions.xml,,44,2
+2.5,<music21.chord.Chord A2 A3 E4 C5>,"[0, -9, -5]","[9, 0, 4]",Allard_5diversions.xml,,44,2 1/4
+3.0,<music21.chord.Chord A2 E3 A4 C5>,"[0, -9, -5]","[9, 0, 4]",Allard_5diversions.xml,,44,2 1/2
+3.5,<music21.chord.Chord A2 E4 C5>,"[0, -9, -5]","[9, 0, 4]",Allard_5diversions.xml,,44,2 3/4
+0.0,<music21.chord.Chord D2 A2 G4 D5>,"[0, 2, -5]","[7, 9, 2]",Allard_5diversions.xml,,45,1
+0.25,<music21.chord.Chord D2 A2 A4 D5>,"[0, -7]","[9, 2]",Allard_5diversions.xml,,45,1 1/8
+0.5,<music21.chord.Chord D2 D3 G4 D5>,"[0, 5]","[2, 7]",Allard_5diversions.xml,,45,1 1/4
+0.75,<music21.chord.Chord D2 D3 E4 D5>,"[0, 2]","[2, 4]",Allard_5diversions.xml,,45,1 3/8
+1.0,<music21.chord.Chord D2 A2 E4 D5>,"[0, 2, 7]","[2, 4, 9]",Allard_5diversions.xml,,45,1 1/2
+1.25,<music21.chord.Chord D2 A2 G4 D5>,"[0, 2, -5]","[7, 9, 2]",Allard_5diversions.xml,,45,1 5/8
+1.5,<music21.chord.Chord D2 D3 G4 D5>,"[0, 5]","[2, 7]",Allard_5diversions.xml,,45,1 3/4
+1.75,<music21.chord.Chord D2 D3 F#4 D5>,"[0, 4]","[2, 6]",Allard_5diversions.xml,,45,1 7/8
+2.0,<music21.chord.Chord D2 A2 F#4 D5>,"[0, 4, 7]","[2, 6, 9]",Allard_5diversions.xml,,45,2
+2.5,<music21.chord.Chord D2 D3 F#4 D5>,"[0, 4]","[2, 6]",Allard_5diversions.xml,,45,2 1/4
+2.75,<music21.chord.Chord D2 D3 A4 D5>,"[0, -7]","[9, 2]",Allard_5diversions.xml,,45,2 3/8
+3.0,<music21.chord.Chord D2 A4 D5>,"[0, -7]","[9, 2]",Allard_5diversions.xml,,45,2 1/2
+3.75,<music21.chord.Chord D2 D5>,[0],[2],Allard_5diversions.xml,,45,2 7/8
+0.0,<music21.chord.Chord G2 B-4>,"[0, 3]","[7, 10]",Allard_5diversions.xml,,46,1
+0.5,<music21.chord.Chord G2 D3 B-4>,"[0, 3, -5]","[7, 10, 2]",Allard_5diversions.xml,,46,1 1/4
+1.0,<music21.chord.Chord G2 G3 D4 B-4>,"[0, 3, -5]","[7, 10, 2]",Allard_5diversions.xml,,46,1 1/2
+1.5,<music21.chord.Chord G2 G3 G4 B-4>,"[0, 3]","[7, 10]",Allard_5diversions.xml,,46,1 3/4
+2.0,<music21.chord.Chord G2 D3 G4 B-4>,"[0, 3, -5]","[7, 10, 2]",Allard_5diversions.xml,,46,2
+2.5,<music21.chord.Chord G2 G3 D4 B-4>,"[0, 3, -5]","[7, 10, 2]",Allard_5diversions.xml,,46,2 1/4
+3.0,<music21.chord.Chord G2 D3 G4 B-4>,"[0, 3, -5]","[7, 10, 2]",Allard_5diversions.xml,,46,2 1/2
+3.5,<music21.chord.Chord G2 D4 B-4>,"[0, 3, -5]","[7, 10, 2]",Allard_5diversions.xml,,46,2 3/4
+0.0,<music21.chord.Chord E2 B4>,"[0, -7]","[11, 4]",Allard_5diversions.xml,,47,1
+0.5,<music21.chord.Chord E2 B2 B4>,"[0, -7]","[11, 4]",Allard_5diversions.xml,,47,1 1/4
+1.0,<music21.chord.Chord E2 E3 E4 B4>,"[0, -7]","[11, 4]",Allard_5diversions.xml,,47,1 1/2
+1.5,<music21.chord.Chord E2 E3 G4 B4>,"[0, 3, 7]","[4, 7, 11]",Allard_5diversions.xml,,47,1 3/4
+2.0,<music21.chord.Chord E2 B2 G4 B4>,"[0, 3, 7]","[4, 7, 11]",Allard_5diversions.xml,,47,2
+2.5,<music21.chord.Chord E2 E3 E4 B4>,"[0, -7]","[11, 4]",Allard_5diversions.xml,,47,2 1/4
+3.0,<music21.chord.Chord E2 B2 G4 B4>,"[0, 3, 7]","[4, 7, 11]",Allard_5diversions.xml,,47,2 1/2
+3.5,<music21.chord.Chord E2 B4>,"[0, -7]","[11, 4]",Allard_5diversions.xml,,47,2 3/4
+0.0,<music21.chord.Chord A2 C5>,"[0, -9]","[9, 0]",Allard_5diversions.xml,,48,1
+0.5,<music21.chord.Chord A2 E3 C5>,"[0, -9, -5]","[9, 0, 4]",Allard_5diversions.xml,,48,1 1/4
+1.0,<music21.chord.Chord A2 A3 E4 C5>,"[0, -9, -5]","[9, 0, 4]",Allard_5diversions.xml,,48,1 1/2
+1.5,<music21.chord.Chord A2 A3 A4 C5>,"[0, -9]","[9, 0]",Allard_5diversions.xml,,48,1 3/4
+2.0,<music21.chord.Chord A2 E3 A4 C5>,"[0, -9, -5]","[9, 0, 4]",Allard_5diversions.xml,,48,2
+2.5,<music21.chord.Chord A2 A3 E4 C5>,"[0, -9, -5]","[9, 0, 4]",Allard_5diversions.xml,,48,2 1/4
+3.0,<music21.chord.Chord A2 E3 A4 C5>,"[0, -9, -5]","[9, 0, 4]",Allard_5diversions.xml,,48,2 1/2
+3.5,<music21.chord.Chord A2 E4 C5>,"[0, -9, -5]","[9, 0, 4]",Allard_5diversions.xml,,48,2 3/4
+0.0,<music21.chord.Chord D2 A2 G4 D5>,"[0, 2, -5]","[7, 9, 2]",Allard_5diversions.xml,,49,1
+0.25,<music21.chord.Chord D2 A2 A4 D5>,"[0, -7]","[9, 2]",Allard_5diversions.xml,,49,1 1/8
+0.5,<music21.chord.Chord D2 D3 G4 D5>,"[0, 5]","[2, 7]",Allard_5diversions.xml,,49,1 1/4
+0.75,<music21.chord.Chord D2 D3 E4 D5>,"[0, 2]","[2, 4]",Allard_5diversions.xml,,49,1 3/8
+1.0,<music21.chord.Chord D2 A2 E4 D5>,"[0, 2, 7]","[2, 4, 9]",Allard_5diversions.xml,,49,1 1/2
+1.25,<music21.chord.Chord D2 A2 G4 D5>,"[0, 2, -5]","[7, 9, 2]",Allard_5diversions.xml,,49,1 5/8
+1.5,<music21.chord.Chord D2 D3 G4 D5>,"[0, 5]","[2, 7]",Allard_5diversions.xml,,49,1 3/4
+1.75,<music21.chord.Chord D2 D3 F#4 D5>,"[0, 4]","[2, 6]",Allard_5diversions.xml,,49,1 7/8
+2.0,<music21.chord.Chord D2 A2 F#4 D5>,"[0, 4, 7]","[2, 6, 9]",Allard_5diversions.xml,,49,2
+2.5,<music21.chord.Chord D2 D3 F#4 D5>,"[0, 4]","[2, 6]",Allard_5diversions.xml,,49,2 1/4
+2.75,<music21.chord.Chord D2 D3 A4 D5>,"[0, -7]","[9, 2]",Allard_5diversions.xml,,49,2 3/8
+3.0,<music21.chord.Chord D2 A4 D5>,"[0, -7]","[9, 2]",Allard_5diversions.xml,,49,2 1/2
+3.75,<music21.chord.Chord D2 D5>,[0],[2],Allard_5diversions.xml,,49,2 7/8
+0.0,<music21.chord.Chord C2 C3 E-4 G4 B4 E-5>,"[0, -11, -8, -4]","[11, 0, 3, 7]",Allard_5diversions.xml,,50,1
+1.0,<music21.chord.Chord G2 E-4 G4 B4 E-5>,"[0, 4, 8]","[3, 7, 11]",Allard_5diversions.xml,,50,1 1/2
+1.5,<music21.chord.Chord C2 C3 E-4 G4 B4 E-5>,"[0, -11, -8, -4]","[11, 0, 3, 7]",Allard_5diversions.xml,,50,1 3/4
+2.0,<music21.chord.Chord C2 C3 E-4 G4 B4 E-5>,"[0, -11, -8, -4]","[11, 0, 3, 7]",Allard_5diversions.xml,,50,2
+2.5,<music21.chord.Chord G2 E-4 G4 B4 E-5>,"[0, 4, 8]","[3, 7, 11]",Allard_5diversions.xml,,50,2 1/4
+3.0,<music21.chord.Chord C2 C3 E-4 G4 B4 E-5>,"[0, -11, -8, -4]","[11, 0, 3, 7]",Allard_5diversions.xml,,50,2 1/2
+3.5,<music21.chord.Chord B1 B2 E-4 G4 B4 E-5>,"[0, 4, 8]","[3, 7, 11]",Allard_5diversions.xml,,50,2 3/4
+0.0,<music21.chord.Chord A1 A2 E4 G4 C5 E5>,"[0, 3, 5, -4]","[4, 7, 9, 0]",Allard_5diversions.xml,,51,1
+1.0,<music21.chord.Chord E2 E4 G4 C5 E5>,"[0, 4, 7]","[0, 4, 7]",Allard_5diversions.xml,,51,1 1/2
+1.5,<music21.chord.Chord A1 A2 E4 G4 C5 E5>,"[0, 3, 5, -4]","[4, 7, 9, 0]",Allard_5diversions.xml,,51,1 3/4
+2.0,<music21.chord.Chord A1 A2 E4 G4 C5 E5>,"[0, 3, 5, -4]","[4, 7, 9, 0]",Allard_5diversions.xml,,51,2
+2.5,<music21.chord.Chord E2 E4 G4 C5 E5>,"[0, 4, 7]","[0, 4, 7]",Allard_5diversions.xml,,51,2 1/4
+3.0,<music21.chord.Chord B1 B-2 E4 G4 C5 E5>,"[0, 3, 6, 7, -4]","[4, 7, 10, 11, 0]",Allard_5diversions.xml,,51,2 1/2
+3.5,<music21.chord.Chord C2 C3 E4 G4 C5 E5>,"[0, 4, 7]","[0, 4, 7]",Allard_5diversions.xml,,51,2 3/4
+0.0,<music21.chord.Chord D2 D3 D5>,[0],[2],Allard_5diversions.xml,,52,1
+0.5,<music21.chord.Chord A2 D5>,"[0, -7]","[9, 2]",Allard_5diversions.xml,,52,1 1/4
+1.0,<music21.chord.Chord A2 D5>,"[0, -7]","[9, 2]",Allard_5diversions.xml,,52,1 1/2
+1.5,<music21.chord.Chord D3 D5>,[0],[2],Allard_5diversions.xml,,52,1 3/4
+2.0,<music21.chord.Chord D3 D5>,[0],[2],Allard_5diversions.xml,,52,2
+2.5,<music21.chord.Chord A3 D5>,"[0, -7]","[9, 2]",Allard_5diversions.xml,,52,2 1/4
+3.0,<music21.chord.Chord D3 D5>,[0],[2],Allard_5diversions.xml,,52,2 1/2
+3.5,<music21.chord.Chord A2 D5>,"[0, -7]","[9, 2]",Allard_5diversions.xml,,52,2 3/4
+0.0,<music21.chord.Chord D2 D3 G4 A4 D5>,"[0, 2, -5]","[7, 9, 2]",Allard_5diversions.xml,,53,1
+0.25,<music21.chord.Chord D2 D3 G4 D5>,"[0, 5]","[2, 7]",Allard_5diversions.xml,,53,1 1/8
+0.5,<music21.chord.Chord D2 D3 E4 D5>,"[0, 2]","[2, 4]",Allard_5diversions.xml,,53,1 1/4
+0.75,<music21.chord.Chord D2 D3 G4 D5>,"[0, 5]","[2, 7]",Allard_5diversions.xml,,53,1 3/8
+1.25,<music21.chord.Chord D2 D3 A4 D5>,"[0, -7]","[9, 2]",Allard_5diversions.xml,,53,1 5/8
+1.5,<music21.chord.Chord D2 D3 C5 D5>,"[0, 2]","[0, 2]",Allard_5diversions.xml,,53,1 3/4
+1.75,<music21.chord.Chord D2 D3 A4 D5>,"[0, -7]","[9, 2]",Allard_5diversions.xml,,53,1 7/8
+2.0,<music21.chord.Chord D2 D3 G4 D5>,"[0, 5]","[2, 7]",Allard_5diversions.xml,,53,2
+2.25,<music21.chord.Chord D2 D3 F#4 D5>,"[0, 4]","[2, 6]",Allard_5diversions.xml,,53,2 1/8
+2.5,<music21.chord.Chord D2 D3 G4 D5>,"[0, 5]","[2, 7]",Allard_5diversions.xml,,53,2 1/4
+2.75,<music21.chord.Chord D2 D3 F#4 D5>,"[0, 4]","[2, 6]",Allard_5diversions.xml,,53,2 3/8
+3.0,<music21.chord.Chord D2 D3 E4 D5>,"[0, 2]","[2, 4]",Allard_5diversions.xml,,53,2 1/2
+3.25,<music21.chord.Chord D2 D3 F#4 D5>,"[0, 4]","[2, 6]",Allard_5diversions.xml,,53,2 5/8
+3.5,<music21.chord.Chord D2 D3 E4 D5>,"[0, 2]","[2, 4]",Allard_5diversions.xml,,53,2 3/4
+3.75,<music21.chord.Chord D2 D3 D5>,[0],[2],Allard_5diversions.xml,,53,2 7/8
+0.0,<music21.chord.Chord C2 C3 E-4 G4 B4 E5>,"[0, -11, -8, -7, -4]","[11, 0, 3, 4, 7]",Allard_5diversions.xml,,54,1
+1.5,<music21.chord.Chord G2 E-4 G4 C-5 E5>,"[0, 1, 4, 8]","[3, 4, 7, 11]",Allard_5diversions.xml,,54,1 3/4
+2.0,<music21.chord.Chord C2 C3 E-4 G4 B4 E5>,"[0, -11, -8, -7, -4]","[11, 0, 3, 4, 7]",Allard_5diversions.xml,,54,2
+2.5,<music21.chord.Chord C2 C3 E-4 G4 B4 E5>,"[0, -11, -8, -7, -4]","[11, 0, 3, 4, 7]",Allard_5diversions.xml,,54,2 1/4
+3.0,<music21.chord.Chord G2 E-4 G4 B4 E5>,"[0, 1, 4, 8]","[3, 4, 7, 11]",Allard_5diversions.xml,,54,2 1/2
+3.5,<music21.chord.Chord C2 C3 E-4 G4 B4 E5>,"[0, -11, -8, -7, -4]","[11, 0, 3, 4, 7]",Allard_5diversions.xml,,54,2 3/4
+0.0,<music21.chord.Chord A1 A2 E4 G4 C-5 E5>,"[0, 3, 5, 7]","[4, 7, 9, 11]",Allard_5diversions.xml,,55,1
+1.0,<music21.chord.Chord E2 E4 G4 C-5 E5>,"[0, 3, 7]","[4, 7, 11]",Allard_5diversions.xml,,55,1 1/2
+1.5,<music21.chord.Chord A1 A2 E4 G4 C5 E5>,"[0, 3, 5, -4]","[4, 7, 9, 0]",Allard_5diversions.xml,,55,1 3/4
+2.0,<music21.chord.Chord A1 A2 E4 G4 C5 E5>,"[0, 3, 5, -4]","[4, 7, 9, 0]",Allard_5diversions.xml,,55,2
+2.5,<music21.chord.Chord E2 E4 G4 C5 E5>,"[0, 4, 7]","[0, 4, 7]",Allard_5diversions.xml,,55,2 1/4
+3.0,<music21.chord.Chord B-1 B-2 E4 G4 C5 E5>,"[0, 3, 6, -4]","[4, 7, 10, 0]",Allard_5diversions.xml,,55,2 1/2
+3.5,<music21.chord.Chord C2 C3 E4 G4 C5 E5>,"[0, 4, 7]","[0, 4, 7]",Allard_5diversions.xml,,55,2 3/4
+0.0,<music21.chord.Chord D2 D3 D5>,[0],[2],Allard_5diversions.xml,,56,1
+0.5,<music21.chord.Chord A2 D5>,"[0, -7]","[9, 2]",Allard_5diversions.xml,,56,1 1/4
+1.0,<music21.chord.Chord D2 D3 D5>,[0],[2],Allard_5diversions.xml,,56,1 1/2
+1.5,<music21.chord.Chord A2 A3 D5>,"[0, -7]","[9, 2]",Allard_5diversions.xml,,56,1 3/4
+2.0,<music21.chord.Chord E3 D5>,"[0, 2]","[2, 4]",Allard_5diversions.xml,,56,2
+2.5,<music21.chord.Chord G2 G3 D5>,"[0, 5]","[2, 7]",Allard_5diversions.xml,,56,2 1/4
+3.0,<music21.chord.Chord D3 D5>,[0],[2],Allard_5diversions.xml,,56,2 1/2
+3.5,<music21.chord.Chord E2 E3 D5>,"[0, 2]","[2, 4]",Allard_5diversions.xml,,56,2 3/4
+0.0,<music21.chord.Chord B-2 D5>,"[0, -8]","[10, 2]",Allard_5diversions.xml,,57,1
+0.5,<music21.chord.Chord D2 D3 D5>,[0],[2],Allard_5diversions.xml,,57,1 1/4
+1.0,<music21.chord.Chord A2 D5>,"[0, -7]","[9, 2]",Allard_5diversions.xml,,57,1 1/2
+1.5,<music21.chord.Chord C2 C3 D5>,"[0, 2]","[0, 2]",Allard_5diversions.xml,,57,1 3/4
+2.0,<music21.chord.Chord G2 D5>,"[0, 5]","[2, 7]",Allard_5diversions.xml,,57,2
+2.5,<music21.chord.Chord A1 A2 D5>,"[0, -7]","[9, 2]",Allard_5diversions.xml,,57,2 1/4
+3.0,<music21.chord.Chord E2 D5>,"[0, 2]","[2, 4]",Allard_5diversions.xml,,57,2 1/2
+3.5,<music21.chord.Chord G1 G2 D5>,"[0, 5]","[2, 7]",Allard_5diversions.xml,,57,2 3/4
+0.0,<music21.chord.Chord D1 D2 E4 G4 A4 D5>,"[0, 2, 5, 7]","[2, 4, 7, 9]",Allard_5diversions.xml,,58,1
+0.5,<music21.chord.Chord D1 D2 E4 G4 A4 D5>,"[0, 2, 5, 7]","[2, 4, 7, 9]",Allard_5diversions.xml,,58,1 1/4
+1.0,<music21.chord.Chord D1 D2 E4 G4 A4 D5>,"[0, 2, 5, 7]","[2, 4, 7, 9]",Allard_5diversions.xml,,58,1 1/2
+1.5,<music21.chord.Chord D1 D2 E4 G4 A4 D5>,"[0, 2, 5, 7]","[2, 4, 7, 9]",Allard_5diversions.xml,,58,1 3/4
+2.0,<music21.chord.Chord D1 D2 E4 G4 A4 D5>,"[0, 2, 5, 7]","[2, 4, 7, 9]",Allard_5diversions.xml,,58,2
+2.5,<music21.chord.Chord D1 D2 E4 G4 A4 D5>,"[0, 2, 5, 7]","[2, 4, 7, 9]",Allard_5diversions.xml,,58,2 1/4
+3.0,<music21.chord.Chord D1 D2 E4 G4 A4 D5>,"[0, 2, 5, 7]","[2, 4, 7, 9]",Allard_5diversions.xml,,58,2 1/2
+3.5,<music21.chord.Chord D1 D2 E4 G4 A4 D5>,"[0, 2, 5, 7]","[2, 4, 7, 9]",Allard_5diversions.xml,,58,2 3/4
+0.0,<music21.chord.Chord G2 D4 G4 B-4 D5>,"[0, 3, -5]","[7, 10, 2]",Allard_5diversions.xml,,59,1
+0.5,<music21.chord.Chord G1 G2 D4 G4 B-4 D5>,"[0, 3, -5]","[7, 10, 2]",Allard_5diversions.xml,,59,1 1/4
