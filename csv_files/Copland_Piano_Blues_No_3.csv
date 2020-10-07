@@ -1,229 +1,229 @@
-measureNumber,beatNumber,offset,Chord,NormalForm,PCsInNormalForm,file,Composer
-1,1,0.0,<music21.chord.Chord E-2 B-2 A-3 D-4 F4>,"[0, 2, 4, 7, 9]","[1, 3, 5, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland
-1,1 1/2,0.5,<music21.chord.Chord F2 C3 G3 C4 E-4>,"[0, 3, 5, 7]","[0, 3, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland
-1,2 1/2,1.5,<music21.chord.Chord F2 C3 G3 C4 E-4>,"[0, 3, 5, 7]","[0, 3, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland
-1,2 3/4,1.75,<music21.chord.Chord G-2 D-3 B-3 F4 A-4>,"[0, 1, 3, 5, 8]","[5, 6, 8, 10, 1]",Copland_Piano_Blues_No_3.mxl,Copland
-1,3,2.0,<music21.chord.Chord G-2 D-3 B-3 F4 A-4>,"[0, 1, 3, 5, 8]","[5, 6, 8, 10, 1]",Copland_Piano_Blues_No_3.mxl,Copland
-1,4,3.0,<music21.chord.Chord C-2 D-3 B-3 E-4 G4>,"[0, 3, 4, 6, 8]","[7, 10, 11, 1, 3]",Copland_Piano_Blues_No_3.mxl,Copland
-2,1,4.0,<music21.chord.Chord E-2 B-2 A-3 D-4 F4>,"[0, 2, 4, 7, 9]","[1, 3, 5, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland
-2,1 1/2,4.5,<music21.chord.Chord F2 C3 G3 C4 E-4>,"[0, 3, 5, 7]","[0, 3, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland
-2,2 1/2,5.5,<music21.chord.Chord F2 C3 G3 C4 E-4>,"[0, 3, 5, 7]","[0, 3, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland
-2,2 3/4,5.75,<music21.chord.Chord G-2 D-3 B-3 F4 A-4>,"[0, 1, 3, 5, 8]","[5, 6, 8, 10, 1]",Copland_Piano_Blues_No_3.mxl,Copland
-2,3,6.0,<music21.chord.Chord G-2 D-3 B-3 F4 A-4>,"[0, 1, 3, 5, 8]","[5, 6, 8, 10, 1]",Copland_Piano_Blues_No_3.mxl,Copland
-2,4,7.0,<music21.chord.Chord G-1 G-2 D-3 B-3 F4 A-4 D-5 F5>,"[0, 1, 3, 5, 8]","[5, 6, 8, 10, 1]",Copland_Piano_Blues_No_3.mxl,Copland
-3,1,8.0,<music21.chord.Chord E-2 B-2 A-3 D-4 F4>,"[0, 2, 4, 7, 9]","[1, 3, 5, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland
-3,1 1/2,8.5,<music21.chord.Chord F2 C3 G3 C4 E-4>,"[0, 3, 5, 7]","[0, 3, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland
-3,2 1/2,9.5,<music21.chord.Chord F2 C3 G3 C4 E-4>,"[0, 3, 5, 7]","[0, 3, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland
-3,2 3/4,9.75,<music21.chord.Chord G-2 D-3 B-3 F4 A-4>,"[0, 1, 3, 5, 8]","[5, 6, 8, 10, 1]",Copland_Piano_Blues_No_3.mxl,Copland
-3,3,10.0,<music21.chord.Chord G-2 D-3 B-3 F4 A-4>,"[0, 1, 3, 5, 8]","[5, 6, 8, 10, 1]",Copland_Piano_Blues_No_3.mxl,Copland
-3,4,11.0,<music21.chord.Chord C-2 D-3 B-3 E-4 G4>,"[0, 3, 4, 6, 8]","[7, 10, 11, 1, 3]",Copland_Piano_Blues_No_3.mxl,Copland
-4,1,12.0,<music21.chord.Chord E-2 B-2 A-3 D-4 F4>,"[0, 2, 4, 7, 9]","[1, 3, 5, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland
-4,1 1/2,12.5,<music21.chord.Chord F2 C3 G3 C4 E-4>,"[0, 3, 5, 7]","[0, 3, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland
-4,2 1/2,13.5,<music21.chord.Chord F2 C3 G3 C4 E-4>,"[0, 3, 5, 7]","[0, 3, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland
-4,2 3/4,13.75,<music21.chord.Chord G-2 D-3 A-3 B-3 F4 C5>,"[0, 1, 3, 5, 7, 8]","[5, 6, 8, 10, 0, 1]",Copland_Piano_Blues_No_3.mxl,Copland
-4,3,14.0,<music21.chord.Chord G-2 D-3 A-3 B-3 F4 C5>,"[0, 1, 3, 5, 7, 8]","[5, 6, 8, 10, 0, 1]",Copland_Piano_Blues_No_3.mxl,Copland
-4,4,15.0,<music21.chord.Chord G-1 G-2 D-3 A-3 B-3 F4 C5 F5 A-5>,"[0, 1, 3, 5, 7, 8]","[5, 6, 8, 10, 0, 1]",Copland_Piano_Blues_No_3.mxl,Copland
-5,1,16.0,<music21.chord.Chord F3 E-4 C5>,"[0, 3, 5]","[0, 3, 5]",Copland_Piano_Blues_No_3.mxl,Copland
-5,2,16.5,<music21.chord.Chord A-3 F4 A-4>,"[0, 3]","[5, 8]",Copland_Piano_Blues_No_3.mxl,Copland
-5,4,17.5,<music21.chord.Chord B-3 D-4 C5>,"[0, 2, 3]","[10, 0, 1]",Copland_Piano_Blues_No_3.mxl,Copland
-5,6,18.5,<music21.chord.Chord D-3 F4 B-4>,"[0, 3, 7]","[10, 1, 5]",Copland_Piano_Blues_No_3.mxl,Copland
-6,1,19.5,<music21.chord.Chord E-3 D-4 A-4>,"[0, 2, 7]","[1, 3, 8]",Copland_Piano_Blues_No_3.mxl,Copland
-6,2,20.0,<music21.chord.Chord F3 E-4 C5>,"[0, 3, 5]","[0, 3, 5]",Copland_Piano_Blues_No_3.mxl,Copland
-6,4,21.0,<music21.chord.Chord A-3 F4 B-4>,"[0, 3, 5]","[5, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland
-6,6,22.0,<music21.chord.Chord B-2 A-3 F4 B-4 D-5 F5>,"[0, 3, 5, 8]","[5, 8, 10, 1]",Copland_Piano_Blues_No_3.mxl,Copland
-7,1,23.0,<music21.chord.Chord F2 A-3 E-4 C5>,"[0, 3, 5, 8]","[0, 3, 5, 8]",Copland_Piano_Blues_No_3.mxl,Copland
-7,2,23.5,<music21.chord.Chord A-2 B-3 F4 A-4>,"[0, 3, 5]","[5, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland
-7,4,24.5,<music21.chord.Chord B-2 A-3 D-4 C5>,"[0, 2, 4, 5]","[8, 10, 0, 1]",Copland_Piano_Blues_No_3.mxl,Copland
-7,6,25.5,<music21.chord.Chord D-3 B-3 F4 B-4 E-5>,"[0, 3, 5, 7]","[10, 1, 3, 5]",Copland_Piano_Blues_No_3.mxl,Copland
-8,1,26.5,<music21.chord.Chord E-3 B-3 D-4 A-4>,"[0, 2, 5, 7]","[8, 10, 1, 3]",Copland_Piano_Blues_No_3.mxl,Copland
-8,2,27.0,<music21.chord.Chord F3 A-3 E-4 C5>,"[0, 3, 5, 8]","[0, 3, 5, 8]",Copland_Piano_Blues_No_3.mxl,Copland
-8,4,28.0,<music21.chord.Chord A-3 D-4 B-4 E-5>,"[0, 2, 5, 7]","[8, 10, 1, 3]",Copland_Piano_Blues_No_3.mxl,Copland
-8,6,29.0,<music21.chord.Chord B-2 A-3 D-4 B-4 E-5 F5 A-5>,"[0, 2, 4, 7, 9]","[1, 3, 5, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland
-9,1,30.0,<music21.chord.Chord E-2 B-2 A-3 D-4 F4>,"[0, 2, 4, 7, 9]","[1, 3, 5, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland
-9,1 1/2,30.5,<music21.chord.Chord F2 C3 G3 C4 E-4>,"[0, 3, 5, 7]","[0, 3, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland
-9,2 1/2,31.5,<music21.chord.Chord F2 C3 G3 C4 E-4>,"[0, 3, 5, 7]","[0, 3, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland
-9,2 3/4,31.75,<music21.chord.Chord G-2 D-3 B-3 F4 A-4>,"[0, 1, 3, 5, 8]","[5, 6, 8, 10, 1]",Copland_Piano_Blues_No_3.mxl,Copland
-9,3,32.0,<music21.chord.Chord G-2 D-3 B-3 F4 A-4>,"[0, 1, 3, 5, 8]","[5, 6, 8, 10, 1]",Copland_Piano_Blues_No_3.mxl,Copland
-9,4,33.0,<music21.chord.Chord C-2 D-3 B-3 E-4 G4>,"[0, 3, 4, 6, 8]","[7, 10, 11, 1, 3]",Copland_Piano_Blues_No_3.mxl,Copland
-10,1,34.0,<music21.chord.Chord E-2 B-2 A-3 D-4 F4>,"[0, 2, 4, 7, 9]","[1, 3, 5, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland
-10,1 1/2,34.5,<music21.chord.Chord F2 C3 G3 C4 E-4>,"[0, 3, 5, 7]","[0, 3, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland
-10,2 1/2,35.5,<music21.chord.Chord F2 C3 G3 C4 E-4>,"[0, 3, 5, 7]","[0, 3, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland
-10,2 3/4,35.75,<music21.chord.Chord G-2 D-3 A-3 B-3 F4 C5>,"[0, 1, 3, 5, 7, 8]","[5, 6, 8, 10, 0, 1]",Copland_Piano_Blues_No_3.mxl,Copland
-10,3,36.0,<music21.chord.Chord G-2 D-3 A-3 B-3 F4 C5>,"[0, 1, 3, 5, 7, 8]","[5, 6, 8, 10, 0, 1]",Copland_Piano_Blues_No_3.mxl,Copland
-10,4,37.0,<music21.chord.Chord G-1 G-2 D-3 A-3 B-3 F4 C5 F5 A-5>,"[0, 1, 3, 5, 7, 8]","[5, 6, 8, 10, 0, 1]",Copland_Piano_Blues_No_3.mxl,Copland
-11,1,38.0,<music21.chord.Chord E-2 B-2 A-3 D-4 F4>,"[0, 2, 4, 7, 9]","[1, 3, 5, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland
-11,2,38.5,<music21.chord.Chord F2 C3 G3 C4 E-4>,"[0, 3, 5, 7]","[0, 3, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland
-11,4,39.5,<music21.chord.Chord G-2 D-3 A-3 C4 A-4 E-5>,"[0, 1, 3, 6, 8]","[0, 1, 3, 6, 8]",Copland_Piano_Blues_No_3.mxl,Copland
-11,6,40.5,<music21.chord.Chord G-2 D-3 A-3 C4 E-4 A-4 C5>,"[0, 1, 3, 6, 8]","[0, 1, 3, 6, 8]",Copland_Piano_Blues_No_3.mxl,Copland
-12,1,41.5,<music21.chord.Chord F2 C3 B-3 E-4 G4>,"[0, 2, 4, 7, 9]","[3, 5, 7, 10, 0]",Copland_Piano_Blues_No_3.mxl,Copland
-12,1 1/2,42.0,<music21.chord.Chord G2 D3 A3 D4 F4>,"[0, 3, 5, 7]","[2, 5, 7, 9]",Copland_Piano_Blues_No_3.mxl,Copland
-12,3,43.5,<music21.chord.Chord A-2 E-3 B-3 D4 B-4 F5>,"[0, 1, 3, 6, 8]","[2, 3, 5, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland
-12,4,44.5,<music21.chord.Chord A-1 A-2 E-3 B-3 D4 B-4 F5>,"[0, 1, 3, 6, 8]","[2, 3, 5, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland
-13,1,45.5,<music21.chord.Chord G3 E-5 G5>,"[0, 4]","[3, 7]",Copland_Piano_Blues_No_3.mxl,Copland
-13,2,46.0,<music21.chord.Chord A-3 C5 E-5>,"[0, 4, 7]","[8, 0, 3]",Copland_Piano_Blues_No_3.mxl,Copland
-13,4,47.0,<music21.chord.Chord B-3 E-5 G5>,"[0, 4, 7]","[3, 7, 10]",Copland_Piano_Blues_No_3.mxl,Copland
-13,6,48.0,<music21.chord.Chord B-4 D5 F5>,"[0, 4, 7]","[10, 2, 5]",Copland_Piano_Blues_No_3.mxl,Copland
-14,1,49.0,<music21.chord.Chord G3 C5 E-5>,"[0, 3, 7]","[0, 3, 7]",Copland_Piano_Blues_No_3.mxl,Copland
-14,1 1/3,49.5,<music21.chord.Chord A-3 E-5 G5>,"[0, 4, 5]","[3, 7, 8]",Copland_Piano_Blues_No_3.mxl,Copland
-14,2,50.5,<music21.chord.Chord B-3 D5 F5>,"[0, 4, 7]","[10, 2, 5]",Copland_Piano_Blues_No_3.mxl,Copland
-14,2 1/2,51.25,<music21.chord.Chord G3 D5 F5>,"[0, 3, 5]","[2, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland
-14,2 2/3,51.5,<music21.chord.Chord A-3 C5 E-5>,"[0, 4, 7]","[8, 0, 3]",Copland_Piano_Blues_No_3.mxl,Copland
-15,1,52.0,<music21.chord.Chord B-3 B-4 D5>,"[0, 4]","[10, 2]",Copland_Piano_Blues_No_3.mxl,Copland
-15,1 1/3,52.5,<music21.chord.Chord C4 A-4 C5>,"[0, 4]","[8, 0]",Copland_Piano_Blues_No_3.mxl,Copland
-15,2,53.5,<music21.chord.Chord D4 G4 B-4>,"[0, 3, 7]","[7, 10, 2]",Copland_Piano_Blues_No_3.mxl,Copland
-15,2 2/3,54.5,<music21.chord.Chord E-4 C5 E-5>,"[0, 3]","[0, 3]",Copland_Piano_Blues_No_3.mxl,Copland
-16,1,55.0,<music21.chord.Chord E-4 C5 E-5>,"[0, 3]","[0, 3]",Copland_Piano_Blues_No_3.mxl,Copland
-16,1 1/3,55.5,<music21.chord.Chord B-3 G4 B-4>,"[0, 3]","[7, 10]",Copland_Piano_Blues_No_3.mxl,Copland
-16,1 2/3,56.0,<music21.chord.Chord G3 C5 E-5>,"[0, 3, 7]","[0, 3, 7]",Copland_Piano_Blues_No_3.mxl,Copland
-16,2 1/3,57.0,<music21.chord.Chord B-3 G4 B-4>,"[0, 3]","[7, 10]",Copland_Piano_Blues_No_3.mxl,Copland
-16,2 2/3,57.5,<music21.chord.Chord G3 C5 E-5>,"[0, 3, 7]","[0, 3, 7]",Copland_Piano_Blues_No_3.mxl,Copland
-17,1,58.0,<music21.chord.Chord G3 C5 E-5>,"[0, 3, 7]","[0, 3, 7]",Copland_Piano_Blues_No_3.mxl,Copland
-17,1 1/3,58.5,<music21.chord.Chord B-3 G4 B-4>,"[0, 3]","[7, 10]",Copland_Piano_Blues_No_3.mxl,Copland
-17,2,59.5,<music21.chord.Chord C4 F4 A-4>,"[0, 3, 7]","[5, 8, 0]",Copland_Piano_Blues_No_3.mxl,Copland
-17,2 1/3,60.0,<music21.chord.Chord D4 E-4 G4>,"[0, 1, 5]","[2, 3, 7]",Copland_Piano_Blues_No_3.mxl,Copland
-18,1,61.0,<music21.chord.Chord F3 E-4 G4>,"[0, 2, 4]","[3, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland
-18,2,61.5,<music21.chord.Chord G3 D4 F4>,"[0, 3, 5]","[2, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland
-18,4,62.5,<music21.chord.Chord A-3 G4 B-4>,"[0, 1, 3]","[7, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland
-18,6,63.5,<music21.chord.Chord B-3 F4 A4>,"[0, 4, 5]","[5, 9, 10]",Copland_Piano_Blues_No_3.mxl,Copland
-19,1,64.5,<music21.chord.Chord F3 E-4 G4>,"[0, 2, 4]","[3, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland
-19,2,65.0,<music21.chord.Chord G3 D4 F4>,"[0, 3, 5]","[2, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland
-19,4,66.0,<music21.chord.Chord A-3 G4 B-4>,"[0, 1, 3]","[7, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland
-19,6,67.0,<music21.chord.Chord C3 A-3 G4 B-4>,"[0, 1, 3, 5]","[7, 8, 10, 0]",Copland_Piano_Blues_No_3.mxl,Copland
-20,1,68.0,<music21.chord.Chord F3 E-4 G4>,"[0, 2, 4]","[3, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland
-20,1 1/2,68.5,<music21.chord.Chord G3 D4 F4>,"[0, 3, 5]","[2, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland
-20,2 1/2,69.5,<music21.chord.Chord A-3 G4 B-4>,"[0, 1, 3]","[7, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland
-20,3,70.0,<music21.chord.Chord A-3 G4 B-4>,"[0, 1, 3]","[7, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland
-20,4,71.0,<music21.chord.Chord B-3 F4 A4>,"[0, 4, 5]","[5, 9, 10]",Copland_Piano_Blues_No_3.mxl,Copland
-21,1,72.0,<music21.chord.Chord C4 E-4 G4>,"[0, 3, 7]","[0, 3, 7]",Copland_Piano_Blues_No_3.mxl,Copland
-21,1 1/2,72.5,<music21.chord.Chord D4 F4>,"[0, 3]","[2, 5]",Copland_Piano_Blues_No_3.mxl,Copland
-21,2 1/2,73.5,<music21.chord.Chord E-4 G4 B-4>,"[0, 4, 7]","[3, 7, 10]",Copland_Piano_Blues_No_3.mxl,Copland
-21,3,74.0,<music21.chord.Chord E-4 G4 B-4>,"[0, 4, 7]","[3, 7, 10]",Copland_Piano_Blues_No_3.mxl,Copland
-21,4,75.0,<music21.chord.Chord A-2 E-4 G4 B-4 E-5 G5>,"[0, 4, 5, 7]","[3, 7, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland
-22,1,76.0,<music21.chord.Chord F2 A-3 E-5 B-5 D6>,"[0, 1, 3, 6, 8]","[2, 3, 5, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland
-22,2,76.5,<music21.chord.Chord A-2 B-3 C5 E-5>,"[0, 2, 4, 7]","[8, 10, 0, 3]",Copland_Piano_Blues_No_3.mxl,Copland
-22,4,77.5,<music21.chord.Chord B-2 C4 E-4 F4>,"[0, 2, 5, 7]","[10, 0, 3, 5]",Copland_Piano_Blues_No_3.mxl,Copland
-22,6,78.5,<music21.chord.Chord B-2 B-3 C4 E-4 A-4 F5>,"[0, 2, 4, 7, 9]","[8, 10, 0, 3, 5]",Copland_Piano_Blues_No_3.mxl,Copland
-23,1,79.5,<music21.chord.Chord F2 A-3 E-5 B-5 D6>,"[0, 1, 3, 6, 8]","[2, 3, 5, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland
-23,2,80.0,<music21.chord.Chord A-2 B-3 C5 E-5>,"[0, 2, 4, 7]","[8, 10, 0, 3]",Copland_Piano_Blues_No_3.mxl,Copland
-23,4,81.0,<music21.chord.Chord B-2 C4 E-4 F4>,"[0, 2, 5, 7]","[10, 0, 3, 5]",Copland_Piano_Blues_No_3.mxl,Copland
-23,6,82.0,<music21.chord.Chord B-2 A-3 C4 E-4 A-4 F5>,"[0, 2, 4, 7, 9]","[8, 10, 0, 3, 5]",Copland_Piano_Blues_No_3.mxl,Copland
-24,1,83.0,<music21.chord.Chord B-4 F5>,"[0, 5]","[5, 10]",Copland_Piano_Blues_No_3.mxl,Copland
-24,1 1/2,83.5,<music21.chord.Chord A-4>,[0],[8],Copland_Piano_Blues_No_3.mxl,Copland
-24,2,84.0,<music21.chord.Chord C4 A-4>,"[0, 4]","[8, 0]",Copland_Piano_Blues_No_3.mxl,Copland
-24,2 1/2,84.5,<music21.chord.Chord C4 G5>,"[0, 5]","[7, 0]",Copland_Piano_Blues_No_3.mxl,Copland
-24,3,85.0,<music21.chord.Chord C5 G5>,"[0, 5]","[7, 0]",Copland_Piano_Blues_No_3.mxl,Copland
-24,3 1/2,85.5,<music21.chord.Chord C5 E-5>,"[0, 3]","[0, 3]",Copland_Piano_Blues_No_3.mxl,Copland
-24,4,86.0,<music21.chord.Chord A-4 E-5>,"[0, 5]","[3, 8]",Copland_Piano_Blues_No_3.mxl,Copland
-24,4 1/2,86.5,<music21.chord.Chord A-4 C5>,"[0, 4]","[8, 0]",Copland_Piano_Blues_No_3.mxl,Copland
-25,1,87.0,<music21.chord.Chord A-4 B-4>,"[0, 2]","[8, 10]",Copland_Piano_Blues_No_3.mxl,Copland
-25,1 1/2,87.5,<music21.chord.Chord A-4 C5>,"[0, 4]","[8, 0]",Copland_Piano_Blues_No_3.mxl,Copland
-25,2,88.0,<music21.chord.Chord E-4 C5>,"[0, 3]","[0, 3]",Copland_Piano_Blues_No_3.mxl,Copland
-25,2 1/2,88.5,<music21.chord.Chord E-4 B-5>,"[0, 5]","[10, 3]",Copland_Piano_Blues_No_3.mxl,Copland
-25,3,89.0,<music21.chord.Chord E-5 B-5>,"[0, 5]","[10, 3]",Copland_Piano_Blues_No_3.mxl,Copland
-25,3 1/2,89.5,<music21.chord.Chord E-5 F5>,"[0, 2]","[3, 5]",Copland_Piano_Blues_No_3.mxl,Copland
-25,4,90.0,<music21.chord.Chord C4 F5>,"[0, 5]","[0, 5]",Copland_Piano_Blues_No_3.mxl,Copland
-25,4 1/2,90.5,<music21.chord.Chord C4 A-5>,"[0, 4]","[8, 0]",Copland_Piano_Blues_No_3.mxl,Copland
-26,1,91.0,<music21.chord.Chord F3 E-4 G4 D6>,"[0, 1, 3, 5]","[2, 3, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland
-26,1 1/2,91.5,<music21.chord.Chord G3 D4 F4 B-5>,"[0, 3, 5, 8]","[2, 5, 7, 10]",Copland_Piano_Blues_No_3.mxl,Copland
-26,2 1/2,92.5,<music21.chord.Chord A-3 G4 B-4 G5>,"[0, 1, 3]","[7, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland
-26,3,93.0,<music21.chord.Chord A-3 G4 B-4 G5>,"[0, 1, 3]","[7, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland
-26,4,94.0,<music21.chord.Chord C3 A-3 G4 B-4 G5>,"[0, 1, 3, 5]","[7, 8, 10, 0]",Copland_Piano_Blues_No_3.mxl,Copland
-26,4 1/2,94.5,<music21.chord.Chord C3 A-3 G4 B-5>,"[0, 1, 3, 5]","[7, 8, 10, 0]",Copland_Piano_Blues_No_3.mxl,Copland
-27,1,95.0,<music21.chord.Chord F3 E-4 G4 D5 D6>,"[0, 1, 3, 5]","[2, 3, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland
-27,1 1/2,95.5,<music21.chord.Chord G3 D4 F4 B-4 B-5>,"[0, 3, 5, 8]","[2, 5, 7, 10]",Copland_Piano_Blues_No_3.mxl,Copland
-27,2 1/2,96.5,<music21.chord.Chord A-3 E-4 G4 E-5 E-6>,"[0, 4, 5]","[3, 7, 8]",Copland_Piano_Blues_No_3.mxl,Copland
-27,3,97.0,<music21.chord.Chord A-3 E-4 G4 E-5 E-6>,"[0, 4, 5]","[3, 7, 8]",Copland_Piano_Blues_No_3.mxl,Copland
-27,4,98.0,<music21.chord.Chord A-3 E-4 G4 B-4 E-5 E-6>,"[0, 4, 5, 7]","[3, 7, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland
-27,4 1/2,98.5,<music21.chord.Chord A-3 E-4 G4 B-4 G5 G6>,"[0, 4, 5, 7]","[3, 7, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland
-28,1,99.0,<music21.chord.Chord A-3 B-4 F5 F6>,"[0, 3, 5]","[5, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland
-28,1 1/2,99.5,<music21.chord.Chord B-3 A-4 D-5 D-6>,"[0, 2, 5]","[8, 10, 1]",Copland_Piano_Blues_No_3.mxl,Copland
-28,2 1/2,100.5,<music21.chord.Chord C-4 B-4 D-5 F5 D-6 F6>,"[0, 1, 3, 7]","[10, 11, 1, 5]",Copland_Piano_Blues_No_3.mxl,Copland
-28,3,101.0,<music21.chord.Chord C-4 B-4 D-5 F5 D-6 F6>,"[0, 1, 3, 7]","[10, 11, 1, 5]",Copland_Piano_Blues_No_3.mxl,Copland
-28,4,102.0,<music21.chord.Chord D-4 A-4 C5 E-5 C6 E-6>,"[0, 4, 5, 7]","[8, 0, 1, 3]",Copland_Piano_Blues_No_3.mxl,Copland
-29,1,103.0,<music21.chord.Chord E-4 G-4 B-4 F5 F6>,"[0, 2, 3, 7]","[3, 5, 6, 10]",Copland_Piano_Blues_No_3.mxl,Copland
-29,1 1/2,103.5,<music21.chord.Chord F4 A-4 C5 D-5 D-6>,"[0, 1, 5, 8]","[0, 1, 5, 8]",Copland_Piano_Blues_No_3.mxl,Copland
-29,2,104.0,<music21.chord.Chord F4 A-4 C5 D-5 D-6>,"[0, 1, 5, 8]","[0, 1, 5, 8]",Copland_Piano_Blues_No_3.mxl,Copland
-29,2 1/2,104.5,<music21.chord.Chord G-4 B-4 D-5 F5 D-6 F6>,"[0, 1, 5, 8]","[5, 6, 10, 1]",Copland_Piano_Blues_No_3.mxl,Copland
-29,3,105.0,<music21.chord.Chord G-4 B-4 D-5 F5 D-6 F6>,"[0, 1, 5, 8]","[5, 6, 10, 1]",Copland_Piano_Blues_No_3.mxl,Copland
-29,4,106.0,<music21.chord.Chord G-4 B-4 D-5 G-5 D-6 G-6>,"[0, 4, 7]","[6, 10, 1]",Copland_Piano_Blues_No_3.mxl,Copland
-30,1,107.0,<music21.chord.Chord D-5 E-5 A-5 D-6 A-6>,"[0, 2, 7]","[1, 3, 8]",Copland_Piano_Blues_No_3.mxl,Copland
-30,1 1/2,107.5,<music21.chord.Chord G-4 A-4 D-5 G-5 D-6>,"[0, 2, 7]","[6, 8, 1]",Copland_Piano_Blues_No_3.mxl,Copland
-30,2 1/2,108.5,<music21.chord.Chord B-3 F4 G-4 B-4 D-5>,"[0, 1, 5, 8]","[5, 6, 10, 1]",Copland_Piano_Blues_No_3.mxl,Copland
-30,3,109.0,<music21.chord.Chord B-3 F4 G-4 B-4 D-5>,"[0, 1, 5, 8]","[5, 6, 10, 1]",Copland_Piano_Blues_No_3.mxl,Copland
-30,4,110.0,<music21.chord.Chord D-3 B-3 F4 G-4 B-4 D-5>,"[0, 1, 5, 8]","[5, 6, 10, 1]",Copland_Piano_Blues_No_3.mxl,Copland
-31,1,111.0,<music21.chord.Chord E-3 D-4 F4>,"[0, 2, 4]","[1, 3, 5]",Copland_Piano_Blues_No_3.mxl,Copland
-31,1 1/2,111.5,<music21.chord.Chord F3 C4 E-4>,"[0, 3, 5]","[0, 3, 5]",Copland_Piano_Blues_No_3.mxl,Copland
-31,2 1/2,112.5,<music21.chord.Chord F3 C4 E-4>,"[0, 3, 5]","[0, 3, 5]",Copland_Piano_Blues_No_3.mxl,Copland
-31,2 3/4,112.75,<music21.chord.Chord G-3 F4 D-5>,"[0, 4, 5]","[1, 5, 6]",Copland_Piano_Blues_No_3.mxl,Copland
-31,3,113.0,<music21.chord.Chord G-3 F4 D-5>,"[0, 4, 5]","[1, 5, 6]",Copland_Piano_Blues_No_3.mxl,Copland
-31,4,114.0,<music21.chord.Chord B-2 G-3 F4 D-5>,"[0, 1, 5, 8]","[5, 6, 10, 1]",Copland_Piano_Blues_No_3.mxl,Copland
-32,1,115.0,<music21.chord.Chord B-2 E-3 D-4 F4>,"[0, 3, 5, 7]","[10, 1, 3, 5]",Copland_Piano_Blues_No_3.mxl,Copland
-32,1 1/2,115.5,<music21.chord.Chord B-2 F3 C4 E-4>,"[0, 2, 5, 7]","[10, 0, 3, 5]",Copland_Piano_Blues_No_3.mxl,Copland
-32,2 1/2,116.5,<music21.chord.Chord F3 C4 E-4>,"[0, 3, 5]","[0, 3, 5]",Copland_Piano_Blues_No_3.mxl,Copland
-32,2 3/4,116.75,<music21.chord.Chord G-3 F4 A-4>,"[0, 1, 3]","[5, 6, 8]",Copland_Piano_Blues_No_3.mxl,Copland
-32,3,117.0,<music21.chord.Chord G-3 F4 A-4>,"[0, 1, 3]","[5, 6, 8]",Copland_Piano_Blues_No_3.mxl,Copland
-32,4,118.0,<music21.chord.Chord B-2 G-3 F4 A-4>,"[0, 1, 3, 5]","[5, 6, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland
-33,1,119.0,<music21.chord.Chord E-2 B-2 A-3 D-4 F4>,"[0, 2, 4, 7, 9]","[1, 3, 5, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland
-33,1 1/2,119.5,<music21.chord.Chord F2 C3 G3 C4 E-4>,"[0, 3, 5, 7]","[0, 3, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland
-33,2 1/2,120.5,<music21.chord.Chord F2 C3 G3 C4 E-4>,"[0, 3, 5, 7]","[0, 3, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland
-33,2 3/4,120.75,<music21.chord.Chord G-2 D-3 B-3 F4 A-4>,"[0, 1, 3, 5, 8]","[5, 6, 8, 10, 1]",Copland_Piano_Blues_No_3.mxl,Copland
-33,3,121.0,<music21.chord.Chord G-2 D-3 B-3 F4 A-4>,"[0, 1, 3, 5, 8]","[5, 6, 8, 10, 1]",Copland_Piano_Blues_No_3.mxl,Copland
-33,4,122.0,<music21.chord.Chord C-2 G-2 D-3 B-3 E-4 G4>,"[0, 1, 3, 5, 8, 9]","[10, 11, 1, 3, 6, 7]",Copland_Piano_Blues_No_3.mxl,Copland
-34,1,123.0,<music21.chord.Chord E-2 B-2 A-3 D-4 F4>,"[0, 2, 4, 7, 9]","[1, 3, 5, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland
-34,1 1/2,123.5,<music21.chord.Chord F2 C3 G3 C4 E-4>,"[0, 3, 5, 7]","[0, 3, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland
-34,2 1/2,124.5,<music21.chord.Chord F2 C3 G3 C4 E-4>,"[0, 3, 5, 7]","[0, 3, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland
-34,2 3/4,124.75,<music21.chord.Chord G-2 D-3 A-3 B-3 F4 C5>,"[0, 1, 3, 5, 7, 8]","[5, 6, 8, 10, 0, 1]",Copland_Piano_Blues_No_3.mxl,Copland
-34,3,125.0,<music21.chord.Chord G-2 D-3 A-3 B-3 F4 C5>,"[0, 1, 3, 5, 7, 8]","[5, 6, 8, 10, 0, 1]",Copland_Piano_Blues_No_3.mxl,Copland
-34,4,126.0,<music21.chord.Chord G-1 G-2 D-3 A-3 B-3 F4 C5>,"[0, 1, 3, 5, 7, 8]","[5, 6, 8, 10, 0, 1]",Copland_Piano_Blues_No_3.mxl,Copland
-35,1,127.0,<music21.chord.Chord F2 A-3 E-4 C5>,"[0, 3, 5, 8]","[0, 3, 5, 8]",Copland_Piano_Blues_No_3.mxl,Copland
-35,2,127.5,<music21.chord.Chord A-2 B-3 F4 A-4>,"[0, 3, 5]","[5, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland
-35,4,128.5,<music21.chord.Chord B-2 A-3 D-4 C5>,"[0, 2, 4, 5]","[8, 10, 0, 1]",Copland_Piano_Blues_No_3.mxl,Copland
-35,6,129.5,<music21.chord.Chord D-3 B-3 F4 B-4>,"[0, 3, 7]","[10, 1, 5]",Copland_Piano_Blues_No_3.mxl,Copland
-36,1,130.5,<music21.chord.Chord C3 F3 D-4 F4 A-4>,"[0, 1, 5, 8]","[0, 1, 5, 8]",Copland_Piano_Blues_No_3.mxl,Copland
-36,2,131.0,<music21.chord.Chord B-2 A-3 F4 C5>,"[0, 3, 5, 7]","[5, 8, 10, 0]",Copland_Piano_Blues_No_3.mxl,Copland
-36,4,132.0,<music21.chord.Chord C3 G3 E-4 B-4>,"[0, 3, 5, 8]","[7, 10, 0, 3]",Copland_Piano_Blues_No_3.mxl,Copland
-36,6,133.0,<music21.chord.Chord C2 C3 G3 E-4 B-4 E-5 G5>,"[0, 3, 5, 8]","[7, 10, 0, 3]",Copland_Piano_Blues_No_3.mxl,Copland
-37,1,134.0,<music21.chord.Chord E-2 B-2 A-3 D-4 F4>,"[0, 2, 4, 7, 9]","[1, 3, 5, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland
-37,1 1/2,134.5,<music21.chord.Chord F2 C3 G3 C4 E-4>,"[0, 3, 5, 7]","[0, 3, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland
-37,2 1/2,135.5,<music21.chord.Chord F2 C3 G3 C4 E-4>,"[0, 3, 5, 7]","[0, 3, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland
-37,2 3/4,135.75,<music21.chord.Chord G-2 D-3 A-3 B-3 F4 C5>,"[0, 1, 3, 5, 7, 8]","[5, 6, 8, 10, 0, 1]",Copland_Piano_Blues_No_3.mxl,Copland
-37,3,136.0,<music21.chord.Chord G-2 D-3 A-3 B-3 F4 C5>,"[0, 1, 3, 5, 7, 8]","[5, 6, 8, 10, 0, 1]",Copland_Piano_Blues_No_3.mxl,Copland
-37,4,137.0,<music21.chord.Chord C-2 G-2 D-3 A-3 B-3 F4 A-4>,"[0, 1, 3, 5, 6, 8]","[5, 6, 8, 10, 11, 1]",Copland_Piano_Blues_No_3.mxl,Copland
-38,1,138.0,<music21.chord.Chord E-2 B-2 A-3 D-4 F4>,"[0, 2, 4, 7, 9]","[1, 3, 5, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland
-38,1 1/2,138.5,<music21.chord.Chord F2 C3 G3 C4 E-4>,"[0, 3, 5, 7]","[0, 3, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland
-38,2 1/2,139.5,<music21.chord.Chord G-2 D-3 A-3 C4 A-4 E-5>,"[0, 1, 3, 6, 8]","[0, 1, 3, 6, 8]",Copland_Piano_Blues_No_3.mxl,Copland
-38,3,140.0,<music21.chord.Chord G-2 D-3 A-3 C4 A-4 E-5>,"[0, 1, 3, 6, 8]","[0, 1, 3, 6, 8]",Copland_Piano_Blues_No_3.mxl,Copland
-38,4,141.0,<music21.chord.Chord G-1 G-2 D-3 A-3 C4 A-4 E-5>,"[0, 1, 3, 6, 8]","[0, 1, 3, 6, 8]",Copland_Piano_Blues_No_3.mxl,Copland
-39,1,142.0,<music21.chord.Chord E-2 B-2 A-3 D-4 F4>,"[0, 2, 4, 7, 9]","[1, 3, 5, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland
-39,1 1/2,142.5,<music21.chord.Chord F2 C3 G3 C4 E-4>,"[0, 3, 5, 7]","[0, 3, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland
-39,2,143.0,<music21.chord.Chord F2 G-2 C3 G3 C4 E-4>,"[0, 3, 5, 6, 7]","[0, 3, 5, 6, 7]",Copland_Piano_Blues_No_3.mxl,Copland
-39,2 1/6,143.16666666666666,<music21.chord.Chord F2 G-2 C3 D-3 G3 C4 E-4>,"[0, 1, 3, 5, 6, 7]","[0, 1, 3, 5, 6, 7]",Copland_Piano_Blues_No_3.mxl,Copland
-39,2 1/3,143.33333333333334,<music21.chord.Chord F2 G-2 C3 D-3 G3 A-3 C4 E-4>,"[0, 1, 3, 5, 6, 7, 8]","[0, 1, 3, 5, 6, 7, 8]",Copland_Piano_Blues_No_3.mxl,Copland
-39,2 1/2,143.5,<music21.chord.Chord F2 G-2 C3 D-3 G3 A-3 B-3 C4 E-4>,"[0, 1, 2, 3, 5, 7, 8, 10]","[5, 6, 7, 8, 10, 0, 1, 3]",Copland_Piano_Blues_No_3.mxl,Copland
-39,2 2/3,143.66666666666666,<music21.chord.Chord F2 G-2 C3 D-3 G3 A-3 B-3 C4 E-4>,"[0, 1, 2, 3, 5, 7, 8, 10]","[5, 6, 7, 8, 10, 0, 1, 3]",Copland_Piano_Blues_No_3.mxl,Copland
-39,2 5/6,143.83333333333334,<music21.chord.Chord F2 G-2 C3 D-3 G3 A-3 B-3 C4 E-4 A-4>,"[0, 1, 2, 3, 5, 7, 8, 10]","[5, 6, 7, 8, 10, 0, 1, 3]",Copland_Piano_Blues_No_3.mxl,Copland
-39,3,144.0,<music21.chord.Chord G-2 D-3 A-3 B-3 E-4 A-4 F5>,"[0, 2, 4, 5, 7, 9]","[1, 3, 5, 6, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland
-39,3 1/2,144.5,<music21.chord.Chord G-1 G-2 D-3 A-3 B-3 E-4 A-4 F5>,"[0, 2, 4, 5, 7, 9]","[1, 3, 5, 6, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland
-40,1,146.0,<music21.chord.Chord E-2 B-2 A-3 D-4 F4>,"[0, 2, 4, 7, 9]","[1, 3, 5, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland
-40,1 1/2,146.5,<music21.chord.Chord F2 C3 G3 C4 E-4>,"[0, 3, 5, 7]","[0, 3, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland
-40,2,147.0,<music21.chord.Chord F2 G-2 C3 G3 C4 E-4>,"[0, 3, 5, 6, 7]","[0, 3, 5, 6, 7]",Copland_Piano_Blues_No_3.mxl,Copland
-40,2 1/8,147.125,<music21.chord.Chord F2 G-2 C3 D-3 G3 C4 E-4>,"[0, 1, 3, 5, 6, 7]","[0, 1, 3, 5, 6, 7]",Copland_Piano_Blues_No_3.mxl,Copland
-40,2 1/4,147.25,<music21.chord.Chord F2 G-2 C3 D-3 G3 A-3 C4 E-4>,"[0, 1, 3, 5, 6, 7, 8]","[0, 1, 3, 5, 6, 7, 8]",Copland_Piano_Blues_No_3.mxl,Copland
-40,2 3/8,147.375,<music21.chord.Chord F2 G-2 C3 D-3 G3 A-3 B-3 C4 E-4>,"[0, 1, 2, 3, 5, 7, 8, 10]","[5, 6, 7, 8, 10, 0, 1, 3]",Copland_Piano_Blues_No_3.mxl,Copland
-40,2 1/2,147.5,<music21.chord.Chord F2 G-2 C3 D-3 G3 A-3 B-3 C4 E-4>,"[0, 1, 2, 3, 5, 7, 8, 10]","[5, 6, 7, 8, 10, 0, 1, 3]",Copland_Piano_Blues_No_3.mxl,Copland
-40,2 5/8,147.625,<music21.chord.Chord F2 G-2 C3 D-3 G3 A-3 B-3 C4 E-4 A-4>,"[0, 1, 2, 3, 5, 7, 8, 10]","[5, 6, 7, 8, 10, 0, 1, 3]",Copland_Piano_Blues_No_3.mxl,Copland
-40,2 3/4,147.75,<music21.chord.Chord F2 G-2 C3 D-3 G3 A-3 B-3 C4 E-4 A-4 B-4>,"[0, 1, 2, 3, 5, 7, 8, 10]","[5, 6, 7, 8, 10, 0, 1, 3]",Copland_Piano_Blues_No_3.mxl,Copland
-40,2 7/8,147.875,<music21.chord.Chord F2 G-2 C3 D-3 G3 A-3 B-3 C4 E-4 A-4 B-4 F5>,"[0, 1, 2, 3, 5, 7, 8, 10]","[5, 6, 7, 8, 10, 0, 1, 3]",Copland_Piano_Blues_No_3.mxl,Copland
-40,3,148.0,<music21.chord.Chord G-2 D-3 A-3 B-3 E-4 A-4 B-4 F5 C6>,"[0, 1, 3, 5, 6, 8, 10]","[0, 1, 3, 5, 6, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland
-40,4,149.0,<music21.chord.Chord C-1 G-2 D-3 A-3 B-3 E-4 A-4 B-4 F5 C6>,"[0, 1, 2, 3, 5, 7, 8, 10]","[10, 11, 0, 1, 3, 5, 6, 8]",Copland_Piano_Blues_No_3.mxl,Copland
-41,1,150.0,<music21.chord.Chord G-2>,[0],[6],Copland_Piano_Blues_No_3.mxl,Copland
-41,1 1/8,150.125,<music21.chord.Chord G-2 D-3>,"[0, 5]","[1, 6]",Copland_Piano_Blues_No_3.mxl,Copland
-41,1 1/4,150.25,<music21.chord.Chord G-2 D-3 A-3>,"[0, 2, 7]","[6, 8, 1]",Copland_Piano_Blues_No_3.mxl,Copland
-41,1 3/8,150.375,<music21.chord.Chord G-2 D-3 A-3 B-3>,"[0, 2, 4, 7]","[6, 8, 10, 1]",Copland_Piano_Blues_No_3.mxl,Copland
-41,1 1/2,150.5,<music21.chord.Chord G-2 D-3 A-3 B-3 E-4>,"[0, 2, 4, 7, 9]","[6, 8, 10, 1, 3]",Copland_Piano_Blues_No_3.mxl,Copland
-41,1 5/8,150.625,<music21.chord.Chord G-2 D-3 A-3 B-3 E-4 A-4>,"[0, 2, 4, 7, 9]","[6, 8, 10, 1, 3]",Copland_Piano_Blues_No_3.mxl,Copland
-41,1 3/4,150.75,<music21.chord.Chord G-2 D-3 A-3 B-3 E-4 A-4 B-4>,"[0, 2, 4, 7, 9]","[6, 8, 10, 1, 3]",Copland_Piano_Blues_No_3.mxl,Copland
-41,1 7/8,150.875,<music21.chord.Chord G-2 D-3 A-3 B-3 E-4 A-4 B-4 F5>,"[0, 2, 4, 5, 7, 9]","[1, 3, 5, 6, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland
-41,2,151.0,<music21.chord.Chord G-2 D-3 A-3 B-3 E-4 A-4 B-4 F5 C6>,"[0, 1, 3, 5, 6, 8, 10]","[0, 1, 3, 5, 6, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland
-41,3,152.0,<music21.chord.Chord C-1 G-2 D-3 A-3 B-3 E-4 A-4 B-4 F5 C6>,"[0, 1, 2, 3, 5, 7, 8, 10]","[10, 11, 0, 1, 3, 5, 6, 8]",Copland_Piano_Blues_No_3.mxl,Copland
-41,4,153.0,<music21.chord.Chord C-1 G-2 D-3 A-3 C6>,"[0, 2, 5, 6, 7]","[6, 8, 11, 0, 1]",Copland_Piano_Blues_No_3.mxl,Copland
+offset,Chord,NormalForm,PCsInNormalForm,file,Composer,measureNumber,beatNumber
+0.0,<music21.chord.Chord E-2 B-2 A-3 D-4 F4>,"[0, 2, 4, 7, 9]","[1, 3, 5, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland,1,1
+0.5,<music21.chord.Chord F2 C3 G3 C4 E-4>,"[0, 3, 5, 7]","[0, 3, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland,1,1 1/2
+1.5,<music21.chord.Chord F2 C3 G3 C4 E-4>,"[0, 3, 5, 7]","[0, 3, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland,1,2 1/2
+1.75,<music21.chord.Chord G-2 D-3 B-3 F4 A-4>,"[0, 1, 3, 5, 8]","[5, 6, 8, 10, 1]",Copland_Piano_Blues_No_3.mxl,Copland,1,2 3/4
+2.0,<music21.chord.Chord G-2 D-3 B-3 F4 A-4>,"[0, 1, 3, 5, 8]","[5, 6, 8, 10, 1]",Copland_Piano_Blues_No_3.mxl,Copland,1,3
+3.0,<music21.chord.Chord C-2 D-3 B-3 E-4 G4>,"[0, 3, 4, 6, 8]","[7, 10, 11, 1, 3]",Copland_Piano_Blues_No_3.mxl,Copland,1,4
+4.0,<music21.chord.Chord E-2 B-2 A-3 D-4 F4>,"[0, 2, 4, 7, 9]","[1, 3, 5, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland,2,1
+4.5,<music21.chord.Chord F2 C3 G3 C4 E-4>,"[0, 3, 5, 7]","[0, 3, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland,2,1 1/2
+5.5,<music21.chord.Chord F2 C3 G3 C4 E-4>,"[0, 3, 5, 7]","[0, 3, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland,2,2 1/2
+5.75,<music21.chord.Chord G-2 D-3 B-3 F4 A-4>,"[0, 1, 3, 5, 8]","[5, 6, 8, 10, 1]",Copland_Piano_Blues_No_3.mxl,Copland,2,2 3/4
+6.0,<music21.chord.Chord G-2 D-3 B-3 F4 A-4>,"[0, 1, 3, 5, 8]","[5, 6, 8, 10, 1]",Copland_Piano_Blues_No_3.mxl,Copland,2,3
+7.0,<music21.chord.Chord G-1 G-2 D-3 B-3 F4 A-4 D-5 F5>,"[0, 1, 3, 5, 8]","[5, 6, 8, 10, 1]",Copland_Piano_Blues_No_3.mxl,Copland,2,4
+8.0,<music21.chord.Chord E-2 B-2 A-3 D-4 F4>,"[0, 2, 4, 7, 9]","[1, 3, 5, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland,3,1
+8.5,<music21.chord.Chord F2 C3 G3 C4 E-4>,"[0, 3, 5, 7]","[0, 3, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland,3,1 1/2
+9.5,<music21.chord.Chord F2 C3 G3 C4 E-4>,"[0, 3, 5, 7]","[0, 3, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland,3,2 1/2
+9.75,<music21.chord.Chord G-2 D-3 B-3 F4 A-4>,"[0, 1, 3, 5, 8]","[5, 6, 8, 10, 1]",Copland_Piano_Blues_No_3.mxl,Copland,3,2 3/4
+10.0,<music21.chord.Chord G-2 D-3 B-3 F4 A-4>,"[0, 1, 3, 5, 8]","[5, 6, 8, 10, 1]",Copland_Piano_Blues_No_3.mxl,Copland,3,3
+11.0,<music21.chord.Chord C-2 D-3 B-3 E-4 G4>,"[0, 3, 4, 6, 8]","[7, 10, 11, 1, 3]",Copland_Piano_Blues_No_3.mxl,Copland,3,4
+12.0,<music21.chord.Chord E-2 B-2 A-3 D-4 F4>,"[0, 2, 4, 7, 9]","[1, 3, 5, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland,4,1
+12.5,<music21.chord.Chord F2 C3 G3 C4 E-4>,"[0, 3, 5, 7]","[0, 3, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland,4,1 1/2
+13.5,<music21.chord.Chord F2 C3 G3 C4 E-4>,"[0, 3, 5, 7]","[0, 3, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland,4,2 1/2
+13.75,<music21.chord.Chord G-2 D-3 A-3 B-3 F4 C5>,"[0, 1, 3, 5, 7, 8]","[5, 6, 8, 10, 0, 1]",Copland_Piano_Blues_No_3.mxl,Copland,4,2 3/4
+14.0,<music21.chord.Chord G-2 D-3 A-3 B-3 F4 C5>,"[0, 1, 3, 5, 7, 8]","[5, 6, 8, 10, 0, 1]",Copland_Piano_Blues_No_3.mxl,Copland,4,3
+15.0,<music21.chord.Chord G-1 G-2 D-3 A-3 B-3 F4 C5 F5 A-5>,"[0, 1, 3, 5, 7, 8]","[5, 6, 8, 10, 0, 1]",Copland_Piano_Blues_No_3.mxl,Copland,4,4
+16.0,<music21.chord.Chord F3 E-4 C5>,"[0, 3, 5]","[0, 3, 5]",Copland_Piano_Blues_No_3.mxl,Copland,5,1
+16.5,<music21.chord.Chord A-3 F4 A-4>,"[0, 3]","[5, 8]",Copland_Piano_Blues_No_3.mxl,Copland,5,2
+17.5,<music21.chord.Chord B-3 D-4 C5>,"[0, 2, 3]","[10, 0, 1]",Copland_Piano_Blues_No_3.mxl,Copland,5,4
+18.5,<music21.chord.Chord D-3 F4 B-4>,"[0, 3, 7]","[10, 1, 5]",Copland_Piano_Blues_No_3.mxl,Copland,5,6
+19.5,<music21.chord.Chord E-3 D-4 A-4>,"[0, 2, 7]","[1, 3, 8]",Copland_Piano_Blues_No_3.mxl,Copland,6,1
+20.0,<music21.chord.Chord F3 E-4 C5>,"[0, 3, 5]","[0, 3, 5]",Copland_Piano_Blues_No_3.mxl,Copland,6,2
+21.0,<music21.chord.Chord A-3 F4 B-4>,"[0, 3, 5]","[5, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland,6,4
+22.0,<music21.chord.Chord B-2 A-3 F4 B-4 D-5 F5>,"[0, 3, 5, 8]","[5, 8, 10, 1]",Copland_Piano_Blues_No_3.mxl,Copland,6,6
+23.0,<music21.chord.Chord F2 A-3 E-4 C5>,"[0, 3, 5, 8]","[0, 3, 5, 8]",Copland_Piano_Blues_No_3.mxl,Copland,7,1
+23.5,<music21.chord.Chord A-2 B-3 F4 A-4>,"[0, 3, 5]","[5, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland,7,2
+24.5,<music21.chord.Chord B-2 A-3 D-4 C5>,"[0, 2, 4, 5]","[8, 10, 0, 1]",Copland_Piano_Blues_No_3.mxl,Copland,7,4
+25.5,<music21.chord.Chord D-3 B-3 F4 B-4 E-5>,"[0, 3, 5, 7]","[10, 1, 3, 5]",Copland_Piano_Blues_No_3.mxl,Copland,7,6
+26.5,<music21.chord.Chord E-3 B-3 D-4 A-4>,"[0, 2, 5, 7]","[8, 10, 1, 3]",Copland_Piano_Blues_No_3.mxl,Copland,8,1
+27.0,<music21.chord.Chord F3 A-3 E-4 C5>,"[0, 3, 5, 8]","[0, 3, 5, 8]",Copland_Piano_Blues_No_3.mxl,Copland,8,2
+28.0,<music21.chord.Chord A-3 D-4 B-4 E-5>,"[0, 2, 5, 7]","[8, 10, 1, 3]",Copland_Piano_Blues_No_3.mxl,Copland,8,4
+29.0,<music21.chord.Chord B-2 A-3 D-4 B-4 E-5 F5 A-5>,"[0, 2, 4, 7, 9]","[1, 3, 5, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland,8,6
+30.0,<music21.chord.Chord E-2 B-2 A-3 D-4 F4>,"[0, 2, 4, 7, 9]","[1, 3, 5, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland,9,1
+30.5,<music21.chord.Chord F2 C3 G3 C4 E-4>,"[0, 3, 5, 7]","[0, 3, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland,9,1 1/2
+31.5,<music21.chord.Chord F2 C3 G3 C4 E-4>,"[0, 3, 5, 7]","[0, 3, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland,9,2 1/2
+31.75,<music21.chord.Chord G-2 D-3 B-3 F4 A-4>,"[0, 1, 3, 5, 8]","[5, 6, 8, 10, 1]",Copland_Piano_Blues_No_3.mxl,Copland,9,2 3/4
+32.0,<music21.chord.Chord G-2 D-3 B-3 F4 A-4>,"[0, 1, 3, 5, 8]","[5, 6, 8, 10, 1]",Copland_Piano_Blues_No_3.mxl,Copland,9,3
+33.0,<music21.chord.Chord C-2 D-3 B-3 E-4 G4>,"[0, 3, 4, 6, 8]","[7, 10, 11, 1, 3]",Copland_Piano_Blues_No_3.mxl,Copland,9,4
+34.0,<music21.chord.Chord E-2 B-2 A-3 D-4 F4>,"[0, 2, 4, 7, 9]","[1, 3, 5, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland,10,1
+34.5,<music21.chord.Chord F2 C3 G3 C4 E-4>,"[0, 3, 5, 7]","[0, 3, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland,10,1 1/2
+35.5,<music21.chord.Chord F2 C3 G3 C4 E-4>,"[0, 3, 5, 7]","[0, 3, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland,10,2 1/2
+35.75,<music21.chord.Chord G-2 D-3 A-3 B-3 F4 C5>,"[0, 1, 3, 5, 7, 8]","[5, 6, 8, 10, 0, 1]",Copland_Piano_Blues_No_3.mxl,Copland,10,2 3/4
+36.0,<music21.chord.Chord G-2 D-3 A-3 B-3 F4 C5>,"[0, 1, 3, 5, 7, 8]","[5, 6, 8, 10, 0, 1]",Copland_Piano_Blues_No_3.mxl,Copland,10,3
+37.0,<music21.chord.Chord G-1 G-2 D-3 A-3 B-3 F4 C5 F5 A-5>,"[0, 1, 3, 5, 7, 8]","[5, 6, 8, 10, 0, 1]",Copland_Piano_Blues_No_3.mxl,Copland,10,4
+38.0,<music21.chord.Chord E-2 B-2 A-3 D-4 F4>,"[0, 2, 4, 7, 9]","[1, 3, 5, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland,11,1
+38.5,<music21.chord.Chord F2 C3 G3 C4 E-4>,"[0, 3, 5, 7]","[0, 3, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland,11,2
+39.5,<music21.chord.Chord G-2 D-3 A-3 C4 A-4 E-5>,"[0, 1, 3, 6, 8]","[0, 1, 3, 6, 8]",Copland_Piano_Blues_No_3.mxl,Copland,11,4
+40.5,<music21.chord.Chord G-2 D-3 A-3 C4 E-4 A-4 C5>,"[0, 1, 3, 6, 8]","[0, 1, 3, 6, 8]",Copland_Piano_Blues_No_3.mxl,Copland,11,6
+41.5,<music21.chord.Chord F2 C3 B-3 E-4 G4>,"[0, 2, 4, 7, 9]","[3, 5, 7, 10, 0]",Copland_Piano_Blues_No_3.mxl,Copland,12,1
+42.0,<music21.chord.Chord G2 D3 A3 D4 F4>,"[0, 3, 5, 7]","[2, 5, 7, 9]",Copland_Piano_Blues_No_3.mxl,Copland,12,1 1/2
+43.5,<music21.chord.Chord A-2 E-3 B-3 D4 B-4 F5>,"[0, 1, 3, 6, 8]","[2, 3, 5, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland,12,3
+44.5,<music21.chord.Chord A-1 A-2 E-3 B-3 D4 B-4 F5>,"[0, 1, 3, 6, 8]","[2, 3, 5, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland,12,4
+45.5,<music21.chord.Chord G3 E-5 G5>,"[0, 4]","[3, 7]",Copland_Piano_Blues_No_3.mxl,Copland,13,1
+46.0,<music21.chord.Chord A-3 C5 E-5>,"[0, 4, 7]","[8, 0, 3]",Copland_Piano_Blues_No_3.mxl,Copland,13,2
+47.0,<music21.chord.Chord B-3 E-5 G5>,"[0, 4, 7]","[3, 7, 10]",Copland_Piano_Blues_No_3.mxl,Copland,13,4
+48.0,<music21.chord.Chord B-4 D5 F5>,"[0, 4, 7]","[10, 2, 5]",Copland_Piano_Blues_No_3.mxl,Copland,13,6
+49.0,<music21.chord.Chord G3 C5 E-5>,"[0, 3, 7]","[0, 3, 7]",Copland_Piano_Blues_No_3.mxl,Copland,14,1
+49.5,<music21.chord.Chord A-3 E-5 G5>,"[0, 4, 5]","[3, 7, 8]",Copland_Piano_Blues_No_3.mxl,Copland,14,1 1/3
+50.5,<music21.chord.Chord B-3 D5 F5>,"[0, 4, 7]","[10, 2, 5]",Copland_Piano_Blues_No_3.mxl,Copland,14,2
+51.25,<music21.chord.Chord G3 D5 F5>,"[0, 3, 5]","[2, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland,14,2 1/2
+51.5,<music21.chord.Chord A-3 C5 E-5>,"[0, 4, 7]","[8, 0, 3]",Copland_Piano_Blues_No_3.mxl,Copland,14,2 2/3
+52.0,<music21.chord.Chord B-3 B-4 D5>,"[0, 4]","[10, 2]",Copland_Piano_Blues_No_3.mxl,Copland,15,1
+52.5,<music21.chord.Chord C4 A-4 C5>,"[0, 4]","[8, 0]",Copland_Piano_Blues_No_3.mxl,Copland,15,1 1/3
+53.5,<music21.chord.Chord D4 G4 B-4>,"[0, 3, 7]","[7, 10, 2]",Copland_Piano_Blues_No_3.mxl,Copland,15,2
+54.5,<music21.chord.Chord E-4 C5 E-5>,"[0, 3]","[0, 3]",Copland_Piano_Blues_No_3.mxl,Copland,15,2 2/3
+55.0,<music21.chord.Chord E-4 C5 E-5>,"[0, 3]","[0, 3]",Copland_Piano_Blues_No_3.mxl,Copland,16,1
+55.5,<music21.chord.Chord B-3 G4 B-4>,"[0, 3]","[7, 10]",Copland_Piano_Blues_No_3.mxl,Copland,16,1 1/3
+56.0,<music21.chord.Chord G3 C5 E-5>,"[0, 3, 7]","[0, 3, 7]",Copland_Piano_Blues_No_3.mxl,Copland,16,1 2/3
+57.0,<music21.chord.Chord B-3 G4 B-4>,"[0, 3]","[7, 10]",Copland_Piano_Blues_No_3.mxl,Copland,16,2 1/3
+57.5,<music21.chord.Chord G3 C5 E-5>,"[0, 3, 7]","[0, 3, 7]",Copland_Piano_Blues_No_3.mxl,Copland,16,2 2/3
+58.0,<music21.chord.Chord G3 C5 E-5>,"[0, 3, 7]","[0, 3, 7]",Copland_Piano_Blues_No_3.mxl,Copland,17,1
+58.5,<music21.chord.Chord B-3 G4 B-4>,"[0, 3]","[7, 10]",Copland_Piano_Blues_No_3.mxl,Copland,17,1 1/3
+59.5,<music21.chord.Chord C4 F4 A-4>,"[0, 3, 7]","[5, 8, 0]",Copland_Piano_Blues_No_3.mxl,Copland,17,2
+60.0,<music21.chord.Chord D4 E-4 G4>,"[0, 1, 5]","[2, 3, 7]",Copland_Piano_Blues_No_3.mxl,Copland,17,2 1/3
+61.0,<music21.chord.Chord F3 E-4 G4>,"[0, 2, 4]","[3, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland,18,1
+61.5,<music21.chord.Chord G3 D4 F4>,"[0, 3, 5]","[2, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland,18,2
+62.5,<music21.chord.Chord A-3 G4 B-4>,"[0, 1, 3]","[7, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland,18,4
+63.5,<music21.chord.Chord B-3 F4 A4>,"[0, 4, 5]","[5, 9, 10]",Copland_Piano_Blues_No_3.mxl,Copland,18,6
+64.5,<music21.chord.Chord F3 E-4 G4>,"[0, 2, 4]","[3, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland,19,1
+65.0,<music21.chord.Chord G3 D4 F4>,"[0, 3, 5]","[2, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland,19,2
+66.0,<music21.chord.Chord A-3 G4 B-4>,"[0, 1, 3]","[7, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland,19,4
+67.0,<music21.chord.Chord C3 A-3 G4 B-4>,"[0, 1, 3, 5]","[7, 8, 10, 0]",Copland_Piano_Blues_No_3.mxl,Copland,19,6
+68.0,<music21.chord.Chord F3 E-4 G4>,"[0, 2, 4]","[3, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland,20,1
+68.5,<music21.chord.Chord G3 D4 F4>,"[0, 3, 5]","[2, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland,20,1 1/2
+69.5,<music21.chord.Chord A-3 G4 B-4>,"[0, 1, 3]","[7, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland,20,2 1/2
+70.0,<music21.chord.Chord A-3 G4 B-4>,"[0, 1, 3]","[7, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland,20,3
+71.0,<music21.chord.Chord B-3 F4 A4>,"[0, 4, 5]","[5, 9, 10]",Copland_Piano_Blues_No_3.mxl,Copland,20,4
+72.0,<music21.chord.Chord C4 E-4 G4>,"[0, 3, 7]","[0, 3, 7]",Copland_Piano_Blues_No_3.mxl,Copland,21,1
+72.5,<music21.chord.Chord D4 F4>,"[0, 3]","[2, 5]",Copland_Piano_Blues_No_3.mxl,Copland,21,1 1/2
+73.5,<music21.chord.Chord E-4 G4 B-4>,"[0, 4, 7]","[3, 7, 10]",Copland_Piano_Blues_No_3.mxl,Copland,21,2 1/2
+74.0,<music21.chord.Chord E-4 G4 B-4>,"[0, 4, 7]","[3, 7, 10]",Copland_Piano_Blues_No_3.mxl,Copland,21,3
+75.0,<music21.chord.Chord A-2 E-4 G4 B-4 E-5 G5>,"[0, 4, 5, 7]","[3, 7, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland,21,4
+76.0,<music21.chord.Chord F2 A-3 E-5 B-5 D6>,"[0, 1, 3, 6, 8]","[2, 3, 5, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland,22,1
+76.5,<music21.chord.Chord A-2 B-3 C5 E-5>,"[0, 2, 4, 7]","[8, 10, 0, 3]",Copland_Piano_Blues_No_3.mxl,Copland,22,2
+77.5,<music21.chord.Chord B-2 C4 E-4 F4>,"[0, 2, 5, 7]","[10, 0, 3, 5]",Copland_Piano_Blues_No_3.mxl,Copland,22,4
+78.5,<music21.chord.Chord B-2 B-3 C4 E-4 A-4 F5>,"[0, 2, 4, 7, 9]","[8, 10, 0, 3, 5]",Copland_Piano_Blues_No_3.mxl,Copland,22,6
+79.5,<music21.chord.Chord F2 A-3 E-5 B-5 D6>,"[0, 1, 3, 6, 8]","[2, 3, 5, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland,23,1
+80.0,<music21.chord.Chord A-2 B-3 C5 E-5>,"[0, 2, 4, 7]","[8, 10, 0, 3]",Copland_Piano_Blues_No_3.mxl,Copland,23,2
+81.0,<music21.chord.Chord B-2 C4 E-4 F4>,"[0, 2, 5, 7]","[10, 0, 3, 5]",Copland_Piano_Blues_No_3.mxl,Copland,23,4
+82.0,<music21.chord.Chord B-2 A-3 C4 E-4 A-4 F5>,"[0, 2, 4, 7, 9]","[8, 10, 0, 3, 5]",Copland_Piano_Blues_No_3.mxl,Copland,23,6
+83.0,<music21.chord.Chord B-4 F5>,"[0, 5]","[5, 10]",Copland_Piano_Blues_No_3.mxl,Copland,24,1
+83.5,<music21.chord.Chord A-4>,[0],[8],Copland_Piano_Blues_No_3.mxl,Copland,24,1 1/2
+84.0,<music21.chord.Chord C4 A-4>,"[0, 4]","[8, 0]",Copland_Piano_Blues_No_3.mxl,Copland,24,2
+84.5,<music21.chord.Chord C4 G5>,"[0, 5]","[7, 0]",Copland_Piano_Blues_No_3.mxl,Copland,24,2 1/2
+85.0,<music21.chord.Chord C5 G5>,"[0, 5]","[7, 0]",Copland_Piano_Blues_No_3.mxl,Copland,24,3
+85.5,<music21.chord.Chord C5 E-5>,"[0, 3]","[0, 3]",Copland_Piano_Blues_No_3.mxl,Copland,24,3 1/2
+86.0,<music21.chord.Chord A-4 E-5>,"[0, 5]","[3, 8]",Copland_Piano_Blues_No_3.mxl,Copland,24,4
+86.5,<music21.chord.Chord A-4 C5>,"[0, 4]","[8, 0]",Copland_Piano_Blues_No_3.mxl,Copland,24,4 1/2
+87.0,<music21.chord.Chord A-4 B-4>,"[0, 2]","[8, 10]",Copland_Piano_Blues_No_3.mxl,Copland,25,1
+87.5,<music21.chord.Chord A-4 C5>,"[0, 4]","[8, 0]",Copland_Piano_Blues_No_3.mxl,Copland,25,1 1/2
+88.0,<music21.chord.Chord E-4 C5>,"[0, 3]","[0, 3]",Copland_Piano_Blues_No_3.mxl,Copland,25,2
+88.5,<music21.chord.Chord E-4 B-5>,"[0, 5]","[10, 3]",Copland_Piano_Blues_No_3.mxl,Copland,25,2 1/2
+89.0,<music21.chord.Chord E-5 B-5>,"[0, 5]","[10, 3]",Copland_Piano_Blues_No_3.mxl,Copland,25,3
+89.5,<music21.chord.Chord E-5 F5>,"[0, 2]","[3, 5]",Copland_Piano_Blues_No_3.mxl,Copland,25,3 1/2
+90.0,<music21.chord.Chord C4 F5>,"[0, 5]","[0, 5]",Copland_Piano_Blues_No_3.mxl,Copland,25,4
+90.5,<music21.chord.Chord C4 A-5>,"[0, 4]","[8, 0]",Copland_Piano_Blues_No_3.mxl,Copland,25,4 1/2
+91.0,<music21.chord.Chord F3 E-4 G4 D6>,"[0, 1, 3, 5]","[2, 3, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland,26,1
+91.5,<music21.chord.Chord G3 D4 F4 B-5>,"[0, 3, 5, 8]","[2, 5, 7, 10]",Copland_Piano_Blues_No_3.mxl,Copland,26,1 1/2
+92.5,<music21.chord.Chord A-3 G4 B-4 G5>,"[0, 1, 3]","[7, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland,26,2 1/2
+93.0,<music21.chord.Chord A-3 G4 B-4 G5>,"[0, 1, 3]","[7, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland,26,3
+94.0,<music21.chord.Chord C3 A-3 G4 B-4 G5>,"[0, 1, 3, 5]","[7, 8, 10, 0]",Copland_Piano_Blues_No_3.mxl,Copland,26,4
+94.5,<music21.chord.Chord C3 A-3 G4 B-5>,"[0, 1, 3, 5]","[7, 8, 10, 0]",Copland_Piano_Blues_No_3.mxl,Copland,26,4 1/2
+95.0,<music21.chord.Chord F3 E-4 G4 D5 D6>,"[0, 1, 3, 5]","[2, 3, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland,27,1
+95.5,<music21.chord.Chord G3 D4 F4 B-4 B-5>,"[0, 3, 5, 8]","[2, 5, 7, 10]",Copland_Piano_Blues_No_3.mxl,Copland,27,1 1/2
+96.5,<music21.chord.Chord A-3 E-4 G4 E-5 E-6>,"[0, 4, 5]","[3, 7, 8]",Copland_Piano_Blues_No_3.mxl,Copland,27,2 1/2
+97.0,<music21.chord.Chord A-3 E-4 G4 E-5 E-6>,"[0, 4, 5]","[3, 7, 8]",Copland_Piano_Blues_No_3.mxl,Copland,27,3
+98.0,<music21.chord.Chord A-3 E-4 G4 B-4 E-5 E-6>,"[0, 4, 5, 7]","[3, 7, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland,27,4
+98.5,<music21.chord.Chord A-3 E-4 G4 B-4 G5 G6>,"[0, 4, 5, 7]","[3, 7, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland,27,4 1/2
+99.0,<music21.chord.Chord A-3 B-4 F5 F6>,"[0, 3, 5]","[5, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland,28,1
+99.5,<music21.chord.Chord B-3 A-4 D-5 D-6>,"[0, 2, 5]","[8, 10, 1]",Copland_Piano_Blues_No_3.mxl,Copland,28,1 1/2
+100.5,<music21.chord.Chord C-4 B-4 D-5 F5 D-6 F6>,"[0, 1, 3, 7]","[10, 11, 1, 5]",Copland_Piano_Blues_No_3.mxl,Copland,28,2 1/2
+101.0,<music21.chord.Chord C-4 B-4 D-5 F5 D-6 F6>,"[0, 1, 3, 7]","[10, 11, 1, 5]",Copland_Piano_Blues_No_3.mxl,Copland,28,3
+102.0,<music21.chord.Chord D-4 A-4 C5 E-5 C6 E-6>,"[0, 4, 5, 7]","[8, 0, 1, 3]",Copland_Piano_Blues_No_3.mxl,Copland,28,4
+103.0,<music21.chord.Chord E-4 G-4 B-4 F5 F6>,"[0, 2, 3, 7]","[3, 5, 6, 10]",Copland_Piano_Blues_No_3.mxl,Copland,29,1
+103.5,<music21.chord.Chord F4 A-4 C5 D-5 D-6>,"[0, 1, 5, 8]","[0, 1, 5, 8]",Copland_Piano_Blues_No_3.mxl,Copland,29,1 1/2
+104.0,<music21.chord.Chord F4 A-4 C5 D-5 D-6>,"[0, 1, 5, 8]","[0, 1, 5, 8]",Copland_Piano_Blues_No_3.mxl,Copland,29,2
+104.5,<music21.chord.Chord G-4 B-4 D-5 F5 D-6 F6>,"[0, 1, 5, 8]","[5, 6, 10, 1]",Copland_Piano_Blues_No_3.mxl,Copland,29,2 1/2
+105.0,<music21.chord.Chord G-4 B-4 D-5 F5 D-6 F6>,"[0, 1, 5, 8]","[5, 6, 10, 1]",Copland_Piano_Blues_No_3.mxl,Copland,29,3
+106.0,<music21.chord.Chord G-4 B-4 D-5 G-5 D-6 G-6>,"[0, 4, 7]","[6, 10, 1]",Copland_Piano_Blues_No_3.mxl,Copland,29,4
+107.0,<music21.chord.Chord D-5 E-5 A-5 D-6 A-6>,"[0, 2, 7]","[1, 3, 8]",Copland_Piano_Blues_No_3.mxl,Copland,30,1
+107.5,<music21.chord.Chord G-4 A-4 D-5 G-5 D-6>,"[0, 2, 7]","[6, 8, 1]",Copland_Piano_Blues_No_3.mxl,Copland,30,1 1/2
+108.5,<music21.chord.Chord B-3 F4 G-4 B-4 D-5>,"[0, 1, 5, 8]","[5, 6, 10, 1]",Copland_Piano_Blues_No_3.mxl,Copland,30,2 1/2
+109.0,<music21.chord.Chord B-3 F4 G-4 B-4 D-5>,"[0, 1, 5, 8]","[5, 6, 10, 1]",Copland_Piano_Blues_No_3.mxl,Copland,30,3
+110.0,<music21.chord.Chord D-3 B-3 F4 G-4 B-4 D-5>,"[0, 1, 5, 8]","[5, 6, 10, 1]",Copland_Piano_Blues_No_3.mxl,Copland,30,4
+111.0,<music21.chord.Chord E-3 D-4 F4>,"[0, 2, 4]","[1, 3, 5]",Copland_Piano_Blues_No_3.mxl,Copland,31,1
+111.5,<music21.chord.Chord F3 C4 E-4>,"[0, 3, 5]","[0, 3, 5]",Copland_Piano_Blues_No_3.mxl,Copland,31,1 1/2
+112.5,<music21.chord.Chord F3 C4 E-4>,"[0, 3, 5]","[0, 3, 5]",Copland_Piano_Blues_No_3.mxl,Copland,31,2 1/2
+112.75,<music21.chord.Chord G-3 F4 D-5>,"[0, 4, 5]","[1, 5, 6]",Copland_Piano_Blues_No_3.mxl,Copland,31,2 3/4
+113.0,<music21.chord.Chord G-3 F4 D-5>,"[0, 4, 5]","[1, 5, 6]",Copland_Piano_Blues_No_3.mxl,Copland,31,3
+114.0,<music21.chord.Chord B-2 G-3 F4 D-5>,"[0, 1, 5, 8]","[5, 6, 10, 1]",Copland_Piano_Blues_No_3.mxl,Copland,31,4
+115.0,<music21.chord.Chord B-2 E-3 D-4 F4>,"[0, 3, 5, 7]","[10, 1, 3, 5]",Copland_Piano_Blues_No_3.mxl,Copland,32,1
+115.5,<music21.chord.Chord B-2 F3 C4 E-4>,"[0, 2, 5, 7]","[10, 0, 3, 5]",Copland_Piano_Blues_No_3.mxl,Copland,32,1 1/2
+116.5,<music21.chord.Chord F3 C4 E-4>,"[0, 3, 5]","[0, 3, 5]",Copland_Piano_Blues_No_3.mxl,Copland,32,2 1/2
+116.75,<music21.chord.Chord G-3 F4 A-4>,"[0, 1, 3]","[5, 6, 8]",Copland_Piano_Blues_No_3.mxl,Copland,32,2 3/4
+117.0,<music21.chord.Chord G-3 F4 A-4>,"[0, 1, 3]","[5, 6, 8]",Copland_Piano_Blues_No_3.mxl,Copland,32,3
+118.0,<music21.chord.Chord B-2 G-3 F4 A-4>,"[0, 1, 3, 5]","[5, 6, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland,32,4
+119.0,<music21.chord.Chord E-2 B-2 A-3 D-4 F4>,"[0, 2, 4, 7, 9]","[1, 3, 5, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland,33,1
+119.5,<music21.chord.Chord F2 C3 G3 C4 E-4>,"[0, 3, 5, 7]","[0, 3, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland,33,1 1/2
+120.5,<music21.chord.Chord F2 C3 G3 C4 E-4>,"[0, 3, 5, 7]","[0, 3, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland,33,2 1/2
+120.75,<music21.chord.Chord G-2 D-3 B-3 F4 A-4>,"[0, 1, 3, 5, 8]","[5, 6, 8, 10, 1]",Copland_Piano_Blues_No_3.mxl,Copland,33,2 3/4
+121.0,<music21.chord.Chord G-2 D-3 B-3 F4 A-4>,"[0, 1, 3, 5, 8]","[5, 6, 8, 10, 1]",Copland_Piano_Blues_No_3.mxl,Copland,33,3
+122.0,<music21.chord.Chord C-2 G-2 D-3 B-3 E-4 G4>,"[0, 1, 3, 5, 8, 9]","[10, 11, 1, 3, 6, 7]",Copland_Piano_Blues_No_3.mxl,Copland,33,4
+123.0,<music21.chord.Chord E-2 B-2 A-3 D-4 F4>,"[0, 2, 4, 7, 9]","[1, 3, 5, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland,34,1
+123.5,<music21.chord.Chord F2 C3 G3 C4 E-4>,"[0, 3, 5, 7]","[0, 3, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland,34,1 1/2
+124.5,<music21.chord.Chord F2 C3 G3 C4 E-4>,"[0, 3, 5, 7]","[0, 3, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland,34,2 1/2
+124.75,<music21.chord.Chord G-2 D-3 A-3 B-3 F4 C5>,"[0, 1, 3, 5, 7, 8]","[5, 6, 8, 10, 0, 1]",Copland_Piano_Blues_No_3.mxl,Copland,34,2 3/4
+125.0,<music21.chord.Chord G-2 D-3 A-3 B-3 F4 C5>,"[0, 1, 3, 5, 7, 8]","[5, 6, 8, 10, 0, 1]",Copland_Piano_Blues_No_3.mxl,Copland,34,3
+126.0,<music21.chord.Chord G-1 G-2 D-3 A-3 B-3 F4 C5>,"[0, 1, 3, 5, 7, 8]","[5, 6, 8, 10, 0, 1]",Copland_Piano_Blues_No_3.mxl,Copland,34,4
+127.0,<music21.chord.Chord F2 A-3 E-4 C5>,"[0, 3, 5, 8]","[0, 3, 5, 8]",Copland_Piano_Blues_No_3.mxl,Copland,35,1
+127.5,<music21.chord.Chord A-2 B-3 F4 A-4>,"[0, 3, 5]","[5, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland,35,2
+128.5,<music21.chord.Chord B-2 A-3 D-4 C5>,"[0, 2, 4, 5]","[8, 10, 0, 1]",Copland_Piano_Blues_No_3.mxl,Copland,35,4
+129.5,<music21.chord.Chord D-3 B-3 F4 B-4>,"[0, 3, 7]","[10, 1, 5]",Copland_Piano_Blues_No_3.mxl,Copland,35,6
+130.5,<music21.chord.Chord C3 F3 D-4 F4 A-4>,"[0, 1, 5, 8]","[0, 1, 5, 8]",Copland_Piano_Blues_No_3.mxl,Copland,36,1
+131.0,<music21.chord.Chord B-2 A-3 F4 C5>,"[0, 3, 5, 7]","[5, 8, 10, 0]",Copland_Piano_Blues_No_3.mxl,Copland,36,2
+132.0,<music21.chord.Chord C3 G3 E-4 B-4>,"[0, 3, 5, 8]","[7, 10, 0, 3]",Copland_Piano_Blues_No_3.mxl,Copland,36,4
+133.0,<music21.chord.Chord C2 C3 G3 E-4 B-4 E-5 G5>,"[0, 3, 5, 8]","[7, 10, 0, 3]",Copland_Piano_Blues_No_3.mxl,Copland,36,6
+134.0,<music21.chord.Chord E-2 B-2 A-3 D-4 F4>,"[0, 2, 4, 7, 9]","[1, 3, 5, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland,37,1
+134.5,<music21.chord.Chord F2 C3 G3 C4 E-4>,"[0, 3, 5, 7]","[0, 3, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland,37,1 1/2
+135.5,<music21.chord.Chord F2 C3 G3 C4 E-4>,"[0, 3, 5, 7]","[0, 3, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland,37,2 1/2
+135.75,<music21.chord.Chord G-2 D-3 A-3 B-3 F4 C5>,"[0, 1, 3, 5, 7, 8]","[5, 6, 8, 10, 0, 1]",Copland_Piano_Blues_No_3.mxl,Copland,37,2 3/4
+136.0,<music21.chord.Chord G-2 D-3 A-3 B-3 F4 C5>,"[0, 1, 3, 5, 7, 8]","[5, 6, 8, 10, 0, 1]",Copland_Piano_Blues_No_3.mxl,Copland,37,3
+137.0,<music21.chord.Chord C-2 G-2 D-3 A-3 B-3 F4 A-4>,"[0, 1, 3, 5, 6, 8]","[5, 6, 8, 10, 11, 1]",Copland_Piano_Blues_No_3.mxl,Copland,37,4
+138.0,<music21.chord.Chord E-2 B-2 A-3 D-4 F4>,"[0, 2, 4, 7, 9]","[1, 3, 5, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland,38,1
+138.5,<music21.chord.Chord F2 C3 G3 C4 E-4>,"[0, 3, 5, 7]","[0, 3, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland,38,1 1/2
+139.5,<music21.chord.Chord G-2 D-3 A-3 C4 A-4 E-5>,"[0, 1, 3, 6, 8]","[0, 1, 3, 6, 8]",Copland_Piano_Blues_No_3.mxl,Copland,38,2 1/2
+140.0,<music21.chord.Chord G-2 D-3 A-3 C4 A-4 E-5>,"[0, 1, 3, 6, 8]","[0, 1, 3, 6, 8]",Copland_Piano_Blues_No_3.mxl,Copland,38,3
+141.0,<music21.chord.Chord G-1 G-2 D-3 A-3 C4 A-4 E-5>,"[0, 1, 3, 6, 8]","[0, 1, 3, 6, 8]",Copland_Piano_Blues_No_3.mxl,Copland,38,4
+142.0,<music21.chord.Chord E-2 B-2 A-3 D-4 F4>,"[0, 2, 4, 7, 9]","[1, 3, 5, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland,39,1
+142.5,<music21.chord.Chord F2 C3 G3 C4 E-4>,"[0, 3, 5, 7]","[0, 3, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland,39,1 1/2
+143.0,<music21.chord.Chord F2 G-2 C3 G3 C4 E-4>,"[0, 3, 5, 6, 7]","[0, 3, 5, 6, 7]",Copland_Piano_Blues_No_3.mxl,Copland,39,2
+143.16666666666700,<music21.chord.Chord F2 G-2 C3 D-3 G3 C4 E-4>,"[0, 1, 3, 5, 6, 7]","[0, 1, 3, 5, 6, 7]",Copland_Piano_Blues_No_3.mxl,Copland,39,2 1/6
+143.33333333333300,<music21.chord.Chord F2 G-2 C3 D-3 G3 A-3 C4 E-4>,"[0, 1, 3, 5, 6, 7, 8]","[0, 1, 3, 5, 6, 7, 8]",Copland_Piano_Blues_No_3.mxl,Copland,39,2 1/3
+143.5,<music21.chord.Chord F2 G-2 C3 D-3 G3 A-3 B-3 C4 E-4>,"[0, 1, 2, 3, 5, 7, 8, 10]","[5, 6, 7, 8, 10, 0, 1, 3]",Copland_Piano_Blues_No_3.mxl,Copland,39,2 1/2
+143.66666666666700,<music21.chord.Chord F2 G-2 C3 D-3 G3 A-3 B-3 C4 E-4>,"[0, 1, 2, 3, 5, 7, 8, 10]","[5, 6, 7, 8, 10, 0, 1, 3]",Copland_Piano_Blues_No_3.mxl,Copland,39,2 2/3
+143.83333333333300,<music21.chord.Chord F2 G-2 C3 D-3 G3 A-3 B-3 C4 E-4 A-4>,"[0, 1, 2, 3, 5, 7, 8, 10]","[5, 6, 7, 8, 10, 0, 1, 3]",Copland_Piano_Blues_No_3.mxl,Copland,39,2 5/6
+144.0,<music21.chord.Chord G-2 D-3 A-3 B-3 E-4 A-4 F5>,"[0, 2, 4, 5, 7, 9]","[1, 3, 5, 6, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland,39,3
+144.5,<music21.chord.Chord G-1 G-2 D-3 A-3 B-3 E-4 A-4 F5>,"[0, 2, 4, 5, 7, 9]","[1, 3, 5, 6, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland,39,3 1/2
+146.0,<music21.chord.Chord E-2 B-2 A-3 D-4 F4>,"[0, 2, 4, 7, 9]","[1, 3, 5, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland,40,1
+146.5,<music21.chord.Chord F2 C3 G3 C4 E-4>,"[0, 3, 5, 7]","[0, 3, 5, 7]",Copland_Piano_Blues_No_3.mxl,Copland,40,1 1/2
+147.0,<music21.chord.Chord F2 G-2 C3 G3 C4 E-4>,"[0, 3, 5, 6, 7]","[0, 3, 5, 6, 7]",Copland_Piano_Blues_No_3.mxl,Copland,40,2
+147.125,<music21.chord.Chord F2 G-2 C3 D-3 G3 C4 E-4>,"[0, 1, 3, 5, 6, 7]","[0, 1, 3, 5, 6, 7]",Copland_Piano_Blues_No_3.mxl,Copland,40,2 1/8
+147.25,<music21.chord.Chord F2 G-2 C3 D-3 G3 A-3 C4 E-4>,"[0, 1, 3, 5, 6, 7, 8]","[0, 1, 3, 5, 6, 7, 8]",Copland_Piano_Blues_No_3.mxl,Copland,40,2 1/4
+147.375,<music21.chord.Chord F2 G-2 C3 D-3 G3 A-3 B-3 C4 E-4>,"[0, 1, 2, 3, 5, 7, 8, 10]","[5, 6, 7, 8, 10, 0, 1, 3]",Copland_Piano_Blues_No_3.mxl,Copland,40,2 3/8
+147.5,<music21.chord.Chord F2 G-2 C3 D-3 G3 A-3 B-3 C4 E-4>,"[0, 1, 2, 3, 5, 7, 8, 10]","[5, 6, 7, 8, 10, 0, 1, 3]",Copland_Piano_Blues_No_3.mxl,Copland,40,2 1/2
+147.625,<music21.chord.Chord F2 G-2 C3 D-3 G3 A-3 B-3 C4 E-4 A-4>,"[0, 1, 2, 3, 5, 7, 8, 10]","[5, 6, 7, 8, 10, 0, 1, 3]",Copland_Piano_Blues_No_3.mxl,Copland,40,2 5/8
+147.75,<music21.chord.Chord F2 G-2 C3 D-3 G3 A-3 B-3 C4 E-4 A-4 B-4>,"[0, 1, 2, 3, 5, 7, 8, 10]","[5, 6, 7, 8, 10, 0, 1, 3]",Copland_Piano_Blues_No_3.mxl,Copland,40,2 3/4
+147.875,<music21.chord.Chord F2 G-2 C3 D-3 G3 A-3 B-3 C4 E-4 A-4 B-4 F5>,"[0, 1, 2, 3, 5, 7, 8, 10]","[5, 6, 7, 8, 10, 0, 1, 3]",Copland_Piano_Blues_No_3.mxl,Copland,40,2 7/8
+148.0,<music21.chord.Chord G-2 D-3 A-3 B-3 E-4 A-4 B-4 F5 C6>,"[0, 1, 3, 5, 6, 8, 10]","[0, 1, 3, 5, 6, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland,40,3
+149.0,<music21.chord.Chord C-1 G-2 D-3 A-3 B-3 E-4 A-4 B-4 F5 C6>,"[0, 1, 2, 3, 5, 7, 8, 10]","[10, 11, 0, 1, 3, 5, 6, 8]",Copland_Piano_Blues_No_3.mxl,Copland,40,4
+150.0,<music21.chord.Chord G-2>,[0],[6],Copland_Piano_Blues_No_3.mxl,Copland,41,1
+150.125,<music21.chord.Chord G-2 D-3>,"[0, 5]","[1, 6]",Copland_Piano_Blues_No_3.mxl,Copland,41,1 1/8
+150.25,<music21.chord.Chord G-2 D-3 A-3>,"[0, 2, 7]","[6, 8, 1]",Copland_Piano_Blues_No_3.mxl,Copland,41,1 1/4
+150.375,<music21.chord.Chord G-2 D-3 A-3 B-3>,"[0, 2, 4, 7]","[6, 8, 10, 1]",Copland_Piano_Blues_No_3.mxl,Copland,41,1 3/8
+150.5,<music21.chord.Chord G-2 D-3 A-3 B-3 E-4>,"[0, 2, 4, 7, 9]","[6, 8, 10, 1, 3]",Copland_Piano_Blues_No_3.mxl,Copland,41,1 1/2
+150.625,<music21.chord.Chord G-2 D-3 A-3 B-3 E-4 A-4>,"[0, 2, 4, 7, 9]","[6, 8, 10, 1, 3]",Copland_Piano_Blues_No_3.mxl,Copland,41,1 5/8
+150.75,<music21.chord.Chord G-2 D-3 A-3 B-3 E-4 A-4 B-4>,"[0, 2, 4, 7, 9]","[6, 8, 10, 1, 3]",Copland_Piano_Blues_No_3.mxl,Copland,41,1 3/4
+150.875,<music21.chord.Chord G-2 D-3 A-3 B-3 E-4 A-4 B-4 F5>,"[0, 2, 4, 5, 7, 9]","[1, 3, 5, 6, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland,41,1 7/8
+151.0,<music21.chord.Chord G-2 D-3 A-3 B-3 E-4 A-4 B-4 F5 C6>,"[0, 1, 3, 5, 6, 8, 10]","[0, 1, 3, 5, 6, 8, 10]",Copland_Piano_Blues_No_3.mxl,Copland,41,2
+152.0,<music21.chord.Chord C-1 G-2 D-3 A-3 B-3 E-4 A-4 B-4 F5 C6>,"[0, 1, 2, 3, 5, 7, 8, 10]","[10, 11, 0, 1, 3, 5, 6, 8]",Copland_Piano_Blues_No_3.mxl,Copland,41,3
+153.0,<music21.chord.Chord C-1 G-2 D-3 A-3 C6>,"[0, 2, 5, 6, 7]","[6, 8, 11, 0, 1]",Copland_Piano_Blues_No_3.mxl,Copland,41,4
