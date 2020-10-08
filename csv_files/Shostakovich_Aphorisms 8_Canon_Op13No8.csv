@@ -1,144 +1,144 @@
-offset,Chord,NormalForm,PCsinNormalForm,file,PhraseBoundary,MeasureNumber,MeasureCount
-0,<music21.chord.Chord F#4>,[0],[6],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-4.5,<music21.chord.Chord G4>,[0],[7],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-6,<music21.chord.Chord E5>,[0],[4],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-8.5,<music21.chord.Chord G5>,[0],[7],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-9,<music21.chord.Chord G5>,[0],[7],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-10,<music21.chord.Chord C#3>,[0],[1],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-12,<music21.chord.Chord C5>,[0],[0],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-13,<music21.chord.Chord E-5>,[0],[3],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-14.5,<music21.chord.Chord D3>,[0],[2],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-15.5,<music21.chord.Chord G5 D3>,"[0, 5]","[2, 7]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-16,<music21.chord.Chord B3 G5>,"[0, 4]","[7, 11]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-16.5,<music21.chord.Chord G#4 B3>,"[0, 3]","[8, 11]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-17,<music21.chord.Chord B3>,[0],[11],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-18.5,<music21.chord.Chord D4>,[0],[2],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-19,<music21.chord.Chord D4>,[0],[2],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-19.5,<music21.chord.Chord E-5>,[0],[3],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-20,<music21.chord.Chord F5>,[0],[5],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-22,<music21.chord.Chord G3>,[0],[7],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-22.5,<music21.chord.Chord C5 G3>,"[0, 5]","[7, 0]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-23,<music21.chord.Chord D5 B-3>,"[0, 4]","[10, 2]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-23.5,<music21.chord.Chord E5 B-3>,"[0, 6]","[4, 10]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-25.5,<music21.chord.Chord D4>,[0],[2],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-26.5,<music21.chord.Chord E-3>,[0],[3],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-27,<music21.chord.Chord A5>,[0],[9],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-28,<music21.chord.Chord A5>,[0],[9],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-29,<music21.chord.Chord A5>,[0],[9],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-29.5,<music21.chord.Chord B-3 A5>,"[0, 1]","[9, 10]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-30,<music21.chord.Chord G5 C4>,"[0, 5]","[7, 0]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-32,<music21.chord.Chord D4>,[0],[2],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-32.5,<music21.chord.Chord G3>,[0],[7],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-33,<music21.chord.Chord F#5 A3>,"[0, 3]","[6, 9]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-33.5,<music21.chord.Chord B3>,[0],[11],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-34,<music21.chord.Chord C#5>,[0],[1],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-36.5,<music21.chord.Chord E-4>,[0],[3],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-37,<music21.chord.Chord E4 E-4>,"[0, 1]","[3, 4]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-38,<music21.chord.Chord C5 E4>,"[0, 4]","[0, 4]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-39,<music21.chord.Chord E4 C5>,"[0, 4]","[0, 4]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-40,<music21.chord.Chord G5 D4 C5>,"[0, 2, 7]","[0, 2, 7]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-40.5,<music21.chord.Chord E-5 D4>,"[0, 1]","[2, 3]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-40.75,<music21.chord.Chord D4>,[0],[2],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-41,<music21.chord.Chord E-5>,[0],[3],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-42,<music21.chord.Chord A5>,[0],[9],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-43,<music21.chord.Chord B5 C#4>,"[0, 2]","[11, 1]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-44,<music21.chord.Chord C6 G#3 G#4>,"[0, 4]","[8, 0]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-44.5,<music21.chord.Chord G#4>,[0],[8],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-45,<music21.chord.Chord B4>,[0],[11],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-46.5,<music21.chord.Chord F#5>,[0],[6],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-47.5,<music21.chord.Chord E-5>,[0],[3],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-48,<music21.chord.Chord B-5 E-5>,"[0, 5]","[10, 3]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-48.5,<music21.chord.Chord E4 B-5>,"[0, 6]","[4, 10]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-50,<music21.chord.Chord D4>,[0],[2],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-51.5,<music21.chord.Chord B4>,[0],[11],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-52,<music21.chord.Chord F5 C#5 E4>,"[0, 3, 4]","[1, 4, 5]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-52.5,<music21.chord.Chord F5 C#5>,"[0, 4]","[1, 5]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-53,<music21.chord.Chord F#4 F5>,"[0, 1]","[5, 6]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-53.5,<music21.chord.Chord F5>,[0],[5],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-54,<music21.chord.Chord G4 E5>,"[0, 3]","[4, 7]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-54.5,<music21.chord.Chord G#4 A5>,"[0, 1]","[8, 9]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-55,<music21.chord.Chord B-4>,[0],[10],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-55.5,<music21.chord.Chord C5>,[0],[0],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-56.5,<music21.chord.Chord C#4>,[0],[1],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-57,<music21.chord.Chord B5>,[0],[11],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-58,<music21.chord.Chord F4>,[0],[5],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-58.5,<music21.chord.Chord F#5 F4>,"[0, 1]","[5, 6]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-59,<music21.chord.Chord F5 F#5>,"[0, 1]","[5, 6]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-60,<music21.chord.Chord G#5>,[0],[8],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-61,<music21.chord.Chord F5 G#5>,"[0, 3]","[5, 8]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-61.5,<music21.chord.Chord B-5 F5>,"[0, 5]","[5, 10]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-62,<music21.chord.Chord E-5 C4 B-5>,"[0, 2, 5]","[10, 0, 3]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-63,<music21.chord.Chord C6 C4>,[0],[0],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-64,<music21.chord.Chord D6 B3>,"[0, 3]","[11, 2]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-64.5,<music21.chord.Chord E4 D6>,"[0, 2]","[2, 4]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-65,<music21.chord.Chord D5>,[0],[2],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-66,<music21.chord.Chord E6 A4>,"[0, 5]","[4, 9]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-66.5,<music21.chord.Chord E6>,[0],[4],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-67,<music21.chord.Chord F4>,[0],[5],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-68,<music21.chord.Chord D6>,[0],[2],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-68.5,<music21.chord.Chord C#4 D6>,"[0, 1]","[1, 2]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-70,<music21.chord.Chord A5 E-4>,"[0, 6]","[3, 9]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-70.5,<music21.chord.Chord E-4>,[0],[3],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-71,<music21.chord.Chord A5 E-4>,"[0, 6]","[3, 9]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-71.5,<music21.chord.Chord F4>,[0],[5],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-72,<music21.chord.Chord B-5 E-5 F4>,"[0, 2, 7]","[3, 5, 10]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-73,<music21.chord.Chord G4 B-5 E-5>,"[0, 4, 7]","[3, 7, 10]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-73.5,<music21.chord.Chord F6 G4 E-5>,"[0, 2, 4]","[3, 5, 7]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-74,<music21.chord.Chord F5 E6 A4>,"[0, 1, 5]","[4, 5, 9]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-74.5,<music21.chord.Chord A4>,[0],[9],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-75,<music21.chord.Chord G5>,[0],[7],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-76,<music21.chord.Chord G#5 B4>,"[0, 3]","[8, 11]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-76.5,<music21.chord.Chord B4>,[0],[11],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-77,<music21.chord.Chord E-6>,[0],[3],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-78,<music21.chord.Chord A4>,[0],[9],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-78.5,<music21.chord.Chord D5 A4>,"[0, 5]","[9, 2]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-78.75,<music21.chord.Chord A4>,[0],[9],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-80,<music21.chord.Chord F#5 G5 E4>,"[0, 2, 3]","[4, 6, 7]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-80.5,<music21.chord.Chord F#5 G5>,"[0, 1]","[6, 7]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-81,<music21.chord.Chord A5 E4>,"[0, 5]","[4, 9]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-81.5,<music21.chord.Chord A5>,[0],[9],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-82,<music21.chord.Chord B-5 F4>,"[0, 5]","[5, 10]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-83.5,<music21.chord.Chord C5 B-5>,"[0, 2]","[10, 0]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-84,<music21.chord.Chord B5 C#5 B4>,"[0, 2]","[11, 1]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-84.5,<music21.chord.Chord B5 C#5>,"[0, 2]","[11, 1]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-85,<music21.chord.Chord C#5>,[0],[1],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-86,<music21.chord.Chord C5>,[0],[0],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-86.5,<music21.chord.Chord F5 D6>,"[0, 3]","[2, 5]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-87,<music21.chord.Chord B-4>,[0],[10],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-88,<music21.chord.Chord G5>,[0],[7],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-89,<music21.chord.Chord F#5>,[0],[6],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-89.5,<music21.chord.Chord A5 F#5>,"[0, 3]","[6, 9]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-90,<music21.chord.Chord B5 D4>,"[0, 3]","[11, 2]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-90.5,<music21.chord.Chord D5 B5 D4>,"[0, 3]","[11, 2]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-91,<music21.chord.Chord E4 B5 D5>,"[0, 3, 5]","[11, 2, 4]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-91.5,<music21.chord.Chord E6 E4 D5>,"[0, 2]","[2, 4]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-92,<music21.chord.Chord D6 E5 F4>,"[0, 2, 3]","[2, 4, 5]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-93,<music21.chord.Chord C#6 E5 F4>,"[0, 3, 4]","[1, 4, 5]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-93.5,<music21.chord.Chord F#5 C#6 F4>,"[0, 4, 5]","[1, 5, 6]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-94,<music21.chord.Chord F#4 F#5>,[0],[6],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-94.5,<music21.chord.Chord F6 F#4 F#5>,"[0, 1]","[5, 6]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-95,<music21.chord.Chord G#5 F6>,"[0, 3]","[5, 8]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-96,<music21.chord.Chord B-5 B5>,"[0, 1]","[10, 11]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-96.5,<music21.chord.Chord A4 B-5 B5>,"[0, 1, 2]","[9, 10, 11]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-98,<music21.chord.Chord C6 D4>,"[0, 2]","[0, 2]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-99.5,<music21.chord.Chord E4>,[0],[4],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-100,<music21.chord.Chord B-5 F#4>,"[0, 4]","[6, 10]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-101,<music21.chord.Chord C#6 B-5 F#4>,"[0, 4, 7]","[6, 10, 1]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-101.5,<music21.chord.Chord B4 B-5 C#6>,"[0, 1, 3]","[10, 11, 1]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-102,<music21.chord.Chord F5 A4>,"[0, 4]","[5, 9]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-102.5,<music21.chord.Chord C6 A4>,"[0, 3]","[9, 0]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-103,<music21.chord.Chord F5 G#4>,"[0, 3]","[5, 8]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-103.5,<music21.chord.Chord G#4>,[0],[8],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-104,<music21.chord.Chord F#5>,[0],[6],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-104.5,<music21.chord.Chord C5 F#5>,"[0, 6]","[0, 6]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-105.5,<music21.chord.Chord C#6 C5>,"[0, 1]","[0, 1]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-106,<music21.chord.Chord C6 B4>,"[0, 1]","[11, 0]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-106.5,<music21.chord.Chord B4>,[0],[11],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-109,<music21.chord.Chord B5>,[0],[11],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-111,<music21.chord.Chord G#4>,[0],[8],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-112,<music21.chord.Chord G4 E-5>,"[0, 4]","[3, 7]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
-113,<music21.chord.Chord F5>,[0],[5],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-114,<music21.chord.Chord F#5>,[0],[6],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-116,<music21.chord.Chord G5>,[0],[7],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-118.5,<music21.chord.Chord B-5>,[0],[10],Aphorisms 8 Canon Op13No8 D minor.mid,,,
-124,<music21.chord.Chord D4 F#4 C#3>,"[0, 1, 5]","[1, 2, 6]",Aphorisms 8 Canon Op13No8 D minor.mid,,,
+offset,Chord,NormalForm,PCsinNormalForm,file,Composer,MeasureNumber,MeasureCount
+0,<music21.chord.Chord F#4>,[0],[6],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,1,1
+4.5,<music21.chord.Chord G4>,[0],[7],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,3,1.5
+6,<music21.chord.Chord E5>,[0],[4],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,4,1
+8.5,<music21.chord.Chord G5>,[0],[7],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,5,1.5
+9,<music21.chord.Chord G5>,[0],[7],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,5,2
+10,<music21.chord.Chord C#3>,[0],[1],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,6,1
+12,<music21.chord.Chord C5>,[0],[0],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,7,1
+13,<music21.chord.Chord E-5>,[0],[3],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,7,2
+14.5,<music21.chord.Chord D3>,[0],[2],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,8,1.5
+15.5,<music21.chord.Chord G5 D3>,"[0, 5]","[2, 7]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,8,2.5
+16,<music21.chord.Chord B3 G5>,"[0, 4]","[7, 11]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,9,1
+16.5,<music21.chord.Chord G#4 B3>,"[0, 3]","[8, 11]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,9,1.5
+17,<music21.chord.Chord B3>,[0],[11],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,9,2
+18.5,<music21.chord.Chord D4>,[0],[2],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,10,1.5
+19,<music21.chord.Chord D4>,[0],[2],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,10,2
+19.5,<music21.chord.Chord E-5>,[0],[3],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,10,2.5
+20,<music21.chord.Chord F5>,[0],[5],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,11,1
+22,<music21.chord.Chord G3>,[0],[7],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,12,1
+22.5,<music21.chord.Chord C5 G3>,"[0, 5]","[7, 0]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,12,1.5
+23,<music21.chord.Chord D5 B-3>,"[0, 4]","[10, 2]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,12,2
+23.5,<music21.chord.Chord E5 B-3>,"[0, 6]","[4, 10]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,12,2.5
+25.5,<music21.chord.Chord D4>,[0],[2],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,13,2.5
+26.5,<music21.chord.Chord E-3>,[0],[3],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,14,1.5
+27,<music21.chord.Chord A5>,[0],[9],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,14,2
+28,<music21.chord.Chord A5>,[0],[9],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,15,1
+29,<music21.chord.Chord A5>,[0],[9],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,15,2
+29.5,<music21.chord.Chord B-3 A5>,"[0, 1]","[9, 10]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,15,2.5
+30,<music21.chord.Chord G5 C4>,"[0, 5]","[7, 0]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,16,1
+32,<music21.chord.Chord D4>,[0],[2],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,17,1
+32.5,<music21.chord.Chord G3>,[0],[7],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,17,1.5
+33,<music21.chord.Chord F#5 A3>,"[0, 3]","[6, 9]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,17,2
+33.5,<music21.chord.Chord B3>,[0],[11],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,17,2.5
+34,<music21.chord.Chord C#5>,[0],[1],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,18,1
+36.5,<music21.chord.Chord E-4>,[0],[3],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,19,1.5
+37,<music21.chord.Chord E4 E-4>,"[0, 1]","[3, 4]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,19,2
+38,<music21.chord.Chord C5 E4>,"[0, 4]","[0, 4]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,20,1
+39,<music21.chord.Chord E4 C5>,"[0, 4]","[0, 4]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,20,2
+40,<music21.chord.Chord G5 D4 C5>,"[0, 2, 7]","[0, 2, 7]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,21,1
+40.5,<music21.chord.Chord E-5 D4>,"[0, 1]","[2, 3]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,21,1.5
+40.75,<music21.chord.Chord D4>,[0],[2],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,21,1.75
+41,<music21.chord.Chord E-5>,[0],[3],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,21,2
+42,<music21.chord.Chord A5>,[0],[9],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,22,1
+43,<music21.chord.Chord B5 C#4>,"[0, 2]","[11, 1]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,22,2
+44,<music21.chord.Chord C6 G#3 G#4>,"[0, 4]","[8, 0]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,23,1
+44.5,<music21.chord.Chord G#4>,[0],[8],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,23,1.5
+45,<music21.chord.Chord B4>,[0],[11],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,23,2
+46.5,<music21.chord.Chord F#5>,[0],[6],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,24,1.5
+47.5,<music21.chord.Chord E-5>,[0],[3],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,24,2.5
+48,<music21.chord.Chord B-5 E-5>,"[0, 5]","[10, 3]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,25,1
+48.5,<music21.chord.Chord E4 B-5>,"[0, 6]","[4, 10]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,25,1.5
+50,<music21.chord.Chord D4>,[0],[2],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,26,1
+51.5,<music21.chord.Chord B4>,[0],[11],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,26,2.5
+52,<music21.chord.Chord F5 C#5 E4>,"[0, 3, 4]","[1, 4, 5]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,27,1
+52.5,<music21.chord.Chord F5 C#5>,"[0, 4]","[1, 5]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,27,1.5
+53,<music21.chord.Chord F#4 F5>,"[0, 1]","[5, 6]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,27,2
+53.5,<music21.chord.Chord F5>,[0],[5],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,27,2.5
+54,<music21.chord.Chord G4 E5>,"[0, 3]","[4, 7]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,28,1
+54.5,<music21.chord.Chord G#4 A5>,"[0, 1]","[8, 9]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,28,1.5
+55,<music21.chord.Chord B-4>,[0],[10],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,28,2
+55.5,<music21.chord.Chord C5>,[0],[0],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,28,2.5
+56.5,<music21.chord.Chord C#4>,[0],[1],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,29,1.5
+57,<music21.chord.Chord B5>,[0],[11],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,29,2
+58,<music21.chord.Chord F4>,[0],[5],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,30,1
+58.5,<music21.chord.Chord F#5 F4>,"[0, 1]","[5, 6]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,30,1.5
+59,<music21.chord.Chord F5 F#5>,"[0, 1]","[5, 6]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,30,2
+60,<music21.chord.Chord G#5>,[0],[8],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,31,1
+61,<music21.chord.Chord F5 G#5>,"[0, 3]","[5, 8]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,31,2
+61.5,<music21.chord.Chord B-5 F5>,"[0, 5]","[5, 10]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,31,2.5
+62,<music21.chord.Chord E-5 C4 B-5>,"[0, 2, 5]","[10, 0, 3]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,32,1
+63,<music21.chord.Chord C6 C4>,[0],[0],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,32,2
+64,<music21.chord.Chord D6 B3>,"[0, 3]","[11, 2]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,33,1
+64.5,<music21.chord.Chord E4 D6>,"[0, 2]","[2, 4]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,33,1.5
+65,<music21.chord.Chord D5>,[0],[2],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,33,2
+66,<music21.chord.Chord E6 A4>,"[0, 5]","[4, 9]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,34,1
+66.5,<music21.chord.Chord E6>,[0],[4],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,34,1.5
+67,<music21.chord.Chord F4>,[0],[5],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,34,2
+68,<music21.chord.Chord D6>,[0],[2],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,35,1
+68.5,<music21.chord.Chord C#4 D6>,"[0, 1]","[1, 2]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,35,1.5
+70,<music21.chord.Chord A5 E-4>,"[0, 6]","[3, 9]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,36,1
+70.5,<music21.chord.Chord E-4>,[0],[3],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,36,1.5
+71,<music21.chord.Chord A5 E-4>,"[0, 6]","[3, 9]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,36,2
+71.5,<music21.chord.Chord F4>,[0],[5],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,36,2.5
+72,<music21.chord.Chord B-5 E-5 F4>,"[0, 2, 7]","[3, 5, 10]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,37,1
+73,<music21.chord.Chord G4 B-5 E-5>,"[0, 4, 7]","[3, 7, 10]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,37,2
+73.5,<music21.chord.Chord F6 G4 E-5>,"[0, 2, 4]","[3, 5, 7]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,37,2.5
+74,<music21.chord.Chord F5 E6 A4>,"[0, 1, 5]","[4, 5, 9]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,38,1
+74.5,<music21.chord.Chord A4>,[0],[9],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,38,1.5
+75,<music21.chord.Chord G5>,[0],[7],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,38,2
+76,<music21.chord.Chord G#5 B4>,"[0, 3]","[8, 11]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,39,1
+76.5,<music21.chord.Chord B4>,[0],[11],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,39,1.5
+77,<music21.chord.Chord E-6>,[0],[3],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,39,2
+78,<music21.chord.Chord A4>,[0],[9],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,40,1
+78.5,<music21.chord.Chord D5 A4>,"[0, 5]","[9, 2]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,40,1.5
+78.75,<music21.chord.Chord A4>,[0],[9],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,40,1.75
+80,<music21.chord.Chord F#5 G5 E4>,"[0, 2, 3]","[4, 6, 7]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,41,1
+80.5,<music21.chord.Chord F#5 G5>,"[0, 1]","[6, 7]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,41,1.5
+81,<music21.chord.Chord A5 E4>,"[0, 5]","[4, 9]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,41,2
+81.5,<music21.chord.Chord A5>,[0],[9],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,41,2.5
+82,<music21.chord.Chord B-5 F4>,"[0, 5]","[5, 10]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,42,1
+83.5,<music21.chord.Chord C5 B-5>,"[0, 2]","[10, 0]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,42,2.5
+84,<music21.chord.Chord B5 C#5 B4>,"[0, 2]","[11, 1]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,43,1
+84.5,<music21.chord.Chord B5 C#5>,"[0, 2]","[11, 1]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,43,1.5
+85,<music21.chord.Chord C#5>,[0],[1],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,43,2
+86,<music21.chord.Chord C5>,[0],[0],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,44,1
+86.5,<music21.chord.Chord F5 D6>,"[0, 3]","[2, 5]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,44,1.5
+87,<music21.chord.Chord B-4>,[0],[10],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,44,2
+88,<music21.chord.Chord G5>,[0],[7],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,45,1
+89,<music21.chord.Chord F#5>,[0],[6],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,45,2
+89.5,<music21.chord.Chord A5 F#5>,"[0, 3]","[6, 9]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,45,2.5
+90,<music21.chord.Chord B5 D4>,"[0, 3]","[11, 2]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,46,1
+90.5,<music21.chord.Chord D5 B5 D4>,"[0, 3]","[11, 2]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,46,1.5
+91,<music21.chord.Chord E4 B5 D5>,"[0, 3, 5]","[11, 2, 4]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,46,2
+91.5,<music21.chord.Chord E6 E4 D5>,"[0, 2]","[2, 4]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,46,2.5
+92,<music21.chord.Chord D6 E5 F4>,"[0, 2, 3]","[2, 4, 5]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,47,1
+93,<music21.chord.Chord C#6 E5 F4>,"[0, 3, 4]","[1, 4, 5]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,47,2
+93.5,<music21.chord.Chord F#5 C#6 F4>,"[0, 4, 5]","[1, 5, 6]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,47,2.5
+94,<music21.chord.Chord F#4 F#5>,[0],[6],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,48,1
+94.5,<music21.chord.Chord F6 F#4 F#5>,"[0, 1]","[5, 6]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,48,1.5
+95,<music21.chord.Chord G#5 F6>,"[0, 3]","[5, 8]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,48,2
+96,<music21.chord.Chord B-5 B5>,"[0, 1]","[10, 11]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,49,1
+96.5,<music21.chord.Chord A4 B-5 B5>,"[0, 1, 2]","[9, 10, 11]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,49,1.5
+98,<music21.chord.Chord C6 D4>,"[0, 2]","[0, 2]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,50,1
+99.5,<music21.chord.Chord E4>,[0],[4],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,50,2.5
+100,<music21.chord.Chord B-5 F#4>,"[0, 4]","[6, 10]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,51,1
+101,<music21.chord.Chord C#6 B-5 F#4>,"[0, 4, 7]","[6, 10, 1]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,51,2
+101.5,<music21.chord.Chord B4 B-5 C#6>,"[0, 1, 3]","[10, 11, 1]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,51,2.5
+102,<music21.chord.Chord F5 A4>,"[0, 4]","[5, 9]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,52,1
+102.5,<music21.chord.Chord C6 A4>,"[0, 3]","[9, 0]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,52,1.5
+103,<music21.chord.Chord F5 G#4>,"[0, 3]","[5, 8]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,52,2
+103.5,<music21.chord.Chord G#4>,[0],[8],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,52,2.5
+104,<music21.chord.Chord F#5>,[0],[6],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,53,1
+104.5,<music21.chord.Chord C5 F#5>,"[0, 6]","[0, 6]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,53,1.5
+105.5,<music21.chord.Chord C#6 C5>,"[0, 1]","[0, 1]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,53,2.5
+106,<music21.chord.Chord C6 B4>,"[0, 1]","[11, 0]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,54,1
+106.5,<music21.chord.Chord B4>,[0],[11],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,54,1.5
+109,<music21.chord.Chord B5>,[0],[11],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,55,2
+111,<music21.chord.Chord G#4>,[0],[8],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,56,2
+112,<music21.chord.Chord G4 E-5>,"[0, 4]","[3, 7]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,57,1
+113,<music21.chord.Chord F5>,[0],[5],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,57,2
+114,<music21.chord.Chord F#5>,[0],[6],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,58,1
+116,<music21.chord.Chord G5>,[0],[7],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,59,1
+118.5,<music21.chord.Chord B-5>,[0],[10],Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,60,1.5
+124,<music21.chord.Chord D4 F#4 C#3>,"[0, 1, 5]","[1, 2, 6]",Aphorisms 8 Canon Op13No8 D minor.mid,Shostakovich,63,1

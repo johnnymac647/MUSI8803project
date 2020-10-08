@@ -1,273 +1,273 @@
-measureNumber,beatNumber,offset,Chord,NormalForm,PCsInNormalForm,file,Composer
-1,3,1.0,<music21.chord.Chord G4>,[0],[7],Takemitsu_Romance.mxl,Takemitsu
-2,1,1.5,<music21.chord.Chord G3 D4>,"[0, 5]","[2, 7]",Takemitsu_Romance.mxl,Takemitsu
-2,3,2.5,<music21.chord.Chord G3 G4>,[0],[7],Takemitsu_Romance.mxl,Takemitsu
-3,1,3.0,<music21.chord.Chord G3 D4 E-4 G4 E-5>,"[0, 1, 5]","[2, 3, 7]",Takemitsu_Romance.mxl,Takemitsu
-3,3,4.0,<music21.chord.Chord G3 D4 E-4 A4>,"[0, 1, 5, 7]","[2, 3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu
-4,1,4.5,<music21.chord.Chord A3 D4 E-4 A4 D5>,"[0, 5, 6]","[9, 2, 3]",Takemitsu_Romance.mxl,Takemitsu
-4,3,5.5,<music21.chord.Chord A3 D4 E-4 G4>,"[0, 1, 5, 7]","[2, 3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu
-5,1,6.0,<music21.chord.Chord C3 G3 C#4 D4 G4 C5>,"[0, 1, 2, 7]","[0, 1, 2, 7]",Takemitsu_Romance.mxl,Takemitsu
-5,3,7.0,<music21.chord.Chord D2 D4 G4 C5>,"[0, 2, 7]","[0, 2, 7]",Takemitsu_Romance.mxl,Takemitsu
-5,3 1/2,7.25,<music21.chord.Chord G2 D4 G4 C5>,"[0, 2, 7]","[0, 2, 7]",Takemitsu_Romance.mxl,Takemitsu
-6,1,7.5,<music21.chord.Chord G#3 A3 D4 D5>,"[0, 1, 6]","[8, 9, 2]",Takemitsu_Romance.mxl,Takemitsu
-6,3,8.5,<music21.chord.Chord G#3 A3 A4>,"[0, 1]","[8, 9]",Takemitsu_Romance.mxl,Takemitsu
-7,1,9.0,<music21.chord.Chord D3 E-3 G3 G4 D5 G5>,"[0, 1, 5]","[2, 3, 7]",Takemitsu_Romance.mxl,Takemitsu
-7,3,10.0,<music21.chord.Chord D3 E-3 G3 A4>,"[0, 1, 5, 7]","[2, 3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu
-8,1,10.5,<music21.chord.Chord D3 E-3 A3 C4 D4 G4 E-5>,"[0, 2, 5, 7, 8]","[7, 9, 0, 2, 3]",Takemitsu_Romance.mxl,Takemitsu
-8,3,11.5,<music21.chord.Chord D3 E-3 A3 C4 E-4>,"[0, 3, 5, 6]","[9, 0, 2, 3]",Takemitsu_Romance.mxl,Takemitsu
-9,1,12.0,<music21.chord.Chord E-3 G3 A3 D4 E-4 C5>,"[0, 2, 5, 7, 8]","[7, 9, 0, 2, 3]",Takemitsu_Romance.mxl,Takemitsu
-9,3,13.0,<music21.chord.Chord E-3 G3 A3 A4>,"[0, 4, 6]","[3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu
-10,1,13.5,<music21.chord.Chord D3 E-3 G3 G4 D5 G5>,"[0, 1, 5]","[2, 3, 7]",Takemitsu_Romance.mxl,Takemitsu
-10,3,14.5,<music21.chord.Chord D3 E-3 G3 B-4>,"[0, 1, 5, 8]","[2, 3, 7, 10]",Takemitsu_Romance.mxl,Takemitsu
-11,1,15.0,<music21.chord.Chord D3 D5>,[0],[2],Takemitsu_Romance.mxl,Takemitsu
-11,1 1/2,15.25,<music21.chord.Chord E-3 D5>,"[0, 1]","[2, 3]",Takemitsu_Romance.mxl,Takemitsu
-11,2,15.5,<music21.chord.Chord A3 C5>,"[0, 3]","[9, 0]",Takemitsu_Romance.mxl,Takemitsu
-11,2 1/2,15.75,<music21.chord.Chord C4 C5>,[0],[0],Takemitsu_Romance.mxl,Takemitsu
-11,3,16.0,<music21.chord.Chord C4 E-4>,"[0, 3]","[0, 3]",Takemitsu_Romance.mxl,Takemitsu
-12,1,16.5,<music21.chord.Chord E-3 D4 A4>,"[0, 5, 6]","[9, 2, 3]",Takemitsu_Romance.mxl,Takemitsu
-12,1 1/2,16.75,<music21.chord.Chord A3 D4 A4>,"[0, 5]","[9, 2]",Takemitsu_Romance.mxl,Takemitsu
-12,2,17.0,<music21.chord.Chord A3 D4 A4>,"[0, 5]","[9, 2]",Takemitsu_Romance.mxl,Takemitsu
-12,2 1/2,17.25,<music21.chord.Chord G3 D4 A4>,"[0, 2, 7]","[7, 9, 2]",Takemitsu_Romance.mxl,Takemitsu
-12,3,17.5,<music21.chord.Chord G3 D4>,"[0, 5]","[2, 7]",Takemitsu_Romance.mxl,Takemitsu
-13,1,18.0,<music21.chord.Chord G3 D4 A4>,"[0, 2, 7]","[7, 9, 2]",Takemitsu_Romance.mxl,Takemitsu
-13,3,19.0,<music21.chord.Chord G3 C4>,"[0, 5]","[7, 0]",Takemitsu_Romance.mxl,Takemitsu
-14,1,19.5,<music21.chord.Chord E-3 A3 C4 B-4>,"[0, 1, 3, 6]","[9, 10, 0, 3]",Takemitsu_Romance.mxl,Takemitsu
-14,2,20.0,<music21.chord.Chord G3 C4 B-4>,"[0, 3, 5]","[7, 10, 0]",Takemitsu_Romance.mxl,Takemitsu
-14,3,20.5,<music21.chord.Chord D3 B-3>,"[0, 4]","[10, 2]",Takemitsu_Romance.mxl,Takemitsu
-15,1,21.0,<music21.chord.Chord C3 D3 A3 D4 G4 D5>,"[0, 2, 5, 7]","[7, 9, 0, 2]",Takemitsu_Romance.mxl,Takemitsu
-15,3,22.0,<music21.chord.Chord D3 E-3 G3 A4 E-5>,"[0, 1, 5, 7]","[2, 3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu
-16,1,22.5,<music21.chord.Chord D3 E-3 A3 G4 D5 G5>,"[0, 1, 5, 7]","[2, 3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu
-16,2 1/2,23.25,<music21.chord.Chord E-2 G4 D5 G5>,"[0, 1, 5]","[2, 3, 7]",Takemitsu_Romance.mxl,Takemitsu
-16,2 2/3,23.333333333333332,<music21.chord.Chord A2 G4 D5 G5>,"[0, 2, 7]","[7, 9, 2]",Takemitsu_Romance.mxl,Takemitsu
-16,2 5/6,23.416666666666668,<music21.chord.Chord E-3 G4 D5 G5>,"[0, 1, 5]","[2, 3, 7]",Takemitsu_Romance.mxl,Takemitsu
-16,3,23.5,<music21.chord.Chord G3 A5 D6 G#6 A6>,"[0, 1, 2, 7]","[7, 8, 9, 2]",Takemitsu_Romance.mxl,Takemitsu
-16,3 1/2,23.75,<music21.chord.Chord G3 E-5 G5>,"[0, 4]","[3, 7]",Takemitsu_Romance.mxl,Takemitsu
-17,1,24.0,<music21.chord.Chord G3 E-5 G5>,"[0, 4]","[3, 7]",Takemitsu_Romance.mxl,Takemitsu
-17,2,24.5,<music21.chord.Chord D4 G4 C#5 D5>,"[0, 1, 6]","[1, 2, 7]",Takemitsu_Romance.mxl,Takemitsu
-17,2 1/2,24.75,<music21.chord.Chord C2 G4 C#5 D5>,"[0, 1, 2, 7]","[0, 1, 2, 7]",Takemitsu_Romance.mxl,Takemitsu
-17,2 2/3,24.833333333333332,<music21.chord.Chord G2 G4 C#5 D5>,"[0, 1, 6]","[1, 2, 7]",Takemitsu_Romance.mxl,Takemitsu
-17,2 5/6,24.916666666666668,<music21.chord.Chord C3 G4 C#5 D5>,"[0, 1, 2, 7]","[0, 1, 2, 7]",Takemitsu_Romance.mxl,Takemitsu
-17,3,25.0,<music21.chord.Chord A3 C4 G4 A-4 C5>,"[0, 1, 2, 5]","[7, 8, 9, 0]",Takemitsu_Romance.mxl,Takemitsu
-18,1,25.5,<music21.chord.Chord A3 E-4 D5>,"[0, 5, 6]","[9, 2, 3]",Takemitsu_Romance.mxl,Takemitsu
-18,2,26.0,<music21.chord.Chord A3 A4 D5 G#5 A5>,"[0, 1, 6]","[8, 9, 2]",Takemitsu_Romance.mxl,Takemitsu
-18,3,26.5,<music21.chord.Chord G1 D2 G2 C6 G6 A-6 C7>,"[0, 1, 5, 7]","[7, 8, 0, 2]",Takemitsu_Romance.mxl,Takemitsu
-19,1,27.0,<music21.chord.Chord A3 E-4 D5>,"[0, 5, 6]","[9, 2, 3]",Takemitsu_Romance.mxl,Takemitsu
-19,2,27.5,<music21.chord.Chord E-3 F3 A3 E-5 G5 D6>,"[0, 1, 3, 5, 7]","[2, 3, 5, 7, 9]",Takemitsu_Romance.mxl,Takemitsu
-19,3 1/2,28.25,<music21.chord.Chord E-2 E-5 G5 D6>,"[0, 1, 5]","[2, 3, 7]",Takemitsu_Romance.mxl,Takemitsu
-19,3 2/3,28.333333333333332,<music21.chord.Chord A2 E-5 G5 D6>,"[0, 1, 5, 7]","[2, 3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu
-19,3 5/6,28.416666666666668,<music21.chord.Chord E-3 E-5 G5 D6>,"[0, 1, 5]","[2, 3, 7]",Takemitsu_Romance.mxl,Takemitsu
-20,1,28.5,<music21.chord.Chord G3 A5 D6 G#6 A6>,"[0, 1, 2, 7]","[7, 8, 9, 2]",Takemitsu_Romance.mxl,Takemitsu
-20,3,29.5,<music21.chord.Chord G3 G4 E-5 G5>,"[0, 4]","[3, 7]",Takemitsu_Romance.mxl,Takemitsu
-21,1,30.0,<music21.chord.Chord G3 G4 E-5 G5>,"[0, 4]","[3, 7]",Takemitsu_Romance.mxl,Takemitsu
-21,2,30.5,<music21.chord.Chord G3 D4 G4 C#5 D5>,"[0, 1, 6]","[1, 2, 7]",Takemitsu_Romance.mxl,Takemitsu
-21,2 1/2,30.75,<music21.chord.Chord C#2 D4 G4 C#5 D5>,"[0, 1, 6]","[1, 2, 7]",Takemitsu_Romance.mxl,Takemitsu
-21,2 2/3,30.833333333333332,<music21.chord.Chord G2 D4 G4 C#5 D5>,"[0, 1, 6]","[1, 2, 7]",Takemitsu_Romance.mxl,Takemitsu
-21,2 5/6,30.916666666666668,<music21.chord.Chord C#3 D4 G4 C#5 D5>,"[0, 1, 6]","[1, 2, 7]",Takemitsu_Romance.mxl,Takemitsu
-21,3,31.0,<music21.chord.Chord A3 C4 G4 A-4 C5>,"[0, 1, 2, 5]","[7, 8, 9, 0]",Takemitsu_Romance.mxl,Takemitsu
-22,1,31.5,<music21.chord.Chord A3 E-4 D5>,"[0, 5, 6]","[9, 2, 3]",Takemitsu_Romance.mxl,Takemitsu
-22,2,32.0,<music21.chord.Chord A3 A4 D5 G#5 A5>,"[0, 1, 6]","[8, 9, 2]",Takemitsu_Romance.mxl,Takemitsu
-22,3,32.5,<music21.chord.Chord G1 D2 E-3 C5 G#5 A-5 C6>,"[0, 1, 5, 7, 8]","[7, 8, 0, 2, 3]",Takemitsu_Romance.mxl,Takemitsu
-23,1,33.0,<music21.chord.Chord A3 E-4 D5>,"[0, 5, 6]","[9, 2, 3]",Takemitsu_Romance.mxl,Takemitsu
-23,2,33.5,<music21.chord.Chord G3 G4 D5 G5>,"[0, 5]","[2, 7]",Takemitsu_Romance.mxl,Takemitsu
-23,2 1/2,33.75,<music21.chord.Chord D4 G4 D5 G5>,"[0, 5]","[2, 7]",Takemitsu_Romance.mxl,Takemitsu
-23,3,34.0,<music21.chord.Chord E-4 G4 D5 G5>,"[0, 1, 5]","[2, 3, 7]",Takemitsu_Romance.mxl,Takemitsu
-24,1,34.5,<music21.chord.Chord E-4 G4 D5 G5>,"[0, 1, 5]","[2, 3, 7]",Takemitsu_Romance.mxl,Takemitsu
-24,2,35.0,<music21.chord.Chord D4>,[0],[2],Takemitsu_Romance.mxl,Takemitsu
-24,3,35.5,<music21.chord.Chord A3>,[0],[9],Takemitsu_Romance.mxl,Takemitsu
-25,1,36.0,<music21.chord.Chord G2 A3>,"[0, 2]","[7, 9]",Takemitsu_Romance.mxl,Takemitsu
-25,3,37.0,<music21.chord.Chord G2 G4>,[0],[7],Takemitsu_Romance.mxl,Takemitsu
-26,1,37.5,<music21.chord.Chord D3 G3 E-4>,"[0, 1, 5]","[2, 3, 7]",Takemitsu_Romance.mxl,Takemitsu
-26,1 3/4,37.875,<music21.chord.Chord D3 G3 D4>,"[0, 5]","[2, 7]",Takemitsu_Romance.mxl,Takemitsu
-26,2,38.0,<music21.chord.Chord D3 G3 A3>,"[0, 2, 7]","[7, 9, 2]",Takemitsu_Romance.mxl,Takemitsu
-26,3,38.5,<music21.chord.Chord D3 G3 A3>,"[0, 2, 7]","[7, 9, 2]",Takemitsu_Romance.mxl,Takemitsu
-27,1,39.0,<music21.chord.Chord G2 E-3 B-3>,"[0, 4, 7]","[3, 7, 10]",Takemitsu_Romance.mxl,Takemitsu
-27,2,39.5,<music21.chord.Chord G2 E-3 C4>,"[0, 3, 7]","[0, 3, 7]",Takemitsu_Romance.mxl,Takemitsu
-28,1,40.5,<music21.chord.Chord G2 E-3 C4>,"[0, 3, 7]","[0, 3, 7]",Takemitsu_Romance.mxl,Takemitsu
-28,1 1/2,40.75,<music21.chord.Chord G2 E-3 G3>,"[0, 4]","[3, 7]",Takemitsu_Romance.mxl,Takemitsu
-28,2,41.0,<music21.chord.Chord D3 E-3 A3>,"[0, 5, 6]","[9, 2, 3]",Takemitsu_Romance.mxl,Takemitsu
-28,3,41.5,<music21.chord.Chord D3 E-3 G3>,"[0, 1, 5]","[2, 3, 7]",Takemitsu_Romance.mxl,Takemitsu
-29,1,42.0,<music21.chord.Chord D3 E-3 A3>,"[0, 5, 6]","[9, 2, 3]",Takemitsu_Romance.mxl,Takemitsu
-29,2,42.5,<music21.chord.Chord D3 E-3 C4>,"[0, 2, 3]","[0, 2, 3]",Takemitsu_Romance.mxl,Takemitsu
-29,3,43.0,<music21.chord.Chord D3 E-3 C4>,"[0, 2, 3]","[0, 2, 3]",Takemitsu_Romance.mxl,Takemitsu
-29,3 1/2,43.25,<music21.chord.Chord D3 E-3 G4>,"[0, 1, 5]","[2, 3, 7]",Takemitsu_Romance.mxl,Takemitsu
-30,1,43.5,<music21.chord.Chord C2 G2 E-4>,"[0, 3, 7]","[0, 3, 7]",Takemitsu_Romance.mxl,Takemitsu
-30,2,44.0,<music21.chord.Chord C2 G2 G3>,"[0, 5]","[7, 0]",Takemitsu_Romance.mxl,Takemitsu
-30,3,44.5,<music21.chord.Chord A2 B-2 E-3 B-3 E-4 A4>,"[0, 1, 6]","[9, 10, 3]",Takemitsu_Romance.mxl,Takemitsu
-31,1,45.0,<music21.chord.Chord A2 B-2 E-3 B-3 E-4 A4>,"[0, 1, 6]","[9, 10, 3]",Takemitsu_Romance.mxl,Takemitsu
-31,3,46.0,<music21.chord.Chord A2 B-2 E-3 D4>,"[0, 1, 5, 6]","[9, 10, 2, 3]",Takemitsu_Romance.mxl,Takemitsu
-32,1,46.5,<music21.chord.Chord A3>,[0],[9],Takemitsu_Romance.mxl,Takemitsu
-32,2,47.0,<music21.chord.Chord G3>,[0],[7],Takemitsu_Romance.mxl,Takemitsu
-32,2 1/2,47.25,<music21.chord.Chord G1 G3>,[0],[7],Takemitsu_Romance.mxl,Takemitsu
-32,2 2/3,47.333333333333336,<music21.chord.Chord D2 G3>,"[0, 5]","[2, 7]",Takemitsu_Romance.mxl,Takemitsu
-32,2 5/6,47.416666666666664,<music21.chord.Chord G#2 G3>,"[0, 1]","[7, 8]",Takemitsu_Romance.mxl,Takemitsu
-32,3,47.5,<music21.chord.Chord D3>,[0],[2],Takemitsu_Romance.mxl,Takemitsu
-32,3 1/2,47.75,<music21.chord.Chord D3 G4 G5>,"[0, 5]","[2, 7]",Takemitsu_Romance.mxl,Takemitsu
-33,1,48.0,<music21.chord.Chord D3 E-4 E-5>,"[0, 1]","[2, 3]",Takemitsu_Romance.mxl,Takemitsu
-33,1 3/4,48.375,<music21.chord.Chord D3 D4 D5>,[0],[2],Takemitsu_Romance.mxl,Takemitsu
-33,2,48.5,<music21.chord.Chord A2 C3 E-3 A3 D4 A4>,"[0, 3, 5, 6]","[9, 0, 2, 3]",Takemitsu_Romance.mxl,Takemitsu
-33,3,49.0,<music21.chord.Chord A2 C3 E-3 A3 D4 A4>,"[0, 3, 5, 6]","[9, 0, 2, 3]",Takemitsu_Romance.mxl,Takemitsu
-34,1,49.5,<music21.chord.Chord A3 A4>,[0],[9],Takemitsu_Romance.mxl,Takemitsu
-34,1 1/2,49.75,<music21.chord.Chord G1 B-3 B-4>,"[0, 3]","[7, 10]",Takemitsu_Romance.mxl,Takemitsu
-34,1 2/3,49.833333333333336,<music21.chord.Chord D2 B-3 B-4>,"[0, 4]","[10, 2]",Takemitsu_Romance.mxl,Takemitsu
-34,1 5/6,49.916666666666664,<music21.chord.Chord G#2 B-3 B-4>,"[0, 2]","[8, 10]",Takemitsu_Romance.mxl,Takemitsu
-34,2,50.0,<music21.chord.Chord D3 C4 C5>,"[0, 2]","[0, 2]",Takemitsu_Romance.mxl,Takemitsu
-35,1,51.0,<music21.chord.Chord D3 C4 C5>,"[0, 2]","[0, 2]",Takemitsu_Romance.mxl,Takemitsu
-35,1 1/2,51.25,<music21.chord.Chord D3 G3 G4>,"[0, 5]","[2, 7]",Takemitsu_Romance.mxl,Takemitsu
-35,2,51.5,<music21.chord.Chord A2 B-2 E-3 A3 D4 A4>,"[0, 1, 5, 6]","[9, 10, 2, 3]",Takemitsu_Romance.mxl,Takemitsu
-35,3,52.0,<music21.chord.Chord A2 B-2 E-3 A3 D4 A4>,"[0, 1, 5, 6]","[9, 10, 2, 3]",Takemitsu_Romance.mxl,Takemitsu
-36,1,52.5,<music21.chord.Chord A2 B-2 E-3 A3 A4>,"[0, 1, 6]","[9, 10, 3]",Takemitsu_Romance.mxl,Takemitsu
-36,2,53.0,<music21.chord.Chord A2 B-2 E-3 C4 C5>,"[0, 1, 3, 6]","[9, 10, 0, 3]",Takemitsu_Romance.mxl,Takemitsu
-36,3,53.5,<music21.chord.Chord C4 C5>,[0],[0],Takemitsu_Romance.mxl,Takemitsu
-36,3 1/2,53.75,<music21.chord.Chord G1 G4 G5>,[0],[7],Takemitsu_Romance.mxl,Takemitsu
-36,3 2/3,53.833333333333336,<music21.chord.Chord D2 G4 G5>,"[0, 5]","[2, 7]",Takemitsu_Romance.mxl,Takemitsu
-36,3 5/6,53.916666666666664,<music21.chord.Chord G#2 G4 G5>,"[0, 1]","[7, 8]",Takemitsu_Romance.mxl,Takemitsu
-37,1,54.0,<music21.chord.Chord D3 E-4 A4 E-5>,"[0, 5, 6]","[9, 2, 3]",Takemitsu_Romance.mxl,Takemitsu
-37,2,54.5,<music21.chord.Chord E-3 E-4 A4 E-5>,"[0, 6]","[3, 9]",Takemitsu_Romance.mxl,Takemitsu
-37,3,55.0,<music21.chord.Chord B-3>,[0],[10],Takemitsu_Romance.mxl,Takemitsu
-37,3 1/2,55.25,<music21.chord.Chord B-3 G5 G6>,"[0, 3]","[7, 10]",Takemitsu_Romance.mxl,Takemitsu
-38,1,55.5,<music21.chord.Chord A3 E-4 E-5 A5 E-6>,"[0, 6]","[3, 9]",Takemitsu_Romance.mxl,Takemitsu
-38,2,56.0,<music21.chord.Chord D2 E-3 E-5 A5 E-6>,"[0, 5, 6]","[9, 2, 3]",Takemitsu_Romance.mxl,Takemitsu
-38,3,56.5,<music21.chord.Chord A3 E-4 E-5 A5 E-6>,"[0, 6]","[3, 9]",Takemitsu_Romance.mxl,Takemitsu
-38,3 1/2,56.75,<music21.chord.Chord A3 E-4 G4 D5 G5>,"[0, 1, 5, 7]","[2, 3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu
-39,1,57.0,<music21.chord.Chord D2 E-3 A4 D5 A5>,"[0, 5, 6]","[9, 2, 3]",Takemitsu_Romance.mxl,Takemitsu
-39,1 1/2,57.25,<music21.chord.Chord D2 E-3 G4 D5 G5>,"[0, 1, 5]","[2, 3, 7]",Takemitsu_Romance.mxl,Takemitsu
-39,2,57.5,<music21.chord.Chord A3 E-4 A4 D5 A5>,"[0, 5, 6]","[9, 2, 3]",Takemitsu_Romance.mxl,Takemitsu
-39,2 1/2,57.75,<music21.chord.Chord A3 E-4 C5 C6>,"[0, 3, 6]","[9, 0, 3]",Takemitsu_Romance.mxl,Takemitsu
-39,3,58.0,<music21.chord.Chord D2 E-3 C5 C6>,"[0, 2, 3]","[0, 2, 3]",Takemitsu_Romance.mxl,Takemitsu
-39,3 1/2,58.25,<music21.chord.Chord D2 E-3 G5 G6>,"[0, 1, 5]","[2, 3, 7]",Takemitsu_Romance.mxl,Takemitsu
-40,1,58.5,<music21.chord.Chord A3 E-4 E-5 A5 E-6>,"[0, 6]","[3, 9]",Takemitsu_Romance.mxl,Takemitsu
-40,2,59.0,<music21.chord.Chord D2 E-3 E-5 A5 E-6>,"[0, 5, 6]","[9, 2, 3]",Takemitsu_Romance.mxl,Takemitsu
-40,3,59.5,<music21.chord.Chord A3 E-4>,"[0, 6]","[3, 9]",Takemitsu_Romance.mxl,Takemitsu
-40,3 1/2,59.75,<music21.chord.Chord A3 E-4 G4 D5 G5>,"[0, 1, 5, 7]","[2, 3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu
-41,1,60.0,<music21.chord.Chord D2 E-3 A4 D5 A5>,"[0, 5, 6]","[9, 2, 3]",Takemitsu_Romance.mxl,Takemitsu
-41,1 1/2,60.25,<music21.chord.Chord D2 E-3 G4 D5 G5>,"[0, 1, 5]","[2, 3, 7]",Takemitsu_Romance.mxl,Takemitsu
-41,2,60.5,<music21.chord.Chord B-3 E-4 G4 D5 G5>,"[0, 1, 5, 8]","[2, 3, 7, 10]",Takemitsu_Romance.mxl,Takemitsu
-41,3,61.0,<music21.chord.Chord D2 E-3 G4 D5 G5>,"[0, 1, 5]","[2, 3, 7]",Takemitsu_Romance.mxl,Takemitsu
-41,3 1/2,61.25,<music21.chord.Chord D2 E-3 C4 G4 C5>,"[0, 2, 3, 7]","[0, 2, 3, 7]",Takemitsu_Romance.mxl,Takemitsu
-42,1,61.5,<music21.chord.Chord A3 B-3 D4 A4 D5>,"[0, 1, 5]","[9, 10, 2]",Takemitsu_Romance.mxl,Takemitsu
-42,1 1/2,61.75,<music21.chord.Chord A3 B-3 C4 G4 C5>,"[0, 2, 3, 5]","[7, 9, 10, 0]",Takemitsu_Romance.mxl,Takemitsu
-42,2,62.0,<music21.chord.Chord D2 E-3 D4 A4 D5>,"[0, 5, 6]","[9, 2, 3]",Takemitsu_Romance.mxl,Takemitsu
-42,2 1/2,62.25,<music21.chord.Chord D2 E-3 C5 G5 C6>,"[0, 2, 3, 7]","[0, 2, 3, 7]",Takemitsu_Romance.mxl,Takemitsu
-42,3,62.5,<music21.chord.Chord D4 G4 C5 G5 C6>,"[0, 2, 7]","[0, 2, 7]",Takemitsu_Romance.mxl,Takemitsu
-42,3 1/2,62.75,<music21.chord.Chord D4 G4 D5 A5 D6>,"[0, 2, 7]","[7, 9, 2]",Takemitsu_Romance.mxl,Takemitsu
-43,1,63.0,<music21.chord.Chord D2 E-3 A4 D5 A5>,"[0, 5, 6]","[9, 2, 3]",Takemitsu_Romance.mxl,Takemitsu
-43,2,63.5,<music21.chord.Chord A3 E-4 A4 D5 A5>,"[0, 5, 6]","[9, 2, 3]",Takemitsu_Romance.mxl,Takemitsu
-43,3,64.0,<music21.chord.Chord D2 E-3 A4 D5 A5>,"[0, 5, 6]","[9, 2, 3]",Takemitsu_Romance.mxl,Takemitsu
-43,3 1/2,64.25,<music21.chord.Chord D2 E-3 D6 D7>,"[0, 1]","[2, 3]",Takemitsu_Romance.mxl,Takemitsu
-44,1,64.5,<music21.chord.Chord B-3 E-4 A4 A5>,"[0, 1, 6]","[9, 10, 3]",Takemitsu_Romance.mxl,Takemitsu
-44,2,65.0,<music21.chord.Chord D2 E-3 A4 A5>,"[0, 5, 6]","[9, 2, 3]",Takemitsu_Romance.mxl,Takemitsu
-44,3,65.5,<music21.chord.Chord B-3 E-4 A4 A5>,"[0, 1, 6]","[9, 10, 3]",Takemitsu_Romance.mxl,Takemitsu
-44,3 1/2,65.75,<music21.chord.Chord B-3 E-4 G5 G6>,"[0, 4, 7]","[3, 7, 10]",Takemitsu_Romance.mxl,Takemitsu
-45,1,66.0,<music21.chord.Chord D2 E-3 E-5 E-6>,"[0, 1]","[2, 3]",Takemitsu_Romance.mxl,Takemitsu
-45,1 3/4,66.375,<music21.chord.Chord D2 E-3 D5 D6>,"[0, 1]","[2, 3]",Takemitsu_Romance.mxl,Takemitsu
-45,2,66.5,<music21.chord.Chord B-3 E-4 A4 A5>,"[0, 1, 6]","[9, 10, 3]",Takemitsu_Romance.mxl,Takemitsu
-45,3,67.0,<music21.chord.Chord D2 E-3 A4 A5>,"[0, 5, 6]","[9, 2, 3]",Takemitsu_Romance.mxl,Takemitsu
-46,1,67.5,<music21.chord.Chord B-3 E-4 A4 A5>,"[0, 1, 6]","[9, 10, 3]",Takemitsu_Romance.mxl,Takemitsu
-46,2,68.0,<music21.chord.Chord B-3 E-4 B-5 B-6>,"[0, 5]","[10, 3]",Takemitsu_Romance.mxl,Takemitsu
-46,3,68.5,<music21.chord.Chord A2 E-3 A3 C6 C7>,"[0, 3, 6]","[9, 0, 3]",Takemitsu_Romance.mxl,Takemitsu
-47,1,69.0,<music21.chord.Chord B-3 E-4 C5 C6>,"[0, 2, 5]","[10, 0, 3]",Takemitsu_Romance.mxl,Takemitsu
-47,1 1/2,69.25,<music21.chord.Chord B-3 E-4 G4 G5>,"[0, 4, 7]","[3, 7, 10]",Takemitsu_Romance.mxl,Takemitsu
-47,2,69.5,<music21.chord.Chord E-2 E-3 A4 A5>,"[0, 6]","[3, 9]",Takemitsu_Romance.mxl,Takemitsu
-47,3,70.0,<music21.chord.Chord E-2 E-3 G4 G5>,"[0, 4]","[3, 7]",Takemitsu_Romance.mxl,Takemitsu
-48,1,70.5,<music21.chord.Chord A3 B-3 E-4 A4 A5>,"[0, 1, 6]","[9, 10, 3]",Takemitsu_Romance.mxl,Takemitsu
-48,2,71.0,<music21.chord.Chord A3 B-3 E-4 C5 C6>,"[0, 1, 3, 6]","[9, 10, 0, 3]",Takemitsu_Romance.mxl,Takemitsu
-48,3,71.5,<music21.chord.Chord D2 A2 E-3 C5 C6>,"[0, 3, 5, 6]","[9, 0, 2, 3]",Takemitsu_Romance.mxl,Takemitsu
-48,3 1/2,71.75,<music21.chord.Chord D2 A2 E-3 G5 G6>,"[0, 1, 5, 7]","[2, 3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu
-49,1,72.0,<music21.chord.Chord G3 A3 E-4 E-5 A5 E-6>,"[0, 4, 6]","[3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu
-49,2,72.5,<music21.chord.Chord G3 A3 E-4 E-5 A5 E-6>,"[0, 4, 6]","[3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu
-49,3,73.0,<music21.chord.Chord E-2 A2 E-3 G3 D4>,"[0, 1, 5, 7]","[2, 3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu
-50,1,73.5,<music21.chord.Chord E-2 A2 E-3 G3 A3>,"[0, 4, 6]","[3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu
-50,3,74.5,<music21.chord.Chord E-2 A2 E-3 B-3 G4>,"[0, 4, 6, 7]","[3, 7, 9, 10]",Takemitsu_Romance.mxl,Takemitsu
-51,1,75.0,<music21.chord.Chord E-2 A2 E-3 A3 E-4>,"[0, 6]","[3, 9]",Takemitsu_Romance.mxl,Takemitsu
-51,3,76.0,<music21.chord.Chord D2 A2 E-3 G3 D4>,"[0, 1, 5, 7]","[2, 3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu
-52,1,76.5,<music21.chord.Chord D2 A2 E-3 G3 A3>,"[0, 1, 5, 7]","[2, 3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu
-52,3,77.5,<music21.chord.Chord D2 A2 E-3 B-3 A4>,"[0, 1, 5, 6]","[9, 10, 2, 3]",Takemitsu_Romance.mxl,Takemitsu
-53,1,78.0,<music21.chord.Chord D2 A2 E-3 D4 G4 A4>,"[0, 1, 5, 7]","[2, 3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu
-53,3,79.0,<music21.chord.Chord D2 G2 A2 D3 A3 C4>,"[0, 2, 5, 7]","[7, 9, 0, 2]",Takemitsu_Romance.mxl,Takemitsu
-54,1,79.5,<music21.chord.Chord D2 G2 A2 D3 B-3 G4>,"[0, 2, 3, 7]","[7, 9, 10, 2]",Takemitsu_Romance.mxl,Takemitsu
-54,2,80.0,<music21.chord.Chord D2 G2 A2 D3 B-3 D4>,"[0, 2, 3, 7]","[7, 9, 10, 2]",Takemitsu_Romance.mxl,Takemitsu
-54,3,80.5,<music21.chord.Chord D2 G2 A2 D3 A4 E-5>,"[0, 1, 5, 7]","[2, 3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu
-55,1,81.0,<music21.chord.Chord D2 G2 A2 D3 D4 A4>,"[0, 2, 7]","[7, 9, 2]",Takemitsu_Romance.mxl,Takemitsu
-55,2,81.5,<music21.chord.Chord D2 G2 A2 D3 D4 G4>,"[0, 2, 7]","[7, 9, 2]",Takemitsu_Romance.mxl,Takemitsu
-55,3,82.0,<music21.chord.Chord D2 G2 A2 E-3 E-4 D5>,"[0, 1, 5, 7]","[2, 3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu
-56,1,82.5,<music21.chord.Chord D2 G2 A2 E-3 B-3 D4 A4>,"[0, 1, 5, 7, 8]","[2, 3, 7, 9, 10]",Takemitsu_Romance.mxl,Takemitsu
-56,3,83.5,<music21.chord.Chord G3 C4 G4 C5>,"[0, 5]","[7, 0]",Takemitsu_Romance.mxl,Takemitsu
-56,3 1/2,83.75,<music21.chord.Chord A3 C4 G4 C5>,"[0, 2, 5]","[7, 9, 0]",Takemitsu_Romance.mxl,Takemitsu
-57,1,84.0,<music21.chord.Chord G3 E-4 A4 D5>,"[0, 1, 5, 7]","[2, 3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu
-57,1 1/2,84.25,<music21.chord.Chord A3 E-4 A4 D5>,"[0, 5, 6]","[9, 2, 3]",Takemitsu_Romance.mxl,Takemitsu
-57,2,84.5,<music21.chord.Chord E-3 E-4 A4 D5>,"[0, 5, 6]","[9, 2, 3]",Takemitsu_Romance.mxl,Takemitsu
-57,3,85.0,<music21.chord.Chord D2 G2 A2 D3 D4 G4>,"[0, 2, 7]","[7, 9, 2]",Takemitsu_Romance.mxl,Takemitsu
-58,1,85.5,<music21.chord.Chord D2 G2 A2 D3 G3 A3 E-4>,"[0, 1, 5, 7]","[2, 3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu
-58,3,86.5,<music21.chord.Chord G3 C4 G4 C5>,"[0, 5]","[7, 0]",Takemitsu_Romance.mxl,Takemitsu
-58,3 1/2,86.75,<music21.chord.Chord A3 C4 G4 C5>,"[0, 2, 5]","[7, 9, 0]",Takemitsu_Romance.mxl,Takemitsu
-59,1,87.0,<music21.chord.Chord G3 A4 D5 A5>,"[0, 2, 7]","[7, 9, 2]",Takemitsu_Romance.mxl,Takemitsu
-59,1 1/2,87.25,<music21.chord.Chord A3 A4 D5 A5>,"[0, 5]","[9, 2]",Takemitsu_Romance.mxl,Takemitsu
-59,2,87.5,<music21.chord.Chord D3 A4 D5 A5>,"[0, 5]","[9, 2]",Takemitsu_Romance.mxl,Takemitsu
-59,3,88.0,<music21.chord.Chord D2 A2 E-3 E-5 A5 E-6>,"[0, 5, 6]","[9, 2, 3]",Takemitsu_Romance.mxl,Takemitsu
-60,1,88.5,<music21.chord.Chord A2 D3 A3 C4 D4 A4>,"[0, 3, 5]","[9, 0, 2]",Takemitsu_Romance.mxl,Takemitsu
-60,3,89.5,<music21.chord.Chord A2 D3 A3 C4 D5 G5 C6>,"[0, 2, 5, 7]","[7, 9, 0, 2]",Takemitsu_Romance.mxl,Takemitsu
-60,3 1/2,89.75,<music21.chord.Chord A2 D3 A3 G4 D5 G5 C6>,"[0, 2, 5, 7]","[7, 9, 0, 2]",Takemitsu_Romance.mxl,Takemitsu
-61,1,90.0,<music21.chord.Chord A2 D3 A3 D5 G5 C6>,"[0, 2, 5, 7]","[7, 9, 0, 2]",Takemitsu_Romance.mxl,Takemitsu
-61,1 1/2,90.25,<music21.chord.Chord A2 D3 A3 G4 D5 G5 C6>,"[0, 2, 5, 7]","[7, 9, 0, 2]",Takemitsu_Romance.mxl,Takemitsu
-61,2,90.5,<music21.chord.Chord A2 D3 A3 E-4 D5 G5 C6>,"[0, 2, 5, 7, 8]","[7, 9, 0, 2, 3]",Takemitsu_Romance.mxl,Takemitsu
-61,3,91.0,<music21.chord.Chord E-2 A2 E-3 E-5 A5 E-6>,"[0, 6]","[3, 9]",Takemitsu_Romance.mxl,Takemitsu
-62,1,91.5,<music21.chord.Chord A2 E-3 A3 B-3 D4 A4>,"[0, 1, 5, 6]","[9, 10, 2, 3]",Takemitsu_Romance.mxl,Takemitsu
-62,3,92.5,<music21.chord.Chord A2 E-3 A3 C4 D5 G5 C6>,"[0, 2, 5, 7, 8]","[7, 9, 0, 2, 3]",Takemitsu_Romance.mxl,Takemitsu
-62,3 1/2,92.75,<music21.chord.Chord A2 E-3 A3 G4 D5 G5 C6>,"[0, 2, 5, 7, 8]","[7, 9, 0, 2, 3]",Takemitsu_Romance.mxl,Takemitsu
-63,1,93.0,<music21.chord.Chord A2 E-3 A3 D5 G5 C6>,"[0, 2, 5, 7, 8]","[7, 9, 0, 2, 3]",Takemitsu_Romance.mxl,Takemitsu
-63,1 1/2,93.25,<music21.chord.Chord A2 E-3 A3 G4 D5 G5 C6>,"[0, 2, 5, 7, 8]","[7, 9, 0, 2, 3]",Takemitsu_Romance.mxl,Takemitsu
-63,2,93.5,<music21.chord.Chord A2 E-3 A3 E-4 D5 G5 C6>,"[0, 2, 5, 7, 8]","[7, 9, 0, 2, 3]",Takemitsu_Romance.mxl,Takemitsu
-63,3,94.0,<music21.chord.Chord C1 C2 D6 G6 A6 D7>,"[0, 2, 5, 7]","[7, 9, 0, 2]",Takemitsu_Romance.mxl,Takemitsu
-64,1,94.5,<music21.chord.Chord C1 C2 D4 E-4 A4 E-5 G5 A5 D6>,"[0, 2, 5, 7, 8]","[7, 9, 0, 2, 3]",Takemitsu_Romance.mxl,Takemitsu
-64,2,95.0,<music21.chord.Chord D2 A2 D3 D4 E-4 A4 E-5 G5 A5 D6>,"[0, 1, 5, 7]","[2, 3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu
-64,3,95.5,<music21.chord.Chord G3 A3 E-4>,"[0, 4, 6]","[3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu
-64,3 1/2,95.75,<music21.chord.Chord G3 A3 E-4 G4 D5 G5>,"[0, 1, 5, 7]","[2, 3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu
-65,1,96.0,<music21.chord.Chord C1 C2 A4 D5 A5>,"[0, 3, 5]","[9, 0, 2]",Takemitsu_Romance.mxl,Takemitsu
-65,1 1/2,96.25,<music21.chord.Chord C1 C2 G4 D5 G5>,"[0, 2, 7]","[0, 2, 7]",Takemitsu_Romance.mxl,Takemitsu
-65,2,96.5,<music21.chord.Chord D2 A2 D3 A4 D5 A5>,"[0, 5]","[9, 2]",Takemitsu_Romance.mxl,Takemitsu
-65,2 1/2,96.75,<music21.chord.Chord D2 A2 D3 C5 G5 C6>,"[0, 2, 5, 7]","[7, 9, 0, 2]",Takemitsu_Romance.mxl,Takemitsu
-65,3,97.0,<music21.chord.Chord G3 A3 E-4 C5 G5 C6>,"[0, 2, 5, 8]","[7, 9, 0, 3]",Takemitsu_Romance.mxl,Takemitsu
-65,3 1/2,97.25,<music21.chord.Chord G3 A3 E-4 G5 D6 G6>,"[0, 1, 5, 7]","[2, 3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu
-66,1,97.5,<music21.chord.Chord C1 C2 E-6 A6 E-7>,"[0, 3, 6]","[9, 0, 3]",Takemitsu_Romance.mxl,Takemitsu
-66,1 3/4,97.875,<music21.chord.Chord C1 C2 D6 G6 D7>,"[0, 2, 7]","[0, 2, 7]",Takemitsu_Romance.mxl,Takemitsu
-66,2,98.0,<music21.chord.Chord D2 A2 D3 A6 D7 A7>,"[0, 5]","[9, 2]",Takemitsu_Romance.mxl,Takemitsu
-66,3,98.5,<music21.chord.Chord G3 A3 E-4 A6 D7 A7>,"[0, 1, 5, 7]","[2, 3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu
-66,3 1/2,98.75,<music21.chord.Chord G3 A3 E-4 G6 D7 G7>,"[0, 1, 5, 7]","[2, 3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu
-67,1,99.0,<music21.chord.Chord C1 C2 A4 D5 A5>,"[0, 3, 5]","[9, 0, 2]",Takemitsu_Romance.mxl,Takemitsu
-67,1 1/2,99.25,<music21.chord.Chord C1 C2 G4 D5 G5>,"[0, 2, 7]","[0, 2, 7]",Takemitsu_Romance.mxl,Takemitsu
-67,2,99.5,<music21.chord.Chord D2 A2 D3 A4 D5 A5>,"[0, 5]","[9, 2]",Takemitsu_Romance.mxl,Takemitsu
-67,2 1/2,99.75,<music21.chord.Chord D2 A2 D3 C5 G5 C6>,"[0, 2, 5, 7]","[7, 9, 0, 2]",Takemitsu_Romance.mxl,Takemitsu
-67,3,100.0,<music21.chord.Chord G3 A3 E-4 C5 G5 C6>,"[0, 2, 5, 8]","[7, 9, 0, 3]",Takemitsu_Romance.mxl,Takemitsu
-67,3 1/2,100.25,<music21.chord.Chord G3 A3 E-4 G5 D6 G6>,"[0, 1, 5, 7]","[2, 3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu
-68,1,100.5,<music21.chord.Chord C1 C2 E-5 A5 E-6>,"[0, 3, 6]","[9, 0, 3]",Takemitsu_Romance.mxl,Takemitsu
-68,1 3/4,100.875,<music21.chord.Chord C1 C2 D5 G5 D6>,"[0, 2, 7]","[0, 2, 7]",Takemitsu_Romance.mxl,Takemitsu
-68,2,101.0,<music21.chord.Chord D2 A2 D3 A4 D5 A5>,"[0, 5]","[9, 2]",Takemitsu_Romance.mxl,Takemitsu
-68,2 3/4,101.375,<music21.chord.Chord D2 A2 D3 G4 D5 G5>,"[0, 2, 7]","[7, 9, 2]",Takemitsu_Romance.mxl,Takemitsu
-68,3,101.5,<music21.chord.Chord G3 A3 E-4 D5 A5 D6>,"[0, 1, 5, 7]","[2, 3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu
-69,1,102.0,<music21.chord.Chord C1 C2 D5 A5 D6>,"[0, 3, 5]","[9, 0, 2]",Takemitsu_Romance.mxl,Takemitsu
-69,2,102.5,<music21.chord.Chord D2 A2 D3 D5 A5 D6>,"[0, 5]","[9, 2]",Takemitsu_Romance.mxl,Takemitsu
-69,3,103.0,<music21.chord.Chord G3 A3 E-4 D5 A5 D6>,"[0, 1, 5, 7]","[2, 3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu
-70,1,103.5,<music21.chord.Chord A0 A1 A5 A6>,[0],[9],Takemitsu_Romance.mxl,Takemitsu
-70,2,104.0,<music21.chord.Chord A2 B-2 E-3 A4 D5 A5>,"[0, 1, 5, 6]","[9, 10, 2, 3]",Takemitsu_Romance.mxl,Takemitsu
-70,3,104.5,<music21.chord.Chord A2 B-2 E-3 A4 D5 A5>,"[0, 1, 5, 6]","[9, 10, 2, 3]",Takemitsu_Romance.mxl,Takemitsu
-71,1,105.0,<music21.chord.Chord A3 B-3 E-4 A4 D5 A5>,"[0, 1, 5, 6]","[9, 10, 2, 3]",Takemitsu_Romance.mxl,Takemitsu
-71,3,106.0,<music21.chord.Chord G4>,[0],[7],Takemitsu_Romance.mxl,Takemitsu
-72,1,106.5,<music21.chord.Chord D3 A3 D4>,"[0, 5]","[9, 2]",Takemitsu_Romance.mxl,Takemitsu
-72,2,107.0,<music21.chord.Chord D3 G3 D4>,"[0, 5]","[2, 7]",Takemitsu_Romance.mxl,Takemitsu
-72,3,107.5,<music21.chord.Chord D3 G3 A4>,"[0, 2, 7]","[7, 9, 2]",Takemitsu_Romance.mxl,Takemitsu
-73,1,108.0,<music21.chord.Chord A2 E-3 G4 D5>,"[0, 1, 5, 7]","[2, 3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu
-73,2,108.5,<music21.chord.Chord A2 D3 G4 D5>,"[0, 2, 7]","[7, 9, 2]",Takemitsu_Romance.mxl,Takemitsu
-73,3,109.0,<music21.chord.Chord A2 G3 G4>,"[0, 2]","[7, 9]",Takemitsu_Romance.mxl,Takemitsu
-74,1,109.5,<music21.chord.Chord A3 E-4 G4 E-5>,"[0, 4, 6]","[3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu
-74,2,110.0,<music21.chord.Chord A3 D4 G4 E-5>,"[0, 1, 5, 7]","[2, 3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu
-74,3,110.5,<music21.chord.Chord A3 D4 A4>,"[0, 5]","[9, 2]",Takemitsu_Romance.mxl,Takemitsu
-75,1,111.0,<music21.chord.Chord C3 G3 C4 D4 A4 D5>,"[0, 2, 5, 7]","[7, 9, 0, 2]",Takemitsu_Romance.mxl,Takemitsu
-75,3,112.0,<music21.chord.Chord D2 D4 A4 D5>,"[0, 5]","[9, 2]",Takemitsu_Romance.mxl,Takemitsu
-75,3 1/2,112.25,<music21.chord.Chord G2 D4 A4 D5>,"[0, 2, 7]","[7, 9, 2]",Takemitsu_Romance.mxl,Takemitsu
-76,1,112.5,<music21.chord.Chord E-3 A3 E-4 A4 E-5>,"[0, 6]","[3, 9]",Takemitsu_Romance.mxl,Takemitsu
-76,2,113.0,<music21.chord.Chord E-3 G3 E-4 A4 E-5>,"[0, 4, 6]","[3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu
-76,3,113.5,<music21.chord.Chord A3 B-3 E-4 A4 E-5 A5>,"[0, 1, 6]","[9, 10, 3]",Takemitsu_Romance.mxl,Takemitsu
-77,1,114.0,<music21.chord.Chord A3 B-3 E-4 A4 E-5 A5>,"[0, 1, 6]","[9, 10, 3]",Takemitsu_Romance.mxl,Takemitsu
-77,2,114.5,<music21.chord.Chord A3 B-3 E-4 A4 E-5 A5>,"[0, 1, 6]","[9, 10, 3]",Takemitsu_Romance.mxl,Takemitsu
-77,3,115.0,<music21.chord.Chord G3 B-3 E-4 A4 E-5 A5>,"[0, 4, 6, 7]","[3, 7, 9, 10]",Takemitsu_Romance.mxl,Takemitsu
-78,1,115.5,<music21.chord.Chord A1 D2 A2 A5 D6 A6>,"[0, 5]","[9, 2]",Takemitsu_Romance.mxl,Takemitsu
+offset,Chord,NormalForm,PCsInNormalForm,file,Composer,measureNumber,beatNumber
+1.0,<music21.chord.Chord G4>,[0],[7],Takemitsu_Romance.mxl,Takemitsu,1,3
+1.5,<music21.chord.Chord G3 D4>,"[0, 5]","[2, 7]",Takemitsu_Romance.mxl,Takemitsu,2,1
+2.5,<music21.chord.Chord G3 G4>,[0],[7],Takemitsu_Romance.mxl,Takemitsu,2,3
+3.0,<music21.chord.Chord G3 D4 E-4 G4 E-5>,"[0, 1, 5]","[2, 3, 7]",Takemitsu_Romance.mxl,Takemitsu,3,1
+4.0,<music21.chord.Chord G3 D4 E-4 A4>,"[0, 1, 5, 7]","[2, 3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu,3,3
+4.5,<music21.chord.Chord A3 D4 E-4 A4 D5>,"[0, 5, 6]","[9, 2, 3]",Takemitsu_Romance.mxl,Takemitsu,4,1
+5.5,<music21.chord.Chord A3 D4 E-4 G4>,"[0, 1, 5, 7]","[2, 3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu,4,3
+6.0,<music21.chord.Chord C3 G3 C#4 D4 G4 C5>,"[0, 1, 2, 7]","[0, 1, 2, 7]",Takemitsu_Romance.mxl,Takemitsu,5,1
+7.0,<music21.chord.Chord D2 D4 G4 C5>,"[0, 2, 7]","[0, 2, 7]",Takemitsu_Romance.mxl,Takemitsu,5,3
+7.25,<music21.chord.Chord G2 D4 G4 C5>,"[0, 2, 7]","[0, 2, 7]",Takemitsu_Romance.mxl,Takemitsu,5,3 1/2
+7.5,<music21.chord.Chord G#3 A3 D4 D5>,"[0, 1, 6]","[8, 9, 2]",Takemitsu_Romance.mxl,Takemitsu,6,1
+8.5,<music21.chord.Chord G#3 A3 A4>,"[0, 1]","[8, 9]",Takemitsu_Romance.mxl,Takemitsu,6,3
+9.0,<music21.chord.Chord D3 E-3 G3 G4 D5 G5>,"[0, 1, 5]","[2, 3, 7]",Takemitsu_Romance.mxl,Takemitsu,7,1
+10.0,<music21.chord.Chord D3 E-3 G3 A4>,"[0, 1, 5, 7]","[2, 3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu,7,3
+10.5,<music21.chord.Chord D3 E-3 A3 C4 D4 G4 E-5>,"[0, 2, 5, 7, 8]","[7, 9, 0, 2, 3]",Takemitsu_Romance.mxl,Takemitsu,8,1
+11.5,<music21.chord.Chord D3 E-3 A3 C4 E-4>,"[0, 3, 5, 6]","[9, 0, 2, 3]",Takemitsu_Romance.mxl,Takemitsu,8,3
+12.0,<music21.chord.Chord E-3 G3 A3 D4 E-4 C5>,"[0, 2, 5, 7, 8]","[7, 9, 0, 2, 3]",Takemitsu_Romance.mxl,Takemitsu,9,1
+13.0,<music21.chord.Chord E-3 G3 A3 A4>,"[0, 4, 6]","[3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu,9,3
+13.5,<music21.chord.Chord D3 E-3 G3 G4 D5 G5>,"[0, 1, 5]","[2, 3, 7]",Takemitsu_Romance.mxl,Takemitsu,10,1
+14.5,<music21.chord.Chord D3 E-3 G3 B-4>,"[0, 1, 5, 8]","[2, 3, 7, 10]",Takemitsu_Romance.mxl,Takemitsu,10,3
+15.0,<music21.chord.Chord D3 D5>,[0],[2],Takemitsu_Romance.mxl,Takemitsu,11,1
+15.25,<music21.chord.Chord E-3 D5>,"[0, 1]","[2, 3]",Takemitsu_Romance.mxl,Takemitsu,11,1 1/2
+15.5,<music21.chord.Chord A3 C5>,"[0, 3]","[9, 0]",Takemitsu_Romance.mxl,Takemitsu,11,2
+15.75,<music21.chord.Chord C4 C5>,[0],[0],Takemitsu_Romance.mxl,Takemitsu,11,2 1/2
+16.0,<music21.chord.Chord C4 E-4>,"[0, 3]","[0, 3]",Takemitsu_Romance.mxl,Takemitsu,11,3
+16.5,<music21.chord.Chord E-3 D4 A4>,"[0, 5, 6]","[9, 2, 3]",Takemitsu_Romance.mxl,Takemitsu,12,1
+16.75,<music21.chord.Chord A3 D4 A4>,"[0, 5]","[9, 2]",Takemitsu_Romance.mxl,Takemitsu,12,1 1/2
+17.0,<music21.chord.Chord A3 D4 A4>,"[0, 5]","[9, 2]",Takemitsu_Romance.mxl,Takemitsu,12,2
+17.25,<music21.chord.Chord G3 D4 A4>,"[0, 2, 7]","[7, 9, 2]",Takemitsu_Romance.mxl,Takemitsu,12,2 1/2
+17.5,<music21.chord.Chord G3 D4>,"[0, 5]","[2, 7]",Takemitsu_Romance.mxl,Takemitsu,12,3
+18.0,<music21.chord.Chord G3 D4 A4>,"[0, 2, 7]","[7, 9, 2]",Takemitsu_Romance.mxl,Takemitsu,13,1
+19.0,<music21.chord.Chord G3 C4>,"[0, 5]","[7, 0]",Takemitsu_Romance.mxl,Takemitsu,13,3
+19.5,<music21.chord.Chord E-3 A3 C4 B-4>,"[0, 1, 3, 6]","[9, 10, 0, 3]",Takemitsu_Romance.mxl,Takemitsu,14,1
+20.0,<music21.chord.Chord G3 C4 B-4>,"[0, 3, 5]","[7, 10, 0]",Takemitsu_Romance.mxl,Takemitsu,14,2
+20.5,<music21.chord.Chord D3 B-3>,"[0, 4]","[10, 2]",Takemitsu_Romance.mxl,Takemitsu,14,3
+21.0,<music21.chord.Chord C3 D3 A3 D4 G4 D5>,"[0, 2, 5, 7]","[7, 9, 0, 2]",Takemitsu_Romance.mxl,Takemitsu,15,1
+22.0,<music21.chord.Chord D3 E-3 G3 A4 E-5>,"[0, 1, 5, 7]","[2, 3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu,15,3
+22.5,<music21.chord.Chord D3 E-3 A3 G4 D5 G5>,"[0, 1, 5, 7]","[2, 3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu,16,1
+23.25,<music21.chord.Chord E-2 G4 D5 G5>,"[0, 1, 5]","[2, 3, 7]",Takemitsu_Romance.mxl,Takemitsu,16,2 1/2
+23.333333333333300,<music21.chord.Chord A2 G4 D5 G5>,"[0, 2, 7]","[7, 9, 2]",Takemitsu_Romance.mxl,Takemitsu,16,2 2/3
+23.416666666666700,<music21.chord.Chord E-3 G4 D5 G5>,"[0, 1, 5]","[2, 3, 7]",Takemitsu_Romance.mxl,Takemitsu,16,2 5/6
+23.5,<music21.chord.Chord G3 A5 D6 G#6 A6>,"[0, 1, 2, 7]","[7, 8, 9, 2]",Takemitsu_Romance.mxl,Takemitsu,16,3
+23.75,<music21.chord.Chord G3 E-5 G5>,"[0, 4]","[3, 7]",Takemitsu_Romance.mxl,Takemitsu,16,3 1/2
+24.0,<music21.chord.Chord G3 E-5 G5>,"[0, 4]","[3, 7]",Takemitsu_Romance.mxl,Takemitsu,17,1
+24.5,<music21.chord.Chord D4 G4 C#5 D5>,"[0, 1, 6]","[1, 2, 7]",Takemitsu_Romance.mxl,Takemitsu,17,2
+24.75,<music21.chord.Chord C2 G4 C#5 D5>,"[0, 1, 2, 7]","[0, 1, 2, 7]",Takemitsu_Romance.mxl,Takemitsu,17,2 1/2
+24.833333333333300,<music21.chord.Chord G2 G4 C#5 D5>,"[0, 1, 6]","[1, 2, 7]",Takemitsu_Romance.mxl,Takemitsu,17,2 2/3
+24.916666666666700,<music21.chord.Chord C3 G4 C#5 D5>,"[0, 1, 2, 7]","[0, 1, 2, 7]",Takemitsu_Romance.mxl,Takemitsu,17,2 5/6
+25.0,<music21.chord.Chord A3 C4 G4 A-4 C5>,"[0, 1, 2, 5]","[7, 8, 9, 0]",Takemitsu_Romance.mxl,Takemitsu,17,3
+25.5,<music21.chord.Chord A3 E-4 D5>,"[0, 5, 6]","[9, 2, 3]",Takemitsu_Romance.mxl,Takemitsu,18,1
+26.0,<music21.chord.Chord A3 A4 D5 G#5 A5>,"[0, 1, 6]","[8, 9, 2]",Takemitsu_Romance.mxl,Takemitsu,18,2
+26.5,<music21.chord.Chord G1 D2 G2 C6 G6 A-6 C7>,"[0, 1, 5, 7]","[7, 8, 0, 2]",Takemitsu_Romance.mxl,Takemitsu,18,3
+27.0,<music21.chord.Chord A3 E-4 D5>,"[0, 5, 6]","[9, 2, 3]",Takemitsu_Romance.mxl,Takemitsu,19,1
+27.5,<music21.chord.Chord E-3 F3 A3 E-5 G5 D6>,"[0, 1, 3, 5, 7]","[2, 3, 5, 7, 9]",Takemitsu_Romance.mxl,Takemitsu,19,2
+28.25,<music21.chord.Chord E-2 E-5 G5 D6>,"[0, 1, 5]","[2, 3, 7]",Takemitsu_Romance.mxl,Takemitsu,19,3 1/2
+28.333333333333300,<music21.chord.Chord A2 E-5 G5 D6>,"[0, 1, 5, 7]","[2, 3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu,19,3 2/3
+28.416666666666700,<music21.chord.Chord E-3 E-5 G5 D6>,"[0, 1, 5]","[2, 3, 7]",Takemitsu_Romance.mxl,Takemitsu,19,3 5/6
+28.5,<music21.chord.Chord G3 A5 D6 G#6 A6>,"[0, 1, 2, 7]","[7, 8, 9, 2]",Takemitsu_Romance.mxl,Takemitsu,20,1
+29.5,<music21.chord.Chord G3 G4 E-5 G5>,"[0, 4]","[3, 7]",Takemitsu_Romance.mxl,Takemitsu,20,3
+30.0,<music21.chord.Chord G3 G4 E-5 G5>,"[0, 4]","[3, 7]",Takemitsu_Romance.mxl,Takemitsu,21,1
+30.5,<music21.chord.Chord G3 D4 G4 C#5 D5>,"[0, 1, 6]","[1, 2, 7]",Takemitsu_Romance.mxl,Takemitsu,21,2
+30.75,<music21.chord.Chord C#2 D4 G4 C#5 D5>,"[0, 1, 6]","[1, 2, 7]",Takemitsu_Romance.mxl,Takemitsu,21,2 1/2
+30.833333333333300,<music21.chord.Chord G2 D4 G4 C#5 D5>,"[0, 1, 6]","[1, 2, 7]",Takemitsu_Romance.mxl,Takemitsu,21,2 2/3
+30.916666666666700,<music21.chord.Chord C#3 D4 G4 C#5 D5>,"[0, 1, 6]","[1, 2, 7]",Takemitsu_Romance.mxl,Takemitsu,21,2 5/6
+31.0,<music21.chord.Chord A3 C4 G4 A-4 C5>,"[0, 1, 2, 5]","[7, 8, 9, 0]",Takemitsu_Romance.mxl,Takemitsu,21,3
+31.5,<music21.chord.Chord A3 E-4 D5>,"[0, 5, 6]","[9, 2, 3]",Takemitsu_Romance.mxl,Takemitsu,22,1
+32.0,<music21.chord.Chord A3 A4 D5 G#5 A5>,"[0, 1, 6]","[8, 9, 2]",Takemitsu_Romance.mxl,Takemitsu,22,2
+32.5,<music21.chord.Chord G1 D2 E-3 C5 G#5 A-5 C6>,"[0, 1, 5, 7, 8]","[7, 8, 0, 2, 3]",Takemitsu_Romance.mxl,Takemitsu,22,3
+33.0,<music21.chord.Chord A3 E-4 D5>,"[0, 5, 6]","[9, 2, 3]",Takemitsu_Romance.mxl,Takemitsu,23,1
+33.5,<music21.chord.Chord G3 G4 D5 G5>,"[0, 5]","[2, 7]",Takemitsu_Romance.mxl,Takemitsu,23,2
+33.75,<music21.chord.Chord D4 G4 D5 G5>,"[0, 5]","[2, 7]",Takemitsu_Romance.mxl,Takemitsu,23,2 1/2
+34.0,<music21.chord.Chord E-4 G4 D5 G5>,"[0, 1, 5]","[2, 3, 7]",Takemitsu_Romance.mxl,Takemitsu,23,3
+34.5,<music21.chord.Chord E-4 G4 D5 G5>,"[0, 1, 5]","[2, 3, 7]",Takemitsu_Romance.mxl,Takemitsu,24,1
+35.0,<music21.chord.Chord D4>,[0],[2],Takemitsu_Romance.mxl,Takemitsu,24,2
+35.5,<music21.chord.Chord A3>,[0],[9],Takemitsu_Romance.mxl,Takemitsu,24,3
+36.0,<music21.chord.Chord G2 A3>,"[0, 2]","[7, 9]",Takemitsu_Romance.mxl,Takemitsu,25,1
+37.0,<music21.chord.Chord G2 G4>,[0],[7],Takemitsu_Romance.mxl,Takemitsu,25,3
+37.5,<music21.chord.Chord D3 G3 E-4>,"[0, 1, 5]","[2, 3, 7]",Takemitsu_Romance.mxl,Takemitsu,26,1
+37.875,<music21.chord.Chord D3 G3 D4>,"[0, 5]","[2, 7]",Takemitsu_Romance.mxl,Takemitsu,26,1 3/4
+38.0,<music21.chord.Chord D3 G3 A3>,"[0, 2, 7]","[7, 9, 2]",Takemitsu_Romance.mxl,Takemitsu,26,2
+38.5,<music21.chord.Chord D3 G3 A3>,"[0, 2, 7]","[7, 9, 2]",Takemitsu_Romance.mxl,Takemitsu,26,3
+39.0,<music21.chord.Chord G2 E-3 B-3>,"[0, 4, 7]","[3, 7, 10]",Takemitsu_Romance.mxl,Takemitsu,27,1
+39.5,<music21.chord.Chord G2 E-3 C4>,"[0, 3, 7]","[0, 3, 7]",Takemitsu_Romance.mxl,Takemitsu,27,2
+40.5,<music21.chord.Chord G2 E-3 C4>,"[0, 3, 7]","[0, 3, 7]",Takemitsu_Romance.mxl,Takemitsu,28,1
+40.75,<music21.chord.Chord G2 E-3 G3>,"[0, 4]","[3, 7]",Takemitsu_Romance.mxl,Takemitsu,28,1 1/2
+41.0,<music21.chord.Chord D3 E-3 A3>,"[0, 5, 6]","[9, 2, 3]",Takemitsu_Romance.mxl,Takemitsu,28,2
+41.5,<music21.chord.Chord D3 E-3 G3>,"[0, 1, 5]","[2, 3, 7]",Takemitsu_Romance.mxl,Takemitsu,28,3
+42.0,<music21.chord.Chord D3 E-3 A3>,"[0, 5, 6]","[9, 2, 3]",Takemitsu_Romance.mxl,Takemitsu,29,1
+42.5,<music21.chord.Chord D3 E-3 C4>,"[0, 2, 3]","[0, 2, 3]",Takemitsu_Romance.mxl,Takemitsu,29,2
+43.0,<music21.chord.Chord D3 E-3 C4>,"[0, 2, 3]","[0, 2, 3]",Takemitsu_Romance.mxl,Takemitsu,29,3
+43.25,<music21.chord.Chord D3 E-3 G4>,"[0, 1, 5]","[2, 3, 7]",Takemitsu_Romance.mxl,Takemitsu,29,3 1/2
+43.5,<music21.chord.Chord C2 G2 E-4>,"[0, 3, 7]","[0, 3, 7]",Takemitsu_Romance.mxl,Takemitsu,30,1
+44.0,<music21.chord.Chord C2 G2 G3>,"[0, 5]","[7, 0]",Takemitsu_Romance.mxl,Takemitsu,30,2
+44.5,<music21.chord.Chord A2 B-2 E-3 B-3 E-4 A4>,"[0, 1, 6]","[9, 10, 3]",Takemitsu_Romance.mxl,Takemitsu,30,3
+45.0,<music21.chord.Chord A2 B-2 E-3 B-3 E-4 A4>,"[0, 1, 6]","[9, 10, 3]",Takemitsu_Romance.mxl,Takemitsu,31,1
+46.0,<music21.chord.Chord A2 B-2 E-3 D4>,"[0, 1, 5, 6]","[9, 10, 2, 3]",Takemitsu_Romance.mxl,Takemitsu,31,3
+46.5,<music21.chord.Chord A3>,[0],[9],Takemitsu_Romance.mxl,Takemitsu,32,1
+47.0,<music21.chord.Chord G3>,[0],[7],Takemitsu_Romance.mxl,Takemitsu,32,2
+47.25,<music21.chord.Chord G1 G3>,[0],[7],Takemitsu_Romance.mxl,Takemitsu,32,2 1/2
+47.333333333333300,<music21.chord.Chord D2 G3>,"[0, 5]","[2, 7]",Takemitsu_Romance.mxl,Takemitsu,32,2 2/3
+47.416666666666700,<music21.chord.Chord G#2 G3>,"[0, 1]","[7, 8]",Takemitsu_Romance.mxl,Takemitsu,32,2 5/6
+47.5,<music21.chord.Chord D3>,[0],[2],Takemitsu_Romance.mxl,Takemitsu,32,3
+47.75,<music21.chord.Chord D3 G4 G5>,"[0, 5]","[2, 7]",Takemitsu_Romance.mxl,Takemitsu,32,3 1/2
+48.0,<music21.chord.Chord D3 E-4 E-5>,"[0, 1]","[2, 3]",Takemitsu_Romance.mxl,Takemitsu,33,1
+48.375,<music21.chord.Chord D3 D4 D5>,[0],[2],Takemitsu_Romance.mxl,Takemitsu,33,1 3/4
+48.5,<music21.chord.Chord A2 C3 E-3 A3 D4 A4>,"[0, 3, 5, 6]","[9, 0, 2, 3]",Takemitsu_Romance.mxl,Takemitsu,33,2
+49.0,<music21.chord.Chord A2 C3 E-3 A3 D4 A4>,"[0, 3, 5, 6]","[9, 0, 2, 3]",Takemitsu_Romance.mxl,Takemitsu,33,3
+49.5,<music21.chord.Chord A3 A4>,[0],[9],Takemitsu_Romance.mxl,Takemitsu,34,1
+49.75,<music21.chord.Chord G1 B-3 B-4>,"[0, 3]","[7, 10]",Takemitsu_Romance.mxl,Takemitsu,34,1 1/2
+49.833333333333300,<music21.chord.Chord D2 B-3 B-4>,"[0, 4]","[10, 2]",Takemitsu_Romance.mxl,Takemitsu,34,1 2/3
+49.916666666666700,<music21.chord.Chord G#2 B-3 B-4>,"[0, 2]","[8, 10]",Takemitsu_Romance.mxl,Takemitsu,34,1 5/6
+50.0,<music21.chord.Chord D3 C4 C5>,"[0, 2]","[0, 2]",Takemitsu_Romance.mxl,Takemitsu,34,2
+51.0,<music21.chord.Chord D3 C4 C5>,"[0, 2]","[0, 2]",Takemitsu_Romance.mxl,Takemitsu,35,1
+51.25,<music21.chord.Chord D3 G3 G4>,"[0, 5]","[2, 7]",Takemitsu_Romance.mxl,Takemitsu,35,1 1/2
+51.5,<music21.chord.Chord A2 B-2 E-3 A3 D4 A4>,"[0, 1, 5, 6]","[9, 10, 2, 3]",Takemitsu_Romance.mxl,Takemitsu,35,2
+52.0,<music21.chord.Chord A2 B-2 E-3 A3 D4 A4>,"[0, 1, 5, 6]","[9, 10, 2, 3]",Takemitsu_Romance.mxl,Takemitsu,35,3
+52.5,<music21.chord.Chord A2 B-2 E-3 A3 A4>,"[0, 1, 6]","[9, 10, 3]",Takemitsu_Romance.mxl,Takemitsu,36,1
+53.0,<music21.chord.Chord A2 B-2 E-3 C4 C5>,"[0, 1, 3, 6]","[9, 10, 0, 3]",Takemitsu_Romance.mxl,Takemitsu,36,2
+53.5,<music21.chord.Chord C4 C5>,[0],[0],Takemitsu_Romance.mxl,Takemitsu,36,3
+53.75,<music21.chord.Chord G1 G4 G5>,[0],[7],Takemitsu_Romance.mxl,Takemitsu,36,3 1/2
+53.833333333333300,<music21.chord.Chord D2 G4 G5>,"[0, 5]","[2, 7]",Takemitsu_Romance.mxl,Takemitsu,36,3 2/3
+53.916666666666700,<music21.chord.Chord G#2 G4 G5>,"[0, 1]","[7, 8]",Takemitsu_Romance.mxl,Takemitsu,36,3 5/6
+54.0,<music21.chord.Chord D3 E-4 A4 E-5>,"[0, 5, 6]","[9, 2, 3]",Takemitsu_Romance.mxl,Takemitsu,37,1
+54.5,<music21.chord.Chord E-3 E-4 A4 E-5>,"[0, 6]","[3, 9]",Takemitsu_Romance.mxl,Takemitsu,37,2
+55.0,<music21.chord.Chord B-3>,[0],[10],Takemitsu_Romance.mxl,Takemitsu,37,3
+55.25,<music21.chord.Chord B-3 G5 G6>,"[0, 3]","[7, 10]",Takemitsu_Romance.mxl,Takemitsu,37,3 1/2
+55.5,<music21.chord.Chord A3 E-4 E-5 A5 E-6>,"[0, 6]","[3, 9]",Takemitsu_Romance.mxl,Takemitsu,38,1
+56.0,<music21.chord.Chord D2 E-3 E-5 A5 E-6>,"[0, 5, 6]","[9, 2, 3]",Takemitsu_Romance.mxl,Takemitsu,38,2
+56.5,<music21.chord.Chord A3 E-4 E-5 A5 E-6>,"[0, 6]","[3, 9]",Takemitsu_Romance.mxl,Takemitsu,38,3
+56.75,<music21.chord.Chord A3 E-4 G4 D5 G5>,"[0, 1, 5, 7]","[2, 3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu,38,3 1/2
+57.0,<music21.chord.Chord D2 E-3 A4 D5 A5>,"[0, 5, 6]","[9, 2, 3]",Takemitsu_Romance.mxl,Takemitsu,39,1
+57.25,<music21.chord.Chord D2 E-3 G4 D5 G5>,"[0, 1, 5]","[2, 3, 7]",Takemitsu_Romance.mxl,Takemitsu,39,1 1/2
+57.5,<music21.chord.Chord A3 E-4 A4 D5 A5>,"[0, 5, 6]","[9, 2, 3]",Takemitsu_Romance.mxl,Takemitsu,39,2
+57.75,<music21.chord.Chord A3 E-4 C5 C6>,"[0, 3, 6]","[9, 0, 3]",Takemitsu_Romance.mxl,Takemitsu,39,2 1/2
+58.0,<music21.chord.Chord D2 E-3 C5 C6>,"[0, 2, 3]","[0, 2, 3]",Takemitsu_Romance.mxl,Takemitsu,39,3
+58.25,<music21.chord.Chord D2 E-3 G5 G6>,"[0, 1, 5]","[2, 3, 7]",Takemitsu_Romance.mxl,Takemitsu,39,3 1/2
+58.5,<music21.chord.Chord A3 E-4 E-5 A5 E-6>,"[0, 6]","[3, 9]",Takemitsu_Romance.mxl,Takemitsu,40,1
+59.0,<music21.chord.Chord D2 E-3 E-5 A5 E-6>,"[0, 5, 6]","[9, 2, 3]",Takemitsu_Romance.mxl,Takemitsu,40,2
+59.5,<music21.chord.Chord A3 E-4>,"[0, 6]","[3, 9]",Takemitsu_Romance.mxl,Takemitsu,40,3
+59.75,<music21.chord.Chord A3 E-4 G4 D5 G5>,"[0, 1, 5, 7]","[2, 3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu,40,3 1/2
+60.0,<music21.chord.Chord D2 E-3 A4 D5 A5>,"[0, 5, 6]","[9, 2, 3]",Takemitsu_Romance.mxl,Takemitsu,41,1
+60.25,<music21.chord.Chord D2 E-3 G4 D5 G5>,"[0, 1, 5]","[2, 3, 7]",Takemitsu_Romance.mxl,Takemitsu,41,1 1/2
+60.5,<music21.chord.Chord B-3 E-4 G4 D5 G5>,"[0, 1, 5, 8]","[2, 3, 7, 10]",Takemitsu_Romance.mxl,Takemitsu,41,2
+61.0,<music21.chord.Chord D2 E-3 G4 D5 G5>,"[0, 1, 5]","[2, 3, 7]",Takemitsu_Romance.mxl,Takemitsu,41,3
+61.25,<music21.chord.Chord D2 E-3 C4 G4 C5>,"[0, 2, 3, 7]","[0, 2, 3, 7]",Takemitsu_Romance.mxl,Takemitsu,41,3 1/2
+61.5,<music21.chord.Chord A3 B-3 D4 A4 D5>,"[0, 1, 5]","[9, 10, 2]",Takemitsu_Romance.mxl,Takemitsu,42,1
+61.75,<music21.chord.Chord A3 B-3 C4 G4 C5>,"[0, 2, 3, 5]","[7, 9, 10, 0]",Takemitsu_Romance.mxl,Takemitsu,42,1 1/2
+62.0,<music21.chord.Chord D2 E-3 D4 A4 D5>,"[0, 5, 6]","[9, 2, 3]",Takemitsu_Romance.mxl,Takemitsu,42,2
+62.25,<music21.chord.Chord D2 E-3 C5 G5 C6>,"[0, 2, 3, 7]","[0, 2, 3, 7]",Takemitsu_Romance.mxl,Takemitsu,42,2 1/2
+62.5,<music21.chord.Chord D4 G4 C5 G5 C6>,"[0, 2, 7]","[0, 2, 7]",Takemitsu_Romance.mxl,Takemitsu,42,3
+62.75,<music21.chord.Chord D4 G4 D5 A5 D6>,"[0, 2, 7]","[7, 9, 2]",Takemitsu_Romance.mxl,Takemitsu,42,3 1/2
+63.0,<music21.chord.Chord D2 E-3 A4 D5 A5>,"[0, 5, 6]","[9, 2, 3]",Takemitsu_Romance.mxl,Takemitsu,43,1
+63.5,<music21.chord.Chord A3 E-4 A4 D5 A5>,"[0, 5, 6]","[9, 2, 3]",Takemitsu_Romance.mxl,Takemitsu,43,2
+64.0,<music21.chord.Chord D2 E-3 A4 D5 A5>,"[0, 5, 6]","[9, 2, 3]",Takemitsu_Romance.mxl,Takemitsu,43,3
+64.25,<music21.chord.Chord D2 E-3 D6 D7>,"[0, 1]","[2, 3]",Takemitsu_Romance.mxl,Takemitsu,43,3 1/2
+64.5,<music21.chord.Chord B-3 E-4 A4 A5>,"[0, 1, 6]","[9, 10, 3]",Takemitsu_Romance.mxl,Takemitsu,44,1
+65.0,<music21.chord.Chord D2 E-3 A4 A5>,"[0, 5, 6]","[9, 2, 3]",Takemitsu_Romance.mxl,Takemitsu,44,2
+65.5,<music21.chord.Chord B-3 E-4 A4 A5>,"[0, 1, 6]","[9, 10, 3]",Takemitsu_Romance.mxl,Takemitsu,44,3
+65.75,<music21.chord.Chord B-3 E-4 G5 G6>,"[0, 4, 7]","[3, 7, 10]",Takemitsu_Romance.mxl,Takemitsu,44,3 1/2
+66.0,<music21.chord.Chord D2 E-3 E-5 E-6>,"[0, 1]","[2, 3]",Takemitsu_Romance.mxl,Takemitsu,45,1
+66.375,<music21.chord.Chord D2 E-3 D5 D6>,"[0, 1]","[2, 3]",Takemitsu_Romance.mxl,Takemitsu,45,1 3/4
+66.5,<music21.chord.Chord B-3 E-4 A4 A5>,"[0, 1, 6]","[9, 10, 3]",Takemitsu_Romance.mxl,Takemitsu,45,2
+67.0,<music21.chord.Chord D2 E-3 A4 A5>,"[0, 5, 6]","[9, 2, 3]",Takemitsu_Romance.mxl,Takemitsu,45,3
+67.5,<music21.chord.Chord B-3 E-4 A4 A5>,"[0, 1, 6]","[9, 10, 3]",Takemitsu_Romance.mxl,Takemitsu,46,1
+68.0,<music21.chord.Chord B-3 E-4 B-5 B-6>,"[0, 5]","[10, 3]",Takemitsu_Romance.mxl,Takemitsu,46,2
+68.5,<music21.chord.Chord A2 E-3 A3 C6 C7>,"[0, 3, 6]","[9, 0, 3]",Takemitsu_Romance.mxl,Takemitsu,46,3
+69.0,<music21.chord.Chord B-3 E-4 C5 C6>,"[0, 2, 5]","[10, 0, 3]",Takemitsu_Romance.mxl,Takemitsu,47,1
+69.25,<music21.chord.Chord B-3 E-4 G4 G5>,"[0, 4, 7]","[3, 7, 10]",Takemitsu_Romance.mxl,Takemitsu,47,1 1/2
+69.5,<music21.chord.Chord E-2 E-3 A4 A5>,"[0, 6]","[3, 9]",Takemitsu_Romance.mxl,Takemitsu,47,2
+70.0,<music21.chord.Chord E-2 E-3 G4 G5>,"[0, 4]","[3, 7]",Takemitsu_Romance.mxl,Takemitsu,47,3
+70.5,<music21.chord.Chord A3 B-3 E-4 A4 A5>,"[0, 1, 6]","[9, 10, 3]",Takemitsu_Romance.mxl,Takemitsu,48,1
+71.0,<music21.chord.Chord A3 B-3 E-4 C5 C6>,"[0, 1, 3, 6]","[9, 10, 0, 3]",Takemitsu_Romance.mxl,Takemitsu,48,2
+71.5,<music21.chord.Chord D2 A2 E-3 C5 C6>,"[0, 3, 5, 6]","[9, 0, 2, 3]",Takemitsu_Romance.mxl,Takemitsu,48,3
+71.75,<music21.chord.Chord D2 A2 E-3 G5 G6>,"[0, 1, 5, 7]","[2, 3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu,48,3 1/2
+72.0,<music21.chord.Chord G3 A3 E-4 E-5 A5 E-6>,"[0, 4, 6]","[3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu,49,1
+72.5,<music21.chord.Chord G3 A3 E-4 E-5 A5 E-6>,"[0, 4, 6]","[3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu,49,2
+73.0,<music21.chord.Chord E-2 A2 E-3 G3 D4>,"[0, 1, 5, 7]","[2, 3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu,49,3
+73.5,<music21.chord.Chord E-2 A2 E-3 G3 A3>,"[0, 4, 6]","[3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu,50,1
+74.5,<music21.chord.Chord E-2 A2 E-3 B-3 G4>,"[0, 4, 6, 7]","[3, 7, 9, 10]",Takemitsu_Romance.mxl,Takemitsu,50,3
+75.0,<music21.chord.Chord E-2 A2 E-3 A3 E-4>,"[0, 6]","[3, 9]",Takemitsu_Romance.mxl,Takemitsu,51,1
+76.0,<music21.chord.Chord D2 A2 E-3 G3 D4>,"[0, 1, 5, 7]","[2, 3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu,51,3
+76.5,<music21.chord.Chord D2 A2 E-3 G3 A3>,"[0, 1, 5, 7]","[2, 3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu,52,1
+77.5,<music21.chord.Chord D2 A2 E-3 B-3 A4>,"[0, 1, 5, 6]","[9, 10, 2, 3]",Takemitsu_Romance.mxl,Takemitsu,52,3
+78.0,<music21.chord.Chord D2 A2 E-3 D4 G4 A4>,"[0, 1, 5, 7]","[2, 3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu,53,1
+79.0,<music21.chord.Chord D2 G2 A2 D3 A3 C4>,"[0, 2, 5, 7]","[7, 9, 0, 2]",Takemitsu_Romance.mxl,Takemitsu,53,3
+79.5,<music21.chord.Chord D2 G2 A2 D3 B-3 G4>,"[0, 2, 3, 7]","[7, 9, 10, 2]",Takemitsu_Romance.mxl,Takemitsu,54,1
+80.0,<music21.chord.Chord D2 G2 A2 D3 B-3 D4>,"[0, 2, 3, 7]","[7, 9, 10, 2]",Takemitsu_Romance.mxl,Takemitsu,54,2
+80.5,<music21.chord.Chord D2 G2 A2 D3 A4 E-5>,"[0, 1, 5, 7]","[2, 3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu,54,3
+81.0,<music21.chord.Chord D2 G2 A2 D3 D4 A4>,"[0, 2, 7]","[7, 9, 2]",Takemitsu_Romance.mxl,Takemitsu,55,1
+81.5,<music21.chord.Chord D2 G2 A2 D3 D4 G4>,"[0, 2, 7]","[7, 9, 2]",Takemitsu_Romance.mxl,Takemitsu,55,2
+82.0,<music21.chord.Chord D2 G2 A2 E-3 E-4 D5>,"[0, 1, 5, 7]","[2, 3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu,55,3
+82.5,<music21.chord.Chord D2 G2 A2 E-3 B-3 D4 A4>,"[0, 1, 5, 7, 8]","[2, 3, 7, 9, 10]",Takemitsu_Romance.mxl,Takemitsu,56,1
+83.5,<music21.chord.Chord G3 C4 G4 C5>,"[0, 5]","[7, 0]",Takemitsu_Romance.mxl,Takemitsu,56,3
+83.75,<music21.chord.Chord A3 C4 G4 C5>,"[0, 2, 5]","[7, 9, 0]",Takemitsu_Romance.mxl,Takemitsu,56,3 1/2
+84.0,<music21.chord.Chord G3 E-4 A4 D5>,"[0, 1, 5, 7]","[2, 3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu,57,1
+84.25,<music21.chord.Chord A3 E-4 A4 D5>,"[0, 5, 6]","[9, 2, 3]",Takemitsu_Romance.mxl,Takemitsu,57,1 1/2
+84.5,<music21.chord.Chord E-3 E-4 A4 D5>,"[0, 5, 6]","[9, 2, 3]",Takemitsu_Romance.mxl,Takemitsu,57,2
+85.0,<music21.chord.Chord D2 G2 A2 D3 D4 G4>,"[0, 2, 7]","[7, 9, 2]",Takemitsu_Romance.mxl,Takemitsu,57,3
+85.5,<music21.chord.Chord D2 G2 A2 D3 G3 A3 E-4>,"[0, 1, 5, 7]","[2, 3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu,58,1
+86.5,<music21.chord.Chord G3 C4 G4 C5>,"[0, 5]","[7, 0]",Takemitsu_Romance.mxl,Takemitsu,58,3
+86.75,<music21.chord.Chord A3 C4 G4 C5>,"[0, 2, 5]","[7, 9, 0]",Takemitsu_Romance.mxl,Takemitsu,58,3 1/2
+87.0,<music21.chord.Chord G3 A4 D5 A5>,"[0, 2, 7]","[7, 9, 2]",Takemitsu_Romance.mxl,Takemitsu,59,1
+87.25,<music21.chord.Chord A3 A4 D5 A5>,"[0, 5]","[9, 2]",Takemitsu_Romance.mxl,Takemitsu,59,1 1/2
+87.5,<music21.chord.Chord D3 A4 D5 A5>,"[0, 5]","[9, 2]",Takemitsu_Romance.mxl,Takemitsu,59,2
+88.0,<music21.chord.Chord D2 A2 E-3 E-5 A5 E-6>,"[0, 5, 6]","[9, 2, 3]",Takemitsu_Romance.mxl,Takemitsu,59,3
+88.5,<music21.chord.Chord A2 D3 A3 C4 D4 A4>,"[0, 3, 5]","[9, 0, 2]",Takemitsu_Romance.mxl,Takemitsu,60,1
+89.5,<music21.chord.Chord A2 D3 A3 C4 D5 G5 C6>,"[0, 2, 5, 7]","[7, 9, 0, 2]",Takemitsu_Romance.mxl,Takemitsu,60,3
+89.75,<music21.chord.Chord A2 D3 A3 G4 D5 G5 C6>,"[0, 2, 5, 7]","[7, 9, 0, 2]",Takemitsu_Romance.mxl,Takemitsu,60,3 1/2
+90.0,<music21.chord.Chord A2 D3 A3 D5 G5 C6>,"[0, 2, 5, 7]","[7, 9, 0, 2]",Takemitsu_Romance.mxl,Takemitsu,61,1
+90.25,<music21.chord.Chord A2 D3 A3 G4 D5 G5 C6>,"[0, 2, 5, 7]","[7, 9, 0, 2]",Takemitsu_Romance.mxl,Takemitsu,61,1 1/2
+90.5,<music21.chord.Chord A2 D3 A3 E-4 D5 G5 C6>,"[0, 2, 5, 7, 8]","[7, 9, 0, 2, 3]",Takemitsu_Romance.mxl,Takemitsu,61,2
+91.0,<music21.chord.Chord E-2 A2 E-3 E-5 A5 E-6>,"[0, 6]","[3, 9]",Takemitsu_Romance.mxl,Takemitsu,61,3
+91.5,<music21.chord.Chord A2 E-3 A3 B-3 D4 A4>,"[0, 1, 5, 6]","[9, 10, 2, 3]",Takemitsu_Romance.mxl,Takemitsu,62,1
+92.5,<music21.chord.Chord A2 E-3 A3 C4 D5 G5 C6>,"[0, 2, 5, 7, 8]","[7, 9, 0, 2, 3]",Takemitsu_Romance.mxl,Takemitsu,62,3
+92.75,<music21.chord.Chord A2 E-3 A3 G4 D5 G5 C6>,"[0, 2, 5, 7, 8]","[7, 9, 0, 2, 3]",Takemitsu_Romance.mxl,Takemitsu,62,3 1/2
+93.0,<music21.chord.Chord A2 E-3 A3 D5 G5 C6>,"[0, 2, 5, 7, 8]","[7, 9, 0, 2, 3]",Takemitsu_Romance.mxl,Takemitsu,63,1
+93.25,<music21.chord.Chord A2 E-3 A3 G4 D5 G5 C6>,"[0, 2, 5, 7, 8]","[7, 9, 0, 2, 3]",Takemitsu_Romance.mxl,Takemitsu,63,1 1/2
+93.5,<music21.chord.Chord A2 E-3 A3 E-4 D5 G5 C6>,"[0, 2, 5, 7, 8]","[7, 9, 0, 2, 3]",Takemitsu_Romance.mxl,Takemitsu,63,2
+94.0,<music21.chord.Chord C1 C2 D6 G6 A6 D7>,"[0, 2, 5, 7]","[7, 9, 0, 2]",Takemitsu_Romance.mxl,Takemitsu,63,3
+94.5,<music21.chord.Chord C1 C2 D4 E-4 A4 E-5 G5 A5 D6>,"[0, 2, 5, 7, 8]","[7, 9, 0, 2, 3]",Takemitsu_Romance.mxl,Takemitsu,64,1
+95.0,<music21.chord.Chord D2 A2 D3 D4 E-4 A4 E-5 G5 A5 D6>,"[0, 1, 5, 7]","[2, 3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu,64,2
+95.5,<music21.chord.Chord G3 A3 E-4>,"[0, 4, 6]","[3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu,64,3
+95.75,<music21.chord.Chord G3 A3 E-4 G4 D5 G5>,"[0, 1, 5, 7]","[2, 3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu,64,3 1/2
+96.0,<music21.chord.Chord C1 C2 A4 D5 A5>,"[0, 3, 5]","[9, 0, 2]",Takemitsu_Romance.mxl,Takemitsu,65,1
+96.25,<music21.chord.Chord C1 C2 G4 D5 G5>,"[0, 2, 7]","[0, 2, 7]",Takemitsu_Romance.mxl,Takemitsu,65,1 1/2
+96.5,<music21.chord.Chord D2 A2 D3 A4 D5 A5>,"[0, 5]","[9, 2]",Takemitsu_Romance.mxl,Takemitsu,65,2
+96.75,<music21.chord.Chord D2 A2 D3 C5 G5 C6>,"[0, 2, 5, 7]","[7, 9, 0, 2]",Takemitsu_Romance.mxl,Takemitsu,65,2 1/2
+97.0,<music21.chord.Chord G3 A3 E-4 C5 G5 C6>,"[0, 2, 5, 8]","[7, 9, 0, 3]",Takemitsu_Romance.mxl,Takemitsu,65,3
+97.25,<music21.chord.Chord G3 A3 E-4 G5 D6 G6>,"[0, 1, 5, 7]","[2, 3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu,65,3 1/2
+97.5,<music21.chord.Chord C1 C2 E-6 A6 E-7>,"[0, 3, 6]","[9, 0, 3]",Takemitsu_Romance.mxl,Takemitsu,66,1
+97.875,<music21.chord.Chord C1 C2 D6 G6 D7>,"[0, 2, 7]","[0, 2, 7]",Takemitsu_Romance.mxl,Takemitsu,66,1 3/4
+98.0,<music21.chord.Chord D2 A2 D3 A6 D7 A7>,"[0, 5]","[9, 2]",Takemitsu_Romance.mxl,Takemitsu,66,2
+98.5,<music21.chord.Chord G3 A3 E-4 A6 D7 A7>,"[0, 1, 5, 7]","[2, 3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu,66,3
+98.75,<music21.chord.Chord G3 A3 E-4 G6 D7 G7>,"[0, 1, 5, 7]","[2, 3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu,66,3 1/2
+99.0,<music21.chord.Chord C1 C2 A4 D5 A5>,"[0, 3, 5]","[9, 0, 2]",Takemitsu_Romance.mxl,Takemitsu,67,1
+99.25,<music21.chord.Chord C1 C2 G4 D5 G5>,"[0, 2, 7]","[0, 2, 7]",Takemitsu_Romance.mxl,Takemitsu,67,1 1/2
+99.5,<music21.chord.Chord D2 A2 D3 A4 D5 A5>,"[0, 5]","[9, 2]",Takemitsu_Romance.mxl,Takemitsu,67,2
+99.75,<music21.chord.Chord D2 A2 D3 C5 G5 C6>,"[0, 2, 5, 7]","[7, 9, 0, 2]",Takemitsu_Romance.mxl,Takemitsu,67,2 1/2
+100.0,<music21.chord.Chord G3 A3 E-4 C5 G5 C6>,"[0, 2, 5, 8]","[7, 9, 0, 3]",Takemitsu_Romance.mxl,Takemitsu,67,3
+100.25,<music21.chord.Chord G3 A3 E-4 G5 D6 G6>,"[0, 1, 5, 7]","[2, 3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu,67,3 1/2
+100.5,<music21.chord.Chord C1 C2 E-5 A5 E-6>,"[0, 3, 6]","[9, 0, 3]",Takemitsu_Romance.mxl,Takemitsu,68,1
+100.875,<music21.chord.Chord C1 C2 D5 G5 D6>,"[0, 2, 7]","[0, 2, 7]",Takemitsu_Romance.mxl,Takemitsu,68,1 3/4
+101.0,<music21.chord.Chord D2 A2 D3 A4 D5 A5>,"[0, 5]","[9, 2]",Takemitsu_Romance.mxl,Takemitsu,68,2
+101.375,<music21.chord.Chord D2 A2 D3 G4 D5 G5>,"[0, 2, 7]","[7, 9, 2]",Takemitsu_Romance.mxl,Takemitsu,68,2 3/4
+101.5,<music21.chord.Chord G3 A3 E-4 D5 A5 D6>,"[0, 1, 5, 7]","[2, 3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu,68,3
+102.0,<music21.chord.Chord C1 C2 D5 A5 D6>,"[0, 3, 5]","[9, 0, 2]",Takemitsu_Romance.mxl,Takemitsu,69,1
+102.5,<music21.chord.Chord D2 A2 D3 D5 A5 D6>,"[0, 5]","[9, 2]",Takemitsu_Romance.mxl,Takemitsu,69,2
+103.0,<music21.chord.Chord G3 A3 E-4 D5 A5 D6>,"[0, 1, 5, 7]","[2, 3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu,69,3
+103.5,<music21.chord.Chord A0 A1 A5 A6>,[0],[9],Takemitsu_Romance.mxl,Takemitsu,70,1
+104.0,<music21.chord.Chord A2 B-2 E-3 A4 D5 A5>,"[0, 1, 5, 6]","[9, 10, 2, 3]",Takemitsu_Romance.mxl,Takemitsu,70,2
+104.5,<music21.chord.Chord A2 B-2 E-3 A4 D5 A5>,"[0, 1, 5, 6]","[9, 10, 2, 3]",Takemitsu_Romance.mxl,Takemitsu,70,3
+105.0,<music21.chord.Chord A3 B-3 E-4 A4 D5 A5>,"[0, 1, 5, 6]","[9, 10, 2, 3]",Takemitsu_Romance.mxl,Takemitsu,71,1
+106.0,<music21.chord.Chord G4>,[0],[7],Takemitsu_Romance.mxl,Takemitsu,71,3
+106.5,<music21.chord.Chord D3 A3 D4>,"[0, 5]","[9, 2]",Takemitsu_Romance.mxl,Takemitsu,72,1
+107.0,<music21.chord.Chord D3 G3 D4>,"[0, 5]","[2, 7]",Takemitsu_Romance.mxl,Takemitsu,72,2
+107.5,<music21.chord.Chord D3 G3 A4>,"[0, 2, 7]","[7, 9, 2]",Takemitsu_Romance.mxl,Takemitsu,72,3
+108.0,<music21.chord.Chord A2 E-3 G4 D5>,"[0, 1, 5, 7]","[2, 3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu,73,1
+108.5,<music21.chord.Chord A2 D3 G4 D5>,"[0, 2, 7]","[7, 9, 2]",Takemitsu_Romance.mxl,Takemitsu,73,2
+109.0,<music21.chord.Chord A2 G3 G4>,"[0, 2]","[7, 9]",Takemitsu_Romance.mxl,Takemitsu,73,3
+109.5,<music21.chord.Chord A3 E-4 G4 E-5>,"[0, 4, 6]","[3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu,74,1
+110.0,<music21.chord.Chord A3 D4 G4 E-5>,"[0, 1, 5, 7]","[2, 3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu,74,2
+110.5,<music21.chord.Chord A3 D4 A4>,"[0, 5]","[9, 2]",Takemitsu_Romance.mxl,Takemitsu,74,3
+111.0,<music21.chord.Chord C3 G3 C4 D4 A4 D5>,"[0, 2, 5, 7]","[7, 9, 0, 2]",Takemitsu_Romance.mxl,Takemitsu,75,1
+112.0,<music21.chord.Chord D2 D4 A4 D5>,"[0, 5]","[9, 2]",Takemitsu_Romance.mxl,Takemitsu,75,3
+112.25,<music21.chord.Chord G2 D4 A4 D5>,"[0, 2, 7]","[7, 9, 2]",Takemitsu_Romance.mxl,Takemitsu,75,3 1/2
+112.5,<music21.chord.Chord E-3 A3 E-4 A4 E-5>,"[0, 6]","[3, 9]",Takemitsu_Romance.mxl,Takemitsu,76,1
+113.0,<music21.chord.Chord E-3 G3 E-4 A4 E-5>,"[0, 4, 6]","[3, 7, 9]",Takemitsu_Romance.mxl,Takemitsu,76,2
+113.5,<music21.chord.Chord A3 B-3 E-4 A4 E-5 A5>,"[0, 1, 6]","[9, 10, 3]",Takemitsu_Romance.mxl,Takemitsu,76,3
+114.0,<music21.chord.Chord A3 B-3 E-4 A4 E-5 A5>,"[0, 1, 6]","[9, 10, 3]",Takemitsu_Romance.mxl,Takemitsu,77,1
+114.5,<music21.chord.Chord A3 B-3 E-4 A4 E-5 A5>,"[0, 1, 6]","[9, 10, 3]",Takemitsu_Romance.mxl,Takemitsu,77,2
+115.0,<music21.chord.Chord G3 B-3 E-4 A4 E-5 A5>,"[0, 4, 6, 7]","[3, 7, 9, 10]",Takemitsu_Romance.mxl,Takemitsu,77,3
+115.5,<music21.chord.Chord A1 D2 A2 A5 D6 A6>,"[0, 5]","[9, 2]",Takemitsu_Romance.mxl,Takemitsu,78,1

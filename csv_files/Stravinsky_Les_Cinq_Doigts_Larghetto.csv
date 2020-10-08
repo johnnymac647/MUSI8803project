@@ -1,147 +1,147 @@
-offset,Chord,NormalForm,PCsinNormalForm,file,PhraseBoundary,MeasureNumber,MeasureCount
-3,<music21.chord.Chord G5 E4 G4>,"[0, 3]","[4, 7]",Les Cinq Doigts Larghetto C major.mid,,,
-4,<music21.chord.Chord E4 G4 E5>,"[0, 3]","[4, 7]",Les Cinq Doigts Larghetto C major.mid,,,
-4.5,<music21.chord.Chord F#5 E4 A4>,"[0, 2, 5]","[4, 6, 9]",Les Cinq Doigts Larghetto C major.mid,,,
-5.5,<music21.chord.Chord E4 A4 F#5>,"[0, 2, 5]","[4, 6, 9]",Les Cinq Doigts Larghetto C major.mid,,,
-6,<music21.chord.Chord G5 E4 B4>,"[0, 3, 7]","[4, 7, 11]",Les Cinq Doigts Larghetto C major.mid,,,
-7,<music21.chord.Chord E4 B4 E5>,"[0, 5]","[11, 4]",Les Cinq Doigts Larghetto C major.mid,,,
-7.5,<music21.chord.Chord E4 C5 F#5>,"[0, 4, 6]","[0, 4, 6]",Les Cinq Doigts Larghetto C major.mid,,,
-8.25,<music21.chord.Chord G5 E4 C5>,"[0, 4, 7]","[0, 4, 7]",Les Cinq Doigts Larghetto C major.mid,,,
-8.5,<music21.chord.Chord E4 C5 F#5>,"[0, 4, 6]","[0, 4, 6]",Les Cinq Doigts Larghetto C major.mid,,,
-9,<music21.chord.Chord G5 E4 D5>,"[0, 2, 5]","[2, 4, 7]",Les Cinq Doigts Larghetto C major.mid,,,
-10,<music21.chord.Chord E4 D5 G5>,"[0, 2, 5]","[2, 4, 7]",Les Cinq Doigts Larghetto C major.mid,,,
-10.5,<music21.chord.Chord E4 C5 E5 G5>,"[0, 4, 7]","[0, 4, 7]",Les Cinq Doigts Larghetto C major.mid,,,
-11.25,<music21.chord.Chord F#5 E4 C5>,"[0, 4, 6]","[0, 4, 6]",Les Cinq Doigts Larghetto C major.mid,,,
-11.5,<music21.chord.Chord G5 E4>,"[0, 3]","[4, 7]",Les Cinq Doigts Larghetto C major.mid,,,
-12,<music21.chord.Chord A5 C5 D4>,"[0, 3, 5]","[9, 0, 2]",Les Cinq Doigts Larghetto C major.mid,,,
-13,<music21.chord.Chord F#5 C5 D4>,"[0, 2, 6]","[0, 2, 6]",Les Cinq Doigts Larghetto C major.mid,,,
-13.375,<music21.chord.Chord A5 F#5 C5 D4>,"[0, 3, 6, 8]","[6, 9, 0, 2]",Les Cinq Doigts Larghetto C major.mid,,,
-13.5,<music21.chord.Chord B4 D4 G5>,"[0, 4, 7]","[7, 11, 2]",Les Cinq Doigts Larghetto C major.mid,,,
-14.25,<music21.chord.Chord F#5 B4 D4>,"[0, 3, 7]","[11, 2, 6]",Les Cinq Doigts Larghetto C major.mid,,,
-14.5,<music21.chord.Chord B4 E5>,"[0, 5]","[11, 4]",Les Cinq Doigts Larghetto C major.mid,,,
-15,<music21.chord.Chord F#5 C4 B4>,"[0, 5, 6]","[6, 11, 0]",Les Cinq Doigts Larghetto C major.mid,,,
-16,<music21.chord.Chord C4 B4 F#5>,"[0, 5, 6]","[6, 11, 0]",Les Cinq Doigts Larghetto C major.mid,,,
-16.5,<music21.chord.Chord F#5 C4 A4>,"[0, 3, 6]","[6, 9, 0]",Les Cinq Doigts Larghetto C major.mid,,,
-17.5,<music21.chord.Chord A5 C4 A4>,"[0, 3]","[9, 0]",Les Cinq Doigts Larghetto C major.mid,,,
-18,<music21.chord.Chord B4 C4 G5>,"[0, 4, 5]","[7, 11, 0]",Les Cinq Doigts Larghetto C major.mid,,,
-18.75,<music21.chord.Chord F#5 B4 C4>,"[0, 5, 6]","[6, 11, 0]",Les Cinq Doigts Larghetto C major.mid,,,
-19,<music21.chord.Chord B4 E5 C4>,"[0, 1, 5]","[11, 0, 4]",Les Cinq Doigts Larghetto C major.mid,,,
-19.5,<music21.chord.Chord B4 F#5 D4>,"[0, 3, 7]","[11, 2, 6]",Les Cinq Doigts Larghetto C major.mid,,,
-20.5,<music21.chord.Chord A5 B4 D4>,"[0, 2, 5]","[9, 11, 2]",Les Cinq Doigts Larghetto C major.mid,,,
-21,<music21.chord.Chord C5 D4 G5>,"[0, 2, 7]","[0, 2, 7]",Les Cinq Doigts Larghetto C major.mid,,,
-21.75,<music21.chord.Chord F#5 C5 D4>,"[0, 2, 6]","[0, 2, 6]",Les Cinq Doigts Larghetto C major.mid,,,
-22,<music21.chord.Chord E5 C5>,"[0, 4]","[0, 4]",Les Cinq Doigts Larghetto C major.mid,,,
-22.5,<music21.chord.Chord C5 E4 E5>,"[0, 4]","[0, 4]",Les Cinq Doigts Larghetto C major.mid,,,
-23.5,<music21.chord.Chord E4 C5 E5>,"[0, 4]","[0, 4]",Les Cinq Doigts Larghetto C major.mid,,,
-24,<music21.chord.Chord G5 E4 G4>,"[0, 3]","[4, 7]",Les Cinq Doigts Larghetto C major.mid,,,
-25,<music21.chord.Chord E4 G4 E5>,"[0, 3]","[4, 7]",Les Cinq Doigts Larghetto C major.mid,,,
-25.5,<music21.chord.Chord F#5 E4 A4>,"[0, 2, 5]","[4, 6, 9]",Les Cinq Doigts Larghetto C major.mid,,,
-26.5,<music21.chord.Chord E4 A4 F#5>,"[0, 2, 5]","[4, 6, 9]",Les Cinq Doigts Larghetto C major.mid,,,
-27,<music21.chord.Chord G5 E4 B4>,"[0, 3, 7]","[4, 7, 11]",Les Cinq Doigts Larghetto C major.mid,,,
-28,<music21.chord.Chord E4 B4 E5>,"[0, 5]","[11, 4]",Les Cinq Doigts Larghetto C major.mid,,,
-28.5,<music21.chord.Chord E4 C5 F#5>,"[0, 4, 6]","[0, 4, 6]",Les Cinq Doigts Larghetto C major.mid,,,
-29.25,<music21.chord.Chord G5 E4 C5>,"[0, 4, 7]","[0, 4, 7]",Les Cinq Doigts Larghetto C major.mid,,,
-29.5,<music21.chord.Chord E4 C5 F#5>,"[0, 4, 6]","[0, 4, 6]",Les Cinq Doigts Larghetto C major.mid,,,
-30,<music21.chord.Chord G5 E4 D5>,"[0, 2, 5]","[2, 4, 7]",Les Cinq Doigts Larghetto C major.mid,,,
-31,<music21.chord.Chord E4 D5 G5>,"[0, 2, 5]","[2, 4, 7]",Les Cinq Doigts Larghetto C major.mid,,,
-31.5,<music21.chord.Chord E4 C5 E5 G5>,"[0, 4, 7]","[0, 4, 7]",Les Cinq Doigts Larghetto C major.mid,,,
-32.25,<music21.chord.Chord F#5 E4 C5>,"[0, 4, 6]","[0, 4, 6]",Les Cinq Doigts Larghetto C major.mid,,,
-32.5,<music21.chord.Chord G5 E4>,"[0, 3]","[4, 7]",Les Cinq Doigts Larghetto C major.mid,,,
-33,<music21.chord.Chord A5 C5 D4>,"[0, 3, 5]","[9, 0, 2]",Les Cinq Doigts Larghetto C major.mid,,,
-34,<music21.chord.Chord F#5 C5 D4>,"[0, 2, 6]","[0, 2, 6]",Les Cinq Doigts Larghetto C major.mid,,,
-34.375,<music21.chord.Chord A5 F#5 C5 D4>,"[0, 3, 6, 8]","[6, 9, 0, 2]",Les Cinq Doigts Larghetto C major.mid,,,
-34.5,<music21.chord.Chord B4 D4 G5>,"[0, 4, 7]","[7, 11, 2]",Les Cinq Doigts Larghetto C major.mid,,,
-35.25,<music21.chord.Chord F#5 B4 D4>,"[0, 3, 7]","[11, 2, 6]",Les Cinq Doigts Larghetto C major.mid,,,
-35.5,<music21.chord.Chord B4 E5>,"[0, 5]","[11, 4]",Les Cinq Doigts Larghetto C major.mid,,,
-36,<music21.chord.Chord F#5 C4 B4>,"[0, 5, 6]","[6, 11, 0]",Les Cinq Doigts Larghetto C major.mid,,,
-37,<music21.chord.Chord C4 B4 F#5>,"[0, 5, 6]","[6, 11, 0]",Les Cinq Doigts Larghetto C major.mid,,,
-37.5,<music21.chord.Chord F#5 C4 A4>,"[0, 3, 6]","[6, 9, 0]",Les Cinq Doigts Larghetto C major.mid,,,
-38.5,<music21.chord.Chord A5 C4 A4>,"[0, 3]","[9, 0]",Les Cinq Doigts Larghetto C major.mid,,,
-39,<music21.chord.Chord B4 C4 G5>,"[0, 4, 5]","[7, 11, 0]",Les Cinq Doigts Larghetto C major.mid,,,
-39.75,<music21.chord.Chord F#5 B4 C4>,"[0, 5, 6]","[6, 11, 0]",Les Cinq Doigts Larghetto C major.mid,,,
-40,<music21.chord.Chord B4 E5 C4>,"[0, 1, 5]","[11, 0, 4]",Les Cinq Doigts Larghetto C major.mid,,,
-40.5,<music21.chord.Chord B4 F#5 D4>,"[0, 3, 7]","[11, 2, 6]",Les Cinq Doigts Larghetto C major.mid,,,
-41.5,<music21.chord.Chord A5 B4 D4>,"[0, 2, 5]","[9, 11, 2]",Les Cinq Doigts Larghetto C major.mid,,,
-42,<music21.chord.Chord F#5 A5 E4 B4>,"[0, 2, 5, 7]","[4, 6, 9, 11]",Les Cinq Doigts Larghetto C major.mid,,,
-42.75,<music21.chord.Chord G5 E4 B4>,"[0, 3, 7]","[4, 7, 11]",Les Cinq Doigts Larghetto C major.mid,,,
-43,<music21.chord.Chord E4 B4 F#5>,"[0, 2, 7]","[4, 6, 11]",Les Cinq Doigts Larghetto C major.mid,,,
-43.5,<music21.chord.Chord E5 E4 B4>,"[0, 5]","[11, 4]",Les Cinq Doigts Larghetto C major.mid,,,
-44.5,<music21.chord.Chord E4 B4 E5>,"[0, 5]","[11, 4]",Les Cinq Doigts Larghetto C major.mid,,,
-45,<music21.chord.Chord E4 C5 D5>,"[0, 2, 4]","[0, 2, 4]",Les Cinq Doigts Larghetto C major.mid,,,
-46,<music21.chord.Chord E4 C5 D5>,"[0, 2, 4]","[0, 2, 4]",Les Cinq Doigts Larghetto C major.mid,,,
-46.5,<music21.chord.Chord D5 E4 E5>,"[0, 2]","[2, 4]",Les Cinq Doigts Larghetto C major.mid,,,
-47.25,<music21.chord.Chord F#5 D5 E4>,"[0, 2, 4]","[2, 4, 6]",Les Cinq Doigts Larghetto C major.mid,,,
-47.5,<music21.chord.Chord G5 E4 D5>,"[0, 2, 5]","[2, 4, 7]",Les Cinq Doigts Larghetto C major.mid,,,
-48,<music21.chord.Chord F#5 D4>,"[0, 4]","[2, 6]",Les Cinq Doigts Larghetto C major.mid,,,
-48.75,<music21.chord.Chord E5 D4>,"[0, 2]","[2, 4]",Les Cinq Doigts Larghetto C major.mid,,,
-49,<music21.chord.Chord D4 D5>,[0],[2],Les Cinq Doigts Larghetto C major.mid,,,
-49.5,<music21.chord.Chord E5 E4 C5>,"[0, 4]","[0, 4]",Les Cinq Doigts Larghetto C major.mid,,,
-50.5,<music21.chord.Chord E4 C5 E5>,"[0, 4]","[0, 4]",Les Cinq Doigts Larghetto C major.mid,,,
-51,<music21.chord.Chord G4 B4 D5 G5>,"[0, 4, 7]","[7, 11, 2]",Les Cinq Doigts Larghetto C major.mid,,,
-52,<music21.chord.Chord G4 B4 D5 G5>,"[0, 4, 7]","[7, 11, 2]",Les Cinq Doigts Larghetto C major.mid,,,
-52.5,<music21.chord.Chord D5 A5 F4 A4>,"[0, 3, 7]","[2, 5, 9]",Les Cinq Doigts Larghetto C major.mid,,,
-53.5,<music21.chord.Chord D5 A5 F4 A4>,"[0, 3, 7]","[2, 5, 9]",Les Cinq Doigts Larghetto C major.mid,,,
-54,<music21.chord.Chord D5 E4 E5>,"[0, 2]","[2, 4]",Les Cinq Doigts Larghetto C major.mid,,,
-54.75,<music21.chord.Chord F#5 D5 E4>,"[0, 2, 4]","[2, 4, 6]",Les Cinq Doigts Larghetto C major.mid,,,
-55,<music21.chord.Chord G5 E4 D5>,"[0, 2, 5]","[2, 4, 7]",Les Cinq Doigts Larghetto C major.mid,,,
-55.5,<music21.chord.Chord D5 D4 F#5>,"[0, 4]","[2, 6]",Les Cinq Doigts Larghetto C major.mid,,,
-56.25,<music21.chord.Chord E5 D5 D4>,"[0, 2]","[2, 4]",Les Cinq Doigts Larghetto C major.mid,,,
-56.5,<music21.chord.Chord D4 D5>,[0],[2],Les Cinq Doigts Larghetto C major.mid,,,
-57,<music21.chord.Chord G4 B4 G5>,"[0, 4]","[7, 11]",Les Cinq Doigts Larghetto C major.mid,,,
-58,<music21.chord.Chord G4 B4 D5 G5>,"[0, 4, 7]","[7, 11, 2]",Les Cinq Doigts Larghetto C major.mid,,,
-58.5,<music21.chord.Chord D5 A5 F4 A4>,"[0, 3, 7]","[2, 5, 9]",Les Cinq Doigts Larghetto C major.mid,,,
-59.5,<music21.chord.Chord D5 A5 F4 A4>,"[0, 3, 7]","[2, 5, 9]",Les Cinq Doigts Larghetto C major.mid,,,
-60,<music21.chord.Chord A5 G4 D5>,"[0, 2, 7]","[7, 9, 2]",Les Cinq Doigts Larghetto C major.mid,,,
-60.75,<music21.chord.Chord A4 A5 D5>,"[0, 5]","[9, 2]",Les Cinq Doigts Larghetto C major.mid,,,
-61,<music21.chord.Chord G4 E5 A5>,"[0, 3, 5]","[4, 7, 9]",Les Cinq Doigts Larghetto C major.mid,,,
-61.5,<music21.chord.Chord A5 F#4 F#5>,"[0, 3]","[6, 9]",Les Cinq Doigts Larghetto C major.mid,,,
-62.25,<music21.chord.Chord G4 A5 F#5>,"[0, 1, 3]","[6, 7, 9]",Les Cinq Doigts Larghetto C major.mid,,,
-62.5,<music21.chord.Chord A4 E5 A5>,"[0, 5]","[4, 9]",Les Cinq Doigts Larghetto C major.mid,,,
-63,<music21.chord.Chord A5 B4 D5>,"[0, 2, 5]","[9, 11, 2]",Les Cinq Doigts Larghetto C major.mid,,,
-63.75,<music21.chord.Chord A4 E5 A5>,"[0, 5]","[4, 9]",Les Cinq Doigts Larghetto C major.mid,,,
-64,<music21.chord.Chord F#4 F#5 A5>,"[0, 3]","[6, 9]",Les Cinq Doigts Larghetto C major.mid,,,
-64.5,<music21.chord.Chord A5 A4 E5>,"[0, 5]","[4, 9]",Les Cinq Doigts Larghetto C major.mid,,,
-65.25,<music21.chord.Chord B4 D5 A5>,"[0, 2, 5]","[9, 11, 2]",Les Cinq Doigts Larghetto C major.mid,,,
-65.5,<music21.chord.Chord A4 E5 A5>,"[0, 5]","[4, 9]",Les Cinq Doigts Larghetto C major.mid,,,
-66,<music21.chord.Chord A5 F#4 B4 F#5>,"[0, 3, 5]","[6, 9, 11]",Les Cinq Doigts Larghetto C major.mid,,,
-66.75,<music21.chord.Chord G5 A5 F#4 B4>,"[0, 1, 3, 5]","[6, 7, 9, 11]",Les Cinq Doigts Larghetto C major.mid,,,
-67,<music21.chord.Chord F#4 B4 F#5 A5>,"[0, 3, 5]","[6, 9, 11]",Les Cinq Doigts Larghetto C major.mid,,,
-67.5,<music21.chord.Chord A5 E4 B4 F#5>,"[0, 2, 5, 7]","[4, 6, 9, 11]",Les Cinq Doigts Larghetto C major.mid,,,
-68.25,<music21.chord.Chord G5 A5 E4 B4>,"[0, 3, 5, 7]","[4, 7, 9, 11]",Les Cinq Doigts Larghetto C major.mid,,,
-68.5,<music21.chord.Chord E4 B4 F#5 A5>,"[0, 2, 5, 7]","[4, 6, 9, 11]",Les Cinq Doigts Larghetto C major.mid,,,
-69,<music21.chord.Chord A5 B4 D4 F#5>,"[0, 3, 5, 8]","[6, 9, 11, 2]",Les Cinq Doigts Larghetto C major.mid,,,
-69.75,<music21.chord.Chord G5 A5 B4 D4>,"[0, 2, 4, 7]","[7, 9, 11, 2]",Les Cinq Doigts Larghetto C major.mid,,,
-70,<music21.chord.Chord F#5 D4 A5>,"[0, 4, 7]","[2, 6, 9]",Les Cinq Doigts Larghetto C major.mid,,,
-70.5,<music21.chord.Chord A5 D4 B4 E5>,"[0, 2, 5, 7]","[9, 11, 2, 4]",Les Cinq Doigts Larghetto C major.mid,,,
-71.25,<music21.chord.Chord F#5 A5 D4 B4>,"[0, 3, 5, 8]","[6, 9, 11, 2]",Les Cinq Doigts Larghetto C major.mid,,,
-71.5,<music21.chord.Chord D4 B4 E5 A5>,"[0, 2, 5, 7]","[9, 11, 2, 4]",Les Cinq Doigts Larghetto C major.mid,,,
-72,<music21.chord.Chord A5 B4 F#5 C4>,"[0, 3, 5, 6]","[6, 9, 11, 0]",Les Cinq Doigts Larghetto C major.mid,,,
-73,<music21.chord.Chord C4 B4 D5 A5>,"[0, 2, 3, 5]","[9, 11, 0, 2]",Les Cinq Doigts Larghetto C major.mid,,,
-73.5,<music21.chord.Chord A5 B4 C4 E5>,"[0, 2, 3, 7]","[9, 11, 0, 4]",Les Cinq Doigts Larghetto C major.mid,,,
-74.25,<music21.chord.Chord F#5 A5 B4 C4>,"[0, 3, 5, 6]","[6, 9, 11, 0]",Les Cinq Doigts Larghetto C major.mid,,,
-74.5,<music21.chord.Chord C4 B4 D5 A5>,"[0, 2, 3, 5]","[9, 11, 0, 2]",Les Cinq Doigts Larghetto C major.mid,,,
-75,<music21.chord.Chord A5 D4 B4 E5>,"[0, 2, 5, 7]","[9, 11, 2, 4]",Les Cinq Doigts Larghetto C major.mid,,,
-75.75,<music21.chord.Chord F#5 A5 D4 B4>,"[0, 3, 5, 8]","[6, 9, 11, 2]",Les Cinq Doigts Larghetto C major.mid,,,
-76,<music21.chord.Chord G5 D4 A5>,"[0, 2, 7]","[7, 9, 2]",Les Cinq Doigts Larghetto C major.mid,,,
-76.5,<music21.chord.Chord A5 D4 B4>,"[0, 2, 5]","[9, 11, 2]",Les Cinq Doigts Larghetto C major.mid,,,
-77.25,<music21.chord.Chord G5 A5 D4 B4>,"[0, 2, 4, 7]","[7, 9, 11, 2]",Les Cinq Doigts Larghetto C major.mid,,,
-77.5,<music21.chord.Chord F#5 D4 A5>,"[0, 4, 7]","[2, 6, 9]",Les Cinq Doigts Larghetto C major.mid,,,
-78,<music21.chord.Chord A5 B4 D4 G5>,"[0, 2, 4, 7]","[7, 9, 11, 2]",Les Cinq Doigts Larghetto C major.mid,,,
-78.75,<music21.chord.Chord E5 A5 B4 D4>,"[0, 2, 5, 7]","[9, 11, 2, 4]",Les Cinq Doigts Larghetto C major.mid,,,
-79,<music21.chord.Chord B4 F#5 D4 A5>,"[0, 3, 5, 8]","[6, 9, 11, 2]",Les Cinq Doigts Larghetto C major.mid,,,
-79.5,<music21.chord.Chord A5 B4 C4 G5>,"[0, 2, 4, 5]","[7, 9, 11, 0]",Les Cinq Doigts Larghetto C major.mid,,,
-80.25,<music21.chord.Chord F#5 A5 B4 C4>,"[0, 3, 5, 6]","[6, 9, 11, 0]",Les Cinq Doigts Larghetto C major.mid,,,
-80.5,<music21.chord.Chord B4 E5 C4 A5>,"[0, 2, 3, 7]","[9, 11, 0, 4]",Les Cinq Doigts Larghetto C major.mid,,,
-81,<music21.chord.Chord A5 B4 C4 F#5>,"[0, 3, 5, 6]","[6, 9, 11, 0]",Les Cinq Doigts Larghetto C major.mid,,,
-81.75,<music21.chord.Chord D5 A5 B4 C4>,"[0, 2, 3, 5]","[9, 11, 0, 2]",Les Cinq Doigts Larghetto C major.mid,,,
-82,<music21.chord.Chord B4 E5 C4 A5>,"[0, 2, 3, 7]","[9, 11, 0, 4]",Les Cinq Doigts Larghetto C major.mid,,,
-82.5,<music21.chord.Chord A5 B4 D4 F#5>,"[0, 3, 5, 8]","[6, 9, 11, 2]",Les Cinq Doigts Larghetto C major.mid,,,
-83.25,<music21.chord.Chord E5 A5 B4 D4>,"[0, 2, 5, 7]","[9, 11, 2, 4]",Les Cinq Doigts Larghetto C major.mid,,,
-83.5,<music21.chord.Chord D4 B4 D5 A5>,"[0, 2, 5]","[9, 11, 2]",Les Cinq Doigts Larghetto C major.mid,,,
-84,<music21.chord.Chord A5 D4 B4 E5>,"[0, 2, 5, 7]","[9, 11, 2, 4]",Les Cinq Doigts Larghetto C major.mid,,,
-84.75,<music21.chord.Chord F#5 A5 D4 B4>,"[0, 3, 5, 8]","[6, 9, 11, 2]",Les Cinq Doigts Larghetto C major.mid,,,
-85,<music21.chord.Chord D4 B4 D5 A5>,"[0, 2, 5]","[9, 11, 2]",Les Cinq Doigts Larghetto C major.mid,,,
-85.5,<music21.chord.Chord A5 F#5 E4 B4>,"[0, 2, 5, 7]","[4, 6, 9, 11]",Les Cinq Doigts Larghetto C major.mid,,,
-86.25,<music21.chord.Chord G5 E4 B4>,"[0, 3, 7]","[4, 7, 11]",Les Cinq Doigts Larghetto C major.mid,,,
-86.5,<music21.chord.Chord F#5 E4 B4>,"[0, 2, 7]","[4, 6, 11]",Les Cinq Doigts Larghetto C major.mid,,,
-87,<music21.chord.Chord E5 E4 B4>,"[0, 5]","[11, 4]",Les Cinq Doigts Larghetto C major.mid,,,
+offset,Chord,NormalForm,PCsinNormalForm,file,Composer,MeasureNumber,MeasureCount
+3,<music21.chord.Chord G5 E4 G4>,"[0, 3]","[4, 7]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,1,1
+4,<music21.chord.Chord E4 G4 E5>,"[0, 3]","[4, 7]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,1,1.66666666666667
+4.5,<music21.chord.Chord F#5 E4 A4>,"[0, 2, 5]","[4, 6, 9]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,1,2.0
+5.5,<music21.chord.Chord E4 A4 F#5>,"[0, 2, 5]","[4, 6, 9]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,1,2.7
+6,<music21.chord.Chord G5 E4 B4>,"[0, 3, 7]","[4, 7, 11]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,2,1
+7,<music21.chord.Chord E4 B4 E5>,"[0, 5]","[11, 4]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,2,1.66666666666667
+7.5,<music21.chord.Chord E4 C5 F#5>,"[0, 4, 6]","[0, 4, 6]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,2,2.0
+8.25,<music21.chord.Chord G5 E4 C5>,"[0, 4, 7]","[0, 4, 7]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,2,2.50
+8.5,<music21.chord.Chord E4 C5 F#5>,"[0, 4, 6]","[0, 4, 6]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,2,2.7
+9,<music21.chord.Chord G5 E4 D5>,"[0, 2, 5]","[2, 4, 7]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,3,1
+10,<music21.chord.Chord E4 D5 G5>,"[0, 2, 5]","[2, 4, 7]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,3,1.66666666666667
+10.5,<music21.chord.Chord E4 C5 E5 G5>,"[0, 4, 7]","[0, 4, 7]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,3,2.0
+11.25,<music21.chord.Chord F#5 E4 C5>,"[0, 4, 6]","[0, 4, 6]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,3,2.50
+11.5,<music21.chord.Chord G5 E4>,"[0, 3]","[4, 7]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,3,2.7
+12,<music21.chord.Chord A5 C5 D4>,"[0, 3, 5]","[9, 0, 2]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,4,1
+13,<music21.chord.Chord F#5 C5 D4>,"[0, 2, 6]","[0, 2, 6]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,4,1.66666666666667
+13.375,<music21.chord.Chord A5 F#5 C5 D4>,"[0, 3, 6, 8]","[6, 9, 0, 2]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,4,1.917
+13.5,<music21.chord.Chord B4 D4 G5>,"[0, 4, 7]","[7, 11, 2]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,4,2.0
+14.25,<music21.chord.Chord F#5 B4 D4>,"[0, 3, 7]","[11, 2, 6]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,4,2.50
+14.5,<music21.chord.Chord B4 E5>,"[0, 5]","[11, 4]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,4,2.7
+15,<music21.chord.Chord F#5 C4 B4>,"[0, 5, 6]","[6, 11, 0]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,5,1
+16,<music21.chord.Chord C4 B4 F#5>,"[0, 5, 6]","[6, 11, 0]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,5,1.66666666666667
+16.5,<music21.chord.Chord F#5 C4 A4>,"[0, 3, 6]","[6, 9, 0]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,5,2.0
+17.5,<music21.chord.Chord A5 C4 A4>,"[0, 3]","[9, 0]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,5,2.7
+18,<music21.chord.Chord B4 C4 G5>,"[0, 4, 5]","[7, 11, 0]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,6,1
+18.75,<music21.chord.Chord F#5 B4 C4>,"[0, 5, 6]","[6, 11, 0]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,6,1.50
+19,<music21.chord.Chord B4 E5 C4>,"[0, 1, 5]","[11, 0, 4]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,6,1.66666666666667
+19.5,<music21.chord.Chord B4 F#5 D4>,"[0, 3, 7]","[11, 2, 6]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,6,2.0
+20.5,<music21.chord.Chord A5 B4 D4>,"[0, 2, 5]","[9, 11, 2]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,6,2.7
+21,<music21.chord.Chord C5 D4 G5>,"[0, 2, 7]","[0, 2, 7]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,7,1
+21.75,<music21.chord.Chord F#5 C5 D4>,"[0, 2, 6]","[0, 2, 6]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,7,1.50
+22,<music21.chord.Chord E5 C5>,"[0, 4]","[0, 4]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,7,1.66666666666667
+22.5,<music21.chord.Chord C5 E4 E5>,"[0, 4]","[0, 4]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,7,2.0
+23.5,<music21.chord.Chord E4 C5 E5>,"[0, 4]","[0, 4]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,7,2.7
+24,<music21.chord.Chord G5 E4 G4>,"[0, 3]","[4, 7]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,8,1
+25,<music21.chord.Chord E4 G4 E5>,"[0, 3]","[4, 7]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,8,1.66666666666667
+25.5,<music21.chord.Chord F#5 E4 A4>,"[0, 2, 5]","[4, 6, 9]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,8,2.0
+26.5,<music21.chord.Chord E4 A4 F#5>,"[0, 2, 5]","[4, 6, 9]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,8,2.7
+27,<music21.chord.Chord G5 E4 B4>,"[0, 3, 7]","[4, 7, 11]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,9,1
+28,<music21.chord.Chord E4 B4 E5>,"[0, 5]","[11, 4]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,9,1.66666666666667
+28.5,<music21.chord.Chord E4 C5 F#5>,"[0, 4, 6]","[0, 4, 6]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,9,2.0
+29.25,<music21.chord.Chord G5 E4 C5>,"[0, 4, 7]","[0, 4, 7]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,9,2.50
+29.5,<music21.chord.Chord E4 C5 F#5>,"[0, 4, 6]","[0, 4, 6]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,9,2.7
+30,<music21.chord.Chord G5 E4 D5>,"[0, 2, 5]","[2, 4, 7]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,10,1
+31,<music21.chord.Chord E4 D5 G5>,"[0, 2, 5]","[2, 4, 7]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,10,1.66666666666667
+31.5,<music21.chord.Chord E4 C5 E5 G5>,"[0, 4, 7]","[0, 4, 7]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,10,2.0
+32.25,<music21.chord.Chord F#5 E4 C5>,"[0, 4, 6]","[0, 4, 6]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,10,2.50
+32.5,<music21.chord.Chord G5 E4>,"[0, 3]","[4, 7]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,10,2.7
+33,<music21.chord.Chord A5 C5 D4>,"[0, 3, 5]","[9, 0, 2]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,11,1
+34,<music21.chord.Chord F#5 C5 D4>,"[0, 2, 6]","[0, 2, 6]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,11,1.66666666666667
+34.375,<music21.chord.Chord A5 F#5 C5 D4>,"[0, 3, 6, 8]","[6, 9, 0, 2]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,11,1.917
+34.5,<music21.chord.Chord B4 D4 G5>,"[0, 4, 7]","[7, 11, 2]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,11,2.0
+35.25,<music21.chord.Chord F#5 B4 D4>,"[0, 3, 7]","[11, 2, 6]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,11,2.50
+35.5,<music21.chord.Chord B4 E5>,"[0, 5]","[11, 4]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,11,2.7
+36,<music21.chord.Chord F#5 C4 B4>,"[0, 5, 6]","[6, 11, 0]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,12,1
+37,<music21.chord.Chord C4 B4 F#5>,"[0, 5, 6]","[6, 11, 0]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,12,1.66666666666667
+37.5,<music21.chord.Chord F#5 C4 A4>,"[0, 3, 6]","[6, 9, 0]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,12,2.0
+38.5,<music21.chord.Chord A5 C4 A4>,"[0, 3]","[9, 0]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,12,2.7
+39,<music21.chord.Chord B4 C4 G5>,"[0, 4, 5]","[7, 11, 0]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,13,1
+39.75,<music21.chord.Chord F#5 B4 C4>,"[0, 5, 6]","[6, 11, 0]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,13,1.50
+40,<music21.chord.Chord B4 E5 C4>,"[0, 1, 5]","[11, 0, 4]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,13,1.66666666666667
+40.5,<music21.chord.Chord B4 F#5 D4>,"[0, 3, 7]","[11, 2, 6]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,13,2.0
+41.5,<music21.chord.Chord A5 B4 D4>,"[0, 2, 5]","[9, 11, 2]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,13,2.7
+42,<music21.chord.Chord F#5 A5 E4 B4>,"[0, 2, 5, 7]","[4, 6, 9, 11]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,14,1
+42.75,<music21.chord.Chord G5 E4 B4>,"[0, 3, 7]","[4, 7, 11]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,14,1.50
+43,<music21.chord.Chord E4 B4 F#5>,"[0, 2, 7]","[4, 6, 11]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,14,1.66666666666667
+43.5,<music21.chord.Chord E5 E4 B4>,"[0, 5]","[11, 4]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,14,2.0
+44.5,<music21.chord.Chord E4 B4 E5>,"[0, 5]","[11, 4]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,14,2.7
+45,<music21.chord.Chord E4 C5 D5>,"[0, 2, 4]","[0, 2, 4]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,15,1
+46,<music21.chord.Chord E4 C5 D5>,"[0, 2, 4]","[0, 2, 4]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,15,1.66666666666667
+46.5,<music21.chord.Chord D5 E4 E5>,"[0, 2]","[2, 4]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,15,2.0
+47.25,<music21.chord.Chord F#5 D5 E4>,"[0, 2, 4]","[2, 4, 6]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,15,2.50
+47.5,<music21.chord.Chord G5 E4 D5>,"[0, 2, 5]","[2, 4, 7]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,15,2.7
+48,<music21.chord.Chord F#5 D4>,"[0, 4]","[2, 6]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,16,1
+48.75,<music21.chord.Chord E5 D4>,"[0, 2]","[2, 4]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,16,1.50
+49,<music21.chord.Chord D4 D5>,[0],[2],Les Cinq Doigts Larghetto C major.mid,Stravinsky,16,1.66666666666667
+49.5,<music21.chord.Chord E5 E4 C5>,"[0, 4]","[0, 4]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,16,2.0
+50.5,<music21.chord.Chord E4 C5 E5>,"[0, 4]","[0, 4]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,16,2.7
+51,<music21.chord.Chord G4 B4 D5 G5>,"[0, 4, 7]","[7, 11, 2]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,17,1
+52,<music21.chord.Chord G4 B4 D5 G5>,"[0, 4, 7]","[7, 11, 2]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,17,1.66666666666667
+52.5,<music21.chord.Chord D5 A5 F4 A4>,"[0, 3, 7]","[2, 5, 9]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,17,2.0
+53.5,<music21.chord.Chord D5 A5 F4 A4>,"[0, 3, 7]","[2, 5, 9]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,17,2.7
+54,<music21.chord.Chord D5 E4 E5>,"[0, 2]","[2, 4]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,18,1
+54.75,<music21.chord.Chord F#5 D5 E4>,"[0, 2, 4]","[2, 4, 6]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,18,1.50
+55,<music21.chord.Chord G5 E4 D5>,"[0, 2, 5]","[2, 4, 7]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,18,1.66666666666667
+55.5,<music21.chord.Chord D5 D4 F#5>,"[0, 4]","[2, 6]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,18,2.0
+56.25,<music21.chord.Chord E5 D5 D4>,"[0, 2]","[2, 4]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,18,2.50
+56.5,<music21.chord.Chord D4 D5>,[0],[2],Les Cinq Doigts Larghetto C major.mid,Stravinsky,18,2.7
+57,<music21.chord.Chord G4 B4 G5>,"[0, 4]","[7, 11]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,19,1
+58,<music21.chord.Chord G4 B4 D5 G5>,"[0, 4, 7]","[7, 11, 2]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,19,1.66666666666667
+58.5,<music21.chord.Chord D5 A5 F4 A4>,"[0, 3, 7]","[2, 5, 9]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,19,2.0
+59.5,<music21.chord.Chord D5 A5 F4 A4>,"[0, 3, 7]","[2, 5, 9]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,19,2.7
+60,<music21.chord.Chord A5 G4 D5>,"[0, 2, 7]","[7, 9, 2]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,20,1
+60.75,<music21.chord.Chord A4 A5 D5>,"[0, 5]","[9, 2]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,20,1.50
+61,<music21.chord.Chord G4 E5 A5>,"[0, 3, 5]","[4, 7, 9]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,20,1.66666666666667
+61.5,<music21.chord.Chord A5 F#4 F#5>,"[0, 3]","[6, 9]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,20,2.0
+62.25,<music21.chord.Chord G4 A5 F#5>,"[0, 1, 3]","[6, 7, 9]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,20,2.50
+62.5,<music21.chord.Chord A4 E5 A5>,"[0, 5]","[4, 9]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,20,2.7
+63,<music21.chord.Chord A5 B4 D5>,"[0, 2, 5]","[9, 11, 2]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,21,1
+63.75,<music21.chord.Chord A4 E5 A5>,"[0, 5]","[4, 9]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,21,1.50
+64,<music21.chord.Chord F#4 F#5 A5>,"[0, 3]","[6, 9]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,21,1.66666666666667
+64.5,<music21.chord.Chord A5 A4 E5>,"[0, 5]","[4, 9]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,21,2.0
+65.25,<music21.chord.Chord B4 D5 A5>,"[0, 2, 5]","[9, 11, 2]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,21,2.50
+65.5,<music21.chord.Chord A4 E5 A5>,"[0, 5]","[4, 9]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,21,2.7
+66,<music21.chord.Chord A5 F#4 B4 F#5>,"[0, 3, 5]","[6, 9, 11]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,22,1
+66.75,<music21.chord.Chord G5 A5 F#4 B4>,"[0, 1, 3, 5]","[6, 7, 9, 11]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,22,1.50
+67,<music21.chord.Chord F#4 B4 F#5 A5>,"[0, 3, 5]","[6, 9, 11]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,22,1.66666666666667
+67.5,<music21.chord.Chord A5 E4 B4 F#5>,"[0, 2, 5, 7]","[4, 6, 9, 11]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,22,2.0
+68.25,<music21.chord.Chord G5 A5 E4 B4>,"[0, 3, 5, 7]","[4, 7, 9, 11]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,22,2.50
+68.5,<music21.chord.Chord E4 B4 F#5 A5>,"[0, 2, 5, 7]","[4, 6, 9, 11]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,22,2.7
+69,<music21.chord.Chord A5 B4 D4 F#5>,"[0, 3, 5, 8]","[6, 9, 11, 2]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,23,1
+69.75,<music21.chord.Chord G5 A5 B4 D4>,"[0, 2, 4, 7]","[7, 9, 11, 2]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,23,1.50
+70,<music21.chord.Chord F#5 D4 A5>,"[0, 4, 7]","[2, 6, 9]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,23,1.66666666666667
+70.5,<music21.chord.Chord A5 D4 B4 E5>,"[0, 2, 5, 7]","[9, 11, 2, 4]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,23,2.0
+71.25,<music21.chord.Chord F#5 A5 D4 B4>,"[0, 3, 5, 8]","[6, 9, 11, 2]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,23,2.50
+71.5,<music21.chord.Chord D4 B4 E5 A5>,"[0, 2, 5, 7]","[9, 11, 2, 4]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,23,2.7
+72,<music21.chord.Chord A5 B4 F#5 C4>,"[0, 3, 5, 6]","[6, 9, 11, 0]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,24,1
+73,<music21.chord.Chord C4 B4 D5 A5>,"[0, 2, 3, 5]","[9, 11, 0, 2]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,24,1.66666666666667
+73.5,<music21.chord.Chord A5 B4 C4 E5>,"[0, 2, 3, 7]","[9, 11, 0, 4]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,24,2.0
+74.25,<music21.chord.Chord F#5 A5 B4 C4>,"[0, 3, 5, 6]","[6, 9, 11, 0]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,24,2.50
+74.5,<music21.chord.Chord C4 B4 D5 A5>,"[0, 2, 3, 5]","[9, 11, 0, 2]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,24,2.7
+75,<music21.chord.Chord A5 D4 B4 E5>,"[0, 2, 5, 7]","[9, 11, 2, 4]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,25,1
+75.75,<music21.chord.Chord F#5 A5 D4 B4>,"[0, 3, 5, 8]","[6, 9, 11, 2]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,25,1.50
+76,<music21.chord.Chord G5 D4 A5>,"[0, 2, 7]","[7, 9, 2]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,25,1.66666666666667
+76.5,<music21.chord.Chord A5 D4 B4>,"[0, 2, 5]","[9, 11, 2]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,25,2.0
+77.25,<music21.chord.Chord G5 A5 D4 B4>,"[0, 2, 4, 7]","[7, 9, 11, 2]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,25,2.50
+77.5,<music21.chord.Chord F#5 D4 A5>,"[0, 4, 7]","[2, 6, 9]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,25,2.7
+78,<music21.chord.Chord A5 B4 D4 G5>,"[0, 2, 4, 7]","[7, 9, 11, 2]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,26,1
+78.75,<music21.chord.Chord E5 A5 B4 D4>,"[0, 2, 5, 7]","[9, 11, 2, 4]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,26,1.50
+79,<music21.chord.Chord B4 F#5 D4 A5>,"[0, 3, 5, 8]","[6, 9, 11, 2]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,26,1.66666666666667
+79.5,<music21.chord.Chord A5 B4 C4 G5>,"[0, 2, 4, 5]","[7, 9, 11, 0]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,26,2.0
+80.25,<music21.chord.Chord F#5 A5 B4 C4>,"[0, 3, 5, 6]","[6, 9, 11, 0]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,26,2.50
+80.5,<music21.chord.Chord B4 E5 C4 A5>,"[0, 2, 3, 7]","[9, 11, 0, 4]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,26,2.7
+81,<music21.chord.Chord A5 B4 C4 F#5>,"[0, 3, 5, 6]","[6, 9, 11, 0]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,27,1
+81.75,<music21.chord.Chord D5 A5 B4 C4>,"[0, 2, 3, 5]","[9, 11, 0, 2]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,27,1.50
+82,<music21.chord.Chord B4 E5 C4 A5>,"[0, 2, 3, 7]","[9, 11, 0, 4]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,27,1.66666666666667
+82.5,<music21.chord.Chord A5 B4 D4 F#5>,"[0, 3, 5, 8]","[6, 9, 11, 2]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,27,2.0
+83.25,<music21.chord.Chord E5 A5 B4 D4>,"[0, 2, 5, 7]","[9, 11, 2, 4]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,27,2.50
+83.5,<music21.chord.Chord D4 B4 D5 A5>,"[0, 2, 5]","[9, 11, 2]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,27,2.7
+84,<music21.chord.Chord A5 D4 B4 E5>,"[0, 2, 5, 7]","[9, 11, 2, 4]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,28,1
+84.75,<music21.chord.Chord F#5 A5 D4 B4>,"[0, 3, 5, 8]","[6, 9, 11, 2]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,28,1.50
+85,<music21.chord.Chord D4 B4 D5 A5>,"[0, 2, 5]","[9, 11, 2]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,28,1.66666666666667
+85.5,<music21.chord.Chord A5 F#5 E4 B4>,"[0, 2, 5, 7]","[4, 6, 9, 11]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,28,2.0
+86.25,<music21.chord.Chord G5 E4 B4>,"[0, 3, 7]","[4, 7, 11]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,28,2.50
+86.5,<music21.chord.Chord F#5 E4 B4>,"[0, 2, 7]","[4, 6, 11]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,28,2.7
+87,<music21.chord.Chord E5 E4 B4>,"[0, 5]","[11, 4]",Les Cinq Doigts Larghetto C major.mid,Stravinsky,29,1

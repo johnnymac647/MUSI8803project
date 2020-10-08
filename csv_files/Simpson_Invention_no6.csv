@@ -1,967 +1,967 @@
-measureNumber,beatNumber,offset,Chord,NormalForm,PCsInNormalForm,file,Composer
-1,1,0.0,<music21.chord.Chord B-3>,[0],[10],Simpson_Invention_no6.xml,Simpson
-1,1 1/2,0.5,<music21.chord.Chord B-3 D4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-1,2,1.0,<music21.chord.Chord F3 F4>,[0],[5],Simpson_Invention_no6.xml,Simpson
-1,2 1/2,1.5,<music21.chord.Chord D3 B-4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-2,1,2.0,<music21.chord.Chord E-3 C5>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson
-2,1 1/2,2.5,<music21.chord.Chord E-3 B-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson
-2,2,3.0,<music21.chord.Chord F3 A4>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson
-2,2 1/2,3.5,<music21.chord.Chord F3 G4>,"[0, 2]","[5, 7]",Simpson_Invention_no6.xml,Simpson
-3,1,4.0,<music21.chord.Chord B-2 F4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson
-3,1 1/2,4.5,<music21.chord.Chord D3 B-4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-3,2,5.0,<music21.chord.Chord F3 B-4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson
-3,2 1/2,5.5,<music21.chord.Chord B-3 D5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-4,1,6.0,<music21.chord.Chord C4 E-5>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson
-4,1 1/2,6.5,<music21.chord.Chord B-3 E-5>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson
-4,2,7.0,<music21.chord.Chord A3 F5>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson
-4,2 1/8,7.125,<music21.chord.Chord A3 E-5>,"[0, 6]","[3, 9]",Simpson_Invention_no6.xml,Simpson
-4,2 1/4,7.25,<music21.chord.Chord A3 F5>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson
-4,2 3/8,7.375,<music21.chord.Chord A3 E-5>,"[0, 6]","[3, 9]",Simpson_Invention_no6.xml,Simpson
-4,2 1/2,7.5,<music21.chord.Chord F3 F5>,[0],[5],Simpson_Invention_no6.xml,Simpson
-4,2 5/8,7.625,<music21.chord.Chord F3 E-5>,"[0, 2]","[3, 5]",Simpson_Invention_no6.xml,Simpson
-4,2 3/4,7.75,<music21.chord.Chord F3 D5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson
-4,2 7/8,7.875,<music21.chord.Chord F3 E-5>,"[0, 2]","[3, 5]",Simpson_Invention_no6.xml,Simpson
-5,1,8.0,<music21.chord.Chord B-3 D5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-5,1 1/2,8.5,<music21.chord.Chord B-3 D5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-5,2,9.0,<music21.chord.Chord D4 F5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson
-5,2 1/2,9.5,<music21.chord.Chord F4 B-5>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson
-6,1,10.0,<music21.chord.Chord E-4 C6>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson
-6,1 1/2,10.5,<music21.chord.Chord E-4 B-5>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson
-6,2,11.0,<music21.chord.Chord F4 A5>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson
-6,2 1/2,11.5,<music21.chord.Chord F4 G5>,"[0, 2]","[5, 7]",Simpson_Invention_no6.xml,Simpson
-7,1,12.0,<music21.chord.Chord B-3 F5>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson
-7,1 1/2,12.5,<music21.chord.Chord D4 B-5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-7,2,13.0,<music21.chord.Chord F4 B-5>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson
-7,2 1/2,13.5,<music21.chord.Chord B-4 D6>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-8,1,14.0,<music21.chord.Chord C5 E-6>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson
-8,1 1/2,14.5,<music21.chord.Chord B-4 E-6>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson
-8,2,15.0,<music21.chord.Chord A4 F6>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson
-8,2 1/8,15.125,<music21.chord.Chord A4 E-6>,"[0, 6]","[3, 9]",Simpson_Invention_no6.xml,Simpson
-8,2 1/4,15.25,<music21.chord.Chord A4 F6>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson
-8,2 3/8,15.375,<music21.chord.Chord A4 E-6>,"[0, 6]","[3, 9]",Simpson_Invention_no6.xml,Simpson
-8,2 1/2,15.5,<music21.chord.Chord F4 F6>,[0],[5],Simpson_Invention_no6.xml,Simpson
-8,2 5/8,15.625,<music21.chord.Chord F4 E-6>,"[0, 2]","[3, 5]",Simpson_Invention_no6.xml,Simpson
-8,2 3/4,15.75,<music21.chord.Chord F4 D6>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson
-8,2 7/8,15.875,<music21.chord.Chord F4 E-6>,"[0, 2]","[3, 5]",Simpson_Invention_no6.xml,Simpson
-9,1,16.0,<music21.chord.Chord B-4 D6>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-9,1 1/2,16.5,<music21.chord.Chord B-4 B-5>,[0],[10],Simpson_Invention_no6.xml,Simpson
-9,2,17.0,<music21.chord.Chord B-4 F5>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson
-9,2 1/2,17.5,<music21.chord.Chord B-4 D5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-10,1,18.0,<music21.chord.Chord E-4 B-5>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson
-10,1 1/2,18.5,<music21.chord.Chord G4 B-5>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson
-10,2,19.0,<music21.chord.Chord F4 D6>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson
-10,2 1/8,19.125,<music21.chord.Chord F4 C6>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson
-10,2 1/4,19.25,<music21.chord.Chord F4 D6>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson
-10,2 3/8,19.375,<music21.chord.Chord F4 C6>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson
-10,2 1/2,19.5,<music21.chord.Chord F3 D6>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson
-10,2 5/8,19.625,<music21.chord.Chord F3 C6>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson
-10,2 3/4,19.75,<music21.chord.Chord F3 B-5>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson
-10,2 7/8,19.875,<music21.chord.Chord F3 C6>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson
-11,1,20.0,<music21.chord.Chord B-3 D6>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-11,1 1/2,20.5,<music21.chord.Chord B-3 B-5>,[0],[10],Simpson_Invention_no6.xml,Simpson
-11,2,21.0,<music21.chord.Chord B-3 F5>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson
-11,2 1/2,21.5,<music21.chord.Chord B-3 D5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-12,1,22.0,<music21.chord.Chord E-4 B-5>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson
-12,1 1/2,22.5,<music21.chord.Chord G4 B-5>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson
-12,2,23.0,<music21.chord.Chord F4 D6>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson
-12,2 1/8,23.125,<music21.chord.Chord F4 C6>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson
-12,2 1/4,23.25,<music21.chord.Chord F4 D6>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson
-12,2 3/8,23.375,<music21.chord.Chord F4 C6>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson
-12,2 1/2,23.5,<music21.chord.Chord F3 D6>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson
-12,2 5/8,23.625,<music21.chord.Chord F3 C6>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson
-12,2 3/4,23.75,<music21.chord.Chord F3 B-5>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson
-12,2 7/8,23.875,<music21.chord.Chord F3 C6>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson
-13,1,24.0,<music21.chord.Chord B-3 D6>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-13,1 1/2,24.5,<music21.chord.Chord B-3 B-5>,[0],[10],Simpson_Invention_no6.xml,Simpson
-13,2,25.0,<music21.chord.Chord F3 A5>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson
-13,2 1/2,25.5,<music21.chord.Chord D3 G5>,"[0, 5]","[2, 7]",Simpson_Invention_no6.xml,Simpson
-14,1,26.0,<music21.chord.Chord E-3 G5>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-14,1 1/2,26.5,<music21.chord.Chord E-3 B-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson
-14,2,27.0,<music21.chord.Chord G3 A5>,"[0, 2]","[7, 9]",Simpson_Invention_no6.xml,Simpson
-14,2 1/8,27.125,<music21.chord.Chord F3 A5>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson
-14,2 1/4,27.25,<music21.chord.Chord G3 A5>,"[0, 2]","[7, 9]",Simpson_Invention_no6.xml,Simpson
-14,2 3/8,27.375,<music21.chord.Chord F3 A5>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson
-14,2 1/2,27.5,<music21.chord.Chord G3 B-4>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson
-14,2 5/8,27.625,<music21.chord.Chord F3 B-4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson
-14,2 3/4,27.75,<music21.chord.Chord E-3 B-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson
-14,2 7/8,27.875,<music21.chord.Chord F3 B-4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson
-15,1,28.0,<music21.chord.Chord D4 B-5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-15,1 1/2,28.5,<music21.chord.Chord B-3 B-5>,[0],[10],Simpson_Invention_no6.xml,Simpson
-15,2,29.0,<music21.chord.Chord F3 A5>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson
-15,2 1/2,29.5,<music21.chord.Chord D3 G5>,"[0, 5]","[2, 7]",Simpson_Invention_no6.xml,Simpson
-16,1,30.0,<music21.chord.Chord E-3 G5>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-16,1 1/2,30.5,<music21.chord.Chord E-3 B-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson
-16,2,31.0,<music21.chord.Chord G3 A5>,"[0, 2]","[7, 9]",Simpson_Invention_no6.xml,Simpson
-16,2 1/8,31.125,<music21.chord.Chord F3 A5>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson
-16,2 1/4,31.25,<music21.chord.Chord G3 A5>,"[0, 2]","[7, 9]",Simpson_Invention_no6.xml,Simpson
-16,2 3/8,31.375,<music21.chord.Chord F3 A5>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson
-16,2 1/2,31.5,<music21.chord.Chord G3 B-4>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson
-16,2 5/8,31.625,<music21.chord.Chord F3 B-4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson
-16,2 3/4,31.75,<music21.chord.Chord E-3 B-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson
-16,2 7/8,31.875,<music21.chord.Chord F3 B-4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson
-17,1,32.0,<music21.chord.Chord B-3 B-5>,[0],[10],Simpson_Invention_no6.xml,Simpson
-17,1 1/2,32.5,<music21.chord.Chord B-3 D5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-17,2,33.0,<music21.chord.Chord C4 D5>,"[0, 2]","[0, 2]",Simpson_Invention_no6.xml,Simpson
-17,2 1/2,33.5,<music21.chord.Chord C4 E-5>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson
-18,1,34.0,<music21.chord.Chord C3 E-5>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson
-18,1 1/2,34.5,<music21.chord.Chord C3 G4>,"[0, 5]","[7, 0]",Simpson_Invention_no6.xml,Simpson
-18,2,35.0,<music21.chord.Chord F3 G4>,"[0, 2]","[5, 7]",Simpson_Invention_no6.xml,Simpson
-18,2 1/2,35.5,<music21.chord.Chord F3 A4>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson
-19,1,36.0,<music21.chord.Chord F2 A4>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson
-19,1 1/2,36.5,<music21.chord.Chord F2 C4>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson
-19,2,37.0,<music21.chord.Chord B-2 C4>,"[0, 2]","[10, 0]",Simpson_Invention_no6.xml,Simpson
-19,2 1/2,37.5,<music21.chord.Chord B-2 D4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-20,1,38.0,<music21.chord.Chord B-1 D4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-20,1 1/2,38.5,<music21.chord.Chord B-1 F3>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson
-20,2,39.0,<music21.chord.Chord E-2 F3>,"[0, 2]","[3, 5]",Simpson_Invention_no6.xml,Simpson
-20,2 1/2,39.5,<music21.chord.Chord E-2 G3>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-21,1,40.0,<music21.chord.Chord C2 G3>,"[0, 5]","[7, 0]",Simpson_Invention_no6.xml,Simpson
-21,1 1/2,40.5,<music21.chord.Chord C2 C4>,[0],[0],Simpson_Invention_no6.xml,Simpson
-21,2,41.0,<music21.chord.Chord F2 B-3>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson
-21,2 1/2,41.5,<music21.chord.Chord F2 A3>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson
-22,1,42.0,<music21.chord.Chord G2 B-3>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson
-22,1 1/3,42.333333333333336,<music21.chord.Chord G2 C4>,"[0, 5]","[7, 0]",Simpson_Invention_no6.xml,Simpson
-22,1 2/3,42.666666666666664,<music21.chord.Chord G2 E-4>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-22,2,43.0,<music21.chord.Chord A2 D4>,"[0, 5]","[9, 2]",Simpson_Invention_no6.xml,Simpson
-22,2 1/2,43.5,<music21.chord.Chord A2 C4>,"[0, 3]","[9, 0]",Simpson_Invention_no6.xml,Simpson
-23,1,44.0,<music21.chord.Chord B-2 D4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-23,1 1/2,44.5,<music21.chord.Chord B-2 B-4>,[0],[10],Simpson_Invention_no6.xml,Simpson
-23,2,45.0,<music21.chord.Chord C3 A4>,"[0, 3]","[9, 0]",Simpson_Invention_no6.xml,Simpson
-23,2 1/2,45.5,<music21.chord.Chord D3 G4>,"[0, 5]","[2, 7]",Simpson_Invention_no6.xml,Simpson
-24,1,46.0,<music21.chord.Chord E-3 A4>,"[0, 6]","[3, 9]",Simpson_Invention_no6.xml,Simpson
-24,1 1/3,46.333333333333336,<music21.chord.Chord E-3 B-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson
-24,1 2/3,46.666666666666664,<music21.chord.Chord E-3 C5>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson
-24,2,47.0,<music21.chord.Chord F3 B-4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson
-24,2 1/2,47.5,<music21.chord.Chord F2 A4>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson
-25,1,48.0,<music21.chord.Chord B-2 B-4>,[0],[10],Simpson_Invention_no6.xml,Simpson
-25,1 1/2,48.5,<music21.chord.Chord F3 B-4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson
-25,2,49.0,<music21.chord.Chord B-3 D4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-25,2 1/3,49.333333333333336,<music21.chord.Chord B-3 E-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson
-25,2 2/3,49.666666666666664,<music21.chord.Chord B-3 F4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson
-26,1,50.0,<music21.chord.Chord C3 B-4>,"[0, 2]","[10, 0]",Simpson_Invention_no6.xml,Simpson
-26,1 1/2,50.5,<music21.chord.Chord F3 B-4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson
-26,2,51.0,<music21.chord.Chord B-3 E-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson
-26,2 1/2,51.5,<music21.chord.Chord B-3 F4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson
-27,1,52.0,<music21.chord.Chord D3 B-4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-27,1 1/2,52.5,<music21.chord.Chord F3 B-4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson
-27,2,53.0,<music21.chord.Chord B-3 F4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson
-27,2 1/3,53.333333333333336,<music21.chord.Chord B-3 G4>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson
-27,2 2/3,53.666666666666664,<music21.chord.Chord B-3 A4>,"[0, 1]","[9, 10]",Simpson_Invention_no6.xml,Simpson
-28,1,54.0,<music21.chord.Chord E-3 B-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson
-28,1 1/2,54.5,<music21.chord.Chord F3 B-4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson
-28,2,55.0,<music21.chord.Chord B-3 G4>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson
-28,2 1/2,55.5,<music21.chord.Chord B-3 A4>,"[0, 1]","[9, 10]",Simpson_Invention_no6.xml,Simpson
-29,1,56.0,<music21.chord.Chord F3 B-4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson
-29,1 1/3,56.333333333333336,<music21.chord.Chord G3 B-4>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson
-29,1 2/3,56.666666666666664,<music21.chord.Chord D4 B-4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-29,2,57.0,<music21.chord.Chord F4 C5>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson
-29,2 1/2,57.5,<music21.chord.Chord F4 D5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson
-30,1,58.0,<music21.chord.Chord G3 B-4>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson
-30,1 1/2,58.5,<music21.chord.Chord E-4 B-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson
-30,2,59.0,<music21.chord.Chord F4 D5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson
-30,2 1/2,59.5,<music21.chord.Chord F4 E-5>,"[0, 2]","[3, 5]",Simpson_Invention_no6.xml,Simpson
-31,1,60.0,<music21.chord.Chord A3 B-4>,"[0, 1]","[9, 10]",Simpson_Invention_no6.xml,Simpson
-31,1 1/3,60.333333333333336,<music21.chord.Chord B-3 B-4>,[0],[10],Simpson_Invention_no6.xml,Simpson
-31,1 2/3,60.666666666666664,<music21.chord.Chord E-4 B-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson
-31,2,61.0,<music21.chord.Chord F4 D5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson
-31,2 1/3,61.333333333333336,<music21.chord.Chord F4 E-5>,"[0, 2]","[3, 5]",Simpson_Invention_no6.xml,Simpson
-31,2 2/3,61.666666666666664,<music21.chord.Chord F4 F5>,[0],[5],Simpson_Invention_no6.xml,Simpson
-32,1,62.0,<music21.chord.Chord B-3 B-4>,[0],[10],Simpson_Invention_no6.xml,Simpson
-32,1 1/2,62.5,<music21.chord.Chord E-4 B-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson
-32,2,63.0,<music21.chord.Chord F4 F5>,[0],[5],Simpson_Invention_no6.xml,Simpson
-32,2 1/2,63.5,<music21.chord.Chord F4 G5>,"[0, 2]","[5, 7]",Simpson_Invention_no6.xml,Simpson
-33,1,64.0,<music21.chord.Chord C4 A5>,"[0, 3]","[9, 0]",Simpson_Invention_no6.xml,Simpson
-33,1 1/3,64.33333333333333,<music21.chord.Chord D4 A5>,"[0, 5]","[9, 2]",Simpson_Invention_no6.xml,Simpson
-33,1 2/3,64.66666666666667,<music21.chord.Chord E-4 A5>,"[0, 6]","[3, 9]",Simpson_Invention_no6.xml,Simpson
-33,2,65.0,<music21.chord.Chord F4 A5>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson
-33,2 1/3,65.33333333333333,<music21.chord.Chord F4 G5>,"[0, 2]","[5, 7]",Simpson_Invention_no6.xml,Simpson
-33,2 2/3,65.66666666666667,<music21.chord.Chord F4 F5>,[0],[5],Simpson_Invention_no6.xml,Simpson
-34,1,66.0,<music21.chord.Chord D4 B-5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-34,1 1/2,66.5,<music21.chord.Chord E-4 B-5>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson
-34,2,67.0,<music21.chord.Chord F4 A5>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson
-34,2 1/2,67.5,<music21.chord.Chord F4 G5>,"[0, 2]","[5, 7]",Simpson_Invention_no6.xml,Simpson
-35,1,68.0,<music21.chord.Chord A4 C6>,"[0, 3]","[9, 0]",Simpson_Invention_no6.xml,Simpson
-35,1 1/2,68.5,<music21.chord.Chord G4 C6>,"[0, 5]","[7, 0]",Simpson_Invention_no6.xml,Simpson
-35,2,69.0,<music21.chord.Chord F4 C6>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson
-35,2 1/3,69.33333333333333,<music21.chord.Chord F4 B-5>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson
-35,2 2/3,69.66666666666667,<music21.chord.Chord F4 A5>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson
-36,1,70.0,<music21.chord.Chord F3 D6>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson
-36,1 1/3,70.33333333333333,<music21.chord.Chord C4 D6>,"[0, 2]","[0, 2]",Simpson_Invention_no6.xml,Simpson
-36,1 2/3,70.66666666666667,<music21.chord.Chord E-4 D6>,"[0, 1]","[2, 3]",Simpson_Invention_no6.xml,Simpson
-36,2,71.0,<music21.chord.Chord F4 D6>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson
-36,2 1/3,71.33333333333333,<music21.chord.Chord F4 C6>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson
-36,2 2/3,71.66666666666667,<music21.chord.Chord F4 B-5>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson
-37,1,72.0,<music21.chord.Chord G4 E-6>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-37,1 1/2,72.5,<music21.chord.Chord F4 B-5>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson
-37,2,73.0,<music21.chord.Chord E-4 G5>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-37,2 1/2,73.5,<music21.chord.Chord E-4 C6>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson
-38,1,74.0,<music21.chord.Chord F4 C6>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson
-38,1 1/3,74.33333333333333,<music21.chord.Chord F4 B-5>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson
-38,1 2/3,74.66666666666667,<music21.chord.Chord F4 A5>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson
-38,2,75.0,<music21.chord.Chord F3 G5>,"[0, 2]","[5, 7]",Simpson_Invention_no6.xml,Simpson
-38,2 1/3,75.33333333333333,<music21.chord.Chord F3 F5>,[0],[5],Simpson_Invention_no6.xml,Simpson
-38,2 2/3,75.66666666666667,<music21.chord.Chord F3 E-5>,"[0, 2]","[3, 5]",Simpson_Invention_no6.xml,Simpson
-39,1,76.0,<music21.chord.Chord B-3 D5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-39,1 1/2,76.5,<music21.chord.Chord G3 B-4>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson
-39,2,77.0,<music21.chord.Chord E-3 G4>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-39,2 1/2,77.5,<music21.chord.Chord E-3 C5>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson
-40,1,78.0,<music21.chord.Chord F3 C5>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson
-40,1 1/3,78.33333333333333,<music21.chord.Chord F3 B-4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson
-40,1 2/3,78.66666666666667,<music21.chord.Chord F3 A4>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson
-40,2,79.0,<music21.chord.Chord F2 G4>,"[0, 2]","[5, 7]",Simpson_Invention_no6.xml,Simpson
-40,2 1/3,79.33333333333333,<music21.chord.Chord F2 F4>,[0],[5],Simpson_Invention_no6.xml,Simpson
-40,2 2/3,79.66666666666667,<music21.chord.Chord F2 E-4>,"[0, 2]","[3, 5]",Simpson_Invention_no6.xml,Simpson
-41,1,80.0,<music21.chord.Chord B-2>,[0],[10],Simpson_Invention_no6.xml,Simpson
-41,1 1/2,80.5,<music21.chord.Chord B-2 D4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-41,2,81.0,<music21.chord.Chord F3 F4>,[0],[5],Simpson_Invention_no6.xml,Simpson
-41,2 1/2,81.5,<music21.chord.Chord D3 B-4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-42,1,82.0,<music21.chord.Chord E-3 C5>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson
-42,1 1/2,82.5,<music21.chord.Chord E-3 B-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson
-42,2,83.0,<music21.chord.Chord F3 A4>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson
-42,2 1/2,83.5,<music21.chord.Chord F3 G4>,"[0, 2]","[5, 7]",Simpson_Invention_no6.xml,Simpson
-43,1,84.0,<music21.chord.Chord D3 F#4>,"[0, 4]","[2, 6]",Simpson_Invention_no6.xml,Simpson
-43,1 1/2,84.5,<music21.chord.Chord D3 D4>,[0],[2],Simpson_Invention_no6.xml,Simpson
-43,2,85.0,<music21.chord.Chord C3 F#4>,"[0, 6]","[0, 6]",Simpson_Invention_no6.xml,Simpson
-43,2 1/2,85.5,<music21.chord.Chord C3 A4>,"[0, 3]","[9, 0]",Simpson_Invention_no6.xml,Simpson
-44,1,86.0,<music21.chord.Chord A2 D5>,"[0, 5]","[9, 2]",Simpson_Invention_no6.xml,Simpson
-44,1 1/2,86.5,<music21.chord.Chord A2 C5>,"[0, 3]","[9, 0]",Simpson_Invention_no6.xml,Simpson
-44,2,87.0,<music21.chord.Chord D3 B-4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-44,2 1/2,87.5,<music21.chord.Chord D3 A4>,"[0, 5]","[9, 2]",Simpson_Invention_no6.xml,Simpson
-45,1,88.0,<music21.chord.Chord G2 B-4>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson
-45,1 1/2,88.5,<music21.chord.Chord G2 G4>,[0],[7],Simpson_Invention_no6.xml,Simpson
-45,2,89.0,<music21.chord.Chord F3 B-4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson
-45,2 1/2,89.5,<music21.chord.Chord F3 D5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson
-46,1,90.0,<music21.chord.Chord E-3 F5>,"[0, 2]","[3, 5]",Simpson_Invention_no6.xml,Simpson
-46,1 1/2,90.5,<music21.chord.Chord E-3 E-5>,[0],[3],Simpson_Invention_no6.xml,Simpson
-46,2,91.0,<music21.chord.Chord F3 D5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson
-46,2 1/2,91.5,<music21.chord.Chord F3 C5>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson
-47,1,92.0,<music21.chord.Chord G3 B4>,"[0, 4]","[7, 11]",Simpson_Invention_no6.xml,Simpson
-47,1 1/2,92.5,<music21.chord.Chord G3 G4>,[0],[7],Simpson_Invention_no6.xml,Simpson
-47,2,93.0,<music21.chord.Chord G2 B4>,"[0, 4]","[7, 11]",Simpson_Invention_no6.xml,Simpson
-47,2 1/2,93.5,<music21.chord.Chord G2 D5>,"[0, 5]","[2, 7]",Simpson_Invention_no6.xml,Simpson
-48,1,94.0,<music21.chord.Chord A2 G5>,"[0, 2]","[7, 9]",Simpson_Invention_no6.xml,Simpson
-48,1 1/2,94.5,<music21.chord.Chord A2 F5>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson
-48,2,95.0,<music21.chord.Chord B2 E-5>,"[0, 4]","[11, 3]",Simpson_Invention_no6.xml,Simpson
-48,2 1/2,95.5,<music21.chord.Chord B2 D5>,"[0, 3]","[11, 2]",Simpson_Invention_no6.xml,Simpson
-49,1,96.0,<music21.chord.Chord C3 E-5>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson
-49,1 1/2,96.5,<music21.chord.Chord E-3 E-5>,[0],[3],Simpson_Invention_no6.xml,Simpson
-49,2,97.0,<music21.chord.Chord G3 E-5>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-49,2 1/2,97.5,<music21.chord.Chord C4 E-5>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson
-50,1,98.0,<music21.chord.Chord D4 F5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson
-50,1 1/2,98.5,<music21.chord.Chord C4 E-5>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson
-50,2,99.0,<music21.chord.Chord B-3 D5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-50,2 1/2,99.5,<music21.chord.Chord A-3 D5>,"[0, 6]","[2, 8]",Simpson_Invention_no6.xml,Simpson
-51,1,100.0,<music21.chord.Chord G3 E-5>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-51,1 1/2,100.5,<music21.chord.Chord G3 B-4>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson
-51,2,101.0,<music21.chord.Chord B-3 E-5>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson
-51,2 1/2,101.5,<music21.chord.Chord E-4 G5>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-52,1,102.0,<music21.chord.Chord F4 A-5>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson
-52,1 1/2,102.5,<music21.chord.Chord E-4 A-5>,"[0, 5]","[3, 8]",Simpson_Invention_no6.xml,Simpson
-52,2,103.0,<music21.chord.Chord D4 B-5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-52,2 1/8,103.125,<music21.chord.Chord D4 A-5>,"[0, 6]","[2, 8]",Simpson_Invention_no6.xml,Simpson
-52,2 1/4,103.25,<music21.chord.Chord D4 B-5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-52,2 3/8,103.375,<music21.chord.Chord D4 A-5>,"[0, 6]","[2, 8]",Simpson_Invention_no6.xml,Simpson
-52,2 1/2,103.5,<music21.chord.Chord B-3 B-5>,[0],[10],Simpson_Invention_no6.xml,Simpson
-52,2 5/8,103.625,<music21.chord.Chord B-3 A-5>,"[0, 2]","[8, 10]",Simpson_Invention_no6.xml,Simpson
-52,2 3/4,103.75,<music21.chord.Chord B-3 G5>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson
-52,2 7/8,103.875,<music21.chord.Chord B-3 A-5>,"[0, 2]","[8, 10]",Simpson_Invention_no6.xml,Simpson
-53,1,104.0,<music21.chord.Chord E-4 G5>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-53,1 1/2,104.5,<music21.chord.Chord E-4 E-5>,[0],[3],Simpson_Invention_no6.xml,Simpson
-53,2,105.0,<music21.chord.Chord A-4 C5>,"[0, 4]","[8, 0]",Simpson_Invention_no6.xml,Simpson
-53,2 1/2,105.5,<music21.chord.Chord A-4 F5>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson
-54,1,106.0,<music21.chord.Chord G4 F5>,"[0, 2]","[5, 7]",Simpson_Invention_no6.xml,Simpson
-54,1 1/3,106.33333333333333,<music21.chord.Chord G4 E-5>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-54,1 2/3,106.66666666666667,<music21.chord.Chord G4 D5>,"[0, 5]","[2, 7]",Simpson_Invention_no6.xml,Simpson
-54,2,107.0,<music21.chord.Chord B-3 D5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-54,2 1/3,107.33333333333333,<music21.chord.Chord B-3 C5>,"[0, 2]","[10, 0]",Simpson_Invention_no6.xml,Simpson
-54,2 2/3,107.66666666666667,<music21.chord.Chord B-3 B-4>,[0],[10],Simpson_Invention_no6.xml,Simpson
-55,1,108.0,<music21.chord.Chord C4 E-5>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson
-55,1 1/2,108.5,<music21.chord.Chord C4 C5>,[0],[0],Simpson_Invention_no6.xml,Simpson
-55,2,109.0,<music21.chord.Chord B-3 G4>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson
-55,2 1/2,109.5,<music21.chord.Chord B-3 D5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-56,1,110.0,<music21.chord.Chord A-3 D5>,"[0, 6]","[2, 8]",Simpson_Invention_no6.xml,Simpson
-56,1 1/3,110.33333333333333,<music21.chord.Chord A-3 C5>,"[0, 4]","[8, 0]",Simpson_Invention_no6.xml,Simpson
-56,1 2/3,110.66666666666667,<music21.chord.Chord A-3 B-4>,"[0, 2]","[8, 10]",Simpson_Invention_no6.xml,Simpson
-56,2,111.0,<music21.chord.Chord G3 B-4>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson
-56,2 1/3,111.33333333333333,<music21.chord.Chord G3 A-4>,"[0, 1]","[7, 8]",Simpson_Invention_no6.xml,Simpson
-56,2 2/3,111.66666666666667,<music21.chord.Chord G3 G4>,[0],[7],Simpson_Invention_no6.xml,Simpson
-57,1,112.0,<music21.chord.Chord F3 A-4>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson
-57,1 1/2,112.5,<music21.chord.Chord F3 F4>,[0],[5],Simpson_Invention_no6.xml,Simpson
-57,2,113.0,<music21.chord.Chord E-3 C4>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson
-57,2 1/2,113.5,<music21.chord.Chord E-3 G4>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-58,1,114.0,<music21.chord.Chord D3 F4>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson
-58,1 1/3,114.33333333333333,<music21.chord.Chord D3 E-4>,"[0, 1]","[2, 3]",Simpson_Invention_no6.xml,Simpson
-58,1 2/3,114.66666666666667,<music21.chord.Chord D3 D4>,[0],[2],Simpson_Invention_no6.xml,Simpson
-58,2,115.0,<music21.chord.Chord C3 D4>,"[0, 2]","[0, 2]",Simpson_Invention_no6.xml,Simpson
-58,2 1/3,115.33333333333333,<music21.chord.Chord C3 C4>,[0],[0],Simpson_Invention_no6.xml,Simpson
-58,2 2/3,115.66666666666667,<music21.chord.Chord C3 B-3>,"[0, 2]","[10, 0]",Simpson_Invention_no6.xml,Simpson
-59,1,116.0,<music21.chord.Chord A-2 F4>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson
-59,1 1/2,116.5,<music21.chord.Chord A-2 C4>,"[0, 4]","[8, 0]",Simpson_Invention_no6.xml,Simpson
-59,2,117.0,<music21.chord.Chord A-2 A-3>,[0],[8],Simpson_Invention_no6.xml,Simpson
-59,2 1/2,117.5,<music21.chord.Chord A-2 F4>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson
-60,1,118.0,<music21.chord.Chord B-2 E-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson
-60,1 1/3,118.33333333333333,<music21.chord.Chord B-2 D4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-60,1 2/3,118.66666666666667,<music21.chord.Chord B-2 C4>,"[0, 2]","[10, 0]",Simpson_Invention_no6.xml,Simpson
-60,2,119.0,<music21.chord.Chord B-1 C4>,"[0, 2]","[10, 0]",Simpson_Invention_no6.xml,Simpson
-60,2 1/3,119.33333333333333,<music21.chord.Chord B-1 B-3>,[0],[10],Simpson_Invention_no6.xml,Simpson
-60,2 2/3,119.66666666666667,<music21.chord.Chord B-1 A-3>,"[0, 2]","[8, 10]",Simpson_Invention_no6.xml,Simpson
-61,1,120.0,<music21.chord.Chord E-2 E-4>,[0],[3],Simpson_Invention_no6.xml,Simpson
-61,1 1/3,120.33333333333333,<music21.chord.Chord E-2 B-3>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson
-61,1 2/3,120.66666666666667,<music21.chord.Chord E-2 G3>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-61,2,121.0,<music21.chord.Chord F2 A-3>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson
-61,2 1/2,121.5,<music21.chord.Chord F2 F4>,[0],[5],Simpson_Invention_no6.xml,Simpson
-62,1,122.0,<music21.chord.Chord G2 E-4>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-62,1 1/2,122.5,<music21.chord.Chord G2 B-3>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson
-62,2,123.0,<music21.chord.Chord A-2 C4>,"[0, 4]","[8, 0]",Simpson_Invention_no6.xml,Simpson
-62,2 1/2,123.5,<music21.chord.Chord A-2 G4>,"[0, 1]","[7, 8]",Simpson_Invention_no6.xml,Simpson
-63,1,124.0,<music21.chord.Chord B-2 F4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson
-63,1 1/3,124.33333333333333,<music21.chord.Chord B-2 E-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson
-63,1 2/3,124.66666666666667,<music21.chord.Chord B-2 D4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-63,2,125.0,<music21.chord.Chord C3 E-4>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson
-63,2 1/2,125.5,<music21.chord.Chord C3 C5>,[0],[0],Simpson_Invention_no6.xml,Simpson
-64,1,126.0,<music21.chord.Chord D3 B-4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-64,1 1/2,126.5,<music21.chord.Chord D3 F4>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson
-64,2,127.0,<music21.chord.Chord E-3 G4>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-64,2 1/2,127.5,<music21.chord.Chord E-3 E-5>,[0],[3],Simpson_Invention_no6.xml,Simpson
-65,1,128.0,<music21.chord.Chord F2 D5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson
-65,1 1/3,128.33333333333334,<music21.chord.Chord F2 C5>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson
-65,1 1/2,128.5,<music21.chord.Chord G2 C5>,"[0, 5]","[7, 0]",Simpson_Invention_no6.xml,Simpson
-65,1 2/3,128.66666666666666,<music21.chord.Chord G2 B-4>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson
-65,2,129.0,<music21.chord.Chord A-2 A-4>,[0],[8],Simpson_Invention_no6.xml,Simpson
-65,2 1/3,129.33333333333334,<music21.chord.Chord A-2 G4>,"[0, 1]","[7, 8]",Simpson_Invention_no6.xml,Simpson
-65,2 2/3,129.66666666666666,<music21.chord.Chord A-2 F4>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson
-66,1,130.0,<music21.chord.Chord B-2 E-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson
-66,1 1/2,130.5,<music21.chord.Chord B-2 B-4>,[0],[10],Simpson_Invention_no6.xml,Simpson
-66,2,131.0,<music21.chord.Chord B-1 D4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-66,2 1/2,131.5,<music21.chord.Chord B-1 A-4>,"[0, 2]","[8, 10]",Simpson_Invention_no6.xml,Simpson
-67,1,132.0,<music21.chord.Chord E-2 E-4>,[0],[3],Simpson_Invention_no6.xml,Simpson
-67,1 1/3,132.33333333333334,<music21.chord.Chord E-2 F4>,"[0, 2]","[3, 5]",Simpson_Invention_no6.xml,Simpson
-67,1 2/3,132.66666666666666,<music21.chord.Chord E-2 G4>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-67,2,133.0,<music21.chord.Chord F2 A-4>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson
-67,2 1/2,133.5,<music21.chord.Chord F2 F4>,[0],[5],Simpson_Invention_no6.xml,Simpson
-68,1,134.0,<music21.chord.Chord G2 E-4>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-68,1 1/3,134.33333333333334,<music21.chord.Chord G2 G4>,[0],[7],Simpson_Invention_no6.xml,Simpson
-68,1 2/3,134.66666666666666,<music21.chord.Chord G2 B-4>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson
-68,2,135.0,<music21.chord.Chord A-2 C5>,"[0, 4]","[8, 0]",Simpson_Invention_no6.xml,Simpson
-68,2 1/2,135.5,<music21.chord.Chord A-2 G4>,"[0, 1]","[7, 8]",Simpson_Invention_no6.xml,Simpson
-69,1,136.0,<music21.chord.Chord B-2 F4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson
-69,1 1/3,136.33333333333334,<music21.chord.Chord B-2 B-4>,[0],[10],Simpson_Invention_no6.xml,Simpson
-69,1 2/3,136.66666666666666,<music21.chord.Chord B-2 D5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-69,2,137.0,<music21.chord.Chord C3 E-5>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson
-69,2 1/2,137.5,<music21.chord.Chord C3 C5>,[0],[0],Simpson_Invention_no6.xml,Simpson
-70,1,138.0,<music21.chord.Chord D3 B-4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-70,1 1/3,138.33333333333334,<music21.chord.Chord D3 E-5>,"[0, 1]","[2, 3]",Simpson_Invention_no6.xml,Simpson
-70,1 2/3,138.66666666666666,<music21.chord.Chord D3 F5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson
-70,2,139.0,<music21.chord.Chord E-3 G5>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-70,2 1/2,139.5,<music21.chord.Chord E-3 E-5>,[0],[3],Simpson_Invention_no6.xml,Simpson
-71,1,140.0,<music21.chord.Chord F3 C5>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson
-71,1 1/3,140.33333333333334,<music21.chord.Chord F3 B-5>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson
-71,1 1/2,140.5,<music21.chord.Chord G3 B-5>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson
-71,1 2/3,140.66666666666666,<music21.chord.Chord G3 A-5>,"[0, 1]","[7, 8]",Simpson_Invention_no6.xml,Simpson
-71,2,141.0,<music21.chord.Chord A-3 G5>,"[0, 1]","[7, 8]",Simpson_Invention_no6.xml,Simpson
-71,2 1/3,141.33333333333334,<music21.chord.Chord A-3 F5>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson
-71,2 2/3,141.66666666666666,<music21.chord.Chord A-3 E-5>,"[0, 5]","[3, 8]",Simpson_Invention_no6.xml,Simpson
-72,1,142.0,<music21.chord.Chord B-3 D5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-72,1 1/3,142.33333333333334,<music21.chord.Chord B-3 C5>,"[0, 2]","[10, 0]",Simpson_Invention_no6.xml,Simpson
-72,1 2/3,142.66666666666666,<music21.chord.Chord B-3 B-4>,[0],[10],Simpson_Invention_no6.xml,Simpson
-72,2,143.0,<music21.chord.Chord B-2 A-4>,"[0, 2]","[8, 10]",Simpson_Invention_no6.xml,Simpson
-72,2 1/3,143.33333333333334,<music21.chord.Chord B-2 G4>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson
-72,2 2/3,143.66666666666666,<music21.chord.Chord B-2 F4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson
-73,1,144.0,<music21.chord.Chord E-3 E-4>,[0],[3],Simpson_Invention_no6.xml,Simpson
-73,1 1/2,144.5,<music21.chord.Chord D3 E-4>,"[0, 1]","[2, 3]",Simpson_Invention_no6.xml,Simpson
-73,2,145.0,<music21.chord.Chord E-3 E-4>,[0],[3],Simpson_Invention_no6.xml,Simpson
-73,2 1/2,145.5,<music21.chord.Chord C3 E-4>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson
-74,1,146.0,<music21.chord.Chord E-3 D4>,"[0, 1]","[2, 3]",Simpson_Invention_no6.xml,Simpson
-74,1 1/3,146.33333333333334,<music21.chord.Chord C3 D4>,"[0, 2]","[0, 2]",Simpson_Invention_no6.xml,Simpson
-74,1 2/3,146.66666666666666,<music21.chord.Chord B-2 D4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-74,2,147.0,<music21.chord.Chord E-3 C4>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson
-74,2 1/2,147.5,<music21.chord.Chord A-2 C4>,"[0, 4]","[8, 0]",Simpson_Invention_no6.xml,Simpson
-75,1,148.0,<music21.chord.Chord E-3 B-3>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson
-75,1 1/2,148.5,<music21.chord.Chord G2 B-3>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson
-75,2,149.0,<music21.chord.Chord E-3 B-3>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson
-75,2 1/2,149.5,<music21.chord.Chord D3 B-3>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-76,1,150.0,<music21.chord.Chord E-3 A-3>,"[0, 5]","[3, 8]",Simpson_Invention_no6.xml,Simpson
-76,1 1/3,150.33333333333334,<music21.chord.Chord D3 A-3>,"[0, 6]","[2, 8]",Simpson_Invention_no6.xml,Simpson
-76,1 2/3,150.66666666666666,<music21.chord.Chord C3 A-3>,"[0, 4]","[8, 0]",Simpson_Invention_no6.xml,Simpson
-76,2,151.0,<music21.chord.Chord E-3 G3>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-76,2 1/2,151.5,<music21.chord.Chord B-2 G3>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson
-77,1,152.0,<music21.chord.Chord E-3 C4>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson
-77,1 1/2,152.5,<music21.chord.Chord A-2 C4>,"[0, 4]","[8, 0]",Simpson_Invention_no6.xml,Simpson
-77,2,153.0,<music21.chord.Chord E-3 B-3>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson
-77,2 1/2,153.5,<music21.chord.Chord G2 B-3>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson
-78,1,154.0,<music21.chord.Chord E-3 A-4>,"[0, 5]","[3, 8]",Simpson_Invention_no6.xml,Simpson
-78,1 1/3,154.33333333333334,<music21.chord.Chord D3 A-4>,"[0, 6]","[2, 8]",Simpson_Invention_no6.xml,Simpson
-78,1 2/3,154.66666666666666,<music21.chord.Chord F2 A-4>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson
-78,2,155.0,<music21.chord.Chord E-3 G4>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-78,2 1/2,155.5,<music21.chord.Chord E-2 G4>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-79,1,156.0,<music21.chord.Chord E-3 C5>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson
-79,1 1/2,156.5,<music21.chord.Chord A-2 C5>,"[0, 4]","[8, 0]",Simpson_Invention_no6.xml,Simpson
-79,2,157.0,<music21.chord.Chord E-3 B-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson
-79,2 1/2,157.5,<music21.chord.Chord G2 B-4>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson
-80,1,158.0,<music21.chord.Chord E-3 A-5>,"[0, 5]","[3, 8]",Simpson_Invention_no6.xml,Simpson
-80,1 1/3,158.33333333333334,<music21.chord.Chord D3 A-5>,"[0, 6]","[2, 8]",Simpson_Invention_no6.xml,Simpson
-80,1 2/3,158.66666666666666,<music21.chord.Chord F2 A-5>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson
-80,2,159.0,<music21.chord.Chord E-3 G5>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-80,2 1/2,159.5,<music21.chord.Chord E-2 G5>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-81,1,160.0,<music21.chord.Chord F3 F5>,[0],[5],Simpson_Invention_no6.xml,Simpson
-81,1 1/2,160.5,<music21.chord.Chord E-3 F5>,"[0, 2]","[3, 5]",Simpson_Invention_no6.xml,Simpson
-81,2,161.0,<music21.chord.Chord F3 F5>,[0],[5],Simpson_Invention_no6.xml,Simpson
-81,2 1/2,161.5,<music21.chord.Chord D3 F5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson
-82,1,162.0,<music21.chord.Chord F3 E-5>,"[0, 2]","[3, 5]",Simpson_Invention_no6.xml,Simpson
-82,1 1/3,162.33333333333334,<music21.chord.Chord E-3 E-5>,[0],[3],Simpson_Invention_no6.xml,Simpson
-82,1 2/3,162.66666666666666,<music21.chord.Chord C3 E-5>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson
-82,2,163.0,<music21.chord.Chord F3 D5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson
-82,2 1/2,163.5,<music21.chord.Chord B-2 D5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-83,1,164.0,<music21.chord.Chord F3 C5>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson
-83,1 1/2,164.5,<music21.chord.Chord A2 C5>,"[0, 3]","[9, 0]",Simpson_Invention_no6.xml,Simpson
-83,2,165.0,<music21.chord.Chord F3 C5>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson
-83,2 1/2,165.5,<music21.chord.Chord E-3 C5>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson
-84,1,166.0,<music21.chord.Chord F3 B-4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson
-84,1 1/3,166.33333333333334,<music21.chord.Chord E-3 B-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson
-84,1 2/3,166.66666666666666,<music21.chord.Chord D3 B-4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-84,2,167.0,<music21.chord.Chord F3 A4>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson
-84,2 1/2,167.5,<music21.chord.Chord C3 A4>,"[0, 3]","[9, 0]",Simpson_Invention_no6.xml,Simpson
-85,1,168.0,<music21.chord.Chord F3 G4>,"[0, 2]","[5, 7]",Simpson_Invention_no6.xml,Simpson
-85,1 1/2,168.5,<music21.chord.Chord B-2 G4>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson
-85,2,169.0,<music21.chord.Chord F3 F4>,[0],[5],Simpson_Invention_no6.xml,Simpson
-85,2 1/2,169.5,<music21.chord.Chord A2 F4>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson
-86,1,170.0,<music21.chord.Chord F3 E-5>,"[0, 2]","[3, 5]",Simpson_Invention_no6.xml,Simpson
-86,1 1/3,170.33333333333334,<music21.chord.Chord E-3 E-5>,[0],[3],Simpson_Invention_no6.xml,Simpson
-86,1 2/3,170.66666666666666,<music21.chord.Chord G2 E-5>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-86,2,171.0,<music21.chord.Chord F3 D5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson
-86,2 1/2,171.5,<music21.chord.Chord F2 D5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson
-87,1,172.0,<music21.chord.Chord F3 D5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson
-87,1 1/2,172.5,<music21.chord.Chord B-2 D5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-87,2,173.0,<music21.chord.Chord F3 C5>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson
-87,2 1/2,173.5,<music21.chord.Chord A2 C5>,"[0, 3]","[9, 0]",Simpson_Invention_no6.xml,Simpson
-88,1,174.0,<music21.chord.Chord F3 B-5>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson
-88,1 1/3,174.33333333333334,<music21.chord.Chord E-3 B-5>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson
-88,1 2/3,174.66666666666666,<music21.chord.Chord G2 B-5>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson
-88,2,175.0,<music21.chord.Chord F3 A5>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson
-88,2 1/2,175.5,<music21.chord.Chord F2 A5>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson
-89,1,176.0,<music21.chord.Chord G3 G5>,[0],[7],Simpson_Invention_no6.xml,Simpson
-89,1 1/2,176.5,<music21.chord.Chord F3 G5>,"[0, 2]","[5, 7]",Simpson_Invention_no6.xml,Simpson
-89,2,177.0,<music21.chord.Chord G3 G5>,[0],[7],Simpson_Invention_no6.xml,Simpson
-89,2 1/2,177.5,<music21.chord.Chord E-3 G5>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-90,1,178.0,<music21.chord.Chord G3 F5>,"[0, 2]","[5, 7]",Simpson_Invention_no6.xml,Simpson
-90,1 1/3,178.33333333333334,<music21.chord.Chord F3 F5>,[0],[5],Simpson_Invention_no6.xml,Simpson
-90,1 2/3,178.66666666666666,<music21.chord.Chord D3 F5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson
-90,2,179.0,<music21.chord.Chord G3 E-5>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-90,2 1/2,179.5,<music21.chord.Chord C3 E-5>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson
-91,1,180.0,<music21.chord.Chord G3 D5>,"[0, 5]","[2, 7]",Simpson_Invention_no6.xml,Simpson
-91,1 1/2,180.5,<music21.chord.Chord B2 D5>,"[0, 3]","[11, 2]",Simpson_Invention_no6.xml,Simpson
-91,2,181.0,<music21.chord.Chord G3 D5>,"[0, 5]","[2, 7]",Simpson_Invention_no6.xml,Simpson
-91,2 1/2,181.5,<music21.chord.Chord F3 D5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson
-92,1,182.0,<music21.chord.Chord G3 C5>,"[0, 5]","[7, 0]",Simpson_Invention_no6.xml,Simpson
-92,1 1/3,182.33333333333334,<music21.chord.Chord F3 C5>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson
-92,1 2/3,182.66666666666666,<music21.chord.Chord E-3 C5>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson
-92,2,183.0,<music21.chord.Chord G3 B4>,"[0, 4]","[7, 11]",Simpson_Invention_no6.xml,Simpson
-92,2 1/2,183.5,<music21.chord.Chord D3 B4>,"[0, 3]","[11, 2]",Simpson_Invention_no6.xml,Simpson
-93,1,184.0,<music21.chord.Chord G3 A-4>,"[0, 1]","[7, 8]",Simpson_Invention_no6.xml,Simpson
-93,1 1/2,184.5,<music21.chord.Chord C3 A-4>,"[0, 4]","[8, 0]",Simpson_Invention_no6.xml,Simpson
-93,2,185.0,<music21.chord.Chord G3 G4>,[0],[7],Simpson_Invention_no6.xml,Simpson
-93,2 1/2,185.5,<music21.chord.Chord B2 G4>,"[0, 4]","[7, 11]",Simpson_Invention_no6.xml,Simpson
-94,1,186.0,<music21.chord.Chord G3 F5>,"[0, 2]","[5, 7]",Simpson_Invention_no6.xml,Simpson
-94,1 1/3,186.33333333333334,<music21.chord.Chord F3 F5>,[0],[5],Simpson_Invention_no6.xml,Simpson
-94,1 2/3,186.66666666666666,<music21.chord.Chord D3 F5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson
-94,2,187.0,<music21.chord.Chord G3 E-5>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-94,2 1/2,187.5,<music21.chord.Chord C3 E-5>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson
-95,1,188.0,<music21.chord.Chord G3 A-5>,"[0, 1]","[7, 8]",Simpson_Invention_no6.xml,Simpson
-95,1 1/2,188.5,<music21.chord.Chord C3 A-5>,"[0, 4]","[8, 0]",Simpson_Invention_no6.xml,Simpson
-95,2,189.0,<music21.chord.Chord G3 G5>,[0],[7],Simpson_Invention_no6.xml,Simpson
-95,2 1/2,189.5,<music21.chord.Chord B2 G5>,"[0, 4]","[7, 11]",Simpson_Invention_no6.xml,Simpson
-96,1,190.0,<music21.chord.Chord G3 F6>,"[0, 2]","[5, 7]",Simpson_Invention_no6.xml,Simpson
-96,1 1/3,190.33333333333334,<music21.chord.Chord F3 F6>,[0],[5],Simpson_Invention_no6.xml,Simpson
-96,1 2/3,190.66666666666666,<music21.chord.Chord D3 F6>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson
-96,2,191.0,<music21.chord.Chord G3 E-6>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-96,2 1/2,191.5,<music21.chord.Chord C3 E-6>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson
-97,1,192.0,<music21.chord.Chord A-3 D6>,"[0, 6]","[2, 8]",Simpson_Invention_no6.xml,Simpson
-97,1 1/3,192.33333333333334,<music21.chord.Chord G3 C6>,"[0, 5]","[7, 0]",Simpson_Invention_no6.xml,Simpson
-97,1 2/3,192.66666666666666,<music21.chord.Chord F3 B-5>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson
-97,2,193.0,<music21.chord.Chord G3 C6>,"[0, 5]","[7, 0]",Simpson_Invention_no6.xml,Simpson
-97,2 1/3,193.33333333333334,<music21.chord.Chord F3 B-5>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson
-97,2 2/3,193.66666666666666,<music21.chord.Chord E-3 A-5>,"[0, 5]","[3, 8]",Simpson_Invention_no6.xml,Simpson
-98,1,194.0,<music21.chord.Chord G3 B-5>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson
-98,1 1/3,194.33333333333334,<music21.chord.Chord F3 A-5>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson
-98,1 2/3,194.66666666666666,<music21.chord.Chord E-3 G5>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-98,2,195.0,<music21.chord.Chord F3 A-5>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson
-98,2 1/2,195.5,<music21.chord.Chord D3 F5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson
-99,1,196.0,<music21.chord.Chord E-3 G5>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-99,1 1/2,196.5,<music21.chord.Chord E-3 C5>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson
-99,2,197.0,<music21.chord.Chord F3 A-4>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson
-99,2 1/2,197.5,<music21.chord.Chord F3 F5>,[0],[5],Simpson_Invention_no6.xml,Simpson
-100,1,198.0,<music21.chord.Chord B-3 G4>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson
-100,1 1/3,198.33333333333334,<music21.chord.Chord B-3 B-4>,[0],[10],Simpson_Invention_no6.xml,Simpson
-100,1 2/3,198.66666666666666,<music21.chord.Chord B-3 E-5>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson
-100,2,199.0,<music21.chord.Chord B-2 F4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson
-100,2 1/2,199.5,<music21.chord.Chord B-2 D5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-101,1,200.0,<music21.chord.Chord C3 E-5>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson
-101,1 1/2,200.5,<music21.chord.Chord C3 C5>,[0],[0],Simpson_Invention_no6.xml,Simpson
-101,2,201.0,<music21.chord.Chord B-2 G4>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson
-101,2 1/2,201.5,<music21.chord.Chord B-2 D5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-102,1,202.0,<music21.chord.Chord A-2 C5>,"[0, 4]","[8, 0]",Simpson_Invention_no6.xml,Simpson
-102,1 1/3,202.33333333333334,<music21.chord.Chord A-2 B-4>,"[0, 2]","[8, 10]",Simpson_Invention_no6.xml,Simpson
-102,1 2/3,202.66666666666666,<music21.chord.Chord A-2 A-4>,[0],[8],Simpson_Invention_no6.xml,Simpson
-102,2,203.0,<music21.chord.Chord G2 E-4>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-102,2 1/2,203.5,<music21.chord.Chord G2 B-4>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson
-103,1,204.0,<music21.chord.Chord F2 A-4>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson
-103,1 1/2,204.5,<music21.chord.Chord F2 F4>,[0],[5],Simpson_Invention_no6.xml,Simpson
-103,2,205.0,<music21.chord.Chord A-2 C4>,"[0, 4]","[8, 0]",Simpson_Invention_no6.xml,Simpson
-103,2 1/2,205.5,<music21.chord.Chord A-2 A-3>,[0],[8],Simpson_Invention_no6.xml,Simpson
-104,1,206.0,<music21.chord.Chord B-2 G3>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson
-104,1 1/3,206.33333333333334,<music21.chord.Chord B-2 B-3>,[0],[10],Simpson_Invention_no6.xml,Simpson
-104,1 2/3,206.66666666666666,<music21.chord.Chord B-2 E-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson
-104,2,207.0,<music21.chord.Chord B-1 F3>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson
-104,2 1/3,207.33333333333334,<music21.chord.Chord B-1 A-3>,"[0, 2]","[8, 10]",Simpson_Invention_no6.xml,Simpson
-104,2 2/3,207.66666666666666,<music21.chord.Chord B-1 D4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-105,1,208.0,<music21.chord.Chord E-2>,[0],[3],Simpson_Invention_no6.xml,Simpson
-105,1 1/2,208.5,<music21.chord.Chord E-2 G3>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-105,2,209.0,<music21.chord.Chord G2 B-3>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson
-105,2 1/2,209.5,<music21.chord.Chord B-2 E-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson
-106,1,210.0,<music21.chord.Chord A-2 F4>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson
-106,1 1/2,210.5,<music21.chord.Chord A-2 E-4>,"[0, 5]","[3, 8]",Simpson_Invention_no6.xml,Simpson
-106,2,211.0,<music21.chord.Chord B-2 D4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-106,2 1/2,211.5,<music21.chord.Chord B-2 C4>,"[0, 2]","[10, 0]",Simpson_Invention_no6.xml,Simpson
-107,1,212.0,<music21.chord.Chord E-2 B-3>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson
-107,1 1/2,212.5,<music21.chord.Chord G2 E-4>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-107,2,213.0,<music21.chord.Chord B-2 E-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson
-107,2 1/2,213.5,<music21.chord.Chord E-3 G4>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-108,1,214.0,<music21.chord.Chord F3 A-4>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson
-108,1 1/2,214.5,<music21.chord.Chord E-3 A-4>,"[0, 5]","[3, 8]",Simpson_Invention_no6.xml,Simpson
-108,2,215.0,<music21.chord.Chord D3 B-4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-108,2 1/8,215.125,<music21.chord.Chord D3 A-4>,"[0, 6]","[2, 8]",Simpson_Invention_no6.xml,Simpson
-108,2 1/4,215.25,<music21.chord.Chord D3 B-4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-108,2 3/8,215.375,<music21.chord.Chord D3 A-4>,"[0, 6]","[2, 8]",Simpson_Invention_no6.xml,Simpson
-108,2 1/2,215.5,<music21.chord.Chord B-2 B-4>,[0],[10],Simpson_Invention_no6.xml,Simpson
-108,2 5/8,215.625,<music21.chord.Chord B-2 A-4>,"[0, 2]","[8, 10]",Simpson_Invention_no6.xml,Simpson
-108,2 3/4,215.75,<music21.chord.Chord B-2 G4>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson
-108,2 7/8,215.875,<music21.chord.Chord B-2 A-4>,"[0, 2]","[8, 10]",Simpson_Invention_no6.xml,Simpson
-109,1,216.0,<music21.chord.Chord E-3 G4>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-109,1 1/2,216.5,<music21.chord.Chord E-3 G4>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-109,2,217.0,<music21.chord.Chord G3 B-4>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson
-109,2 1/2,217.5,<music21.chord.Chord B-3 E-5>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson
-110,1,218.0,<music21.chord.Chord A-3 F5>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson
-110,1 1/2,218.5,<music21.chord.Chord A-3 E-5>,"[0, 5]","[3, 8]",Simpson_Invention_no6.xml,Simpson
-110,2,219.0,<music21.chord.Chord B-3 D5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-110,2 1/2,219.5,<music21.chord.Chord B-3 C5>,"[0, 2]","[10, 0]",Simpson_Invention_no6.xml,Simpson
-111,1,220.0,<music21.chord.Chord E-3 B-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson
-111,1 1/2,220.5,<music21.chord.Chord G3 E-5>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-111,2,221.0,<music21.chord.Chord B-3 E-5>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson
-111,2 1/2,221.5,<music21.chord.Chord E-4 G5>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-112,1,222.0,<music21.chord.Chord F4 A-5>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson
-112,1 1/2,222.5,<music21.chord.Chord E-4 A-5>,"[0, 5]","[3, 8]",Simpson_Invention_no6.xml,Simpson
-112,2,223.0,<music21.chord.Chord D4 B-5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-112,2 1/8,223.125,<music21.chord.Chord D4 A-5>,"[0, 6]","[2, 8]",Simpson_Invention_no6.xml,Simpson
-112,2 1/4,223.25,<music21.chord.Chord D4 B-5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-112,2 3/8,223.375,<music21.chord.Chord D4 A-5>,"[0, 6]","[2, 8]",Simpson_Invention_no6.xml,Simpson
-112,2 1/2,223.5,<music21.chord.Chord C4 B-5>,"[0, 2]","[10, 0]",Simpson_Invention_no6.xml,Simpson
-112,2 5/8,223.625,<music21.chord.Chord C4 A-5>,"[0, 4]","[8, 0]",Simpson_Invention_no6.xml,Simpson
-112,2 3/4,223.75,<music21.chord.Chord C4 G5>,"[0, 5]","[7, 0]",Simpson_Invention_no6.xml,Simpson
-112,2 7/8,223.875,<music21.chord.Chord C4 A-5>,"[0, 4]","[8, 0]",Simpson_Invention_no6.xml,Simpson
-113,1,224.0,<music21.chord.Chord B3 G5>,"[0, 4]","[7, 11]",Simpson_Invention_no6.xml,Simpson
-113,1 1/2,224.5,<music21.chord.Chord D4>,[0],[2],Simpson_Invention_no6.xml,Simpson
-113,2,225.0,<music21.chord.Chord F4 A5>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson
-113,2 1/2,225.5,<music21.chord.Chord G4 B5>,"[0, 4]","[7, 11]",Simpson_Invention_no6.xml,Simpson
-114,1,226.0,<music21.chord.Chord A-4 C6>,"[0, 4]","[8, 0]",Simpson_Invention_no6.xml,Simpson
-114,1 1/2,226.5,<music21.chord.Chord F4 A-5>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson
-114,2,227.0,<music21.chord.Chord D4 F5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson
-114,2 1/2,227.5,<music21.chord.Chord B3 D5>,"[0, 3]","[11, 2]",Simpson_Invention_no6.xml,Simpson
-115,1,228.0,<music21.chord.Chord G4 C6>,"[0, 5]","[7, 0]",Simpson_Invention_no6.xml,Simpson
-115,1 1/2,228.5,<music21.chord.Chord E-4 G5>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-115,2,229.0,<music21.chord.Chord C4 E-5>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson
-115,2 1/2,229.5,<music21.chord.Chord G3 C5>,"[0, 5]","[7, 0]",Simpson_Invention_no6.xml,Simpson
-116,1,230.0,<music21.chord.Chord F4 B5>,"[0, 6]","[5, 11]",Simpson_Invention_no6.xml,Simpson
-116,1 1/2,230.5,<music21.chord.Chord D4 G5>,"[0, 5]","[2, 7]",Simpson_Invention_no6.xml,Simpson
-116,2,231.0,<music21.chord.Chord B3 F5>,"[0, 6]","[5, 11]",Simpson_Invention_no6.xml,Simpson
-116,2 1/2,231.5,<music21.chord.Chord G3 D5>,"[0, 5]","[2, 7]",Simpson_Invention_no6.xml,Simpson
-117,1,232.0,<music21.chord.Chord C4 C6>,[0],[0],Simpson_Invention_no6.xml,Simpson
-117,1 1/2,232.5,<music21.chord.Chord C4 G5>,"[0, 5]","[7, 0]",Simpson_Invention_no6.xml,Simpson
-117,2,233.0,<music21.chord.Chord C4 E-5>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson
-117,2 1/2,233.5,<music21.chord.Chord C4 C5>,[0],[0],Simpson_Invention_no6.xml,Simpson
-118,1,234.0,<music21.chord.Chord F4 C6>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson
-118,1 1/2,234.5,<music21.chord.Chord A-4 C6>,"[0, 4]","[8, 0]",Simpson_Invention_no6.xml,Simpson
-118,2,235.0,<music21.chord.Chord G4 E-6>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-118,2 1/8,235.125,<music21.chord.Chord G4 D6>,"[0, 5]","[2, 7]",Simpson_Invention_no6.xml,Simpson
-118,2 1/4,235.25,<music21.chord.Chord G4 E-6>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-118,2 3/8,235.375,<music21.chord.Chord G4 D6>,"[0, 5]","[2, 7]",Simpson_Invention_no6.xml,Simpson
-118,2 1/2,235.5,<music21.chord.Chord G3 E-6>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-118,2 5/8,235.625,<music21.chord.Chord G3 D6>,"[0, 5]","[2, 7]",Simpson_Invention_no6.xml,Simpson
-118,2 3/4,235.75,<music21.chord.Chord G3 C6>,"[0, 5]","[7, 0]",Simpson_Invention_no6.xml,Simpson
-118,2 7/8,235.875,<music21.chord.Chord G3 D6>,"[0, 5]","[2, 7]",Simpson_Invention_no6.xml,Simpson
-119,1,236.0,<music21.chord.Chord C4 E-6>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson
-119,1 1/2,236.5,<music21.chord.Chord C4 C6>,[0],[0],Simpson_Invention_no6.xml,Simpson
-119,2,237.0,<music21.chord.Chord C4 G5>,"[0, 5]","[7, 0]",Simpson_Invention_no6.xml,Simpson
-119,2 1/2,237.5,<music21.chord.Chord C4 E-5>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson
-120,1,238.0,<music21.chord.Chord F3 C6>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson
-120,1 1/2,238.5,<music21.chord.Chord A-3 C6>,"[0, 4]","[8, 0]",Simpson_Invention_no6.xml,Simpson
-120,2,239.0,<music21.chord.Chord G3 E-6>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-120,2 1/8,239.125,<music21.chord.Chord G3 D6>,"[0, 5]","[2, 7]",Simpson_Invention_no6.xml,Simpson
-120,2 1/4,239.25,<music21.chord.Chord G3 E-6>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-120,2 3/8,239.375,<music21.chord.Chord G3 D6>,"[0, 5]","[2, 7]",Simpson_Invention_no6.xml,Simpson
-120,2 1/2,239.5,<music21.chord.Chord G2 E-6>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-120,2 5/8,239.625,<music21.chord.Chord G2 D6>,"[0, 5]","[2, 7]",Simpson_Invention_no6.xml,Simpson
-120,2 3/4,239.75,<music21.chord.Chord G2 C6>,"[0, 5]","[7, 0]",Simpson_Invention_no6.xml,Simpson
-120,2 7/8,239.875,<music21.chord.Chord G2 D6>,"[0, 5]","[2, 7]",Simpson_Invention_no6.xml,Simpson
-121,1,240.0,<music21.chord.Chord C3 E-6>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson
-121,1 1/2,240.5,<music21.chord.Chord C3 C6>,[0],[0],Simpson_Invention_no6.xml,Simpson
-121,2,241.0,<music21.chord.Chord G3 B-5>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson
-121,2 1/2,241.5,<music21.chord.Chord E-3 G5>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-122,1,242.0,<music21.chord.Chord F3 A-5>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson
-122,1 1/2,242.5,<music21.chord.Chord F3 C5>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson
-122,2,243.0,<music21.chord.Chord A-3 B-5>,"[0, 2]","[8, 10]",Simpson_Invention_no6.xml,Simpson
-122,2 1/8,243.125,<music21.chord.Chord G3 B-5>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson
-122,2 1/4,243.25,<music21.chord.Chord A-3 B-5>,"[0, 2]","[8, 10]",Simpson_Invention_no6.xml,Simpson
-122,2 3/8,243.375,<music21.chord.Chord G3 B-5>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson
-122,2 1/2,243.5,<music21.chord.Chord A-3 C5>,"[0, 4]","[8, 0]",Simpson_Invention_no6.xml,Simpson
-122,2 5/8,243.625,<music21.chord.Chord G3 C5>,"[0, 5]","[7, 0]",Simpson_Invention_no6.xml,Simpson
-122,2 3/4,243.75,<music21.chord.Chord F3 C5>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson
-122,2 7/8,243.875,<music21.chord.Chord G3 C5>,"[0, 5]","[7, 0]",Simpson_Invention_no6.xml,Simpson
-123,1,244.0,<music21.chord.Chord E-4 C6>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson
-123,1 1/2,244.5,<music21.chord.Chord C4 C6>,[0],[0],Simpson_Invention_no6.xml,Simpson
-123,2,245.0,<music21.chord.Chord G3 B-5>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson
-123,2 1/2,245.5,<music21.chord.Chord E-3 G5>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-124,1,246.0,<music21.chord.Chord F3 A-5>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson
-124,1 1/2,246.5,<music21.chord.Chord F3 C5>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson
-124,2,247.0,<music21.chord.Chord A-3 B-5>,"[0, 2]","[8, 10]",Simpson_Invention_no6.xml,Simpson
-124,2 1/8,247.125,<music21.chord.Chord G3 B-5>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson
-124,2 1/4,247.25,<music21.chord.Chord A-3 B-5>,"[0, 2]","[8, 10]",Simpson_Invention_no6.xml,Simpson
-124,2 3/8,247.375,<music21.chord.Chord G3 B-5>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson
-124,2 1/2,247.5,<music21.chord.Chord A-3 C5>,"[0, 4]","[8, 0]",Simpson_Invention_no6.xml,Simpson
-124,2 5/8,247.625,<music21.chord.Chord G3 C5>,"[0, 5]","[7, 0]",Simpson_Invention_no6.xml,Simpson
-124,2 3/4,247.75,<music21.chord.Chord F3 C5>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson
-124,2 7/8,247.875,<music21.chord.Chord G3 C5>,"[0, 5]","[7, 0]",Simpson_Invention_no6.xml,Simpson
-125,1,248.0,<music21.chord.Chord C4 C6>,[0],[0],Simpson_Invention_no6.xml,Simpson
-125,1 1/2,248.5,<music21.chord.Chord C4 E-5>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson
-125,2,249.0,<music21.chord.Chord D4 E-5>,"[0, 1]","[2, 3]",Simpson_Invention_no6.xml,Simpson
-125,2 1/2,249.5,<music21.chord.Chord D4 F5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson
-126,1,250.0,<music21.chord.Chord D3 F5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson
-126,1 1/2,250.5,<music21.chord.Chord D3 A4>,"[0, 5]","[9, 2]",Simpson_Invention_no6.xml,Simpson
-126,2,251.0,<music21.chord.Chord G3 A4>,"[0, 2]","[7, 9]",Simpson_Invention_no6.xml,Simpson
-126,2 1/2,251.5,<music21.chord.Chord G3 B4>,"[0, 4]","[7, 11]",Simpson_Invention_no6.xml,Simpson
-127,1,252.0,<music21.chord.Chord G2 B4>,"[0, 4]","[7, 11]",Simpson_Invention_no6.xml,Simpson
-127,1 1/2,252.5,<music21.chord.Chord G2 D4>,"[0, 5]","[2, 7]",Simpson_Invention_no6.xml,Simpson
-127,2,253.0,<music21.chord.Chord C3 D4>,"[0, 2]","[0, 2]",Simpson_Invention_no6.xml,Simpson
-127,2 1/2,253.5,<music21.chord.Chord C3 E-4>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson
-128,1,254.0,<music21.chord.Chord C2 E-4>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson
-128,1 1/2,254.5,<music21.chord.Chord C2 G3>,"[0, 5]","[7, 0]",Simpson_Invention_no6.xml,Simpson
-128,2,255.0,<music21.chord.Chord F2 G3>,"[0, 2]","[5, 7]",Simpson_Invention_no6.xml,Simpson
-128,2 1/2,255.5,<music21.chord.Chord F2 A-3>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson
-129,1,256.0,<music21.chord.Chord F3 A-4>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson
-129,1 1/2,256.5,<music21.chord.Chord F3 C4>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson
-129,2,257.0,<music21.chord.Chord B-2 C4>,"[0, 2]","[10, 0]",Simpson_Invention_no6.xml,Simpson
-129,2 1/2,257.5,<music21.chord.Chord B-2 D4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-130,1,258.0,<music21.chord.Chord E-3 G4>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-130,1 1/2,258.5,<music21.chord.Chord E-3 B-3>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson
-130,2,259.0,<music21.chord.Chord A-2 B-3>,"[0, 2]","[8, 10]",Simpson_Invention_no6.xml,Simpson
-130,2 1/2,259.5,<music21.chord.Chord A-2 C4>,"[0, 4]","[8, 0]",Simpson_Invention_no6.xml,Simpson
-131,1,260.0,<music21.chord.Chord D3 F4>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson
-131,1 1/2,260.5,<music21.chord.Chord D3 G3>,"[0, 5]","[2, 7]",Simpson_Invention_no6.xml,Simpson
-131,2,261.0,<music21.chord.Chord G2 A3>,"[0, 2]","[7, 9]",Simpson_Invention_no6.xml,Simpson
-131,2 1/2,261.5,<music21.chord.Chord G2 B3>,"[0, 4]","[7, 11]",Simpson_Invention_no6.xml,Simpson
-132,1,262.0,<music21.chord.Chord C3 E-4>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson
-132,1 1/2,262.5,<music21.chord.Chord C3 G3>,"[0, 5]","[7, 0]",Simpson_Invention_no6.xml,Simpson
-132,2,263.0,<music21.chord.Chord F2 A-3>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson
-132,2 1/2,263.5,<music21.chord.Chord F2 E-4>,"[0, 2]","[3, 5]",Simpson_Invention_no6.xml,Simpson
-133,1,264.0,<music21.chord.Chord G2 B-3>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson
-133,1 1/2,264.5,<music21.chord.Chord G2 E-4>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-133,2,265.0,<music21.chord.Chord A-2 D4>,"[0, 6]","[2, 8]",Simpson_Invention_no6.xml,Simpson
-133,2 1/2,265.5,<music21.chord.Chord A-2 E-4>,"[0, 5]","[3, 8]",Simpson_Invention_no6.xml,Simpson
-134,1,266.0,<music21.chord.Chord B-2 B-3>,[0],[10],Simpson_Invention_no6.xml,Simpson
-134,1 1/2,266.5,<music21.chord.Chord B-2 B-4>,[0],[10],Simpson_Invention_no6.xml,Simpson
-134,2,267.0,<music21.chord.Chord C3 E-4>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson
-134,2 1/2,267.5,<music21.chord.Chord C3 B-4>,"[0, 2]","[10, 0]",Simpson_Invention_no6.xml,Simpson
-135,1,268.0,<music21.chord.Chord D3 B-3>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-135,1 1/2,268.5,<music21.chord.Chord D3 B-4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-135,2,269.0,<music21.chord.Chord E-3 C4>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson
-135,2 1/2,269.5,<music21.chord.Chord E-3 B-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson
-136,1,270.0,<music21.chord.Chord F3 D4>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson
-136,1 1/2,270.5,<music21.chord.Chord F3 B-4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson
-136,2,271.0,<music21.chord.Chord G3 E-4>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-136,2 1/2,271.5,<music21.chord.Chord G3 B-4>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson
-137,1,272.0,<music21.chord.Chord A-3 C4>,"[0, 4]","[8, 0]",Simpson_Invention_no6.xml,Simpson
-137,1 1/2,272.5,<music21.chord.Chord A-3 B-4>,"[0, 2]","[8, 10]",Simpson_Invention_no6.xml,Simpson
-137,2,273.0,<music21.chord.Chord F3 A-4>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson
-137,2 1/2,273.5,<music21.chord.Chord F3 C4>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson
-138,1,274.0,<music21.chord.Chord B-2 D4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-138,1 1/2,274.5,<music21.chord.Chord B-2 A-4>,"[0, 2]","[8, 10]",Simpson_Invention_no6.xml,Simpson
-138,2,275.0,<music21.chord.Chord E-3 G4>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-138,2 1/2,275.5,<music21.chord.Chord E-3 B-3>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson
-139,1,276.0,<music21.chord.Chord A-2 C4>,"[0, 4]","[8, 0]",Simpson_Invention_no6.xml,Simpson
-139,1 1/2,276.5,<music21.chord.Chord A-2 G4>,"[0, 1]","[7, 8]",Simpson_Invention_no6.xml,Simpson
-139,2,277.0,<music21.chord.Chord D3 F4>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson
-139,2 1/2,277.5,<music21.chord.Chord D3 A-3>,"[0, 6]","[2, 8]",Simpson_Invention_no6.xml,Simpson
-140,1,278.0,<music21.chord.Chord G2 B-3>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson
-140,1 1/2,278.5,<music21.chord.Chord G2 F4>,"[0, 2]","[5, 7]",Simpson_Invention_no6.xml,Simpson
-140,2,279.0,<music21.chord.Chord C3 E-4>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson
-140,2 1/2,279.5,<music21.chord.Chord C3 G3>,"[0, 5]","[7, 0]",Simpson_Invention_no6.xml,Simpson
-141,1,280.0,<music21.chord.Chord F2 A-3>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson
-141,1 1/2,280.5,<music21.chord.Chord F2 E-4>,"[0, 2]","[3, 5]",Simpson_Invention_no6.xml,Simpson
-141,2,281.0,<music21.chord.Chord F2 D4>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson
-141,2 1/2,281.5,<music21.chord.Chord F2 A-3>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson
-142,1,282.0,<music21.chord.Chord B-2 G3>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson
-142,1 1/2,282.5,<music21.chord.Chord B-2 E-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson
-142,2,283.0,<music21.chord.Chord B-1 F3>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson
-142,2 1/2,283.5,<music21.chord.Chord B-1 D4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-143,1,284.0,<music21.chord.Chord E-2 E-4>,[0],[3],Simpson_Invention_no6.xml,Simpson
-143,1 1/3,284.3333333333333,<music21.chord.Chord G2 E-4>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-143,1 2/3,284.6666666666667,<music21.chord.Chord B-2 E-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson
-143,2,285.0,<music21.chord.Chord E-3 G3>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-143,2 1/2,285.5,<music21.chord.Chord E-3 A-3>,"[0, 5]","[3, 8]",Simpson_Invention_no6.xml,Simpson
-144,1,286.0,<music21.chord.Chord F2 E-4>,"[0, 2]","[3, 5]",Simpson_Invention_no6.xml,Simpson
-144,1 1/2,286.5,<music21.chord.Chord B-2 E-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson
-144,2,287.0,<music21.chord.Chord E-3 A-3>,"[0, 5]","[3, 8]",Simpson_Invention_no6.xml,Simpson
-144,2 1/3,287.3333333333333,<music21.chord.Chord E-3 B-3>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson
-144,2 2/3,287.6666666666667,<music21.chord.Chord E-3 C4>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson
-145,1,288.0,<music21.chord.Chord G2 E-4>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-145,1 1/3,288.3333333333333,<music21.chord.Chord A-2 E-4>,"[0, 5]","[3, 8]",Simpson_Invention_no6.xml,Simpson
-145,1 2/3,288.6666666666667,<music21.chord.Chord B-2 E-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson
-145,2,289.0,<music21.chord.Chord E-3 B-3>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson
-145,2 1/2,289.5,<music21.chord.Chord E-3 C4>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson
-146,1,290.0,<music21.chord.Chord A-2 E-4>,"[0, 5]","[3, 8]",Simpson_Invention_no6.xml,Simpson
-146,1 1/2,290.5,<music21.chord.Chord B-2 E-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson
-146,2,291.0,<music21.chord.Chord E-3 B-3>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson
-146,2 1/3,291.3333333333333,<music21.chord.Chord E-3 C4>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson
-146,2 2/3,291.6666666666667,<music21.chord.Chord E-3 D4>,"[0, 1]","[2, 3]",Simpson_Invention_no6.xml,Simpson
-147,1,292.0,<music21.chord.Chord B-2 E-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson
-147,1 1/3,292.3333333333333,<music21.chord.Chord E-3 E-4>,[0],[3],Simpson_Invention_no6.xml,Simpson
-147,1 2/3,292.6666666666667,<music21.chord.Chord G3 E-4>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-147,2,293.0,<music21.chord.Chord B-3 F4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson
-147,2 1/2,293.5,<music21.chord.Chord B-3 G4>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson
-148,1,294.0,<music21.chord.Chord C3 E-4>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson
-148,1 1/2,294.5,<music21.chord.Chord A-3 E-4>,"[0, 5]","[3, 8]",Simpson_Invention_no6.xml,Simpson
-148,2,295.0,<music21.chord.Chord B-3 F4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson
-148,2 1/3,295.3333333333333,<music21.chord.Chord B-3 G4>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson
-148,2 2/3,295.6666666666667,<music21.chord.Chord B-3 A-4>,"[0, 2]","[8, 10]",Simpson_Invention_no6.xml,Simpson
-149,1,296.0,<music21.chord.Chord D3 E-4>,"[0, 1]","[2, 3]",Simpson_Invention_no6.xml,Simpson
-149,1 1/3,296.3333333333333,<music21.chord.Chord G3 E-4>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-149,1 2/3,296.6666666666667,<music21.chord.Chord A-3 E-4>,"[0, 5]","[3, 8]",Simpson_Invention_no6.xml,Simpson
-149,2,297.0,<music21.chord.Chord B-3 A-4>,"[0, 2]","[8, 10]",Simpson_Invention_no6.xml,Simpson
-149,2 1/2,297.5,<music21.chord.Chord B-3 B-4>,[0],[10],Simpson_Invention_no6.xml,Simpson
-150,1,298.0,<music21.chord.Chord E-3 E-4>,[0],[3],Simpson_Invention_no6.xml,Simpson
-150,1 1/2,298.5,<music21.chord.Chord A-3 E-4>,"[0, 5]","[3, 8]",Simpson_Invention_no6.xml,Simpson
-150,2,299.0,<music21.chord.Chord B-3 B-4>,[0],[10],Simpson_Invention_no6.xml,Simpson
-150,2 1/2,299.5,<music21.chord.Chord B-3 C5>,"[0, 2]","[10, 0]",Simpson_Invention_no6.xml,Simpson
-151,1,300.0,<music21.chord.Chord F3 D5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson
-151,1 1/3,300.3333333333333,<music21.chord.Chord G3 D5>,"[0, 5]","[2, 7]",Simpson_Invention_no6.xml,Simpson
-151,1 2/3,300.6666666666667,<music21.chord.Chord A-3 D5>,"[0, 6]","[2, 8]",Simpson_Invention_no6.xml,Simpson
-151,2,301.0,<music21.chord.Chord B-3 D5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-151,2 1/3,301.3333333333333,<music21.chord.Chord B-3 C5>,"[0, 2]","[10, 0]",Simpson_Invention_no6.xml,Simpson
-151,2 2/3,301.6666666666667,<music21.chord.Chord B-3 B-4>,[0],[10],Simpson_Invention_no6.xml,Simpson
-152,1,302.0,<music21.chord.Chord G3 E-5>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-152,1 1/2,302.5,<music21.chord.Chord A-3 E-5>,"[0, 5]","[3, 8]",Simpson_Invention_no6.xml,Simpson
-152,2,303.0,<music21.chord.Chord B-3 D5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-152,2 1/2,303.5,<music21.chord.Chord B-3 C5>,"[0, 2]","[10, 0]",Simpson_Invention_no6.xml,Simpson
-153,1,304.0,<music21.chord.Chord A-3 F5>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson
-153,1 1/3,304.3333333333333,<music21.chord.Chord B-3 F5>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson
-153,1 2/3,304.6666666666667,<music21.chord.Chord C4 F5>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson
-153,2,305.0,<music21.chord.Chord B-3 F5>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson
-153,2 1/3,305.3333333333333,<music21.chord.Chord B-3 E-5>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson
-153,2 2/3,305.6666666666667,<music21.chord.Chord B-3 D5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-154,1,306.0,<music21.chord.Chord B-2 G5>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson
-154,1 1/3,306.3333333333333,<music21.chord.Chord E-3 G5>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-154,1 2/3,306.6666666666667,<music21.chord.Chord F3 G5>,"[0, 2]","[5, 7]",Simpson_Invention_no6.xml,Simpson
-154,2,307.0,<music21.chord.Chord B-3 F5>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson
-154,2 1/2,307.5,<music21.chord.Chord B-3 E-5>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson
-155,1,308.0,<music21.chord.Chord C3 A-5>,"[0, 4]","[8, 0]",Simpson_Invention_no6.xml,Simpson
-155,1 1/3,308.3333333333333,<music21.chord.Chord F3 A-5>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson
-155,1 2/3,308.6666666666667,<music21.chord.Chord C4 A-5>,"[0, 4]","[8, 0]",Simpson_Invention_no6.xml,Simpson
-155,2,309.0,<music21.chord.Chord D4 A-5>,"[0, 6]","[2, 8]",Simpson_Invention_no6.xml,Simpson
-155,2 1/3,309.3333333333333,<music21.chord.Chord D4 G5>,"[0, 5]","[2, 7]",Simpson_Invention_no6.xml,Simpson
-155,2 2/3,309.6666666666667,<music21.chord.Chord D4 F5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson
-156,1,310.0,<music21.chord.Chord E-4 G5>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-156,1 1/2,310.5,<music21.chord.Chord E-4 E-5>,[0],[3],Simpson_Invention_no6.xml,Simpson
-156,2,311.0,<music21.chord.Chord A-3 C5>,"[0, 4]","[8, 0]",Simpson_Invention_no6.xml,Simpson
-156,2 1/2,311.5,<music21.chord.Chord A-3 F5>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson
-157,1,312.0,<music21.chord.Chord G3 B-5>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson
-157,1 1/2,312.5,<music21.chord.Chord G3 E-5>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-157,2,313.0,<music21.chord.Chord A-3 C5>,"[0, 4]","[8, 0]",Simpson_Invention_no6.xml,Simpson
-157,2 1/2,313.5,<music21.chord.Chord A-3 A-5>,[0],[8],Simpson_Invention_no6.xml,Simpson
-158,1,314.0,<music21.chord.Chord B-3 F5>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson
-158,1 1/3,314.3333333333333,<music21.chord.Chord B-3 E-5>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson
-158,1 2/3,314.6666666666667,<music21.chord.Chord B-3 D5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-158,2,315.0,<music21.chord.Chord B-2 C5>,"[0, 2]","[10, 0]",Simpson_Invention_no6.xml,Simpson
-158,2 1/3,315.3333333333333,<music21.chord.Chord B-2 B-4>,[0],[10],Simpson_Invention_no6.xml,Simpson
-158,2 2/3,315.6666666666667,<music21.chord.Chord B-2 A-4>,"[0, 2]","[8, 10]",Simpson_Invention_no6.xml,Simpson
-159,1,316.0,<music21.chord.Chord E-3 G4>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-159,1 1/2,316.5,<music21.chord.Chord E-3 E-4>,[0],[3],Simpson_Invention_no6.xml,Simpson
-159,2,317.0,<music21.chord.Chord A-2 C4>,"[0, 4]","[8, 0]",Simpson_Invention_no6.xml,Simpson
-159,2 1/2,317.5,<music21.chord.Chord A-2 F4>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson
-160,1,318.0,<music21.chord.Chord B-2 F4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson
-160,1 1/3,318.3333333333333,<music21.chord.Chord B-2 E-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson
-160,1 2/3,318.6666666666667,<music21.chord.Chord B-2 D4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-160,2,319.0,<music21.chord.Chord B-1 C4>,"[0, 2]","[10, 0]",Simpson_Invention_no6.xml,Simpson
-160,2 1/3,319.3333333333333,<music21.chord.Chord B-1 B-3>,[0],[10],Simpson_Invention_no6.xml,Simpson
-160,2 2/3,319.6666666666667,<music21.chord.Chord B-1 A-3>,"[0, 2]","[8, 10]",Simpson_Invention_no6.xml,Simpson
-161,1,320.0,<music21.chord.Chord E-2>,[0],[3],Simpson_Invention_no6.xml,Simpson
-161,1 1/2,320.5,<music21.chord.Chord E-2 G3>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-161,2,321.0,<music21.chord.Chord G2 B-3>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson
-161,2 1/2,321.5,<music21.chord.Chord G2 E-4>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-162,1,322.0,<music21.chord.Chord F#2 D4>,"[0, 4]","[2, 6]",Simpson_Invention_no6.xml,Simpson
-162,1 1/2,322.5,<music21.chord.Chord F#2 C4>,"[0, 6]","[0, 6]",Simpson_Invention_no6.xml,Simpson
-162,2,323.0,<music21.chord.Chord D3 B-3>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-162,2 1/2,323.5,<music21.chord.Chord D3 A3>,"[0, 5]","[9, 2]",Simpson_Invention_no6.xml,Simpson
-163,1,324.0,<music21.chord.Chord G2 B-3>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson
-163,1 1/2,324.5,<music21.chord.Chord G2 G3>,[0],[7],Simpson_Invention_no6.xml,Simpson
-163,2,325.0,<music21.chord.Chord F3 B-3>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson
-163,2 1/2,325.5,<music21.chord.Chord F3 D4>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson
-164,1,326.0,<music21.chord.Chord E-3 G4>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-164,1 1/2,326.5,<music21.chord.Chord E-3 F4>,"[0, 2]","[3, 5]",Simpson_Invention_no6.xml,Simpson
-164,2,327.0,<music21.chord.Chord F3 E-4>,"[0, 2]","[3, 5]",Simpson_Invention_no6.xml,Simpson
-164,2 1/2,327.5,<music21.chord.Chord F3 A4>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson
-165,1,328.0,<music21.chord.Chord B-2 B-4>,[0],[10],Simpson_Invention_no6.xml,Simpson
-165,1 1/2,328.5,<music21.chord.Chord B-2 D4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-165,2,329.0,<music21.chord.Chord D3 F4>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson
-165,2 1/2,329.5,<music21.chord.Chord D3 B-4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-166,1,330.0,<music21.chord.Chord D-3 A4>,"[0, 4]","[9, 1]",Simpson_Invention_no6.xml,Simpson
-166,1 1/2,330.5,<music21.chord.Chord D-3 G4>,"[0, 6]","[1, 7]",Simpson_Invention_no6.xml,Simpson
-166,2,331.0,<music21.chord.Chord A3 F4>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson
-166,2 1/2,331.5,<music21.chord.Chord A3 E4>,"[0, 5]","[4, 9]",Simpson_Invention_no6.xml,Simpson
-167,1,332.0,<music21.chord.Chord D3 F4>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson
-167,1 1/2,332.5,<music21.chord.Chord A3 A4>,[0],[9],Simpson_Invention_no6.xml,Simpson
-167,2,333.0,<music21.chord.Chord D4 D5>,[0],[2],Simpson_Invention_no6.xml,Simpson
-167,2 1/2,333.5,<music21.chord.Chord D4 F5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson
-168,1,334.0,<music21.chord.Chord D-4 A5>,"[0, 4]","[9, 1]",Simpson_Invention_no6.xml,Simpson
-168,1 1/2,334.5,<music21.chord.Chord D-4 G5>,"[0, 6]","[1, 7]",Simpson_Invention_no6.xml,Simpson
-168,2,335.0,<music21.chord.Chord A3 F5>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson
-168,2 1/2,335.5,<music21.chord.Chord A3 E5>,"[0, 5]","[4, 9]",Simpson_Invention_no6.xml,Simpson
-169,1,336.0,<music21.chord.Chord D4 F5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson
-169,1 1/3,336.3333333333333,<music21.chord.Chord E4 F5>,"[0, 1]","[4, 5]",Simpson_Invention_no6.xml,Simpson
-169,1 1/2,336.5,<music21.chord.Chord E4 D5>,"[0, 2]","[2, 4]",Simpson_Invention_no6.xml,Simpson
-169,1 2/3,336.6666666666667,<music21.chord.Chord F4 D5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson
-169,2,337.0,<music21.chord.Chord G4 B-4>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson
-169,2 1/2,337.5,<music21.chord.Chord G4 E5>,"[0, 3]","[4, 7]",Simpson_Invention_no6.xml,Simpson
-170,1,338.0,<music21.chord.Chord A4 D5>,"[0, 5]","[9, 2]",Simpson_Invention_no6.xml,Simpson
-170,1 1/3,338.3333333333333,<music21.chord.Chord F4 D5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson
-170,1 2/3,338.6666666666667,<music21.chord.Chord D4 D5>,[0],[2],Simpson_Invention_no6.xml,Simpson
-170,2,339.0,<music21.chord.Chord B-3 D-5>,"[0, 3]","[10, 1]",Simpson_Invention_no6.xml,Simpson
-170,2 1/3,339.3333333333333,<music21.chord.Chord A3 D-5>,"[0, 4]","[9, 1]",Simpson_Invention_no6.xml,Simpson
-170,2 2/3,339.6666666666667,<music21.chord.Chord G3 D-5>,"[0, 6]","[1, 7]",Simpson_Invention_no6.xml,Simpson
-171,1,340.0,<music21.chord.Chord D4 A5>,"[0, 5]","[9, 2]",Simpson_Invention_no6.xml,Simpson
-171,1 1/2,340.5,<music21.chord.Chord D4 F5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson
-171,2,341.0,<music21.chord.Chord B-3 D5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-171,2 1/2,341.5,<music21.chord.Chord B-3 G5>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson
-172,1,342.0,<music21.chord.Chord C4 F5>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson
-172,1 1/3,342.3333333333333,<music21.chord.Chord B-3 F5>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson
-172,1 2/3,342.6666666666667,<music21.chord.Chord A3 F5>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson
-172,2,343.0,<music21.chord.Chord G3 E5>,"[0, 3]","[4, 7]",Simpson_Invention_no6.xml,Simpson
-172,2 1/3,343.3333333333333,<music21.chord.Chord F3 E5>,"[0, 1]","[4, 5]",Simpson_Invention_no6.xml,Simpson
-172,2 2/3,343.6666666666667,<music21.chord.Chord E3 E5>,[0],[4],Simpson_Invention_no6.xml,Simpson
-173,1,344.0,<music21.chord.Chord D3 F5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson
-173,1 1/2,344.5,<music21.chord.Chord D3 D5>,[0],[2],Simpson_Invention_no6.xml,Simpson
-173,2,345.0,<music21.chord.Chord C4 A4>,"[0, 3]","[9, 0]",Simpson_Invention_no6.xml,Simpson
-173,2 1/2,345.5,<music21.chord.Chord C4 E5>,"[0, 4]","[0, 4]",Simpson_Invention_no6.xml,Simpson
-174,1,346.0,<music21.chord.Chord B-3 D5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-174,1 1/3,346.3333333333333,<music21.chord.Chord A3 D5>,"[0, 5]","[9, 2]",Simpson_Invention_no6.xml,Simpson
-174,1 2/3,346.6666666666667,<music21.chord.Chord G3 D5>,"[0, 5]","[2, 7]",Simpson_Invention_no6.xml,Simpson
-174,2,347.0,<music21.chord.Chord F3 C5>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson
-174,2 1/3,347.3333333333333,<music21.chord.Chord E3 C5>,"[0, 4]","[0, 4]",Simpson_Invention_no6.xml,Simpson
-174,2 2/3,347.6666666666667,<music21.chord.Chord D3 C5>,"[0, 2]","[0, 2]",Simpson_Invention_no6.xml,Simpson
-175,1,348.0,<music21.chord.Chord G3 B-4>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson
-175,1 1/2,348.5,<music21.chord.Chord G3 G4>,[0],[7],Simpson_Invention_no6.xml,Simpson
-175,2,349.0,<music21.chord.Chord F3 D4>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson
-175,2 1/2,349.5,<music21.chord.Chord F3 A4>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson
-176,1,350.0,<music21.chord.Chord E-3 G4>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-176,1 1/3,350.3333333333333,<music21.chord.Chord D3 G4>,"[0, 5]","[2, 7]",Simpson_Invention_no6.xml,Simpson
-176,1 1/2,350.5,<music21.chord.Chord D3 E-4>,"[0, 1]","[2, 3]",Simpson_Invention_no6.xml,Simpson
-176,1 2/3,350.6666666666667,<music21.chord.Chord C3 E-4>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson
-176,2,351.0,<music21.chord.Chord B-2 B-3>,[0],[10],Simpson_Invention_no6.xml,Simpson
-176,2 1/3,351.3333333333333,<music21.chord.Chord A2 B-3>,"[0, 1]","[9, 10]",Simpson_Invention_no6.xml,Simpson
-176,2 1/2,351.5,<music21.chord.Chord A2 F4>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson
-176,2 2/3,351.6666666666667,<music21.chord.Chord G2 F4>,"[0, 2]","[5, 7]",Simpson_Invention_no6.xml,Simpson
-177,1,352.0,<music21.chord.Chord C3 E-4>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson
-177,1 1/2,352.5,<music21.chord.Chord C3 G4>,"[0, 5]","[7, 0]",Simpson_Invention_no6.xml,Simpson
-177,2,353.0,<music21.chord.Chord E-3 C5>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson
-177,2 1/2,353.5,<music21.chord.Chord E-3 E-4>,[0],[3],Simpson_Invention_no6.xml,Simpson
-178,1,354.0,<music21.chord.Chord F3 D4>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson
-178,1 1/2,354.5,<music21.chord.Chord F3 B-4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson
-178,2,355.0,<music21.chord.Chord F2 C4>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson
-178,2 1/2,355.5,<music21.chord.Chord F2 A4>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson
-179,1,356.0,<music21.chord.Chord B-2 B-4>,[0],[10],Simpson_Invention_no6.xml,Simpson
-179,1 1/3,356.3333333333333,<music21.chord.Chord B-2 F4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson
-179,1 2/3,356.6666666666667,<music21.chord.Chord B-2 D4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-179,2,357.0,<music21.chord.Chord C3 E-4>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson
-179,2 1/2,357.5,<music21.chord.Chord C3 C5>,[0],[0],Simpson_Invention_no6.xml,Simpson
-180,1,358.0,<music21.chord.Chord D3 B-4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-180,1 1/2,358.5,<music21.chord.Chord D3 F4>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson
-180,2,359.0,<music21.chord.Chord E-3 G4>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-180,2 1/2,359.5,<music21.chord.Chord E-3 D5>,"[0, 1]","[2, 3]",Simpson_Invention_no6.xml,Simpson
-181,1,360.0,<music21.chord.Chord F3 C5>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson
-181,1 1/3,360.3333333333333,<music21.chord.Chord F3 B-4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson
-181,1 2/3,360.6666666666667,<music21.chord.Chord F3 A4>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson
-181,2,361.0,<music21.chord.Chord G3 B-4>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson
-181,2 1/2,361.5,<music21.chord.Chord G3 G5>,[0],[7],Simpson_Invention_no6.xml,Simpson
-182,1,362.0,<music21.chord.Chord A3 F5>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson
-182,1 1/2,362.5,<music21.chord.Chord A3 C5>,"[0, 3]","[9, 0]",Simpson_Invention_no6.xml,Simpson
-182,2,363.0,<music21.chord.Chord B-3 D5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-182,2 1/2,363.5,<music21.chord.Chord B-3 B-5>,[0],[10],Simpson_Invention_no6.xml,Simpson
-183,1,364.0,<music21.chord.Chord C3 A5>,"[0, 3]","[9, 0]",Simpson_Invention_no6.xml,Simpson
-183,1 1/3,364.3333333333333,<music21.chord.Chord C3 G5>,"[0, 5]","[7, 0]",Simpson_Invention_no6.xml,Simpson
-183,1 1/2,364.5,<music21.chord.Chord D3 G5>,"[0, 5]","[2, 7]",Simpson_Invention_no6.xml,Simpson
-183,1 2/3,364.6666666666667,<music21.chord.Chord D3 F5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson
-183,2,365.0,<music21.chord.Chord E-3 E-5>,[0],[3],Simpson_Invention_no6.xml,Simpson
-183,2 1/3,365.3333333333333,<music21.chord.Chord E-3 D5>,"[0, 1]","[2, 3]",Simpson_Invention_no6.xml,Simpson
-183,2 2/3,365.6666666666667,<music21.chord.Chord E-3 C5>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson
-184,1,366.0,<music21.chord.Chord F3 B-4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson
-184,1 1/2,366.5,<music21.chord.Chord F3 F5>,[0],[5],Simpson_Invention_no6.xml,Simpson
-184,2,367.0,<music21.chord.Chord F2 A4>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson
-184,2 1/2,367.5,<music21.chord.Chord F2 E-5>,"[0, 2]","[3, 5]",Simpson_Invention_no6.xml,Simpson
-185,1,368.0,<music21.chord.Chord B-2 B-4>,[0],[10],Simpson_Invention_no6.xml,Simpson
-185,1 1/2,368.5,<music21.chord.Chord B-2 D5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-185,2,369.0,<music21.chord.Chord C3 E-5>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson
-185,2 1/2,369.5,<music21.chord.Chord C3 C5>,[0],[0],Simpson_Invention_no6.xml,Simpson
-186,1,370.0,<music21.chord.Chord D3 B-4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-186,1 1/3,370.3333333333333,<music21.chord.Chord D3 E-5>,"[0, 1]","[2, 3]",Simpson_Invention_no6.xml,Simpson
-186,1 2/3,370.6666666666667,<music21.chord.Chord D3 F5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson
-186,2,371.0,<music21.chord.Chord E-3 G5>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-186,2 1/2,371.5,<music21.chord.Chord E-3 D5>,"[0, 1]","[2, 3]",Simpson_Invention_no6.xml,Simpson
-187,1,372.0,<music21.chord.Chord F3 C5>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson
-187,1 1/3,372.3333333333333,<music21.chord.Chord F3 E-5>,"[0, 2]","[3, 5]",Simpson_Invention_no6.xml,Simpson
-187,1 2/3,372.6666666666667,<music21.chord.Chord F3 A5>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson
-187,2,373.0,<music21.chord.Chord G3 B-5>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson
-187,2 1/2,373.5,<music21.chord.Chord G3 G5>,[0],[7],Simpson_Invention_no6.xml,Simpson
-188,1,374.0,<music21.chord.Chord F3 F5>,[0],[5],Simpson_Invention_no6.xml,Simpson
-188,1 1/3,374.3333333333333,<music21.chord.Chord G3 B-5>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson
-188,1 2/3,374.6666666666667,<music21.chord.Chord A3 C6>,"[0, 3]","[9, 0]",Simpson_Invention_no6.xml,Simpson
-188,2,375.0,<music21.chord.Chord B-3 D6>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-188,2 1/2,375.5,<music21.chord.Chord B-3 B-5>,[0],[10],Simpson_Invention_no6.xml,Simpson
-189,1,376.0,<music21.chord.Chord C4 G5>,"[0, 5]","[7, 0]",Simpson_Invention_no6.xml,Simpson
-189,1 1/3,376.3333333333333,<music21.chord.Chord C4 F6>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson
-189,1 2/3,376.6666666666667,<music21.chord.Chord C4 E-6>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson
-189,2,377.0,<music21.chord.Chord C4 D6>,"[0, 2]","[0, 2]",Simpson_Invention_no6.xml,Simpson
-189,2 1/3,377.3333333333333,<music21.chord.Chord D4 C6>,"[0, 2]","[0, 2]",Simpson_Invention_no6.xml,Simpson
-189,2 2/3,377.6666666666667,<music21.chord.Chord E-4 B-5>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson
-190,1,378.0,<music21.chord.Chord F4 A5>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson
-190,1 1/3,378.3333333333333,<music21.chord.Chord F4 G5>,"[0, 2]","[5, 7]",Simpson_Invention_no6.xml,Simpson
-190,1 2/3,378.6666666666667,<music21.chord.Chord F4 F5>,[0],[5],Simpson_Invention_no6.xml,Simpson
-190,2,379.0,<music21.chord.Chord F3 E-5>,"[0, 2]","[3, 5]",Simpson_Invention_no6.xml,Simpson
-190,2 1/3,379.3333333333333,<music21.chord.Chord F3 D5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson
-190,2 2/3,379.6666666666667,<music21.chord.Chord F3 C5>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson
-191,1,380.0,<music21.chord.Chord G3 B-4>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson
-191,1 1/3,380.3333333333333,<music21.chord.Chord F3 D5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson
-191,1 2/3,380.6666666666667,<music21.chord.Chord E-3 F5>,"[0, 2]","[3, 5]",Simpson_Invention_no6.xml,Simpson
-191,2,381.0,<music21.chord.Chord D3 G5>,"[0, 5]","[2, 7]",Simpson_Invention_no6.xml,Simpson
-191,2 1/3,381.3333333333333,<music21.chord.Chord C3 G5>,"[0, 5]","[7, 0]",Simpson_Invention_no6.xml,Simpson
-191,2 1/2,381.5,<music21.chord.Chord C3 D5>,"[0, 2]","[0, 2]",Simpson_Invention_no6.xml,Simpson
-191,2 2/3,381.6666666666667,<music21.chord.Chord B-2 D5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-192,1,382.0,<music21.chord.Chord F3 C5>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson
-192,1 1/3,382.3333333333333,<music21.chord.Chord F3 B-4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson
-192,1 2/3,382.6666666666667,<music21.chord.Chord F3 A4>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson
-192,2,383.0,<music21.chord.Chord F2 G4>,"[0, 2]","[5, 7]",Simpson_Invention_no6.xml,Simpson
-192,2 1/3,383.3333333333333,<music21.chord.Chord F2 F4>,[0],[5],Simpson_Invention_no6.xml,Simpson
-192,2 2/3,383.6666666666667,<music21.chord.Chord F2 E-4>,"[0, 2]","[3, 5]",Simpson_Invention_no6.xml,Simpson
-193,1,384.0,<music21.chord.Chord B-2 D4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-193,1 1/3,384.3333333333333,<music21.chord.Chord D3 B-3>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-193,1 2/3,384.6666666666667,<music21.chord.Chord F3 D4>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson
-193,2,385.0,<music21.chord.Chord G3 B-3>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson
-193,2 1/3,385.3333333333333,<music21.chord.Chord E-3 B-3>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson
-193,2 2/3,385.6666666666667,<music21.chord.Chord D3 B-3>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-194,1,386.0,<music21.chord.Chord E-3 G3>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-194,1 1/3,386.3333333333333,<music21.chord.Chord D3 F3>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson
-194,1 2/3,386.6666666666667,<music21.chord.Chord C3 E-3>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson
-194,2,387.0,<music21.chord.Chord B-2 F3>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson
-194,2 1/3,387.3333333333333,<music21.chord.Chord G2 E-3>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson
-194,2 2/3,387.6666666666667,<music21.chord.Chord E-2 D3>,"[0, 1]","[2, 3]",Simpson_Invention_no6.xml,Simpson
-195,1,388.0,<music21.chord.Chord B-1 D3>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-196,1,390.0,<music21.chord.Chord B-1 D3>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-197,1,392.0,<music21.chord.Chord B-1 D3>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
-198,1,394.0,<music21.chord.Chord B-1 D3>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson
+offset,Chord,NormalForm,PCsInNormalForm,file,Composer,measureNumber,beatNumber
+0.0,<music21.chord.Chord B-3>,[0],[10],Simpson_Invention_no6.xml,Simpson,1,1
+0.5,<music21.chord.Chord B-3 D4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,1,1 1/2
+1.0,<music21.chord.Chord F3 F4>,[0],[5],Simpson_Invention_no6.xml,Simpson,1,2
+1.5,<music21.chord.Chord D3 B-4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,1,2 1/2
+2.0,<music21.chord.Chord E-3 C5>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson,2,1
+2.5,<music21.chord.Chord E-3 B-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson,2,1 1/2
+3.0,<music21.chord.Chord F3 A4>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson,2,2
+3.5,<music21.chord.Chord F3 G4>,"[0, 2]","[5, 7]",Simpson_Invention_no6.xml,Simpson,2,2 1/2
+4.0,<music21.chord.Chord B-2 F4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson,3,1
+4.5,<music21.chord.Chord D3 B-4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,3,1 1/2
+5.0,<music21.chord.Chord F3 B-4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson,3,2
+5.5,<music21.chord.Chord B-3 D5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,3,2 1/2
+6.0,<music21.chord.Chord C4 E-5>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson,4,1
+6.5,<music21.chord.Chord B-3 E-5>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson,4,1 1/2
+7.0,<music21.chord.Chord A3 F5>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson,4,2
+7.125,<music21.chord.Chord A3 E-5>,"[0, 6]","[3, 9]",Simpson_Invention_no6.xml,Simpson,4,2 1/8
+7.25,<music21.chord.Chord A3 F5>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson,4,2 1/4
+7.375,<music21.chord.Chord A3 E-5>,"[0, 6]","[3, 9]",Simpson_Invention_no6.xml,Simpson,4,2 3/8
+7.5,<music21.chord.Chord F3 F5>,[0],[5],Simpson_Invention_no6.xml,Simpson,4,2 1/2
+7.625,<music21.chord.Chord F3 E-5>,"[0, 2]","[3, 5]",Simpson_Invention_no6.xml,Simpson,4,2 5/8
+7.75,<music21.chord.Chord F3 D5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson,4,2 3/4
+7.875,<music21.chord.Chord F3 E-5>,"[0, 2]","[3, 5]",Simpson_Invention_no6.xml,Simpson,4,2 7/8
+8.0,<music21.chord.Chord B-3 D5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,5,1
+8.5,<music21.chord.Chord B-3 D5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,5,1 1/2
+9.0,<music21.chord.Chord D4 F5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson,5,2
+9.5,<music21.chord.Chord F4 B-5>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson,5,2 1/2
+10.0,<music21.chord.Chord E-4 C6>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson,6,1
+10.5,<music21.chord.Chord E-4 B-5>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson,6,1 1/2
+11.0,<music21.chord.Chord F4 A5>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson,6,2
+11.5,<music21.chord.Chord F4 G5>,"[0, 2]","[5, 7]",Simpson_Invention_no6.xml,Simpson,6,2 1/2
+12.0,<music21.chord.Chord B-3 F5>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson,7,1
+12.5,<music21.chord.Chord D4 B-5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,7,1 1/2
+13.0,<music21.chord.Chord F4 B-5>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson,7,2
+13.5,<music21.chord.Chord B-4 D6>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,7,2 1/2
+14.0,<music21.chord.Chord C5 E-6>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson,8,1
+14.5,<music21.chord.Chord B-4 E-6>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson,8,1 1/2
+15.0,<music21.chord.Chord A4 F6>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson,8,2
+15.125,<music21.chord.Chord A4 E-6>,"[0, 6]","[3, 9]",Simpson_Invention_no6.xml,Simpson,8,2 1/8
+15.25,<music21.chord.Chord A4 F6>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson,8,2 1/4
+15.375,<music21.chord.Chord A4 E-6>,"[0, 6]","[3, 9]",Simpson_Invention_no6.xml,Simpson,8,2 3/8
+15.5,<music21.chord.Chord F4 F6>,[0],[5],Simpson_Invention_no6.xml,Simpson,8,2 1/2
+15.625,<music21.chord.Chord F4 E-6>,"[0, 2]","[3, 5]",Simpson_Invention_no6.xml,Simpson,8,2 5/8
+15.75,<music21.chord.Chord F4 D6>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson,8,2 3/4
+15.875,<music21.chord.Chord F4 E-6>,"[0, 2]","[3, 5]",Simpson_Invention_no6.xml,Simpson,8,2 7/8
+16.0,<music21.chord.Chord B-4 D6>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,9,1
+16.5,<music21.chord.Chord B-4 B-5>,[0],[10],Simpson_Invention_no6.xml,Simpson,9,1 1/2
+17.0,<music21.chord.Chord B-4 F5>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson,9,2
+17.5,<music21.chord.Chord B-4 D5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,9,2 1/2
+18.0,<music21.chord.Chord E-4 B-5>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson,10,1
+18.5,<music21.chord.Chord G4 B-5>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson,10,1 1/2
+19.0,<music21.chord.Chord F4 D6>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson,10,2
+19.125,<music21.chord.Chord F4 C6>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson,10,2 1/8
+19.25,<music21.chord.Chord F4 D6>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson,10,2 1/4
+19.375,<music21.chord.Chord F4 C6>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson,10,2 3/8
+19.5,<music21.chord.Chord F3 D6>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson,10,2 1/2
+19.625,<music21.chord.Chord F3 C6>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson,10,2 5/8
+19.75,<music21.chord.Chord F3 B-5>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson,10,2 3/4
+19.875,<music21.chord.Chord F3 C6>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson,10,2 7/8
+20.0,<music21.chord.Chord B-3 D6>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,11,1
+20.5,<music21.chord.Chord B-3 B-5>,[0],[10],Simpson_Invention_no6.xml,Simpson,11,1 1/2
+21.0,<music21.chord.Chord B-3 F5>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson,11,2
+21.5,<music21.chord.Chord B-3 D5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,11,2 1/2
+22.0,<music21.chord.Chord E-4 B-5>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson,12,1
+22.5,<music21.chord.Chord G4 B-5>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson,12,1 1/2
+23.0,<music21.chord.Chord F4 D6>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson,12,2
+23.125,<music21.chord.Chord F4 C6>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson,12,2 1/8
+23.25,<music21.chord.Chord F4 D6>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson,12,2 1/4
+23.375,<music21.chord.Chord F4 C6>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson,12,2 3/8
+23.5,<music21.chord.Chord F3 D6>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson,12,2 1/2
+23.625,<music21.chord.Chord F3 C6>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson,12,2 5/8
+23.75,<music21.chord.Chord F3 B-5>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson,12,2 3/4
+23.875,<music21.chord.Chord F3 C6>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson,12,2 7/8
+24.0,<music21.chord.Chord B-3 D6>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,13,1
+24.5,<music21.chord.Chord B-3 B-5>,[0],[10],Simpson_Invention_no6.xml,Simpson,13,1 1/2
+25.0,<music21.chord.Chord F3 A5>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson,13,2
+25.5,<music21.chord.Chord D3 G5>,"[0, 5]","[2, 7]",Simpson_Invention_no6.xml,Simpson,13,2 1/2
+26.0,<music21.chord.Chord E-3 G5>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,14,1
+26.5,<music21.chord.Chord E-3 B-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson,14,1 1/2
+27.0,<music21.chord.Chord G3 A5>,"[0, 2]","[7, 9]",Simpson_Invention_no6.xml,Simpson,14,2
+27.125,<music21.chord.Chord F3 A5>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson,14,2 1/8
+27.25,<music21.chord.Chord G3 A5>,"[0, 2]","[7, 9]",Simpson_Invention_no6.xml,Simpson,14,2 1/4
+27.375,<music21.chord.Chord F3 A5>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson,14,2 3/8
+27.5,<music21.chord.Chord G3 B-4>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson,14,2 1/2
+27.625,<music21.chord.Chord F3 B-4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson,14,2 5/8
+27.75,<music21.chord.Chord E-3 B-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson,14,2 3/4
+27.875,<music21.chord.Chord F3 B-4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson,14,2 7/8
+28.0,<music21.chord.Chord D4 B-5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,15,1
+28.5,<music21.chord.Chord B-3 B-5>,[0],[10],Simpson_Invention_no6.xml,Simpson,15,1 1/2
+29.0,<music21.chord.Chord F3 A5>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson,15,2
+29.5,<music21.chord.Chord D3 G5>,"[0, 5]","[2, 7]",Simpson_Invention_no6.xml,Simpson,15,2 1/2
+30.0,<music21.chord.Chord E-3 G5>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,16,1
+30.5,<music21.chord.Chord E-3 B-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson,16,1 1/2
+31.0,<music21.chord.Chord G3 A5>,"[0, 2]","[7, 9]",Simpson_Invention_no6.xml,Simpson,16,2
+31.125,<music21.chord.Chord F3 A5>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson,16,2 1/8
+31.25,<music21.chord.Chord G3 A5>,"[0, 2]","[7, 9]",Simpson_Invention_no6.xml,Simpson,16,2 1/4
+31.375,<music21.chord.Chord F3 A5>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson,16,2 3/8
+31.5,<music21.chord.Chord G3 B-4>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson,16,2 1/2
+31.625,<music21.chord.Chord F3 B-4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson,16,2 5/8
+31.75,<music21.chord.Chord E-3 B-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson,16,2 3/4
+31.875,<music21.chord.Chord F3 B-4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson,16,2 7/8
+32.0,<music21.chord.Chord B-3 B-5>,[0],[10],Simpson_Invention_no6.xml,Simpson,17,1
+32.5,<music21.chord.Chord B-3 D5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,17,1 1/2
+33.0,<music21.chord.Chord C4 D5>,"[0, 2]","[0, 2]",Simpson_Invention_no6.xml,Simpson,17,2
+33.5,<music21.chord.Chord C4 E-5>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson,17,2 1/2
+34.0,<music21.chord.Chord C3 E-5>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson,18,1
+34.5,<music21.chord.Chord C3 G4>,"[0, 5]","[7, 0]",Simpson_Invention_no6.xml,Simpson,18,1 1/2
+35.0,<music21.chord.Chord F3 G4>,"[0, 2]","[5, 7]",Simpson_Invention_no6.xml,Simpson,18,2
+35.5,<music21.chord.Chord F3 A4>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson,18,2 1/2
+36.0,<music21.chord.Chord F2 A4>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson,19,1
+36.5,<music21.chord.Chord F2 C4>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson,19,1 1/2
+37.0,<music21.chord.Chord B-2 C4>,"[0, 2]","[10, 0]",Simpson_Invention_no6.xml,Simpson,19,2
+37.5,<music21.chord.Chord B-2 D4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,19,2 1/2
+38.0,<music21.chord.Chord B-1 D4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,20,1
+38.5,<music21.chord.Chord B-1 F3>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson,20,1 1/2
+39.0,<music21.chord.Chord E-2 F3>,"[0, 2]","[3, 5]",Simpson_Invention_no6.xml,Simpson,20,2
+39.5,<music21.chord.Chord E-2 G3>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,20,2 1/2
+40.0,<music21.chord.Chord C2 G3>,"[0, 5]","[7, 0]",Simpson_Invention_no6.xml,Simpson,21,1
+40.5,<music21.chord.Chord C2 C4>,[0],[0],Simpson_Invention_no6.xml,Simpson,21,1 1/2
+41.0,<music21.chord.Chord F2 B-3>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson,21,2
+41.5,<music21.chord.Chord F2 A3>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson,21,2 1/2
+42.0,<music21.chord.Chord G2 B-3>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson,22,1
+42.333333333333300,<music21.chord.Chord G2 C4>,"[0, 5]","[7, 0]",Simpson_Invention_no6.xml,Simpson,22,1 1/3
+42.666666666666700,<music21.chord.Chord G2 E-4>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,22,1 2/3
+43.0,<music21.chord.Chord A2 D4>,"[0, 5]","[9, 2]",Simpson_Invention_no6.xml,Simpson,22,2
+43.5,<music21.chord.Chord A2 C4>,"[0, 3]","[9, 0]",Simpson_Invention_no6.xml,Simpson,22,2 1/2
+44.0,<music21.chord.Chord B-2 D4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,23,1
+44.5,<music21.chord.Chord B-2 B-4>,[0],[10],Simpson_Invention_no6.xml,Simpson,23,1 1/2
+45.0,<music21.chord.Chord C3 A4>,"[0, 3]","[9, 0]",Simpson_Invention_no6.xml,Simpson,23,2
+45.5,<music21.chord.Chord D3 G4>,"[0, 5]","[2, 7]",Simpson_Invention_no6.xml,Simpson,23,2 1/2
+46.0,<music21.chord.Chord E-3 A4>,"[0, 6]","[3, 9]",Simpson_Invention_no6.xml,Simpson,24,1
+46.333333333333300,<music21.chord.Chord E-3 B-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson,24,1 1/3
+46.666666666666700,<music21.chord.Chord E-3 C5>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson,24,1 2/3
+47.0,<music21.chord.Chord F3 B-4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson,24,2
+47.5,<music21.chord.Chord F2 A4>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson,24,2 1/2
+48.0,<music21.chord.Chord B-2 B-4>,[0],[10],Simpson_Invention_no6.xml,Simpson,25,1
+48.5,<music21.chord.Chord F3 B-4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson,25,1 1/2
+49.0,<music21.chord.Chord B-3 D4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,25,2
+49.333333333333300,<music21.chord.Chord B-3 E-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson,25,2 1/3
+49.666666666666700,<music21.chord.Chord B-3 F4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson,25,2 2/3
+50.0,<music21.chord.Chord C3 B-4>,"[0, 2]","[10, 0]",Simpson_Invention_no6.xml,Simpson,26,1
+50.5,<music21.chord.Chord F3 B-4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson,26,1 1/2
+51.0,<music21.chord.Chord B-3 E-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson,26,2
+51.5,<music21.chord.Chord B-3 F4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson,26,2 1/2
+52.0,<music21.chord.Chord D3 B-4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,27,1
+52.5,<music21.chord.Chord F3 B-4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson,27,1 1/2
+53.0,<music21.chord.Chord B-3 F4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson,27,2
+53.333333333333300,<music21.chord.Chord B-3 G4>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson,27,2 1/3
+53.666666666666700,<music21.chord.Chord B-3 A4>,"[0, 1]","[9, 10]",Simpson_Invention_no6.xml,Simpson,27,2 2/3
+54.0,<music21.chord.Chord E-3 B-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson,28,1
+54.5,<music21.chord.Chord F3 B-4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson,28,1 1/2
+55.0,<music21.chord.Chord B-3 G4>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson,28,2
+55.5,<music21.chord.Chord B-3 A4>,"[0, 1]","[9, 10]",Simpson_Invention_no6.xml,Simpson,28,2 1/2
+56.0,<music21.chord.Chord F3 B-4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson,29,1
+56.333333333333300,<music21.chord.Chord G3 B-4>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson,29,1 1/3
+56.666666666666700,<music21.chord.Chord D4 B-4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,29,1 2/3
+57.0,<music21.chord.Chord F4 C5>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson,29,2
+57.5,<music21.chord.Chord F4 D5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson,29,2 1/2
+58.0,<music21.chord.Chord G3 B-4>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson,30,1
+58.5,<music21.chord.Chord E-4 B-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson,30,1 1/2
+59.0,<music21.chord.Chord F4 D5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson,30,2
+59.5,<music21.chord.Chord F4 E-5>,"[0, 2]","[3, 5]",Simpson_Invention_no6.xml,Simpson,30,2 1/2
+60.0,<music21.chord.Chord A3 B-4>,"[0, 1]","[9, 10]",Simpson_Invention_no6.xml,Simpson,31,1
+60.333333333333300,<music21.chord.Chord B-3 B-4>,[0],[10],Simpson_Invention_no6.xml,Simpson,31,1 1/3
+60.666666666666700,<music21.chord.Chord E-4 B-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson,31,1 2/3
+61.0,<music21.chord.Chord F4 D5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson,31,2
+61.333333333333300,<music21.chord.Chord F4 E-5>,"[0, 2]","[3, 5]",Simpson_Invention_no6.xml,Simpson,31,2 1/3
+61.666666666666700,<music21.chord.Chord F4 F5>,[0],[5],Simpson_Invention_no6.xml,Simpson,31,2 2/3
+62.0,<music21.chord.Chord B-3 B-4>,[0],[10],Simpson_Invention_no6.xml,Simpson,32,1
+62.5,<music21.chord.Chord E-4 B-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson,32,1 1/2
+63.0,<music21.chord.Chord F4 F5>,[0],[5],Simpson_Invention_no6.xml,Simpson,32,2
+63.5,<music21.chord.Chord F4 G5>,"[0, 2]","[5, 7]",Simpson_Invention_no6.xml,Simpson,32,2 1/2
+64.0,<music21.chord.Chord C4 A5>,"[0, 3]","[9, 0]",Simpson_Invention_no6.xml,Simpson,33,1
+64.33333333333330,<music21.chord.Chord D4 A5>,"[0, 5]","[9, 2]",Simpson_Invention_no6.xml,Simpson,33,1 1/3
+64.66666666666670,<music21.chord.Chord E-4 A5>,"[0, 6]","[3, 9]",Simpson_Invention_no6.xml,Simpson,33,1 2/3
+65.0,<music21.chord.Chord F4 A5>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson,33,2
+65.33333333333330,<music21.chord.Chord F4 G5>,"[0, 2]","[5, 7]",Simpson_Invention_no6.xml,Simpson,33,2 1/3
+65.66666666666670,<music21.chord.Chord F4 F5>,[0],[5],Simpson_Invention_no6.xml,Simpson,33,2 2/3
+66.0,<music21.chord.Chord D4 B-5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,34,1
+66.5,<music21.chord.Chord E-4 B-5>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson,34,1 1/2
+67.0,<music21.chord.Chord F4 A5>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson,34,2
+67.5,<music21.chord.Chord F4 G5>,"[0, 2]","[5, 7]",Simpson_Invention_no6.xml,Simpson,34,2 1/2
+68.0,<music21.chord.Chord A4 C6>,"[0, 3]","[9, 0]",Simpson_Invention_no6.xml,Simpson,35,1
+68.5,<music21.chord.Chord G4 C6>,"[0, 5]","[7, 0]",Simpson_Invention_no6.xml,Simpson,35,1 1/2
+69.0,<music21.chord.Chord F4 C6>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson,35,2
+69.33333333333330,<music21.chord.Chord F4 B-5>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson,35,2 1/3
+69.66666666666670,<music21.chord.Chord F4 A5>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson,35,2 2/3
+70.0,<music21.chord.Chord F3 D6>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson,36,1
+70.33333333333330,<music21.chord.Chord C4 D6>,"[0, 2]","[0, 2]",Simpson_Invention_no6.xml,Simpson,36,1 1/3
+70.66666666666670,<music21.chord.Chord E-4 D6>,"[0, 1]","[2, 3]",Simpson_Invention_no6.xml,Simpson,36,1 2/3
+71.0,<music21.chord.Chord F4 D6>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson,36,2
+71.33333333333330,<music21.chord.Chord F4 C6>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson,36,2 1/3
+71.66666666666670,<music21.chord.Chord F4 B-5>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson,36,2 2/3
+72.0,<music21.chord.Chord G4 E-6>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,37,1
+72.5,<music21.chord.Chord F4 B-5>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson,37,1 1/2
+73.0,<music21.chord.Chord E-4 G5>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,37,2
+73.5,<music21.chord.Chord E-4 C6>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson,37,2 1/2
+74.0,<music21.chord.Chord F4 C6>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson,38,1
+74.33333333333330,<music21.chord.Chord F4 B-5>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson,38,1 1/3
+74.66666666666670,<music21.chord.Chord F4 A5>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson,38,1 2/3
+75.0,<music21.chord.Chord F3 G5>,"[0, 2]","[5, 7]",Simpson_Invention_no6.xml,Simpson,38,2
+75.33333333333330,<music21.chord.Chord F3 F5>,[0],[5],Simpson_Invention_no6.xml,Simpson,38,2 1/3
+75.66666666666670,<music21.chord.Chord F3 E-5>,"[0, 2]","[3, 5]",Simpson_Invention_no6.xml,Simpson,38,2 2/3
+76.0,<music21.chord.Chord B-3 D5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,39,1
+76.5,<music21.chord.Chord G3 B-4>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson,39,1 1/2
+77.0,<music21.chord.Chord E-3 G4>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,39,2
+77.5,<music21.chord.Chord E-3 C5>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson,39,2 1/2
+78.0,<music21.chord.Chord F3 C5>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson,40,1
+78.33333333333330,<music21.chord.Chord F3 B-4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson,40,1 1/3
+78.66666666666670,<music21.chord.Chord F3 A4>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson,40,1 2/3
+79.0,<music21.chord.Chord F2 G4>,"[0, 2]","[5, 7]",Simpson_Invention_no6.xml,Simpson,40,2
+79.33333333333330,<music21.chord.Chord F2 F4>,[0],[5],Simpson_Invention_no6.xml,Simpson,40,2 1/3
+79.66666666666670,<music21.chord.Chord F2 E-4>,"[0, 2]","[3, 5]",Simpson_Invention_no6.xml,Simpson,40,2 2/3
+80.0,<music21.chord.Chord B-2>,[0],[10],Simpson_Invention_no6.xml,Simpson,41,1
+80.5,<music21.chord.Chord B-2 D4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,41,1 1/2
+81.0,<music21.chord.Chord F3 F4>,[0],[5],Simpson_Invention_no6.xml,Simpson,41,2
+81.5,<music21.chord.Chord D3 B-4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,41,2 1/2
+82.0,<music21.chord.Chord E-3 C5>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson,42,1
+82.5,<music21.chord.Chord E-3 B-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson,42,1 1/2
+83.0,<music21.chord.Chord F3 A4>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson,42,2
+83.5,<music21.chord.Chord F3 G4>,"[0, 2]","[5, 7]",Simpson_Invention_no6.xml,Simpson,42,2 1/2
+84.0,<music21.chord.Chord D3 F#4>,"[0, 4]","[2, 6]",Simpson_Invention_no6.xml,Simpson,43,1
+84.5,<music21.chord.Chord D3 D4>,[0],[2],Simpson_Invention_no6.xml,Simpson,43,1 1/2
+85.0,<music21.chord.Chord C3 F#4>,"[0, 6]","[0, 6]",Simpson_Invention_no6.xml,Simpson,43,2
+85.5,<music21.chord.Chord C3 A4>,"[0, 3]","[9, 0]",Simpson_Invention_no6.xml,Simpson,43,2 1/2
+86.0,<music21.chord.Chord A2 D5>,"[0, 5]","[9, 2]",Simpson_Invention_no6.xml,Simpson,44,1
+86.5,<music21.chord.Chord A2 C5>,"[0, 3]","[9, 0]",Simpson_Invention_no6.xml,Simpson,44,1 1/2
+87.0,<music21.chord.Chord D3 B-4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,44,2
+87.5,<music21.chord.Chord D3 A4>,"[0, 5]","[9, 2]",Simpson_Invention_no6.xml,Simpson,44,2 1/2
+88.0,<music21.chord.Chord G2 B-4>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson,45,1
+88.5,<music21.chord.Chord G2 G4>,[0],[7],Simpson_Invention_no6.xml,Simpson,45,1 1/2
+89.0,<music21.chord.Chord F3 B-4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson,45,2
+89.5,<music21.chord.Chord F3 D5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson,45,2 1/2
+90.0,<music21.chord.Chord E-3 F5>,"[0, 2]","[3, 5]",Simpson_Invention_no6.xml,Simpson,46,1
+90.5,<music21.chord.Chord E-3 E-5>,[0],[3],Simpson_Invention_no6.xml,Simpson,46,1 1/2
+91.0,<music21.chord.Chord F3 D5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson,46,2
+91.5,<music21.chord.Chord F3 C5>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson,46,2 1/2
+92.0,<music21.chord.Chord G3 B4>,"[0, 4]","[7, 11]",Simpson_Invention_no6.xml,Simpson,47,1
+92.5,<music21.chord.Chord G3 G4>,[0],[7],Simpson_Invention_no6.xml,Simpson,47,1 1/2
+93.0,<music21.chord.Chord G2 B4>,"[0, 4]","[7, 11]",Simpson_Invention_no6.xml,Simpson,47,2
+93.5,<music21.chord.Chord G2 D5>,"[0, 5]","[2, 7]",Simpson_Invention_no6.xml,Simpson,47,2 1/2
+94.0,<music21.chord.Chord A2 G5>,"[0, 2]","[7, 9]",Simpson_Invention_no6.xml,Simpson,48,1
+94.5,<music21.chord.Chord A2 F5>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson,48,1 1/2
+95.0,<music21.chord.Chord B2 E-5>,"[0, 4]","[11, 3]",Simpson_Invention_no6.xml,Simpson,48,2
+95.5,<music21.chord.Chord B2 D5>,"[0, 3]","[11, 2]",Simpson_Invention_no6.xml,Simpson,48,2 1/2
+96.0,<music21.chord.Chord C3 E-5>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson,49,1
+96.5,<music21.chord.Chord E-3 E-5>,[0],[3],Simpson_Invention_no6.xml,Simpson,49,1 1/2
+97.0,<music21.chord.Chord G3 E-5>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,49,2
+97.5,<music21.chord.Chord C4 E-5>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson,49,2 1/2
+98.0,<music21.chord.Chord D4 F5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson,50,1
+98.5,<music21.chord.Chord C4 E-5>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson,50,1 1/2
+99.0,<music21.chord.Chord B-3 D5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,50,2
+99.5,<music21.chord.Chord A-3 D5>,"[0, 6]","[2, 8]",Simpson_Invention_no6.xml,Simpson,50,2 1/2
+100.0,<music21.chord.Chord G3 E-5>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,51,1
+100.5,<music21.chord.Chord G3 B-4>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson,51,1 1/2
+101.0,<music21.chord.Chord B-3 E-5>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson,51,2
+101.5,<music21.chord.Chord E-4 G5>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,51,2 1/2
+102.0,<music21.chord.Chord F4 A-5>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson,52,1
+102.5,<music21.chord.Chord E-4 A-5>,"[0, 5]","[3, 8]",Simpson_Invention_no6.xml,Simpson,52,1 1/2
+103.0,<music21.chord.Chord D4 B-5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,52,2
+103.125,<music21.chord.Chord D4 A-5>,"[0, 6]","[2, 8]",Simpson_Invention_no6.xml,Simpson,52,2 1/8
+103.25,<music21.chord.Chord D4 B-5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,52,2 1/4
+103.375,<music21.chord.Chord D4 A-5>,"[0, 6]","[2, 8]",Simpson_Invention_no6.xml,Simpson,52,2 3/8
+103.5,<music21.chord.Chord B-3 B-5>,[0],[10],Simpson_Invention_no6.xml,Simpson,52,2 1/2
+103.625,<music21.chord.Chord B-3 A-5>,"[0, 2]","[8, 10]",Simpson_Invention_no6.xml,Simpson,52,2 5/8
+103.75,<music21.chord.Chord B-3 G5>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson,52,2 3/4
+103.875,<music21.chord.Chord B-3 A-5>,"[0, 2]","[8, 10]",Simpson_Invention_no6.xml,Simpson,52,2 7/8
+104.0,<music21.chord.Chord E-4 G5>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,53,1
+104.5,<music21.chord.Chord E-4 E-5>,[0],[3],Simpson_Invention_no6.xml,Simpson,53,1 1/2
+105.0,<music21.chord.Chord A-4 C5>,"[0, 4]","[8, 0]",Simpson_Invention_no6.xml,Simpson,53,2
+105.5,<music21.chord.Chord A-4 F5>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson,53,2 1/2
+106.0,<music21.chord.Chord G4 F5>,"[0, 2]","[5, 7]",Simpson_Invention_no6.xml,Simpson,54,1
+106.33333333333300,<music21.chord.Chord G4 E-5>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,54,1 1/3
+106.66666666666700,<music21.chord.Chord G4 D5>,"[0, 5]","[2, 7]",Simpson_Invention_no6.xml,Simpson,54,1 2/3
+107.0,<music21.chord.Chord B-3 D5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,54,2
+107.33333333333300,<music21.chord.Chord B-3 C5>,"[0, 2]","[10, 0]",Simpson_Invention_no6.xml,Simpson,54,2 1/3
+107.66666666666700,<music21.chord.Chord B-3 B-4>,[0],[10],Simpson_Invention_no6.xml,Simpson,54,2 2/3
+108.0,<music21.chord.Chord C4 E-5>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson,55,1
+108.5,<music21.chord.Chord C4 C5>,[0],[0],Simpson_Invention_no6.xml,Simpson,55,1 1/2
+109.0,<music21.chord.Chord B-3 G4>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson,55,2
+109.5,<music21.chord.Chord B-3 D5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,55,2 1/2
+110.0,<music21.chord.Chord A-3 D5>,"[0, 6]","[2, 8]",Simpson_Invention_no6.xml,Simpson,56,1
+110.33333333333300,<music21.chord.Chord A-3 C5>,"[0, 4]","[8, 0]",Simpson_Invention_no6.xml,Simpson,56,1 1/3
+110.66666666666700,<music21.chord.Chord A-3 B-4>,"[0, 2]","[8, 10]",Simpson_Invention_no6.xml,Simpson,56,1 2/3
+111.0,<music21.chord.Chord G3 B-4>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson,56,2
+111.33333333333300,<music21.chord.Chord G3 A-4>,"[0, 1]","[7, 8]",Simpson_Invention_no6.xml,Simpson,56,2 1/3
+111.66666666666700,<music21.chord.Chord G3 G4>,[0],[7],Simpson_Invention_no6.xml,Simpson,56,2 2/3
+112.0,<music21.chord.Chord F3 A-4>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson,57,1
+112.5,<music21.chord.Chord F3 F4>,[0],[5],Simpson_Invention_no6.xml,Simpson,57,1 1/2
+113.0,<music21.chord.Chord E-3 C4>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson,57,2
+113.5,<music21.chord.Chord E-3 G4>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,57,2 1/2
+114.0,<music21.chord.Chord D3 F4>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson,58,1
+114.33333333333300,<music21.chord.Chord D3 E-4>,"[0, 1]","[2, 3]",Simpson_Invention_no6.xml,Simpson,58,1 1/3
+114.66666666666700,<music21.chord.Chord D3 D4>,[0],[2],Simpson_Invention_no6.xml,Simpson,58,1 2/3
+115.0,<music21.chord.Chord C3 D4>,"[0, 2]","[0, 2]",Simpson_Invention_no6.xml,Simpson,58,2
+115.33333333333300,<music21.chord.Chord C3 C4>,[0],[0],Simpson_Invention_no6.xml,Simpson,58,2 1/3
+115.66666666666700,<music21.chord.Chord C3 B-3>,"[0, 2]","[10, 0]",Simpson_Invention_no6.xml,Simpson,58,2 2/3
+116.0,<music21.chord.Chord A-2 F4>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson,59,1
+116.5,<music21.chord.Chord A-2 C4>,"[0, 4]","[8, 0]",Simpson_Invention_no6.xml,Simpson,59,1 1/2
+117.0,<music21.chord.Chord A-2 A-3>,[0],[8],Simpson_Invention_no6.xml,Simpson,59,2
+117.5,<music21.chord.Chord A-2 F4>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson,59,2 1/2
+118.0,<music21.chord.Chord B-2 E-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson,60,1
+118.33333333333300,<music21.chord.Chord B-2 D4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,60,1 1/3
+118.66666666666700,<music21.chord.Chord B-2 C4>,"[0, 2]","[10, 0]",Simpson_Invention_no6.xml,Simpson,60,1 2/3
+119.0,<music21.chord.Chord B-1 C4>,"[0, 2]","[10, 0]",Simpson_Invention_no6.xml,Simpson,60,2
+119.33333333333300,<music21.chord.Chord B-1 B-3>,[0],[10],Simpson_Invention_no6.xml,Simpson,60,2 1/3
+119.66666666666700,<music21.chord.Chord B-1 A-3>,"[0, 2]","[8, 10]",Simpson_Invention_no6.xml,Simpson,60,2 2/3
+120.0,<music21.chord.Chord E-2 E-4>,[0],[3],Simpson_Invention_no6.xml,Simpson,61,1
+120.33333333333300,<music21.chord.Chord E-2 B-3>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson,61,1 1/3
+120.66666666666700,<music21.chord.Chord E-2 G3>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,61,1 2/3
+121.0,<music21.chord.Chord F2 A-3>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson,61,2
+121.5,<music21.chord.Chord F2 F4>,[0],[5],Simpson_Invention_no6.xml,Simpson,61,2 1/2
+122.0,<music21.chord.Chord G2 E-4>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,62,1
+122.5,<music21.chord.Chord G2 B-3>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson,62,1 1/2
+123.0,<music21.chord.Chord A-2 C4>,"[0, 4]","[8, 0]",Simpson_Invention_no6.xml,Simpson,62,2
+123.5,<music21.chord.Chord A-2 G4>,"[0, 1]","[7, 8]",Simpson_Invention_no6.xml,Simpson,62,2 1/2
+124.0,<music21.chord.Chord B-2 F4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson,63,1
+124.33333333333300,<music21.chord.Chord B-2 E-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson,63,1 1/3
+124.66666666666700,<music21.chord.Chord B-2 D4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,63,1 2/3
+125.0,<music21.chord.Chord C3 E-4>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson,63,2
+125.5,<music21.chord.Chord C3 C5>,[0],[0],Simpson_Invention_no6.xml,Simpson,63,2 1/2
+126.0,<music21.chord.Chord D3 B-4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,64,1
+126.5,<music21.chord.Chord D3 F4>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson,64,1 1/2
+127.0,<music21.chord.Chord E-3 G4>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,64,2
+127.5,<music21.chord.Chord E-3 E-5>,[0],[3],Simpson_Invention_no6.xml,Simpson,64,2 1/2
+128.0,<music21.chord.Chord F2 D5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson,65,1
+128.33333333333300,<music21.chord.Chord F2 C5>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson,65,1 1/3
+128.5,<music21.chord.Chord G2 C5>,"[0, 5]","[7, 0]",Simpson_Invention_no6.xml,Simpson,65,1 1/2
+128.66666666666700,<music21.chord.Chord G2 B-4>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson,65,1 2/3
+129.0,<music21.chord.Chord A-2 A-4>,[0],[8],Simpson_Invention_no6.xml,Simpson,65,2
+129.33333333333300,<music21.chord.Chord A-2 G4>,"[0, 1]","[7, 8]",Simpson_Invention_no6.xml,Simpson,65,2 1/3
+129.66666666666700,<music21.chord.Chord A-2 F4>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson,65,2 2/3
+130.0,<music21.chord.Chord B-2 E-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson,66,1
+130.5,<music21.chord.Chord B-2 B-4>,[0],[10],Simpson_Invention_no6.xml,Simpson,66,1 1/2
+131.0,<music21.chord.Chord B-1 D4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,66,2
+131.5,<music21.chord.Chord B-1 A-4>,"[0, 2]","[8, 10]",Simpson_Invention_no6.xml,Simpson,66,2 1/2
+132.0,<music21.chord.Chord E-2 E-4>,[0],[3],Simpson_Invention_no6.xml,Simpson,67,1
+132.33333333333300,<music21.chord.Chord E-2 F4>,"[0, 2]","[3, 5]",Simpson_Invention_no6.xml,Simpson,67,1 1/3
+132.66666666666700,<music21.chord.Chord E-2 G4>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,67,1 2/3
+133.0,<music21.chord.Chord F2 A-4>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson,67,2
+133.5,<music21.chord.Chord F2 F4>,[0],[5],Simpson_Invention_no6.xml,Simpson,67,2 1/2
+134.0,<music21.chord.Chord G2 E-4>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,68,1
+134.33333333333300,<music21.chord.Chord G2 G4>,[0],[7],Simpson_Invention_no6.xml,Simpson,68,1 1/3
+134.66666666666700,<music21.chord.Chord G2 B-4>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson,68,1 2/3
+135.0,<music21.chord.Chord A-2 C5>,"[0, 4]","[8, 0]",Simpson_Invention_no6.xml,Simpson,68,2
+135.5,<music21.chord.Chord A-2 G4>,"[0, 1]","[7, 8]",Simpson_Invention_no6.xml,Simpson,68,2 1/2
+136.0,<music21.chord.Chord B-2 F4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson,69,1
+136.33333333333300,<music21.chord.Chord B-2 B-4>,[0],[10],Simpson_Invention_no6.xml,Simpson,69,1 1/3
+136.66666666666700,<music21.chord.Chord B-2 D5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,69,1 2/3
+137.0,<music21.chord.Chord C3 E-5>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson,69,2
+137.5,<music21.chord.Chord C3 C5>,[0],[0],Simpson_Invention_no6.xml,Simpson,69,2 1/2
+138.0,<music21.chord.Chord D3 B-4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,70,1
+138.33333333333300,<music21.chord.Chord D3 E-5>,"[0, 1]","[2, 3]",Simpson_Invention_no6.xml,Simpson,70,1 1/3
+138.66666666666700,<music21.chord.Chord D3 F5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson,70,1 2/3
+139.0,<music21.chord.Chord E-3 G5>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,70,2
+139.5,<music21.chord.Chord E-3 E-5>,[0],[3],Simpson_Invention_no6.xml,Simpson,70,2 1/2
+140.0,<music21.chord.Chord F3 C5>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson,71,1
+140.33333333333300,<music21.chord.Chord F3 B-5>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson,71,1 1/3
+140.5,<music21.chord.Chord G3 B-5>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson,71,1 1/2
+140.66666666666700,<music21.chord.Chord G3 A-5>,"[0, 1]","[7, 8]",Simpson_Invention_no6.xml,Simpson,71,1 2/3
+141.0,<music21.chord.Chord A-3 G5>,"[0, 1]","[7, 8]",Simpson_Invention_no6.xml,Simpson,71,2
+141.33333333333300,<music21.chord.Chord A-3 F5>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson,71,2 1/3
+141.66666666666700,<music21.chord.Chord A-3 E-5>,"[0, 5]","[3, 8]",Simpson_Invention_no6.xml,Simpson,71,2 2/3
+142.0,<music21.chord.Chord B-3 D5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,72,1
+142.33333333333300,<music21.chord.Chord B-3 C5>,"[0, 2]","[10, 0]",Simpson_Invention_no6.xml,Simpson,72,1 1/3
+142.66666666666700,<music21.chord.Chord B-3 B-4>,[0],[10],Simpson_Invention_no6.xml,Simpson,72,1 2/3
+143.0,<music21.chord.Chord B-2 A-4>,"[0, 2]","[8, 10]",Simpson_Invention_no6.xml,Simpson,72,2
+143.33333333333300,<music21.chord.Chord B-2 G4>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson,72,2 1/3
+143.66666666666700,<music21.chord.Chord B-2 F4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson,72,2 2/3
+144.0,<music21.chord.Chord E-3 E-4>,[0],[3],Simpson_Invention_no6.xml,Simpson,73,1
+144.5,<music21.chord.Chord D3 E-4>,"[0, 1]","[2, 3]",Simpson_Invention_no6.xml,Simpson,73,1 1/2
+145.0,<music21.chord.Chord E-3 E-4>,[0],[3],Simpson_Invention_no6.xml,Simpson,73,2
+145.5,<music21.chord.Chord C3 E-4>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson,73,2 1/2
+146.0,<music21.chord.Chord E-3 D4>,"[0, 1]","[2, 3]",Simpson_Invention_no6.xml,Simpson,74,1
+146.33333333333300,<music21.chord.Chord C3 D4>,"[0, 2]","[0, 2]",Simpson_Invention_no6.xml,Simpson,74,1 1/3
+146.66666666666700,<music21.chord.Chord B-2 D4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,74,1 2/3
+147.0,<music21.chord.Chord E-3 C4>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson,74,2
+147.5,<music21.chord.Chord A-2 C4>,"[0, 4]","[8, 0]",Simpson_Invention_no6.xml,Simpson,74,2 1/2
+148.0,<music21.chord.Chord E-3 B-3>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson,75,1
+148.5,<music21.chord.Chord G2 B-3>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson,75,1 1/2
+149.0,<music21.chord.Chord E-3 B-3>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson,75,2
+149.5,<music21.chord.Chord D3 B-3>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,75,2 1/2
+150.0,<music21.chord.Chord E-3 A-3>,"[0, 5]","[3, 8]",Simpson_Invention_no6.xml,Simpson,76,1
+150.33333333333300,<music21.chord.Chord D3 A-3>,"[0, 6]","[2, 8]",Simpson_Invention_no6.xml,Simpson,76,1 1/3
+150.66666666666700,<music21.chord.Chord C3 A-3>,"[0, 4]","[8, 0]",Simpson_Invention_no6.xml,Simpson,76,1 2/3
+151.0,<music21.chord.Chord E-3 G3>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,76,2
+151.5,<music21.chord.Chord B-2 G3>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson,76,2 1/2
+152.0,<music21.chord.Chord E-3 C4>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson,77,1
+152.5,<music21.chord.Chord A-2 C4>,"[0, 4]","[8, 0]",Simpson_Invention_no6.xml,Simpson,77,1 1/2
+153.0,<music21.chord.Chord E-3 B-3>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson,77,2
+153.5,<music21.chord.Chord G2 B-3>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson,77,2 1/2
+154.0,<music21.chord.Chord E-3 A-4>,"[0, 5]","[3, 8]",Simpson_Invention_no6.xml,Simpson,78,1
+154.33333333333300,<music21.chord.Chord D3 A-4>,"[0, 6]","[2, 8]",Simpson_Invention_no6.xml,Simpson,78,1 1/3
+154.66666666666700,<music21.chord.Chord F2 A-4>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson,78,1 2/3
+155.0,<music21.chord.Chord E-3 G4>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,78,2
+155.5,<music21.chord.Chord E-2 G4>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,78,2 1/2
+156.0,<music21.chord.Chord E-3 C5>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson,79,1
+156.5,<music21.chord.Chord A-2 C5>,"[0, 4]","[8, 0]",Simpson_Invention_no6.xml,Simpson,79,1 1/2
+157.0,<music21.chord.Chord E-3 B-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson,79,2
+157.5,<music21.chord.Chord G2 B-4>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson,79,2 1/2
+158.0,<music21.chord.Chord E-3 A-5>,"[0, 5]","[3, 8]",Simpson_Invention_no6.xml,Simpson,80,1
+158.33333333333300,<music21.chord.Chord D3 A-5>,"[0, 6]","[2, 8]",Simpson_Invention_no6.xml,Simpson,80,1 1/3
+158.66666666666700,<music21.chord.Chord F2 A-5>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson,80,1 2/3
+159.0,<music21.chord.Chord E-3 G5>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,80,2
+159.5,<music21.chord.Chord E-2 G5>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,80,2 1/2
+160.0,<music21.chord.Chord F3 F5>,[0],[5],Simpson_Invention_no6.xml,Simpson,81,1
+160.5,<music21.chord.Chord E-3 F5>,"[0, 2]","[3, 5]",Simpson_Invention_no6.xml,Simpson,81,1 1/2
+161.0,<music21.chord.Chord F3 F5>,[0],[5],Simpson_Invention_no6.xml,Simpson,81,2
+161.5,<music21.chord.Chord D3 F5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson,81,2 1/2
+162.0,<music21.chord.Chord F3 E-5>,"[0, 2]","[3, 5]",Simpson_Invention_no6.xml,Simpson,82,1
+162.33333333333300,<music21.chord.Chord E-3 E-5>,[0],[3],Simpson_Invention_no6.xml,Simpson,82,1 1/3
+162.66666666666700,<music21.chord.Chord C3 E-5>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson,82,1 2/3
+163.0,<music21.chord.Chord F3 D5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson,82,2
+163.5,<music21.chord.Chord B-2 D5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,82,2 1/2
+164.0,<music21.chord.Chord F3 C5>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson,83,1
+164.5,<music21.chord.Chord A2 C5>,"[0, 3]","[9, 0]",Simpson_Invention_no6.xml,Simpson,83,1 1/2
+165.0,<music21.chord.Chord F3 C5>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson,83,2
+165.5,<music21.chord.Chord E-3 C5>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson,83,2 1/2
+166.0,<music21.chord.Chord F3 B-4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson,84,1
+166.33333333333300,<music21.chord.Chord E-3 B-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson,84,1 1/3
+166.66666666666700,<music21.chord.Chord D3 B-4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,84,1 2/3
+167.0,<music21.chord.Chord F3 A4>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson,84,2
+167.5,<music21.chord.Chord C3 A4>,"[0, 3]","[9, 0]",Simpson_Invention_no6.xml,Simpson,84,2 1/2
+168.0,<music21.chord.Chord F3 G4>,"[0, 2]","[5, 7]",Simpson_Invention_no6.xml,Simpson,85,1
+168.5,<music21.chord.Chord B-2 G4>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson,85,1 1/2
+169.0,<music21.chord.Chord F3 F4>,[0],[5],Simpson_Invention_no6.xml,Simpson,85,2
+169.5,<music21.chord.Chord A2 F4>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson,85,2 1/2
+170.0,<music21.chord.Chord F3 E-5>,"[0, 2]","[3, 5]",Simpson_Invention_no6.xml,Simpson,86,1
+170.33333333333300,<music21.chord.Chord E-3 E-5>,[0],[3],Simpson_Invention_no6.xml,Simpson,86,1 1/3
+170.66666666666700,<music21.chord.Chord G2 E-5>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,86,1 2/3
+171.0,<music21.chord.Chord F3 D5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson,86,2
+171.5,<music21.chord.Chord F2 D5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson,86,2 1/2
+172.0,<music21.chord.Chord F3 D5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson,87,1
+172.5,<music21.chord.Chord B-2 D5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,87,1 1/2
+173.0,<music21.chord.Chord F3 C5>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson,87,2
+173.5,<music21.chord.Chord A2 C5>,"[0, 3]","[9, 0]",Simpson_Invention_no6.xml,Simpson,87,2 1/2
+174.0,<music21.chord.Chord F3 B-5>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson,88,1
+174.33333333333300,<music21.chord.Chord E-3 B-5>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson,88,1 1/3
+174.66666666666700,<music21.chord.Chord G2 B-5>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson,88,1 2/3
+175.0,<music21.chord.Chord F3 A5>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson,88,2
+175.5,<music21.chord.Chord F2 A5>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson,88,2 1/2
+176.0,<music21.chord.Chord G3 G5>,[0],[7],Simpson_Invention_no6.xml,Simpson,89,1
+176.5,<music21.chord.Chord F3 G5>,"[0, 2]","[5, 7]",Simpson_Invention_no6.xml,Simpson,89,1 1/2
+177.0,<music21.chord.Chord G3 G5>,[0],[7],Simpson_Invention_no6.xml,Simpson,89,2
+177.5,<music21.chord.Chord E-3 G5>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,89,2 1/2
+178.0,<music21.chord.Chord G3 F5>,"[0, 2]","[5, 7]",Simpson_Invention_no6.xml,Simpson,90,1
+178.33333333333300,<music21.chord.Chord F3 F5>,[0],[5],Simpson_Invention_no6.xml,Simpson,90,1 1/3
+178.66666666666700,<music21.chord.Chord D3 F5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson,90,1 2/3
+179.0,<music21.chord.Chord G3 E-5>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,90,2
+179.5,<music21.chord.Chord C3 E-5>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson,90,2 1/2
+180.0,<music21.chord.Chord G3 D5>,"[0, 5]","[2, 7]",Simpson_Invention_no6.xml,Simpson,91,1
+180.5,<music21.chord.Chord B2 D5>,"[0, 3]","[11, 2]",Simpson_Invention_no6.xml,Simpson,91,1 1/2
+181.0,<music21.chord.Chord G3 D5>,"[0, 5]","[2, 7]",Simpson_Invention_no6.xml,Simpson,91,2
+181.5,<music21.chord.Chord F3 D5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson,91,2 1/2
+182.0,<music21.chord.Chord G3 C5>,"[0, 5]","[7, 0]",Simpson_Invention_no6.xml,Simpson,92,1
+182.33333333333300,<music21.chord.Chord F3 C5>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson,92,1 1/3
+182.66666666666700,<music21.chord.Chord E-3 C5>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson,92,1 2/3
+183.0,<music21.chord.Chord G3 B4>,"[0, 4]","[7, 11]",Simpson_Invention_no6.xml,Simpson,92,2
+183.5,<music21.chord.Chord D3 B4>,"[0, 3]","[11, 2]",Simpson_Invention_no6.xml,Simpson,92,2 1/2
+184.0,<music21.chord.Chord G3 A-4>,"[0, 1]","[7, 8]",Simpson_Invention_no6.xml,Simpson,93,1
+184.5,<music21.chord.Chord C3 A-4>,"[0, 4]","[8, 0]",Simpson_Invention_no6.xml,Simpson,93,1 1/2
+185.0,<music21.chord.Chord G3 G4>,[0],[7],Simpson_Invention_no6.xml,Simpson,93,2
+185.5,<music21.chord.Chord B2 G4>,"[0, 4]","[7, 11]",Simpson_Invention_no6.xml,Simpson,93,2 1/2
+186.0,<music21.chord.Chord G3 F5>,"[0, 2]","[5, 7]",Simpson_Invention_no6.xml,Simpson,94,1
+186.33333333333300,<music21.chord.Chord F3 F5>,[0],[5],Simpson_Invention_no6.xml,Simpson,94,1 1/3
+186.66666666666700,<music21.chord.Chord D3 F5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson,94,1 2/3
+187.0,<music21.chord.Chord G3 E-5>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,94,2
+187.5,<music21.chord.Chord C3 E-5>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson,94,2 1/2
+188.0,<music21.chord.Chord G3 A-5>,"[0, 1]","[7, 8]",Simpson_Invention_no6.xml,Simpson,95,1
+188.5,<music21.chord.Chord C3 A-5>,"[0, 4]","[8, 0]",Simpson_Invention_no6.xml,Simpson,95,1 1/2
+189.0,<music21.chord.Chord G3 G5>,[0],[7],Simpson_Invention_no6.xml,Simpson,95,2
+189.5,<music21.chord.Chord B2 G5>,"[0, 4]","[7, 11]",Simpson_Invention_no6.xml,Simpson,95,2 1/2
+190.0,<music21.chord.Chord G3 F6>,"[0, 2]","[5, 7]",Simpson_Invention_no6.xml,Simpson,96,1
+190.33333333333300,<music21.chord.Chord F3 F6>,[0],[5],Simpson_Invention_no6.xml,Simpson,96,1 1/3
+190.66666666666700,<music21.chord.Chord D3 F6>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson,96,1 2/3
+191.0,<music21.chord.Chord G3 E-6>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,96,2
+191.5,<music21.chord.Chord C3 E-6>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson,96,2 1/2
+192.0,<music21.chord.Chord A-3 D6>,"[0, 6]","[2, 8]",Simpson_Invention_no6.xml,Simpson,97,1
+192.33333333333300,<music21.chord.Chord G3 C6>,"[0, 5]","[7, 0]",Simpson_Invention_no6.xml,Simpson,97,1 1/3
+192.66666666666700,<music21.chord.Chord F3 B-5>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson,97,1 2/3
+193.0,<music21.chord.Chord G3 C6>,"[0, 5]","[7, 0]",Simpson_Invention_no6.xml,Simpson,97,2
+193.33333333333300,<music21.chord.Chord F3 B-5>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson,97,2 1/3
+193.66666666666700,<music21.chord.Chord E-3 A-5>,"[0, 5]","[3, 8]",Simpson_Invention_no6.xml,Simpson,97,2 2/3
+194.0,<music21.chord.Chord G3 B-5>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson,98,1
+194.33333333333300,<music21.chord.Chord F3 A-5>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson,98,1 1/3
+194.66666666666700,<music21.chord.Chord E-3 G5>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,98,1 2/3
+195.0,<music21.chord.Chord F3 A-5>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson,98,2
+195.5,<music21.chord.Chord D3 F5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson,98,2 1/2
+196.0,<music21.chord.Chord E-3 G5>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,99,1
+196.5,<music21.chord.Chord E-3 C5>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson,99,1 1/2
+197.0,<music21.chord.Chord F3 A-4>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson,99,2
+197.5,<music21.chord.Chord F3 F5>,[0],[5],Simpson_Invention_no6.xml,Simpson,99,2 1/2
+198.0,<music21.chord.Chord B-3 G4>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson,100,1
+198.33333333333300,<music21.chord.Chord B-3 B-4>,[0],[10],Simpson_Invention_no6.xml,Simpson,100,1 1/3
+198.66666666666700,<music21.chord.Chord B-3 E-5>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson,100,1 2/3
+199.0,<music21.chord.Chord B-2 F4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson,100,2
+199.5,<music21.chord.Chord B-2 D5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,100,2 1/2
+200.0,<music21.chord.Chord C3 E-5>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson,101,1
+200.5,<music21.chord.Chord C3 C5>,[0],[0],Simpson_Invention_no6.xml,Simpson,101,1 1/2
+201.0,<music21.chord.Chord B-2 G4>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson,101,2
+201.5,<music21.chord.Chord B-2 D5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,101,2 1/2
+202.0,<music21.chord.Chord A-2 C5>,"[0, 4]","[8, 0]",Simpson_Invention_no6.xml,Simpson,102,1
+202.33333333333300,<music21.chord.Chord A-2 B-4>,"[0, 2]","[8, 10]",Simpson_Invention_no6.xml,Simpson,102,1 1/3
+202.66666666666700,<music21.chord.Chord A-2 A-4>,[0],[8],Simpson_Invention_no6.xml,Simpson,102,1 2/3
+203.0,<music21.chord.Chord G2 E-4>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,102,2
+203.5,<music21.chord.Chord G2 B-4>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson,102,2 1/2
+204.0,<music21.chord.Chord F2 A-4>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson,103,1
+204.5,<music21.chord.Chord F2 F4>,[0],[5],Simpson_Invention_no6.xml,Simpson,103,1 1/2
+205.0,<music21.chord.Chord A-2 C4>,"[0, 4]","[8, 0]",Simpson_Invention_no6.xml,Simpson,103,2
+205.5,<music21.chord.Chord A-2 A-3>,[0],[8],Simpson_Invention_no6.xml,Simpson,103,2 1/2
+206.0,<music21.chord.Chord B-2 G3>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson,104,1
+206.33333333333300,<music21.chord.Chord B-2 B-3>,[0],[10],Simpson_Invention_no6.xml,Simpson,104,1 1/3
+206.66666666666700,<music21.chord.Chord B-2 E-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson,104,1 2/3
+207.0,<music21.chord.Chord B-1 F3>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson,104,2
+207.33333333333300,<music21.chord.Chord B-1 A-3>,"[0, 2]","[8, 10]",Simpson_Invention_no6.xml,Simpson,104,2 1/3
+207.66666666666700,<music21.chord.Chord B-1 D4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,104,2 2/3
+208.0,<music21.chord.Chord E-2>,[0],[3],Simpson_Invention_no6.xml,Simpson,105,1
+208.5,<music21.chord.Chord E-2 G3>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,105,1 1/2
+209.0,<music21.chord.Chord G2 B-3>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson,105,2
+209.5,<music21.chord.Chord B-2 E-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson,105,2 1/2
+210.0,<music21.chord.Chord A-2 F4>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson,106,1
+210.5,<music21.chord.Chord A-2 E-4>,"[0, 5]","[3, 8]",Simpson_Invention_no6.xml,Simpson,106,1 1/2
+211.0,<music21.chord.Chord B-2 D4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,106,2
+211.5,<music21.chord.Chord B-2 C4>,"[0, 2]","[10, 0]",Simpson_Invention_no6.xml,Simpson,106,2 1/2
+212.0,<music21.chord.Chord E-2 B-3>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson,107,1
+212.5,<music21.chord.Chord G2 E-4>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,107,1 1/2
+213.0,<music21.chord.Chord B-2 E-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson,107,2
+213.5,<music21.chord.Chord E-3 G4>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,107,2 1/2
+214.0,<music21.chord.Chord F3 A-4>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson,108,1
+214.5,<music21.chord.Chord E-3 A-4>,"[0, 5]","[3, 8]",Simpson_Invention_no6.xml,Simpson,108,1 1/2
+215.0,<music21.chord.Chord D3 B-4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,108,2
+215.125,<music21.chord.Chord D3 A-4>,"[0, 6]","[2, 8]",Simpson_Invention_no6.xml,Simpson,108,2 1/8
+215.25,<music21.chord.Chord D3 B-4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,108,2 1/4
+215.375,<music21.chord.Chord D3 A-4>,"[0, 6]","[2, 8]",Simpson_Invention_no6.xml,Simpson,108,2 3/8
+215.5,<music21.chord.Chord B-2 B-4>,[0],[10],Simpson_Invention_no6.xml,Simpson,108,2 1/2
+215.625,<music21.chord.Chord B-2 A-4>,"[0, 2]","[8, 10]",Simpson_Invention_no6.xml,Simpson,108,2 5/8
+215.75,<music21.chord.Chord B-2 G4>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson,108,2 3/4
+215.875,<music21.chord.Chord B-2 A-4>,"[0, 2]","[8, 10]",Simpson_Invention_no6.xml,Simpson,108,2 7/8
+216.0,<music21.chord.Chord E-3 G4>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,109,1
+216.5,<music21.chord.Chord E-3 G4>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,109,1 1/2
+217.0,<music21.chord.Chord G3 B-4>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson,109,2
+217.5,<music21.chord.Chord B-3 E-5>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson,109,2 1/2
+218.0,<music21.chord.Chord A-3 F5>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson,110,1
+218.5,<music21.chord.Chord A-3 E-5>,"[0, 5]","[3, 8]",Simpson_Invention_no6.xml,Simpson,110,1 1/2
+219.0,<music21.chord.Chord B-3 D5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,110,2
+219.5,<music21.chord.Chord B-3 C5>,"[0, 2]","[10, 0]",Simpson_Invention_no6.xml,Simpson,110,2 1/2
+220.0,<music21.chord.Chord E-3 B-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson,111,1
+220.5,<music21.chord.Chord G3 E-5>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,111,1 1/2
+221.0,<music21.chord.Chord B-3 E-5>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson,111,2
+221.5,<music21.chord.Chord E-4 G5>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,111,2 1/2
+222.0,<music21.chord.Chord F4 A-5>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson,112,1
+222.5,<music21.chord.Chord E-4 A-5>,"[0, 5]","[3, 8]",Simpson_Invention_no6.xml,Simpson,112,1 1/2
+223.0,<music21.chord.Chord D4 B-5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,112,2
+223.125,<music21.chord.Chord D4 A-5>,"[0, 6]","[2, 8]",Simpson_Invention_no6.xml,Simpson,112,2 1/8
+223.25,<music21.chord.Chord D4 B-5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,112,2 1/4
+223.375,<music21.chord.Chord D4 A-5>,"[0, 6]","[2, 8]",Simpson_Invention_no6.xml,Simpson,112,2 3/8
+223.5,<music21.chord.Chord C4 B-5>,"[0, 2]","[10, 0]",Simpson_Invention_no6.xml,Simpson,112,2 1/2
+223.625,<music21.chord.Chord C4 A-5>,"[0, 4]","[8, 0]",Simpson_Invention_no6.xml,Simpson,112,2 5/8
+223.75,<music21.chord.Chord C4 G5>,"[0, 5]","[7, 0]",Simpson_Invention_no6.xml,Simpson,112,2 3/4
+223.875,<music21.chord.Chord C4 A-5>,"[0, 4]","[8, 0]",Simpson_Invention_no6.xml,Simpson,112,2 7/8
+224.0,<music21.chord.Chord B3 G5>,"[0, 4]","[7, 11]",Simpson_Invention_no6.xml,Simpson,113,1
+224.5,<music21.chord.Chord D4>,[0],[2],Simpson_Invention_no6.xml,Simpson,113,1 1/2
+225.0,<music21.chord.Chord F4 A5>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson,113,2
+225.5,<music21.chord.Chord G4 B5>,"[0, 4]","[7, 11]",Simpson_Invention_no6.xml,Simpson,113,2 1/2
+226.0,<music21.chord.Chord A-4 C6>,"[0, 4]","[8, 0]",Simpson_Invention_no6.xml,Simpson,114,1
+226.5,<music21.chord.Chord F4 A-5>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson,114,1 1/2
+227.0,<music21.chord.Chord D4 F5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson,114,2
+227.5,<music21.chord.Chord B3 D5>,"[0, 3]","[11, 2]",Simpson_Invention_no6.xml,Simpson,114,2 1/2
+228.0,<music21.chord.Chord G4 C6>,"[0, 5]","[7, 0]",Simpson_Invention_no6.xml,Simpson,115,1
+228.5,<music21.chord.Chord E-4 G5>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,115,1 1/2
+229.0,<music21.chord.Chord C4 E-5>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson,115,2
+229.5,<music21.chord.Chord G3 C5>,"[0, 5]","[7, 0]",Simpson_Invention_no6.xml,Simpson,115,2 1/2
+230.0,<music21.chord.Chord F4 B5>,"[0, 6]","[5, 11]",Simpson_Invention_no6.xml,Simpson,116,1
+230.5,<music21.chord.Chord D4 G5>,"[0, 5]","[2, 7]",Simpson_Invention_no6.xml,Simpson,116,1 1/2
+231.0,<music21.chord.Chord B3 F5>,"[0, 6]","[5, 11]",Simpson_Invention_no6.xml,Simpson,116,2
+231.5,<music21.chord.Chord G3 D5>,"[0, 5]","[2, 7]",Simpson_Invention_no6.xml,Simpson,116,2 1/2
+232.0,<music21.chord.Chord C4 C6>,[0],[0],Simpson_Invention_no6.xml,Simpson,117,1
+232.5,<music21.chord.Chord C4 G5>,"[0, 5]","[7, 0]",Simpson_Invention_no6.xml,Simpson,117,1 1/2
+233.0,<music21.chord.Chord C4 E-5>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson,117,2
+233.5,<music21.chord.Chord C4 C5>,[0],[0],Simpson_Invention_no6.xml,Simpson,117,2 1/2
+234.0,<music21.chord.Chord F4 C6>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson,118,1
+234.5,<music21.chord.Chord A-4 C6>,"[0, 4]","[8, 0]",Simpson_Invention_no6.xml,Simpson,118,1 1/2
+235.0,<music21.chord.Chord G4 E-6>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,118,2
+235.125,<music21.chord.Chord G4 D6>,"[0, 5]","[2, 7]",Simpson_Invention_no6.xml,Simpson,118,2 1/8
+235.25,<music21.chord.Chord G4 E-6>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,118,2 1/4
+235.375,<music21.chord.Chord G4 D6>,"[0, 5]","[2, 7]",Simpson_Invention_no6.xml,Simpson,118,2 3/8
+235.5,<music21.chord.Chord G3 E-6>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,118,2 1/2
+235.625,<music21.chord.Chord G3 D6>,"[0, 5]","[2, 7]",Simpson_Invention_no6.xml,Simpson,118,2 5/8
+235.75,<music21.chord.Chord G3 C6>,"[0, 5]","[7, 0]",Simpson_Invention_no6.xml,Simpson,118,2 3/4
+235.875,<music21.chord.Chord G3 D6>,"[0, 5]","[2, 7]",Simpson_Invention_no6.xml,Simpson,118,2 7/8
+236.0,<music21.chord.Chord C4 E-6>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson,119,1
+236.5,<music21.chord.Chord C4 C6>,[0],[0],Simpson_Invention_no6.xml,Simpson,119,1 1/2
+237.0,<music21.chord.Chord C4 G5>,"[0, 5]","[7, 0]",Simpson_Invention_no6.xml,Simpson,119,2
+237.5,<music21.chord.Chord C4 E-5>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson,119,2 1/2
+238.0,<music21.chord.Chord F3 C6>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson,120,1
+238.5,<music21.chord.Chord A-3 C6>,"[0, 4]","[8, 0]",Simpson_Invention_no6.xml,Simpson,120,1 1/2
+239.0,<music21.chord.Chord G3 E-6>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,120,2
+239.125,<music21.chord.Chord G3 D6>,"[0, 5]","[2, 7]",Simpson_Invention_no6.xml,Simpson,120,2 1/8
+239.25,<music21.chord.Chord G3 E-6>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,120,2 1/4
+239.375,<music21.chord.Chord G3 D6>,"[0, 5]","[2, 7]",Simpson_Invention_no6.xml,Simpson,120,2 3/8
+239.5,<music21.chord.Chord G2 E-6>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,120,2 1/2
+239.625,<music21.chord.Chord G2 D6>,"[0, 5]","[2, 7]",Simpson_Invention_no6.xml,Simpson,120,2 5/8
+239.75,<music21.chord.Chord G2 C6>,"[0, 5]","[7, 0]",Simpson_Invention_no6.xml,Simpson,120,2 3/4
+239.875,<music21.chord.Chord G2 D6>,"[0, 5]","[2, 7]",Simpson_Invention_no6.xml,Simpson,120,2 7/8
+240.0,<music21.chord.Chord C3 E-6>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson,121,1
+240.5,<music21.chord.Chord C3 C6>,[0],[0],Simpson_Invention_no6.xml,Simpson,121,1 1/2
+241.0,<music21.chord.Chord G3 B-5>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson,121,2
+241.5,<music21.chord.Chord E-3 G5>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,121,2 1/2
+242.0,<music21.chord.Chord F3 A-5>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson,122,1
+242.5,<music21.chord.Chord F3 C5>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson,122,1 1/2
+243.0,<music21.chord.Chord A-3 B-5>,"[0, 2]","[8, 10]",Simpson_Invention_no6.xml,Simpson,122,2
+243.125,<music21.chord.Chord G3 B-5>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson,122,2 1/8
+243.25,<music21.chord.Chord A-3 B-5>,"[0, 2]","[8, 10]",Simpson_Invention_no6.xml,Simpson,122,2 1/4
+243.375,<music21.chord.Chord G3 B-5>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson,122,2 3/8
+243.5,<music21.chord.Chord A-3 C5>,"[0, 4]","[8, 0]",Simpson_Invention_no6.xml,Simpson,122,2 1/2
+243.625,<music21.chord.Chord G3 C5>,"[0, 5]","[7, 0]",Simpson_Invention_no6.xml,Simpson,122,2 5/8
+243.75,<music21.chord.Chord F3 C5>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson,122,2 3/4
+243.875,<music21.chord.Chord G3 C5>,"[0, 5]","[7, 0]",Simpson_Invention_no6.xml,Simpson,122,2 7/8
+244.0,<music21.chord.Chord E-4 C6>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson,123,1
+244.5,<music21.chord.Chord C4 C6>,[0],[0],Simpson_Invention_no6.xml,Simpson,123,1 1/2
+245.0,<music21.chord.Chord G3 B-5>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson,123,2
+245.5,<music21.chord.Chord E-3 G5>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,123,2 1/2
+246.0,<music21.chord.Chord F3 A-5>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson,124,1
+246.5,<music21.chord.Chord F3 C5>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson,124,1 1/2
+247.0,<music21.chord.Chord A-3 B-5>,"[0, 2]","[8, 10]",Simpson_Invention_no6.xml,Simpson,124,2
+247.125,<music21.chord.Chord G3 B-5>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson,124,2 1/8
+247.25,<music21.chord.Chord A-3 B-5>,"[0, 2]","[8, 10]",Simpson_Invention_no6.xml,Simpson,124,2 1/4
+247.375,<music21.chord.Chord G3 B-5>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson,124,2 3/8
+247.5,<music21.chord.Chord A-3 C5>,"[0, 4]","[8, 0]",Simpson_Invention_no6.xml,Simpson,124,2 1/2
+247.625,<music21.chord.Chord G3 C5>,"[0, 5]","[7, 0]",Simpson_Invention_no6.xml,Simpson,124,2 5/8
+247.75,<music21.chord.Chord F3 C5>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson,124,2 3/4
+247.875,<music21.chord.Chord G3 C5>,"[0, 5]","[7, 0]",Simpson_Invention_no6.xml,Simpson,124,2 7/8
+248.0,<music21.chord.Chord C4 C6>,[0],[0],Simpson_Invention_no6.xml,Simpson,125,1
+248.5,<music21.chord.Chord C4 E-5>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson,125,1 1/2
+249.0,<music21.chord.Chord D4 E-5>,"[0, 1]","[2, 3]",Simpson_Invention_no6.xml,Simpson,125,2
+249.5,<music21.chord.Chord D4 F5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson,125,2 1/2
+250.0,<music21.chord.Chord D3 F5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson,126,1
+250.5,<music21.chord.Chord D3 A4>,"[0, 5]","[9, 2]",Simpson_Invention_no6.xml,Simpson,126,1 1/2
+251.0,<music21.chord.Chord G3 A4>,"[0, 2]","[7, 9]",Simpson_Invention_no6.xml,Simpson,126,2
+251.5,<music21.chord.Chord G3 B4>,"[0, 4]","[7, 11]",Simpson_Invention_no6.xml,Simpson,126,2 1/2
+252.0,<music21.chord.Chord G2 B4>,"[0, 4]","[7, 11]",Simpson_Invention_no6.xml,Simpson,127,1
+252.5,<music21.chord.Chord G2 D4>,"[0, 5]","[2, 7]",Simpson_Invention_no6.xml,Simpson,127,1 1/2
+253.0,<music21.chord.Chord C3 D4>,"[0, 2]","[0, 2]",Simpson_Invention_no6.xml,Simpson,127,2
+253.5,<music21.chord.Chord C3 E-4>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson,127,2 1/2
+254.0,<music21.chord.Chord C2 E-4>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson,128,1
+254.5,<music21.chord.Chord C2 G3>,"[0, 5]","[7, 0]",Simpson_Invention_no6.xml,Simpson,128,1 1/2
+255.0,<music21.chord.Chord F2 G3>,"[0, 2]","[5, 7]",Simpson_Invention_no6.xml,Simpson,128,2
+255.5,<music21.chord.Chord F2 A-3>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson,128,2 1/2
+256.0,<music21.chord.Chord F3 A-4>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson,129,1
+256.5,<music21.chord.Chord F3 C4>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson,129,1 1/2
+257.0,<music21.chord.Chord B-2 C4>,"[0, 2]","[10, 0]",Simpson_Invention_no6.xml,Simpson,129,2
+257.5,<music21.chord.Chord B-2 D4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,129,2 1/2
+258.0,<music21.chord.Chord E-3 G4>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,130,1
+258.5,<music21.chord.Chord E-3 B-3>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson,130,1 1/2
+259.0,<music21.chord.Chord A-2 B-3>,"[0, 2]","[8, 10]",Simpson_Invention_no6.xml,Simpson,130,2
+259.5,<music21.chord.Chord A-2 C4>,"[0, 4]","[8, 0]",Simpson_Invention_no6.xml,Simpson,130,2 1/2
+260.0,<music21.chord.Chord D3 F4>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson,131,1
+260.5,<music21.chord.Chord D3 G3>,"[0, 5]","[2, 7]",Simpson_Invention_no6.xml,Simpson,131,1 1/2
+261.0,<music21.chord.Chord G2 A3>,"[0, 2]","[7, 9]",Simpson_Invention_no6.xml,Simpson,131,2
+261.5,<music21.chord.Chord G2 B3>,"[0, 4]","[7, 11]",Simpson_Invention_no6.xml,Simpson,131,2 1/2
+262.0,<music21.chord.Chord C3 E-4>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson,132,1
+262.5,<music21.chord.Chord C3 G3>,"[0, 5]","[7, 0]",Simpson_Invention_no6.xml,Simpson,132,1 1/2
+263.0,<music21.chord.Chord F2 A-3>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson,132,2
+263.5,<music21.chord.Chord F2 E-4>,"[0, 2]","[3, 5]",Simpson_Invention_no6.xml,Simpson,132,2 1/2
+264.0,<music21.chord.Chord G2 B-3>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson,133,1
+264.5,<music21.chord.Chord G2 E-4>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,133,1 1/2
+265.0,<music21.chord.Chord A-2 D4>,"[0, 6]","[2, 8]",Simpson_Invention_no6.xml,Simpson,133,2
+265.5,<music21.chord.Chord A-2 E-4>,"[0, 5]","[3, 8]",Simpson_Invention_no6.xml,Simpson,133,2 1/2
+266.0,<music21.chord.Chord B-2 B-3>,[0],[10],Simpson_Invention_no6.xml,Simpson,134,1
+266.5,<music21.chord.Chord B-2 B-4>,[0],[10],Simpson_Invention_no6.xml,Simpson,134,1 1/2
+267.0,<music21.chord.Chord C3 E-4>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson,134,2
+267.5,<music21.chord.Chord C3 B-4>,"[0, 2]","[10, 0]",Simpson_Invention_no6.xml,Simpson,134,2 1/2
+268.0,<music21.chord.Chord D3 B-3>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,135,1
+268.5,<music21.chord.Chord D3 B-4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,135,1 1/2
+269.0,<music21.chord.Chord E-3 C4>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson,135,2
+269.5,<music21.chord.Chord E-3 B-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson,135,2 1/2
+270.0,<music21.chord.Chord F3 D4>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson,136,1
+270.5,<music21.chord.Chord F3 B-4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson,136,1 1/2
+271.0,<music21.chord.Chord G3 E-4>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,136,2
+271.5,<music21.chord.Chord G3 B-4>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson,136,2 1/2
+272.0,<music21.chord.Chord A-3 C4>,"[0, 4]","[8, 0]",Simpson_Invention_no6.xml,Simpson,137,1
+272.5,<music21.chord.Chord A-3 B-4>,"[0, 2]","[8, 10]",Simpson_Invention_no6.xml,Simpson,137,1 1/2
+273.0,<music21.chord.Chord F3 A-4>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson,137,2
+273.5,<music21.chord.Chord F3 C4>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson,137,2 1/2
+274.0,<music21.chord.Chord B-2 D4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,138,1
+274.5,<music21.chord.Chord B-2 A-4>,"[0, 2]","[8, 10]",Simpson_Invention_no6.xml,Simpson,138,1 1/2
+275.0,<music21.chord.Chord E-3 G4>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,138,2
+275.5,<music21.chord.Chord E-3 B-3>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson,138,2 1/2
+276.0,<music21.chord.Chord A-2 C4>,"[0, 4]","[8, 0]",Simpson_Invention_no6.xml,Simpson,139,1
+276.5,<music21.chord.Chord A-2 G4>,"[0, 1]","[7, 8]",Simpson_Invention_no6.xml,Simpson,139,1 1/2
+277.0,<music21.chord.Chord D3 F4>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson,139,2
+277.5,<music21.chord.Chord D3 A-3>,"[0, 6]","[2, 8]",Simpson_Invention_no6.xml,Simpson,139,2 1/2
+278.0,<music21.chord.Chord G2 B-3>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson,140,1
+278.5,<music21.chord.Chord G2 F4>,"[0, 2]","[5, 7]",Simpson_Invention_no6.xml,Simpson,140,1 1/2
+279.0,<music21.chord.Chord C3 E-4>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson,140,2
+279.5,<music21.chord.Chord C3 G3>,"[0, 5]","[7, 0]",Simpson_Invention_no6.xml,Simpson,140,2 1/2
+280.0,<music21.chord.Chord F2 A-3>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson,141,1
+280.5,<music21.chord.Chord F2 E-4>,"[0, 2]","[3, 5]",Simpson_Invention_no6.xml,Simpson,141,1 1/2
+281.0,<music21.chord.Chord F2 D4>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson,141,2
+281.5,<music21.chord.Chord F2 A-3>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson,141,2 1/2
+282.0,<music21.chord.Chord B-2 G3>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson,142,1
+282.5,<music21.chord.Chord B-2 E-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson,142,1 1/2
+283.0,<music21.chord.Chord B-1 F3>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson,142,2
+283.5,<music21.chord.Chord B-1 D4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,142,2 1/2
+284.0,<music21.chord.Chord E-2 E-4>,[0],[3],Simpson_Invention_no6.xml,Simpson,143,1
+284.3333333333330,<music21.chord.Chord G2 E-4>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,143,1 1/3
+284.6666666666670,<music21.chord.Chord B-2 E-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson,143,1 2/3
+285.0,<music21.chord.Chord E-3 G3>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,143,2
+285.5,<music21.chord.Chord E-3 A-3>,"[0, 5]","[3, 8]",Simpson_Invention_no6.xml,Simpson,143,2 1/2
+286.0,<music21.chord.Chord F2 E-4>,"[0, 2]","[3, 5]",Simpson_Invention_no6.xml,Simpson,144,1
+286.5,<music21.chord.Chord B-2 E-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson,144,1 1/2
+287.0,<music21.chord.Chord E-3 A-3>,"[0, 5]","[3, 8]",Simpson_Invention_no6.xml,Simpson,144,2
+287.3333333333330,<music21.chord.Chord E-3 B-3>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson,144,2 1/3
+287.6666666666670,<music21.chord.Chord E-3 C4>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson,144,2 2/3
+288.0,<music21.chord.Chord G2 E-4>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,145,1
+288.3333333333330,<music21.chord.Chord A-2 E-4>,"[0, 5]","[3, 8]",Simpson_Invention_no6.xml,Simpson,145,1 1/3
+288.6666666666670,<music21.chord.Chord B-2 E-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson,145,1 2/3
+289.0,<music21.chord.Chord E-3 B-3>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson,145,2
+289.5,<music21.chord.Chord E-3 C4>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson,145,2 1/2
+290.0,<music21.chord.Chord A-2 E-4>,"[0, 5]","[3, 8]",Simpson_Invention_no6.xml,Simpson,146,1
+290.5,<music21.chord.Chord B-2 E-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson,146,1 1/2
+291.0,<music21.chord.Chord E-3 B-3>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson,146,2
+291.3333333333330,<music21.chord.Chord E-3 C4>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson,146,2 1/3
+291.6666666666670,<music21.chord.Chord E-3 D4>,"[0, 1]","[2, 3]",Simpson_Invention_no6.xml,Simpson,146,2 2/3
+292.0,<music21.chord.Chord B-2 E-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson,147,1
+292.3333333333330,<music21.chord.Chord E-3 E-4>,[0],[3],Simpson_Invention_no6.xml,Simpson,147,1 1/3
+292.6666666666670,<music21.chord.Chord G3 E-4>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,147,1 2/3
+293.0,<music21.chord.Chord B-3 F4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson,147,2
+293.5,<music21.chord.Chord B-3 G4>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson,147,2 1/2
+294.0,<music21.chord.Chord C3 E-4>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson,148,1
+294.5,<music21.chord.Chord A-3 E-4>,"[0, 5]","[3, 8]",Simpson_Invention_no6.xml,Simpson,148,1 1/2
+295.0,<music21.chord.Chord B-3 F4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson,148,2
+295.3333333333330,<music21.chord.Chord B-3 G4>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson,148,2 1/3
+295.6666666666670,<music21.chord.Chord B-3 A-4>,"[0, 2]","[8, 10]",Simpson_Invention_no6.xml,Simpson,148,2 2/3
+296.0,<music21.chord.Chord D3 E-4>,"[0, 1]","[2, 3]",Simpson_Invention_no6.xml,Simpson,149,1
+296.3333333333330,<music21.chord.Chord G3 E-4>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,149,1 1/3
+296.6666666666670,<music21.chord.Chord A-3 E-4>,"[0, 5]","[3, 8]",Simpson_Invention_no6.xml,Simpson,149,1 2/3
+297.0,<music21.chord.Chord B-3 A-4>,"[0, 2]","[8, 10]",Simpson_Invention_no6.xml,Simpson,149,2
+297.5,<music21.chord.Chord B-3 B-4>,[0],[10],Simpson_Invention_no6.xml,Simpson,149,2 1/2
+298.0,<music21.chord.Chord E-3 E-4>,[0],[3],Simpson_Invention_no6.xml,Simpson,150,1
+298.5,<music21.chord.Chord A-3 E-4>,"[0, 5]","[3, 8]",Simpson_Invention_no6.xml,Simpson,150,1 1/2
+299.0,<music21.chord.Chord B-3 B-4>,[0],[10],Simpson_Invention_no6.xml,Simpson,150,2
+299.5,<music21.chord.Chord B-3 C5>,"[0, 2]","[10, 0]",Simpson_Invention_no6.xml,Simpson,150,2 1/2
+300.0,<music21.chord.Chord F3 D5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson,151,1
+300.3333333333330,<music21.chord.Chord G3 D5>,"[0, 5]","[2, 7]",Simpson_Invention_no6.xml,Simpson,151,1 1/3
+300.6666666666670,<music21.chord.Chord A-3 D5>,"[0, 6]","[2, 8]",Simpson_Invention_no6.xml,Simpson,151,1 2/3
+301.0,<music21.chord.Chord B-3 D5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,151,2
+301.3333333333330,<music21.chord.Chord B-3 C5>,"[0, 2]","[10, 0]",Simpson_Invention_no6.xml,Simpson,151,2 1/3
+301.6666666666670,<music21.chord.Chord B-3 B-4>,[0],[10],Simpson_Invention_no6.xml,Simpson,151,2 2/3
+302.0,<music21.chord.Chord G3 E-5>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,152,1
+302.5,<music21.chord.Chord A-3 E-5>,"[0, 5]","[3, 8]",Simpson_Invention_no6.xml,Simpson,152,1 1/2
+303.0,<music21.chord.Chord B-3 D5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,152,2
+303.5,<music21.chord.Chord B-3 C5>,"[0, 2]","[10, 0]",Simpson_Invention_no6.xml,Simpson,152,2 1/2
+304.0,<music21.chord.Chord A-3 F5>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson,153,1
+304.3333333333330,<music21.chord.Chord B-3 F5>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson,153,1 1/3
+304.6666666666670,<music21.chord.Chord C4 F5>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson,153,1 2/3
+305.0,<music21.chord.Chord B-3 F5>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson,153,2
+305.3333333333330,<music21.chord.Chord B-3 E-5>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson,153,2 1/3
+305.6666666666670,<music21.chord.Chord B-3 D5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,153,2 2/3
+306.0,<music21.chord.Chord B-2 G5>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson,154,1
+306.3333333333330,<music21.chord.Chord E-3 G5>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,154,1 1/3
+306.6666666666670,<music21.chord.Chord F3 G5>,"[0, 2]","[5, 7]",Simpson_Invention_no6.xml,Simpson,154,1 2/3
+307.0,<music21.chord.Chord B-3 F5>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson,154,2
+307.5,<music21.chord.Chord B-3 E-5>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson,154,2 1/2
+308.0,<music21.chord.Chord C3 A-5>,"[0, 4]","[8, 0]",Simpson_Invention_no6.xml,Simpson,155,1
+308.3333333333330,<music21.chord.Chord F3 A-5>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson,155,1 1/3
+308.6666666666670,<music21.chord.Chord C4 A-5>,"[0, 4]","[8, 0]",Simpson_Invention_no6.xml,Simpson,155,1 2/3
+309.0,<music21.chord.Chord D4 A-5>,"[0, 6]","[2, 8]",Simpson_Invention_no6.xml,Simpson,155,2
+309.3333333333330,<music21.chord.Chord D4 G5>,"[0, 5]","[2, 7]",Simpson_Invention_no6.xml,Simpson,155,2 1/3
+309.6666666666670,<music21.chord.Chord D4 F5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson,155,2 2/3
+310.0,<music21.chord.Chord E-4 G5>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,156,1
+310.5,<music21.chord.Chord E-4 E-5>,[0],[3],Simpson_Invention_no6.xml,Simpson,156,1 1/2
+311.0,<music21.chord.Chord A-3 C5>,"[0, 4]","[8, 0]",Simpson_Invention_no6.xml,Simpson,156,2
+311.5,<music21.chord.Chord A-3 F5>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson,156,2 1/2
+312.0,<music21.chord.Chord G3 B-5>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson,157,1
+312.5,<music21.chord.Chord G3 E-5>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,157,1 1/2
+313.0,<music21.chord.Chord A-3 C5>,"[0, 4]","[8, 0]",Simpson_Invention_no6.xml,Simpson,157,2
+313.5,<music21.chord.Chord A-3 A-5>,[0],[8],Simpson_Invention_no6.xml,Simpson,157,2 1/2
+314.0,<music21.chord.Chord B-3 F5>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson,158,1
+314.3333333333330,<music21.chord.Chord B-3 E-5>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson,158,1 1/3
+314.6666666666670,<music21.chord.Chord B-3 D5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,158,1 2/3
+315.0,<music21.chord.Chord B-2 C5>,"[0, 2]","[10, 0]",Simpson_Invention_no6.xml,Simpson,158,2
+315.3333333333330,<music21.chord.Chord B-2 B-4>,[0],[10],Simpson_Invention_no6.xml,Simpson,158,2 1/3
+315.6666666666670,<music21.chord.Chord B-2 A-4>,"[0, 2]","[8, 10]",Simpson_Invention_no6.xml,Simpson,158,2 2/3
+316.0,<music21.chord.Chord E-3 G4>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,159,1
+316.5,<music21.chord.Chord E-3 E-4>,[0],[3],Simpson_Invention_no6.xml,Simpson,159,1 1/2
+317.0,<music21.chord.Chord A-2 C4>,"[0, 4]","[8, 0]",Simpson_Invention_no6.xml,Simpson,159,2
+317.5,<music21.chord.Chord A-2 F4>,"[0, 3]","[5, 8]",Simpson_Invention_no6.xml,Simpson,159,2 1/2
+318.0,<music21.chord.Chord B-2 F4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson,160,1
+318.3333333333330,<music21.chord.Chord B-2 E-4>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson,160,1 1/3
+318.6666666666670,<music21.chord.Chord B-2 D4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,160,1 2/3
+319.0,<music21.chord.Chord B-1 C4>,"[0, 2]","[10, 0]",Simpson_Invention_no6.xml,Simpson,160,2
+319.3333333333330,<music21.chord.Chord B-1 B-3>,[0],[10],Simpson_Invention_no6.xml,Simpson,160,2 1/3
+319.6666666666670,<music21.chord.Chord B-1 A-3>,"[0, 2]","[8, 10]",Simpson_Invention_no6.xml,Simpson,160,2 2/3
+320.0,<music21.chord.Chord E-2>,[0],[3],Simpson_Invention_no6.xml,Simpson,161,1
+320.5,<music21.chord.Chord E-2 G3>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,161,1 1/2
+321.0,<music21.chord.Chord G2 B-3>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson,161,2
+321.5,<music21.chord.Chord G2 E-4>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,161,2 1/2
+322.0,<music21.chord.Chord F#2 D4>,"[0, 4]","[2, 6]",Simpson_Invention_no6.xml,Simpson,162,1
+322.5,<music21.chord.Chord F#2 C4>,"[0, 6]","[0, 6]",Simpson_Invention_no6.xml,Simpson,162,1 1/2
+323.0,<music21.chord.Chord D3 B-3>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,162,2
+323.5,<music21.chord.Chord D3 A3>,"[0, 5]","[9, 2]",Simpson_Invention_no6.xml,Simpson,162,2 1/2
+324.0,<music21.chord.Chord G2 B-3>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson,163,1
+324.5,<music21.chord.Chord G2 G3>,[0],[7],Simpson_Invention_no6.xml,Simpson,163,1 1/2
+325.0,<music21.chord.Chord F3 B-3>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson,163,2
+325.5,<music21.chord.Chord F3 D4>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson,163,2 1/2
+326.0,<music21.chord.Chord E-3 G4>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,164,1
+326.5,<music21.chord.Chord E-3 F4>,"[0, 2]","[3, 5]",Simpson_Invention_no6.xml,Simpson,164,1 1/2
+327.0,<music21.chord.Chord F3 E-4>,"[0, 2]","[3, 5]",Simpson_Invention_no6.xml,Simpson,164,2
+327.5,<music21.chord.Chord F3 A4>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson,164,2 1/2
+328.0,<music21.chord.Chord B-2 B-4>,[0],[10],Simpson_Invention_no6.xml,Simpson,165,1
+328.5,<music21.chord.Chord B-2 D4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,165,1 1/2
+329.0,<music21.chord.Chord D3 F4>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson,165,2
+329.5,<music21.chord.Chord D3 B-4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,165,2 1/2
+330.0,<music21.chord.Chord D-3 A4>,"[0, 4]","[9, 1]",Simpson_Invention_no6.xml,Simpson,166,1
+330.5,<music21.chord.Chord D-3 G4>,"[0, 6]","[1, 7]",Simpson_Invention_no6.xml,Simpson,166,1 1/2
+331.0,<music21.chord.Chord A3 F4>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson,166,2
+331.5,<music21.chord.Chord A3 E4>,"[0, 5]","[4, 9]",Simpson_Invention_no6.xml,Simpson,166,2 1/2
+332.0,<music21.chord.Chord D3 F4>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson,167,1
+332.5,<music21.chord.Chord A3 A4>,[0],[9],Simpson_Invention_no6.xml,Simpson,167,1 1/2
+333.0,<music21.chord.Chord D4 D5>,[0],[2],Simpson_Invention_no6.xml,Simpson,167,2
+333.5,<music21.chord.Chord D4 F5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson,167,2 1/2
+334.0,<music21.chord.Chord D-4 A5>,"[0, 4]","[9, 1]",Simpson_Invention_no6.xml,Simpson,168,1
+334.5,<music21.chord.Chord D-4 G5>,"[0, 6]","[1, 7]",Simpson_Invention_no6.xml,Simpson,168,1 1/2
+335.0,<music21.chord.Chord A3 F5>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson,168,2
+335.5,<music21.chord.Chord A3 E5>,"[0, 5]","[4, 9]",Simpson_Invention_no6.xml,Simpson,168,2 1/2
+336.0,<music21.chord.Chord D4 F5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson,169,1
+336.3333333333330,<music21.chord.Chord E4 F5>,"[0, 1]","[4, 5]",Simpson_Invention_no6.xml,Simpson,169,1 1/3
+336.5,<music21.chord.Chord E4 D5>,"[0, 2]","[2, 4]",Simpson_Invention_no6.xml,Simpson,169,1 1/2
+336.6666666666670,<music21.chord.Chord F4 D5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson,169,1 2/3
+337.0,<music21.chord.Chord G4 B-4>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson,169,2
+337.5,<music21.chord.Chord G4 E5>,"[0, 3]","[4, 7]",Simpson_Invention_no6.xml,Simpson,169,2 1/2
+338.0,<music21.chord.Chord A4 D5>,"[0, 5]","[9, 2]",Simpson_Invention_no6.xml,Simpson,170,1
+338.3333333333330,<music21.chord.Chord F4 D5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson,170,1 1/3
+338.6666666666670,<music21.chord.Chord D4 D5>,[0],[2],Simpson_Invention_no6.xml,Simpson,170,1 2/3
+339.0,<music21.chord.Chord B-3 D-5>,"[0, 3]","[10, 1]",Simpson_Invention_no6.xml,Simpson,170,2
+339.3333333333330,<music21.chord.Chord A3 D-5>,"[0, 4]","[9, 1]",Simpson_Invention_no6.xml,Simpson,170,2 1/3
+339.6666666666670,<music21.chord.Chord G3 D-5>,"[0, 6]","[1, 7]",Simpson_Invention_no6.xml,Simpson,170,2 2/3
+340.0,<music21.chord.Chord D4 A5>,"[0, 5]","[9, 2]",Simpson_Invention_no6.xml,Simpson,171,1
+340.5,<music21.chord.Chord D4 F5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson,171,1 1/2
+341.0,<music21.chord.Chord B-3 D5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,171,2
+341.5,<music21.chord.Chord B-3 G5>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson,171,2 1/2
+342.0,<music21.chord.Chord C4 F5>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson,172,1
+342.3333333333330,<music21.chord.Chord B-3 F5>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson,172,1 1/3
+342.6666666666670,<music21.chord.Chord A3 F5>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson,172,1 2/3
+343.0,<music21.chord.Chord G3 E5>,"[0, 3]","[4, 7]",Simpson_Invention_no6.xml,Simpson,172,2
+343.3333333333330,<music21.chord.Chord F3 E5>,"[0, 1]","[4, 5]",Simpson_Invention_no6.xml,Simpson,172,2 1/3
+343.6666666666670,<music21.chord.Chord E3 E5>,[0],[4],Simpson_Invention_no6.xml,Simpson,172,2 2/3
+344.0,<music21.chord.Chord D3 F5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson,173,1
+344.5,<music21.chord.Chord D3 D5>,[0],[2],Simpson_Invention_no6.xml,Simpson,173,1 1/2
+345.0,<music21.chord.Chord C4 A4>,"[0, 3]","[9, 0]",Simpson_Invention_no6.xml,Simpson,173,2
+345.5,<music21.chord.Chord C4 E5>,"[0, 4]","[0, 4]",Simpson_Invention_no6.xml,Simpson,173,2 1/2
+346.0,<music21.chord.Chord B-3 D5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,174,1
+346.3333333333330,<music21.chord.Chord A3 D5>,"[0, 5]","[9, 2]",Simpson_Invention_no6.xml,Simpson,174,1 1/3
+346.6666666666670,<music21.chord.Chord G3 D5>,"[0, 5]","[2, 7]",Simpson_Invention_no6.xml,Simpson,174,1 2/3
+347.0,<music21.chord.Chord F3 C5>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson,174,2
+347.3333333333330,<music21.chord.Chord E3 C5>,"[0, 4]","[0, 4]",Simpson_Invention_no6.xml,Simpson,174,2 1/3
+347.6666666666670,<music21.chord.Chord D3 C5>,"[0, 2]","[0, 2]",Simpson_Invention_no6.xml,Simpson,174,2 2/3
+348.0,<music21.chord.Chord G3 B-4>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson,175,1
+348.5,<music21.chord.Chord G3 G4>,[0],[7],Simpson_Invention_no6.xml,Simpson,175,1 1/2
+349.0,<music21.chord.Chord F3 D4>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson,175,2
+349.5,<music21.chord.Chord F3 A4>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson,175,2 1/2
+350.0,<music21.chord.Chord E-3 G4>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,176,1
+350.3333333333330,<music21.chord.Chord D3 G4>,"[0, 5]","[2, 7]",Simpson_Invention_no6.xml,Simpson,176,1 1/3
+350.5,<music21.chord.Chord D3 E-4>,"[0, 1]","[2, 3]",Simpson_Invention_no6.xml,Simpson,176,1 1/2
+350.6666666666670,<music21.chord.Chord C3 E-4>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson,176,1 2/3
+351.0,<music21.chord.Chord B-2 B-3>,[0],[10],Simpson_Invention_no6.xml,Simpson,176,2
+351.3333333333330,<music21.chord.Chord A2 B-3>,"[0, 1]","[9, 10]",Simpson_Invention_no6.xml,Simpson,176,2 1/3
+351.5,<music21.chord.Chord A2 F4>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson,176,2 1/2
+351.6666666666670,<music21.chord.Chord G2 F4>,"[0, 2]","[5, 7]",Simpson_Invention_no6.xml,Simpson,176,2 2/3
+352.0,<music21.chord.Chord C3 E-4>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson,177,1
+352.5,<music21.chord.Chord C3 G4>,"[0, 5]","[7, 0]",Simpson_Invention_no6.xml,Simpson,177,1 1/2
+353.0,<music21.chord.Chord E-3 C5>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson,177,2
+353.5,<music21.chord.Chord E-3 E-4>,[0],[3],Simpson_Invention_no6.xml,Simpson,177,2 1/2
+354.0,<music21.chord.Chord F3 D4>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson,178,1
+354.5,<music21.chord.Chord F3 B-4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson,178,1 1/2
+355.0,<music21.chord.Chord F2 C4>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson,178,2
+355.5,<music21.chord.Chord F2 A4>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson,178,2 1/2
+356.0,<music21.chord.Chord B-2 B-4>,[0],[10],Simpson_Invention_no6.xml,Simpson,179,1
+356.3333333333330,<music21.chord.Chord B-2 F4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson,179,1 1/3
+356.6666666666670,<music21.chord.Chord B-2 D4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,179,1 2/3
+357.0,<music21.chord.Chord C3 E-4>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson,179,2
+357.5,<music21.chord.Chord C3 C5>,[0],[0],Simpson_Invention_no6.xml,Simpson,179,2 1/2
+358.0,<music21.chord.Chord D3 B-4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,180,1
+358.5,<music21.chord.Chord D3 F4>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson,180,1 1/2
+359.0,<music21.chord.Chord E-3 G4>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,180,2
+359.5,<music21.chord.Chord E-3 D5>,"[0, 1]","[2, 3]",Simpson_Invention_no6.xml,Simpson,180,2 1/2
+360.0,<music21.chord.Chord F3 C5>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson,181,1
+360.3333333333330,<music21.chord.Chord F3 B-4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson,181,1 1/3
+360.6666666666670,<music21.chord.Chord F3 A4>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson,181,1 2/3
+361.0,<music21.chord.Chord G3 B-4>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson,181,2
+361.5,<music21.chord.Chord G3 G5>,[0],[7],Simpson_Invention_no6.xml,Simpson,181,2 1/2
+362.0,<music21.chord.Chord A3 F5>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson,182,1
+362.5,<music21.chord.Chord A3 C5>,"[0, 3]","[9, 0]",Simpson_Invention_no6.xml,Simpson,182,1 1/2
+363.0,<music21.chord.Chord B-3 D5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,182,2
+363.5,<music21.chord.Chord B-3 B-5>,[0],[10],Simpson_Invention_no6.xml,Simpson,182,2 1/2
+364.0,<music21.chord.Chord C3 A5>,"[0, 3]","[9, 0]",Simpson_Invention_no6.xml,Simpson,183,1
+364.3333333333330,<music21.chord.Chord C3 G5>,"[0, 5]","[7, 0]",Simpson_Invention_no6.xml,Simpson,183,1 1/3
+364.5,<music21.chord.Chord D3 G5>,"[0, 5]","[2, 7]",Simpson_Invention_no6.xml,Simpson,183,1 1/2
+364.6666666666670,<music21.chord.Chord D3 F5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson,183,1 2/3
+365.0,<music21.chord.Chord E-3 E-5>,[0],[3],Simpson_Invention_no6.xml,Simpson,183,2
+365.3333333333330,<music21.chord.Chord E-3 D5>,"[0, 1]","[2, 3]",Simpson_Invention_no6.xml,Simpson,183,2 1/3
+365.6666666666670,<music21.chord.Chord E-3 C5>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson,183,2 2/3
+366.0,<music21.chord.Chord F3 B-4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson,184,1
+366.5,<music21.chord.Chord F3 F5>,[0],[5],Simpson_Invention_no6.xml,Simpson,184,1 1/2
+367.0,<music21.chord.Chord F2 A4>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson,184,2
+367.5,<music21.chord.Chord F2 E-5>,"[0, 2]","[3, 5]",Simpson_Invention_no6.xml,Simpson,184,2 1/2
+368.0,<music21.chord.Chord B-2 B-4>,[0],[10],Simpson_Invention_no6.xml,Simpson,185,1
+368.5,<music21.chord.Chord B-2 D5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,185,1 1/2
+369.0,<music21.chord.Chord C3 E-5>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson,185,2
+369.5,<music21.chord.Chord C3 C5>,[0],[0],Simpson_Invention_no6.xml,Simpson,185,2 1/2
+370.0,<music21.chord.Chord D3 B-4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,186,1
+370.3333333333330,<music21.chord.Chord D3 E-5>,"[0, 1]","[2, 3]",Simpson_Invention_no6.xml,Simpson,186,1 1/3
+370.6666666666670,<music21.chord.Chord D3 F5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson,186,1 2/3
+371.0,<music21.chord.Chord E-3 G5>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,186,2
+371.5,<music21.chord.Chord E-3 D5>,"[0, 1]","[2, 3]",Simpson_Invention_no6.xml,Simpson,186,2 1/2
+372.0,<music21.chord.Chord F3 C5>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson,187,1
+372.3333333333330,<music21.chord.Chord F3 E-5>,"[0, 2]","[3, 5]",Simpson_Invention_no6.xml,Simpson,187,1 1/3
+372.6666666666670,<music21.chord.Chord F3 A5>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson,187,1 2/3
+373.0,<music21.chord.Chord G3 B-5>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson,187,2
+373.5,<music21.chord.Chord G3 G5>,[0],[7],Simpson_Invention_no6.xml,Simpson,187,2 1/2
+374.0,<music21.chord.Chord F3 F5>,[0],[5],Simpson_Invention_no6.xml,Simpson,188,1
+374.3333333333330,<music21.chord.Chord G3 B-5>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson,188,1 1/3
+374.6666666666670,<music21.chord.Chord A3 C6>,"[0, 3]","[9, 0]",Simpson_Invention_no6.xml,Simpson,188,1 2/3
+375.0,<music21.chord.Chord B-3 D6>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,188,2
+375.5,<music21.chord.Chord B-3 B-5>,[0],[10],Simpson_Invention_no6.xml,Simpson,188,2 1/2
+376.0,<music21.chord.Chord C4 G5>,"[0, 5]","[7, 0]",Simpson_Invention_no6.xml,Simpson,189,1
+376.3333333333330,<music21.chord.Chord C4 F6>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson,189,1 1/3
+376.6666666666670,<music21.chord.Chord C4 E-6>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson,189,1 2/3
+377.0,<music21.chord.Chord C4 D6>,"[0, 2]","[0, 2]",Simpson_Invention_no6.xml,Simpson,189,2
+377.3333333333330,<music21.chord.Chord D4 C6>,"[0, 2]","[0, 2]",Simpson_Invention_no6.xml,Simpson,189,2 1/3
+377.6666666666670,<music21.chord.Chord E-4 B-5>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson,189,2 2/3
+378.0,<music21.chord.Chord F4 A5>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson,190,1
+378.3333333333330,<music21.chord.Chord F4 G5>,"[0, 2]","[5, 7]",Simpson_Invention_no6.xml,Simpson,190,1 1/3
+378.6666666666670,<music21.chord.Chord F4 F5>,[0],[5],Simpson_Invention_no6.xml,Simpson,190,1 2/3
+379.0,<music21.chord.Chord F3 E-5>,"[0, 2]","[3, 5]",Simpson_Invention_no6.xml,Simpson,190,2
+379.3333333333330,<music21.chord.Chord F3 D5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson,190,2 1/3
+379.6666666666670,<music21.chord.Chord F3 C5>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson,190,2 2/3
+380.0,<music21.chord.Chord G3 B-4>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson,191,1
+380.3333333333330,<music21.chord.Chord F3 D5>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson,191,1 1/3
+380.6666666666670,<music21.chord.Chord E-3 F5>,"[0, 2]","[3, 5]",Simpson_Invention_no6.xml,Simpson,191,1 2/3
+381.0,<music21.chord.Chord D3 G5>,"[0, 5]","[2, 7]",Simpson_Invention_no6.xml,Simpson,191,2
+381.3333333333330,<music21.chord.Chord C3 G5>,"[0, 5]","[7, 0]",Simpson_Invention_no6.xml,Simpson,191,2 1/3
+381.5,<music21.chord.Chord C3 D5>,"[0, 2]","[0, 2]",Simpson_Invention_no6.xml,Simpson,191,2 1/2
+381.6666666666670,<music21.chord.Chord B-2 D5>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,191,2 2/3
+382.0,<music21.chord.Chord F3 C5>,"[0, 5]","[0, 5]",Simpson_Invention_no6.xml,Simpson,192,1
+382.3333333333330,<music21.chord.Chord F3 B-4>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson,192,1 1/3
+382.6666666666670,<music21.chord.Chord F3 A4>,"[0, 4]","[5, 9]",Simpson_Invention_no6.xml,Simpson,192,1 2/3
+383.0,<music21.chord.Chord F2 G4>,"[0, 2]","[5, 7]",Simpson_Invention_no6.xml,Simpson,192,2
+383.3333333333330,<music21.chord.Chord F2 F4>,[0],[5],Simpson_Invention_no6.xml,Simpson,192,2 1/3
+383.6666666666670,<music21.chord.Chord F2 E-4>,"[0, 2]","[3, 5]",Simpson_Invention_no6.xml,Simpson,192,2 2/3
+384.0,<music21.chord.Chord B-2 D4>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,193,1
+384.3333333333330,<music21.chord.Chord D3 B-3>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,193,1 1/3
+384.6666666666670,<music21.chord.Chord F3 D4>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson,193,1 2/3
+385.0,<music21.chord.Chord G3 B-3>,"[0, 3]","[7, 10]",Simpson_Invention_no6.xml,Simpson,193,2
+385.3333333333330,<music21.chord.Chord E-3 B-3>,"[0, 5]","[10, 3]",Simpson_Invention_no6.xml,Simpson,193,2 1/3
+385.6666666666670,<music21.chord.Chord D3 B-3>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,193,2 2/3
+386.0,<music21.chord.Chord E-3 G3>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,194,1
+386.3333333333330,<music21.chord.Chord D3 F3>,"[0, 3]","[2, 5]",Simpson_Invention_no6.xml,Simpson,194,1 1/3
+386.6666666666670,<music21.chord.Chord C3 E-3>,"[0, 3]","[0, 3]",Simpson_Invention_no6.xml,Simpson,194,1 2/3
+387.0,<music21.chord.Chord B-2 F3>,"[0, 5]","[5, 10]",Simpson_Invention_no6.xml,Simpson,194,2
+387.3333333333330,<music21.chord.Chord G2 E-3>,"[0, 4]","[3, 7]",Simpson_Invention_no6.xml,Simpson,194,2 1/3
+387.6666666666670,<music21.chord.Chord E-2 D3>,"[0, 1]","[2, 3]",Simpson_Invention_no6.xml,Simpson,194,2 2/3
+388.0,<music21.chord.Chord B-1 D3>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,195,1
+390.0,<music21.chord.Chord B-1 D3>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,196,1
+392.0,<music21.chord.Chord B-1 D3>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,197,1
+394.0,<music21.chord.Chord B-1 D3>,"[0, 4]","[10, 2]",Simpson_Invention_no6.xml,Simpson,198,1
