@@ -1,0 +1,41 @@
+,pieceName,movementName,genre,Composer,publicationYear,Epoch,Source,fileFormat,phraseAnalysis,fileConversion,getChords,File
+piece1,25 Preludes Premiere,Suite 9 Placiditas Tranquillement in E major,Prelude,Alkan,1844,1820-1869,YCAC,CSV,N,NA,NA,
+piece2,Etudes Op100,No10 Tendre Fleur D Major,Etude,Burgmuller,1858,1820-1869,YCAC,CSV,Y,NA,NA,Etudes Tendre Fleur Op100No10 D major
+piece3,Nocturne Op55,No1,Nocturne F Minor,Chopin,1843,1820-1869,YCAC,CSV,Y,NA,NA,Nocturne 55 1 F Minor.mid
+piece4,Etudes Op299,No9 C Major,Etude,Czerny,1830,1820-1869,YCAC,CSV,Y,NA,NA,
+piece5,Six Bagatelles Op107,VI Rondo all Ungarese C Major,Bagatelle,Hummel,1827,1820-1869,YCAC,CSV,N,NA,NA,Six Bagatelles IV Rondo Op107 Bb Major.mid
+piece6,S248,La Cloches Sonne C Minor,CharacterPiece,Liszt,1850,1820-1869,YCAC,CSV,Y,NA,NA,La Cloches Sonne S248 C minor.mid
+piece7,Songs without Words Op102,No1 E Minor,CharacterPiece,Mendelssohn,1843,1820-1869,YCAC,CSV,Y,NA,NA,Songs without Words Op102 No1 E minor.mid
+piece8,D850 II,Con Moto A Major,SoloSonata,Schubert,1825,1820-1869,YCAC,CSV,Y,NA,NA,Con moto D850 II A Major.mid 
+piece9,Waldszenen Op82,Verrufene Stelle D minor,CharacterPiece,Schumann,1849,1820-1869,YCAC,CSV,Y,NA,NA,Waldszenen Op 82 Verrufene Stelle D minor.mid 
+piece10,Studi-Poetici Op53,No12 Rimprovero G-sharp Minor,Etude,Haberbier,1861,1820-1869,YCAC,CSV,N,NA,NA,Studi-Poetici Rimprovero Op53No12 G# Minor.mid 
+piece11,Suite Espana Op165,6 Zortzico E Major,OtherSolo,Albeniz,1890,1870-1919,YCAC,CSV,N,NA,NA,
+piece12,Romanian Folk Dances,2 Braul D minor,OtherSolo,Bartok,1917,1870-1919,YCAC,CSV,N,NA,NA,Romanian Folk Dances 2 Braul D minor.mid
+piece13,Rhapsody Op79,No2 G minor,CharacterPiece,Brahms,1879,1870-1919,YCAC,CSV,Y,NA,NA,Rhapsody 79 2 G minor.mid
+piece14,Childrens Corner L113,No1,SoloSuitePartita,Debussy,1907,1870-1919,YCAC,CSV,Y,NA,NA,
+piece15,Humoresque in B Op101,No2 B Major,OtherSolo,Dvorak,1894,1870-1919,YCAC,CSV,N,NA,NA,Humoresque in B Op101No2 B major.mid                         
+piece16,S186 Lighting the Tree F Major,,CharacterPiece,Liszt,1876,1870-1919,YCAC,CSV,N,NA,NA,Lighting the Tree S186 F Major.mid
+piece17,Prelude in C Op3,No2 C Major,Prelude,Rachmaninov,1887,1870-1919,YCAC,CSV,N,NA,NA,Prelude in C#- Op3No2 C#-.mid
+piece18,6 Etudes for Piano Op111,Prelude and Fugue Eb Minor,PreludeAndFugue,Saint-Saens,1899,1870-1919,YCAC,CSV,N,NA,NA,6 Etudes for Piano Op 111 Prelude and Fugue Eb minor.mid
+piece19,Ogives,No3 D minor,OtherSolo,Satie,1885,1870-1919,YCAC,CSV,N,NA,NA,Ogives No3 D minor.mid 
+piece20,Seven Preludes Op17,No5 F Minor,Prelude,Scriabin,1895,1870-1919,YCAC,CSV,N,NA,NA,Seven Preludes Op17No5 F minor.mid
+piece21,Pianoflage C Major,,OtherSolo,Bargy,1922,1920-1969,YCAC,CSV,N,NA,NA,Pianoflage in C major.mid 
+piece22,Studies,No7 F Major,Etude,DAragona,1923,1920-1969,YCAC,CSV,N,NA,NA,Studies No7 F major.mid 
+piece23,Album for Children,4 Cumpleanos E Major,OtherSolo,Khachatruian,1926,1920-1969,YCAC,CSV,N,NA,NA,Album for Children 4 Cumpleanos E major.mid
+piece24,Aphorisms Op13,8 Canon D Minor,OtherSolo,Shostakovich,1927,1920-1969,YCAC,CSV,N,NA,NA,Aphorisms 8 Canon Op13No8 D minor.mid
+piece25,Les Cinq Doigts,Larghetto C Major,Ballet,Stravinsky,1921,1920-1969,YCAC,CSV,N,NA,NA,Les Cinq Doigts Larghetto C major.mid
+piece26,Four Piano blues,Piano Blues No3,OtherSolo,Copland,1947,1920-1969,MuseScore,MusicXML,N,Y,Y,Copland_Piano_Blues_No_3.mxl
+piece27,Etudes Op42,Thirds,Etude,Rautavaara,1969,1920-1969,MuseScore,MusicXML,N,Y,Y,Rautavaara_Etude_op42_no1_Thirds.mxl
+piece28,Les chemins de lamour,,Waltz,Poulenc,1940,1920-1969,MuseScore,MusicXML,N,Y,Y,Poulenc_Les_chemins_de_lamour.mxl
+piece29,Vingt Regards sur lenfant-Jésus,Regard du Père,OtherSolo,Messiaen,1944,1920-1969,MuseScore,MusicXML,N,Y,Y,Messiaen_Regard_du_Pere.mxl
+piece30,Romance,,OtherSolo,Takemitsu,1949,1920-1969,MuseScore,MusicXML,N,Y,Y,Takemitsu_Romance.mxl
+piece31,Yellow Saraband,,OtherSolo,Carbajo,2015,1970-2020,IMSLP,PDF,N,Y,Y,Carbajo_Yellow_Saraband.xml 
+piece32,24 Etudes,No15 Mazurka with Chinese Trio,Etude,Zhang,2015,1970-2020,IMSLP,PDF,N,Y,Y,Zhang_Mazurka.xml
+piece33,La commedia dell’arte,Arlecchino,OtherSolo,Bachlund,2007,1970-2020,IMSLP,PDF,N,Y,Y,Bachlund_Commedia_Dellarte.xml
+piece34,"Musing for Piano, Op833",No7,OtherSolo,Beatty,2017,1970-2020,IMSLP,PDF,N,Y,Y,Beatty_Musing_for_Piano.xml
+piece35,5 Diversions,Reaching,OtherSolo,Allard,2006,1970-2020,IMSLP,PDF,N,Y,Y,Allard_5diversions.xml
+piece36,Piano Piece No8,Op7 No2,OtherSolo,AlariodelRio,2013,1970-2020,IMSLP,PDF,N,Y,Y,AlariodelRio_Sol_Sostenido.xml
+piece37,Invention No6 in B-flat major,,Invention,Simpson,1981,1970-2020,IMSLP,PDF,N,Y,Y,Simpson_Invention_no6.xml
+piece38,Für Alina,,OtherSolo,Part,1976,1970-2020,MuseScore,MusicXML,N,Y,Y,Part_Fuer_Alina.mxl
+piece39,Concerto Grosso 1: Rondo,Tango,Concerto,Schnittke,1977,1970-2020,MuseScore,MusicXML,N,Y,Y,Schnittke_Tango.mxl
+piece40,Two Easy Pieces No1,Sea Chant,OtherSolo,Sculthorpe,1970,1970-2020,MuseScore,MusicXML,N,Y,Y,Sculthorpe_Sea_Chant.mxl 
